@@ -1,0 +1,7 @@
+
+Sample for normalize_files.py
+--limit will reduce all directories to fit threshold number of text files.  
+normalize_files.py --limit 313 --files /Users/michaelsimeone/Desktop/textsorted/
+
+
+run_analysis.tcl requires path to input and output files.  Output file need not exist. 
