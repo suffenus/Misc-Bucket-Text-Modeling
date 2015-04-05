@@ -1,0 +1,1 @@
+This is an ongoing dump of miscellaneous things pertaining to introductory text mining
