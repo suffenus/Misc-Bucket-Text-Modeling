@@ -1,0 +1,79 @@
+Business Fluctuations, Cycles E32, Financial Crises G01, Fiscal Policy E62, Macroeconomics: Production E23, Monetary Policy E52, Regional Economic Activity: Growth, Development, Environmental Issues,  Changes R11, Social Security  Public Pensions H55American Economic Review: Papers & Proceedings 2013, 103(3): 121-124 http://dx.doi.org/10.1257/aer.103.3.121
+Using State Pension Shocks  Estimate Fiscal Multipliers   Great Recession †
+ Daniel Shoag*
+(2012),  Wilson (2012),  estimated fiscal multipliers   recession using local variation  ARRA stimulus outlays. Like  regionallevel literature discussed above,  papers generally find  spending increased  local income  employment.  importance   question, though, warrants investigation using additional, independent source  variation.   paper,  exploit  identification strategy used  Shoag (2010)  recover exogenous spending changes associated   investment returns earned  public pension plans.  work builds upon  study  examining new data  pension returns   Great Recession   estimating multipliers specifically   post-2008 period. Relative pension returns  suitable instrument    unexpected  plausibly uncorrelated  underlying regional shocks.  strategy  particularly attractive   context due   volatile investment returns earned  public plans  2008-2009.   strategy   used  estimate multipliers   years  2008,  results  nevertheless  interpreted  caution due   short panel   specification sensitivities  engenders.  said, using  strategy , too, find  windfall-financed spending significantly raises local incomes  employment.  baseline estimates, using  data  returns   volatile fiscal years  2008  2009, suggest   dollar  spending raises in-state income   year  $1.43,  more  one-for-one.  estimate  well   confidence interval   multiplier documented  Shoag (2010), despite  nonoverlapping datasets. Further,  estimate  every additional $22,011  spending contemporaneously creates  job. Unlike  Shoag (2010),  bulk   employment response   Great Recession  generated  reducing  number  unemployed, rather   drawing nonparticipants   labor force.
+121
+ painful lesson   Great Recession    remain limits    achievable  conventional monetary policy.  severity   downturn, despite near zero interest rates,  renewed interest  fiscal stimulus  academics  policymakers alike. Holding  general question  fiscal multipliers aside,  ongoing political debate regarding past  future stimulus raises  pressing question   current size   multiplier   United States.  paper aims  provide evidence   question.  government spending raised income  employment  2008?  canonical literature estimating fiscal policy multipliers uses  time-series models (Blanchard  Perotti 2002)  variation  national defense spending due  exogenous military events (Barro  Redlick 2011; Ramey 2011).  recent years    number  studies estimating fiscal policy multipliers   regional level using instrumental variables approach.  example, Nakamura  Steinsson (2011) isolate variation  local military spending due  changes  national defense outlays,  Serratto  Wingender (2010) estimate  effect  spending due  census   undercounting.  studies,  well  several others1, generally find  exogenous spending shocks  significant  sizable income  employment effects.  identification strategies used     papers   easily adapted  study  specific effects  spending   United States  2008. number  papers,   Feyrer  Sacerdote (2011), Chodorow-Reich .
+* Harvard Kennedy School, 79 JFK Street, Cambridge, MA 02138 (e-mail: dan_shoag@hks.harvard.edu). †  view additional materials,  author disclosure statement(),visit  article page  http://dx.doi.org/10.1257/aer.103.3.121. 1 See Acconcia, Corsetti,  Simonelli (2011), Clemens  Miran (2012), Cohen, Coval,  Malloy (2011),  Reingewertz (2011)  additional work   topic.
+122
+AEA PAPERS  PROCEEDINGS
+ 2013
+. State  Local Pensions
+ 2010, state  local governments managed  $3 trillion  public employee retirement trust funds, significant  relative  total annual spending  $3.1 trillion.  vast majority   funds  held  defined benefit plans, meaning  governments   residual claimants   investment returns.2  investment returns  historically  major source  revenue  state  local governments. Shoag (2012) calculates  public pensions  generated $3.73 trillion  returns  1958  2010.   average state,  earnings  equaled 15 percent  total state  local tax collection   period.    quarter  2007    quarter  2009, public pension trust funds fell  more  $735 billion.  losses, combined  stalled tax revenues,  put large burden  state  local government. Contributions  public pension funds rose  more  40 percent  2006  2011.  contrast, state tax collections  risen  6 percent   time.   paper,  use data   returns earned  plans   years   sharpest investment losses, 2008  2009,  isolate exogenous budgetary pressure  spending changes. Data  data  state-administered plans    Pensions  Investments Public 100: Top DB Plans database.  data  collected  audited financial reports published  directly   plans themselves.  total,   91 statewide plans  available data.  attractive feature   dataset    collects plan-specific benchmark returns, asset class performance,  asset allocations   systems.  order  maintain complete sample,  created synthetic benchmarks3   plans  did  report policy return using  systems' reported allocations   average within-class returns   reporting plans.
+Data  state-level spending, income,  employment  taken  standard sources.4
+. Specifications  Findings
+ variation   investment returns earned  public plans   decomposed   variation  asset-class allocations  variation   asset-class performance.  assetclass allocations   distributed randomly, Shoag (2010) shows    purposes ,  variation  within-class returns  unrelated  state' underlying economic shocks.5  define  pension return shock   capita terms  (1) ExFundsit =
+p∈plansi
+∑
+( ript −  ipt ) × Assetsipt−1 __, Pop
+
+_
+  sum   excess funds   plans managed   state,  ript   return earned _  plan  ript   corresponding benchmark return.  1 plots  distribution  investment returns  excess  policy benchmarks  2008  2009. Shapiro-Wilk test fails  reject  normality   distribution  2008   5 percent level,    exclusion  single noninfluential outlier, fails  reject  normality   distribution  2009. Further,  correlation  plan' excess return  2008  2009  just 0.08   significant. Again, following Shoag (2010),  model  response  state government spending   shock  beginning   following fiscal year.   interests  obtaining sufficiently precise results  short panel,  use  difference specification  year fixed effects.  results  moderately sensitive   specification choices.  variables    capita terms,  regressions  weighted  population, 
+ use government spending data   Census State Government Finances Series, data  state-level employment  unemployment   BLS Current Employment Statistics (CES)  Local Area Unemployment Statistics (LAU),  data  personal income   BEA Regional Economic Accounts. 5 number  papers,   Hochberg  Rauh (2011), explore  amount  in-state bias  public pension plan investments. Shoag (2010) shows   bias  sufficiently small relative   variability  returns ,   application,     practice violate  exclusion restriction.
+4
+2 Farrell  Shoag (2012) document  growing shift away  DB plans   public sector  discuss  implications   management   assets. 3   possible     plan,   benchmark  created using national asset class indexes.
+. 103 . 3
+30
+
+Fiscal Multipliers   great recession  1— Baseline Results Δgit (1) Δincomeit (2)
+123
+Δemployit (3)
+20
+
+Percent
+Panel .  stage ExFundsit−1 Panel . Multipliers  Δgit Observations
+
+0.29** (0.12) 1.43** (0.68) 100 100 0.00005** (0.00002) 100
+10
+
+0
+
+-10
+
+-5
+
+0
+5
+
+10
+Excess returns
+ 1. Distribution  Plan Excess Returns, June FY08  FY09 Note: Additional details  provided   text.
+Notes:  regressions include year fixed effect.  variables  measured   capita terms,  regressions  weighted  population,   standard errors  clustered  state. Details   variables  included   text. *** Significant   1 percent level. ** Significant   5 percent level. * Significant   10 percent level.
+ standard errors  clustered  state. Time observations correspond  fiscal years.6  first-stage regression takes  form (2) Δgit = αt + β × ExFundsit−1 + εit ,    stage taking  form (3)  Δyit = αt + β × Δgit + ϵit ,
+   variation  spending associated   excess funds shocks appearing   right-hand side.  outcome variables Δyit  equation (3) include  capita income  labor market outcomes. Results  main results  presented   1.  first-stage estimates, displayed  column 1, show  excess funds shock significantly affects state government spending   following year. one-dollar increase  excess funds increases spending  $0.29.   Shoag (2010),   large effect,   interpretations discussed   relevant .
+Unreported placebo tests show  future windfalls   predict past spending changes. Column 2 reports  baseline income multiplier: one-dollar increase  windfall driven spending increases in-state  capita income  $1.43.  estimate  significant  similar    estimates  Shoag (2010)    range  estimates produced   literature described above. Column 3,  uses data   BLS-CES, indicates  additional $100,000  spending adds additional 4.5 jobs.   2,  use data   BLS-LAU  explore  source   additional jobs.  data,  spending  measured  100,000-dollar units, indicate similar overall employment increases. Unlike Shoag (2010),   majority   gains stemmed  increased participation, significant portion   increase   period arises  reductions  unemployment.   intriguing finding,  more work  needed  determine  underlies  difference.
+. Conclusion
+6 Occasionally,  fiscal year  pension plan  end   fiscal year   administering state.   cases  attribute  excess funds   following year,    excess fund shocks  lagged   least 12 months   more  21 months.
+ study, like    literature cited above, finds  local, windfall-financed government spending  large employment  income effects. Despite using entirely new data,  estimates closely match   Shoag (2010).   results   interpreted cautiously,  mounting evidence
+124
+AEA PAPERS  PROCEEDINGS  2—Dollars  Labor Market Outcome Δemployit (1) Δunemployit (2) Δparticipit (3) 2.31 (2.24) 100
+ 2013
+Dollars  Δˆ × 100,000 git Observations
+4.82* (2.70) 100
+−2.52*** (0.96) 100
+American Economic Journal: Economic Policy 4 (3): 118-45. Clemens, Jeffrey,  Stephen Miran. 2012. "Fiscal Policy Multipliers  Subnational Government Spending." American Economic Journal: Economic Policy 4 (2): 46-68.
+Cohen, Lauren, Joshua Coval,  Christopher Malloy. 2011. " Powerful Politicians Cause
+Notes:  regressions include year fixed effect.  variables  measured   capita terms,  regressions  weighted  population,   standard errors  clustered  state. Details   variables  included   text. *** Significant   1 percent level. ** Significant   5 percent level. * Significant   10 percent level.
+ number  different studies  local, windfall multipliers suggests growing consensus   issue,  generally  post-2008.   holds  more evidence arrives,   important result  macroeconomic theory.  policy implications   findings, , need   parsed carefully. Farhi  Werning (2012) demonstrate  large local, windfall-financed multipliers  new Keynesian model   imply large multipliers   contexts,  Mankiw  Weinzierl (2011) note  policies  larger multipliers   lead  larger welfare increases.   empirical evidence  multipliers   used  conjunction  macroeconomic models  evaluating  desirability  fiscal stimulus. REFERENCES
+Acconcia, Antonio, Giancarlo Corsetti,  Saverio Simonelli. 2011. "Mafia  Public Spend-
+Corporate Downsizing?" Journal  Political Economy 119 (6): 1015-60. Farhi, Emmanuel,  Iván Werning. 2012. "Fiscal Multipliers: Liquidity Traps  Currency Unions." Unpublished. Farrell, James,  Daniel Shoag. 2012. "Asset Management  Public DB  Non-DB Pension Plans." Unpublished. Feyrer, James,  Bruce Sacerdote. 2011. "Did  Stimulus Stimulate? Real Time Estimates   Effects   American Recovery  Reinvestment Act." Unpublished. Hochberg, Yael .,  Joshua . Rauh. 2011. "Local Overweighting  Underperformance: Evidence  Limited Partner Private Equity Investments." Unpublished.
+Mankiw, . Gregory,  Matthew Weinzierl.
+ing: Evidence   Fiscal Multiplier  Quasi-experiment." Unpublished. Barro, Robert .,  Charles . Redlick. 2011. "Macroeconomic Effects  Government Purchases  Taxes." Quarterly Journal  Economics 126 (1): 51-102. Blanchard, Olivier,  Roberto Perotti. 2002. " Empirical Characterization   Dynamic Effects  Changes  Government Spending  Taxes  Output." Quarterly Journal  Economics 117 (4): 1329-68.
+Chodorow-Reich, Gabriel, Laura Feiveson, Zachary Liscow,  William Gui Woolston. 2012.
+2011. " Exploration  Optimal Stabilization Policy." Brookings Papers  Economic Activity: 209-49. Nakamura, Emi,  Jon Steinsson. 2011. "Fiscal Stimulus  Monetary Union: Evidence  .. Regions." Unpublished. Ramey, Valerie . 2011. "Identifying Government Spending Shocks:     Timing." Quarterly Journal  Economics 126 (1): 1-50. Reingewertz, Yaniv. 2011 "Identifying  Effect  Government Spending: Evidence  Political Variations  Federal Grants." Unpublished.
+Serrato, Juan Carlos Suárez,  Philippe Wingender. 2010. "Estimating Local Fiscal MultiShoag, Daniel. 2010. " Impact  Government
+pliers." Unpublished.
+" State Fiscal Relief  Recessions Increase Employment? Evidence   American Recovery  Reinvestment Act."
+Spending Shocks: Evidence   Multiplier  State Pension Plan Returns." Unpublished. Shoag, Daniel. 2012. "States  Risky Investments: Understanding Public Pension Plans." Unpublished. Wilson, Daniel . 2012. "Fiscal Spending Jobs Multipliers: Evidence   2009 American Recovery  Reinvestment Act." American Economic Journal: Economic Policy 4 (3): 251-82.
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use.
+ 

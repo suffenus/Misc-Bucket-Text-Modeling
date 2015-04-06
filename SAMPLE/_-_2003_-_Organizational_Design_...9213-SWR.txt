@@ -1,0 +1,58 @@
+Organizational Design  Technology Choice under Intrafirm Bargaining: Reply 
+ LARS . STOLE  JEFFREY ZWIEBEL* 
+Catherine . de Fontenay  Joshua . Gans (2003) provide interesting  insightful ex�tension   theory  intrafirm bargaining  workers  firm,  introducing pool  ready-to-employ workers  firm  freely draw upon   time. 
+  prior work  intrafirm bargaining (Stole  Zwiebel, 1996a, ),  developed general multiperson bargaining framework  order  analyze  workers' rents depend upon  marginal products   infra�marginal products.   setting,  firm  chooses  number  employees  hire,  then negotiates wages      series  bilateral meetings.   firm  hire additional workers once negotia�tions  begun, workers  temporarily irre�placeable  possess hold-up power   negotiations.  equilibrium, employee wages  uniquely determined   requirement  neither  firm nor  individual worker  benefit  bilateral renegotiation, taking  account  parties' respective bargaining power   disagreement point.  assume  following breakdown   bilateral meeting,  worker permanently separates   firm   firm renegotiates wages   remaining employees.   results,  demonstrate   setting   firm  want  overemploy workers; .., choose employment level    work�
+er' outside reservation wage exceeds  
+worker' marginal product   firm.  logic    simple:   setting, worker pro�duces  direct marginal product   firm through  contribution  output   indirect benefit  depressing  wages   workers ( lessening  impact   threats  quit).  added bargaining benefit gives  
+*Stole: Graduate School  Business, University  Chi�cago, 1101 . 58th Street, Chicago,  60637; Zwiebel: Graduate School  Business. Stanford University, Stan�ford, CA 94305. 
+firm reason  hire workers beyond  point   direct marginal product equals  
+reservation wage. 
+  paper, de Fontenay  Gans recon�sider  bargaining setting  introducing outside pool  identically productive employ�ees,   whom   immediately brought inside  firm  produce  negotiations  current worker break down.  interesting   results, de Fontenay  Gans find   external pool generates underemploy�ment rather  overemployment.  intuition    explained quite clearly   paper.  outside replacement workers   brought   firm immediately   pro�ductively equivalent  internal employees,  confer  same bargaining benefits  workers   hired  brought inside  firm-either way   serve  replace quitting worker.    longer bargaining benefit  overemployment. Moreover,   external pool  finite, employees  still ex�ercise some hold-up power   firm  capture rents  employee separation brings  firm closer  running   replace�
+ment workers. Given  employees receive 
+wages  exceed  reservation wage,  firm  actually underhire relative  neo�classical (nonbargaining firm)  equates mar�ginal output   reservation wage. 
+ main point  de Fontenay  Gans' work  insightful  illuminates critical assumption   overemployment result: namely,  employees ,  least partially  temporarily, irreplaceable.  contrast,  de Fontenay  Gans, firms  access  ready-to-employ perfectly substitutable labor pool outside  firm.  distinction  impor�tant   obvious reason  subtle .  obvious reason ,  course,   replace�ment employees  inside  firm,    paid wage,   de Fontenay-Gans pool  replacement employees   paid   finn. Viewed   manner,  overern�
+456 
+. 93 . / STOLE  ZWIEBEL ORGANIZATIONAL DESIGN. REPLY 
+ployment result   thought   case   firm overemploying labor  order  gener�ate internal lahor pool; de Fontenay  
+Gans consider settings    pool  external  free     need  
+overemploy. 
+Additionally, though somewhat more subtle, implicit   analysis  de Fontenay  Gans  presumption  employment alters  manner   employee  bargain  firm.  particular, note   de Fontenay  Gans, workers provide bargaining benefit   firm  inside  outside  firm. ,     former   allowed  negotiate   firm  capture fraction   surplus  confer.  particular, em�ployees capture bargaining surplus  virtue   fact    negotiations   firm "break down,"   permanently separated   firm. , outside replacement 
+workers   given  same opportunity  
+negotiate  .firm under  threat  per�manent breakdown. 
+ key question  terms  application ,  practice,  often  firms  ready�to-employ, perfectly substitutable replacement 
+workers?  answer  perhaps "quite often" 
+ untrained  low-skilled employees  involved. ,   employees, bilat�eral wage negotiations   firm seem  plausible,   model  intrafirm bargaining appears  likely  apply. (Indeed,  results  de Fontenay  Gans   seen  nice formalization   notion.)    hand,  skilled  specially trained employees  
+  setting   relevant, pool  
+readily available outside labor seems unlikely    norm. 
+  part company  de Fontenay  Gans,  argue  freely available, ready�to-employ pool  perfectly substitutable work�
+ers  exception rather   rule   
+highly skilled labor markets. ,    
+ unavoidable time cost  searching  
+suitable employee  training  employee   task  hand.   sense, worker  external pool  never perfect substitute  
+internal counterpart. ,    clear why 
+ labor-market equilibrium, pool  skilled employees   waiting around  job 
+ reservation values below  identical 
+employees  earning inside  firm. Even   pretrained, skilled employees  available   lahor market, firm engaged  employee negotiations  certainly like  reserve  workers  keep   "retainer"   called    event  incumbent em�ployee quits.   arrangement  likely 
+ require paying  workers  wait  re�serve,    unclear why  negotiations 
+ differ    bringing  replace�
+ment worker inside  firm    analysis. 
+, perfectly substitutable highly skilled workers  external pool  unlikely   
+"free"   opinion.   believe    wage-negotiation 
+settings, perfectly substitutable external pools  labor  unavailable,   still persuaded  de Fontenay  Gans     circumstances   external pools play im�portant roles, generating underemployment  
+contrast   results.    instances 
+ competing theories, empirical work  needed  make compelling case   approach   .  addition,   wants  take  external labor pool model  task,  need 
+ move   partial-equilibrium assump�tions  incorporate general-equilibrium story   workers' reservation wages  
+ understand  theoretical foundations  external ready-to-employ labor pool  
+equilibrium. 
+REFERENCES 
+de Fontenay, Catherine .  Gans, Joshua . 
+"Organizational Design  Technology Choice under Intrafirm Bargaining; Com�
+ment." American Economic Review, March 
+2003, 93(1), . 448-55. Stole, Lars .  Zwiebel, Jeffrey. "Intra-firm 
+Bargaining under Non-binding Contracts." 
+Review  Economic Studies, July 1996a, 
+63(3), . 375-410. ___ . "Organizational Design  Technol�ogy Choice under Intrafirm Bargaining." 
+American Economic Review, March 1996b, 
+86(1), . 195-222. 
+Copyright  American Economic Review   property  American Economic Association.  copyright  individual article   maintained   author  certain cases. Content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

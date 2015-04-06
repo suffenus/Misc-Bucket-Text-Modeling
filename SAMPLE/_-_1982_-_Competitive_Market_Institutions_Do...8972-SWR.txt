@@ -1,0 +1,534 @@
+Competitive Market Institutions: Double Auctions vs. Sealed Bid-Offer Auctions 
+ VERNON . SMITH, ARLINGTON . WILLIAMS, 
+. KENNETH BRATTON,  MICHAEL . VANNONI* 
+Consider market   following characteristics: 1) privacy,  ,  agent knows   own valuation ( cost) con�ditions; 2) exchange follows  rules   oral double auction,  , buyers freely announce bids  accept offers  sellers freely announce offers  accept bids; 3) aggregate market supply  demand  trading period  stationary   least    periods;  4)    least four buyers,    sellers.  litera�ture reporting  results  large number  experimental markets   char�acteristics documents  appears   remarkably rapid convergence  competi�tive equilibrium (CE). ,  claim 
+*Professor, department  economics, University  Arizona; assistant professor, department  economics, Indiana University; instructor, department  econom�ics, University  Arizona;  Sandia National Labora�tories, Albuquerque, NM, respectively.   indebted   National Science Foundation  research sup�port,   Art Denzau  Mort Kamien  helpful comments. 
+'  early  recently growing body  experimental evidence  convergence  competitive equilibrium under double auction rules:  earliest evidence (contained  experiments initiated  January 1956)  reported  Smith (1962, 1964, 1965, 1976). ,  early experiments ~  twenty  fifty   participant buyers  sellers ,  keeping  prevailing professional beliefs,   thought  CE  unlikely   approached unless numbers  quite large. Using large numbers   unreasonable    good beginning procedure  give theory whatever  believed    "best shot." More recent eyidence using six buyers, six sellers,   traders  "speculative" DA markets  cyclical demand  reported  . . Miller, Charles Plott,  Smith,  Williams (1979).  evidence  com�parison  oral  computerized DA experiments  four buyers  four sellers, see Williams (1980).  further evidence   context   study  price controls, see . Isaac  Plott (198Ib)  Smith  Williams (198Ib);   context  conspiracy study see Isaac  Plott (1981 );   context  compari�sons  DA  posted offer pricing, see Jon Ketcham, Smith,  Williams;   context  study 58 
+ double auction (DA) "convergence"   CE    meaning     senses: 
+()  CE  attained immediately. 
+()   periods  trading, some measure   market' state,   mean price,  nearer, relative  experimental sam�pling variability,  CE   some dis�tinct alternative equilibrium    mo�nopoly  Nash equilibrium. 
+()   periods  trading,  measure  nearer  CE  DA experimen�tal markets   markets organized under different institution  contract,  exam�ple, sealed-bid auction. 
+ everything  electrons   stars  rats  people yield state measures subject  "error"  random variation,  deterministic criterion ()    serious scientific standing.   criteria  hy�pothesis   rejected      science  physics, biology,  economics.2   exception  certain  simple markets   single object auctions,  certain idealized markets    Cour�not quantity adjuster model, economics    concepts  equilibrium-monopoly  competitive.   formal model  DA trading    proposed (see David Easley  John Ledyard, . 6) pre�dicts stochastic convergence ( finite time,  probability )  CEo ,   test alternative   CE research hy�pothesis  DA markets  monopoly ( monopsony) equilibrium. Experimentalists   reported statistical tests   CE 
+ four variations  DA rules, see Smith  Williams (1980).    more recent papers report double auction experiments using  more  four buyers  four sellers. 
+2As Frederick Mosteller once noted,   wanted  reject  inverse square law  attraction, try tossing sheet  paper   window. 
+Copvriaht � 2001  Riahts Reserved 
+. 72 .1 SMITH .: COMPETITIVE MARKET INSTITUTIONS 
+research hypothesis  against  null mo�nopoly hypothesis     useless exercise  arithmetic. Savage' infor�mally well-known "interocular trauma test" (just look   data)  sufficient.  example look ahead  Figures 3  4,  plot DA contract prices,  see   think  monopoly ( monopsony) price receives convincing empirical support  against  CE price,  examine    data   references cited  footnote 1.   even evidence  unexpectedly poor support   monopoly price hypothesis      seller (Smith, 1981  Smith  Williams, 1981a). ,  data support  static CE hypothesis  against   proffered alternative hypotheses. 
+ objective   paper   explore criterion (). Experimentalists happen   begun  studies   laboratory behavior  markets   DA institution.   found  institution   unex�pectedly robust  respect  numbers  agents, design parameters, shifts  parame�ters  certain variations   trading rules,  yielding convergence  CE out�comes.   properties common   institutions  contract    unique   DA institution?  paper reports  results  forty-eight experiments (using 408 subjects)   designed  provide answer   question.3  pricing mecha�nisms used   paper  comparison  DA   selected     features       impor�tance  economic thought  theory, /    characteristic  some partic�ular ongoing market   field. 
+  next section  discuss briefly  experimental designs  procedures   common    experimental price mecha�nisms studied. Section  defines    price mechanisms  terms   bid�offer-contract procedures used, summarizes  formal  informal theory  applies,  relates  mechanism,  appro-
+ 
+3  research builds  six pilot experiments con�ducted  Bratton (reported  Smith ., appendix, . 35-39),  provided preliminary experience en�abling us  develop  PLATO computer programs discussed  Section . 
+Copyright � 2001  Rights Reserved 
+priate,  examples  similar markets   field. 
+. Experimental Design 
+   experimental results reported  Section  use  supply  demand design shown   ().    four buyers (sellers)  assigned (privately)   marginal valuations (costs) indicated   , ... ,B4 (, ... ,S4) labels   ().  aggregate   individual demand  supply schedules generates  theoreti�cal ( hypothesized) market demand, ,  market supply, , resulting   CE il�lustrated   1 (): (po,Qo)=(4.90, 6).   assigned valuations (costs)  repeated    sequence  trading periods,  resulting demand  supply represent flows  trading period.  means  maintaining state  incomplete information across different experimental subject groups,  equilibrium price  varied  successive experiments  adding arbitrary positive  negative constant     individual marginal valuations  costs  pertained   previous ex�periment. Note   design ,   CE, 2/3   exchange surplus  captured   buyers  1/3 going  sellers.  few   experiments   reported below  property  reversed,  ,  sellers re�ceive 2/3   buyers receive 1/3   total surplus.   report  results  some experiments  larger groups using  higher volume supply  demand de�signs shown   left  Figures 4  6.  latter experiments allow us  de�termine   observed differences   trading institutions studied  affected  larger markets. 
+  experiments reported below use  PLATO computer  display  experimen�tal instructions   subject trader, ad�minister  rules   particular pricing institution, compute  display  ap�propriate private  public information generated   market,  compute indi�vidual subject payoffs.   experiments  use subject processing procedures   become standard     PLATO experiments: volunteers  recruited, usu�ally  business  economics classes,  wish  "earn some money  decision making experiment."   arrive   PLATO room,   given number  sequence.    arrived,   paid $3.00  cash,  randomly assigned  private computer terminal (   nonpar�ticipation condition,     "over�book" volunteers  cover  occasional subject    show). PLATO then randomizes  terminal  buyer  seller experimental condition.   experi�ment  completed,  subject  paid (privately) / earned consumer' ( producer') surplus,  , assigned value minus purchase price   unit traded  buyer (purchase price minus assigned cost   unit traded  seller), plus commission (  case $0.05)   unit traded.  commission provides minimal inducement  trade unit   assigned value (cost)  compensate  transaction cost  provide incentive   marginal CE units   exchanged. 
+ll.  Exchange Mechanisms  Hypotheses 
+. Double Auction (DA) 
+ DA experiments reported  follow  procedures described  detail  Wil�liams (1980). used  PLATO computer system  write computer program allowing   fifteen agents,  sitting  display console  typewriter keyboard  trade under   four alternative versions   double auction institution. Subject buyers (sellers), operating privately, enter discre�tionary quotations  typing number, verifying , then tapping touch sensitive "box" area   PLATO terminal display screen.   bid   offer  dis�played  anyone instant.  buyer (seller) 
+. 72 .1 SMITH : COMPETITIVE MARKET INSTITUTIONS 
+ accept seller' displayed offer (buyer' bid)  touching box labelled ACCEPT.  acceptor then touches box labelled 
+CONFIRM   time  contract is� logged    "makers"  "takers" private record sheets.  screen display touch sensitive bid (offer)-acceptance�confirm procedure  highly functional ( just "electric train" novelty)   traders     take  eyes off  data displays  execute contracts. Displayed bids, offers,  contracts  sequence    public information. 
+   versions  PLATO double auction   used     experi�ments reported below, price quotations  progress    reduce  bid-ask spread. Once bid  buy  offer  sell  displayed   entire market,   "standing"  acceptance.  new price quote  provides better terms (.., offer   lower   standing offer  bid   higher   standing bid)  automatically "bump"  displace  standing quote.  bid (offer)  entered    higher (lower)   standing best bid (offer)  entry  : version 1) rejected  descriptive error message  generated, , version 2) placed  bid queue (offer queue)   maker  given  entry' position  "rank queue"  continuously arrays bids  highest  lowest (offers  lowest  highest).   latter version, tied quotations  assigned queue priority according   chronological order  entry. Subjects     entry  queued  standing publicly   point  time. Queued entries   withdrawn  pressing key labelled EDIT  price quotes standing displayed   best   market   withdrawn. ,  maker  bump  own bid (offer)  better . Upon  initiation  new auction,   contract  occurred,  lowest queued offer  sell  highest queued bid  buy  automatically entered   new (postcontract) standing bid  offer.  procedure combines "electronic" version   specialist' book   bid-ask improvement rule;   features  New York Stock Exchange trad�ing.4 Trading occurs  sequence    fifteen timed market periods  "days."   experiments reported ,  trading period lasted 300 (360) seconds   low (high) volume markets. 
+. Shubik' Block Trading, Sealed 
+Bid-Offer Process (PQ) 
+  PLATO sealed bid-offer auction mechanism, PQ, uses  following proce�dure:   trading period  buyer sub�mits  bid price,  corresponding max�imum quantity /  willing  buy   price  . Similarly,  seller sub�mits  offer price  corresponding maximum quantity /  willing  sell   price  more. Next,  bids  ordered  highest  lowest,  bid price;  offers  ordered  lowest  highest,  offer price.   bids (offers)  tied,   entered  (chronologically)  priority. Then selection algorithm gener�ates single market-clearing price.5 ex�ample actually used   PLATO instruc�tions   bid-offer auction mechanism  shown   2.   PQ mechanism,  acceptable bids  offers   period form binding "short-term" contracts   quantities accepted.  period ends   last subject enters / PQ decision.  contractual rights  obligations  essentially  same   DA above. 
+4Smith  Williams (1980)  shown   rank queue version   PLATO DA tends  outper�form   computerized variations  DA trading rules  terms   speed  convergence   CE price.  experiments reported  represent sam�pling   four DA variations.   give  sealed bid-offer processes (discussed  Section , parts    below) better chance  matching  CE convergence performance  DA     DA rank queue  ~en used. 
+5This price, ,  determined  follows: Define BQ = Lowest accepted bid;;.. BQ +  = Highest rejected bid; AQ = Highest accepted offer";; AQ+  = Lowest re�jected offer;  = Number  accepted bids (accepted offers) = Largest jnteger   BQ+1<AQ+ 1,  BQ;;"AQ. Then =Midpoint   set {Pled()=}, ..,  set  prices   excess demand  zero. Then  =[min(BQ' AQ+ 1)+ max(AQ, BQ+dl/2. Ifthe highest bid  below  lowest offer,    =0,   highest bid  lowest offer  reported   agents. 
+Co   � 2001   hts Reserved 
+...... 
+SELLERS 
+3.55 
+3.5. 
+3 ��� 
+2.5.  2 ���
+ 
+ 
+(}:: 
+1.5. 
+1. 25
+0.... 
+1. �� 
+�� 5. 
+Quant ity fixed  
+BUYERS 2 3 5 6 7 8 9 1.8 
+QUANTITY 
+PRESS -NEXT-OR -BACK-
+ 2 
+ PQ process, proposed  Martin Shubik,  abstract mechanism   operating field counterpart known  us.   chosen   study    im�portant theoretical property (incentive com�patibility)   discussed   next section.   reason PQ  particularly good calibration standard against   mea�sure  relative performance  DA.  noted above,   absence   calibrating alternative,   without objective means  judging  good   ostensibly "good" performance  DA.  PQ  good theoretical incentive properties,  ex�perimental examination provides test   ability  design better allocation mecha�nisms based  hypothesized principles  individual behavior. 
+ desirable condition   laboratory price mechanism (  abstract mechanism   PQ)  satisfy    field realiza�bility.   laboratory mechanisms    transferable  field environments     aspect   mechanism  depends  information available  under laboratory conditions.  laboratory PQ en�vironments,   possible  know  there�fore  guarantee   agent  sub�mitted   price  quantity. Clearly, under field conditions,  might  costly   impossible  achieve  primary bidders  operate through multiple accounts  agents  avoid  constraint  stating  single price-quantity de�mand (supply) point. 
+. Variable Quantity Sealed Bid-Offer Process ((Q� 
+  PLATO sealed bid-offer auc�tion mechanism, (), uses  following procedure:   trading period  buyer submits  bid price   unit  / desires  buy except   buyer  submit more bids   number  units   /  heen assigned valuations. Similarly,  seller submits  offer price   unit    desired  sell   maximum defined   number  unit costs assigned   seller. Next,  
+Copyright @ 2001  Rjr;;Jhts ReSeD/@ 
+. 72 .1 SMITH ETAL.: COMPETITIVE MARKET INSTITUTIONS 
+bids  ordered  highest  lowest,   offers  lowest  highest. Tied bids (offers)  ordered chronologically. , () uses  same lexicographic ordering used  PQ   DA rank queue. Finally, single market-clearing price  generated   same selection algorithm used   PQ process. 
+ () process  important  study     mechanism  incentive incompatible (see Section ),   be�cause  procedure  used daily  provide  opening price   stock listed    ew York Stock Exchange. (See . . Hazard  . Christie.)� Furthermore,  features  simplicity  realizability argue  ex�tending  application   completely automated computer trading  corporation  government securities (see . Mendel�son, . . Peake,  . . Williams).     field application  at�tempted,   learn more   behavioral properties  ()    performance compares  DA    dominant securities market-trading institu�tion. 
+. TtUonnement Versions ofPQ  () 
+ additional mechanisms   study represent tatonnement versions   PQ  () pricing procedures.    mechanisms, called PQv  (), respec�tively, require unanimous consent    agents having some portion   bids  offers accepted. ,  PQv, following  determination   price  allocation   period, PLATO asks  agent  participates   allocation  vote "yes"  ""    / desires  accept  results   "trial" period  binding.  agent whose entire bid (offer) array  rejected  given trial  disenfranchised   trial. Consequently,  jurisdiction  voting  defined  consisting   set  active buyers  sellers.  unanimity pre�vails following  trial    maximum allowed, , "long-term" contract  sealed  multiple   times  individual bid  offer quantities   acceptable   trial. ,   trials,  unanimity agreement   reached,  process 
+Copyright � 2001  Rights Reserved 
+stops  zero payoff   subjects,  , nothing   earned  exchange.6  PQv experiment  stops under  una�nimity rule yields  same potential total payoff   PQ experiment programmed  run   "short-term" contracting peri�ods.  tatonnement version  () uses exactly  same voting  long-term con�tract procedures   PQv. 
+  long history  economic theory concerned   indeterminacy  equi�librium  transactions occur  disequi�librium prices. Artificial solutions  pro�vided   form  Walras' tatonnement exchange   "recontracting"  Edge�worth   critical  Walrasian tatonne�ment.7  voting procedures described  PQv  () provide simple opera�tional mechanism  guaranteeing       price   market.   mechanism  strengthen  achieve�ment  CE outcomes     empirical questions   seek  answer.  prac�tical relevance   procedure  indicated   fact   same voting conditions   used   fifty years   London gold bullion market (see . . Jarecki).   market, five gold bullion dealers meet twice daily  determine  price  gold. Various prices  tried   chairman,  price  "fixed"   total reported excess demand  zero,   dealer  registered�  approval.     unanimity tatonnement market known $0 us.   case, apparently  dealer  disenfranchised   vote count, ,    broker executing orders  large number  clients,   normally  involved  active trade. 
+6     trials,  vote   agents  counted,   disenfranchisement rule applying  trials 4  .    avoid premature stop caused  inadequate information.  example,  trial ,    bid   offer  acceptable;   agents might vote contract  exclude   agents   latter  opportunity  adjust  bids  offers. 
+7See  papers  Donald Walker (1972, 1973)  thorough treatment  tatonnement exchange  "recontracting"   economics literature.  know   discussion  unanimity voting  mechanism  operationalizing  tatonnement concept. 
+HI. Theory  Hypotheses 
+  primary hypotheses   tested   paper  derived  static Nash equilibrium theory,   appropriate  dis�cuss  basis ( )  believing  static  ash theory might  relevant   behav�ior   various trading institutions   described. ,  note  perhaps  obvious, namely,   concept  eco�nomic (market clearing) equilibrium,   monopoly (market clearing  underrevela�tion  supply)  CE (market clearing  revelation  demand  supply)   supported  some form   Nash equi�librium (NE) concept,   latter    concept  noncooperative equilibrium.    CE   NE, then,   CE  attained,      interest   trader  deviate  CE behavior   CE   sustainable. ,   carefully distinguish  static NE property  mechanism  some hypothe�sized dynamic process  might ( might ) converge  NE.   prominent example   latter   Cournot adjust�ment  "best reply" hypothesis.   entirely possible  market institution  achieve static CE    static NE  acci�dent,  random trials,   some process    invisible  articulation  observation.  once NE  stumbled upon  ,  definition, individual incentives  oppose change.  shall argue, > viding appropriate documentation,    great deal  evidence supporting static NE behavior  laboratory markets,  con�siderably   convincing evidence   Cournot best-reply adjustment dynamics. 
+. Empirical Support   NE Hypothesis 
+ NE hypothesis   examined  variety  different institutions  group sizes.  discussion   limited  few studies   following: 1) Price leadership bilateral monopoly; 2) Cournot quantity ad�juster duopoly  triopoly; 3) Bertrand price adjuster duopoly  triopoly;  4)  Groves-Ledyard public good mechanism. 
+ 1 summarizes  results  51 bi�lateral monopoly ( BI-B5 series), 54 
+quantity adjuster ( Q7-QlO series)  55 price adjuster ( P13-PI6 series) experi�ments reported  . Fouraker  . Siegel. Under  pricing institution employed   price leadership bilateral monopoly  Bertrand price adjuster experiments,  seller chooses (independently) take-it-or�leave-it price.   bilateral bargaining experiments,  buyer responds  quantity choice,    price adjuster experiments, buyer response  simulated  choosing corresponding quantity  given demand schedule ( procedure assumes demand revelation  unspecified number  hypothetical buyers).  institutional procedures   called "posted offer" pricing  Plott  Smith. 
+  exception   B5 series,   bilateral bargaining experiments provide more support  NE (   monop�oly)  CEo  B5, Fouraker  Siegel hypothesize   combination  1) com�plete payoff information, 2)  repeat trans�action condition ( provides "communi�cation"),  3) parameter design  fixes  equal-split profit point   surplus maximizing CE,  yield outcomes sup�porting CEo Under  quantity adjuster "pricing" condition,  preponderance  support   NE under  incomplete  complete information, except  triopoly yields more support  CE  duopoly ( , Q7-QlO).  last result suggests    number  sellers, , increases,  behavioral tendency  CE  greater  predicted   classic theorem stating  NE converges   limit (  increases)  CEo   price adjuster model (NE   CE), NE receives overwhelming support ( , P13-PI6)  incomplete informa�tion duopoly   triopoly. 
+Using version   Groves-Ledyard mechanism,  yields NE   Lin�dahl optimum  public good, Smith (1979) reports  response behavior  subjects   groups  public good experiments.   group  experiments   design characteristic  rapid convergence  NE under Cournot best-reply adjustment dy�
+8AIso see Plott, Smith (\980),  Ketcham, Smith,  Williams. 
+Copyright � 2001  Rjnhts Resented 
+ I-SUPPORT  ALTERNATIVE EQUILIBRIUM CONCEPTS UNDER VARIOUS INSTITUTIONS 
+. 72 .1 SMITH .: COMPETITIVE MARKET INSTITUTIONS 
+Identification 
+ Experiment (Number  Treatment Number  Observations Supporting: Probability   Ho 
+Replications) Conditions Nash Competitive Monopoly  Rejected 
+ (10) CSEN 9.5 0.5 Same .01 
+B2 (10) CSEe 10.0 .  .001 
+B3 (9) IREe 8.0 1.0 Nash .02 
+B4 (10) CREN 6.5 3.5 .38 
+B5 (12) CREe 5.0 7.0 
+Q7 (16) IRD 14.0 2.0 . 0.002 
+Q8 (11) IRT 11.0 9.0 . 0.035 
+Q9 (11) CRT 15.0 15.0 3.0 
+QIO (16) CRD 12.5 9.5 10.0 
+P13 (17) IRD 17. Same . .001 
+PI4 () IRT .  . .001 
+PI5 (10) CRT 10. Nash . .001 
+PI6 (17) CRD . 6. .17 
+Source: Based  data reported  Fouraker  Siegel, . 32-33, 35, 38, 42, 45, 131-32, 134-35, 141-42, 174, 177, 
+181, 183. 
+Note:  = Bilateral Monopoly;  = Quantities Variable;  = Prices Variable; =Incomplete Information:  
+subject knows   own payoff ;  = Complete Information:  subject knows  participant' payoff 
+;  = Single transaction experiment;  = Repeat transaction experiment;  = Duopoly;  = Triopoly; EN = Equal 
+profit split  NE, Ee = Equal profit split  CE; Ho = Null hypothesis   CE      experiments, 
+monopoly    experiments. 
+namics,    group  di�vergent under Cournot adjustment behavior. , empirically,    experiments converged under  stopping rules  ag�gregate outcomes  near  NE predic�tion. Yet,   convergent design, slightly   half   individual responses  best-reply choices,9    di�vergent design   one-quarter   responses  best replies.  low best�reply frequencies meant   empirical convergence    group  experiments  slower    responses  best replies,     group  meant  divergent behavior  avoided. 
+ results suggest  1) empirical sup�port  Cournot adjustment dynamics  weak, 2)    preclude behavioral convergence   NE,  3)  failure  individuals  follow best-reply strategy allows "divergent" systems  stabilize near NE aggregate outcomes. ,  fact  people   follow Cournot response 
+9A check   individual choices   Q7 experi�ments    shows  approximately one-half  best replies! 
+Copyright � 2001  Rights Reserved 
+pattern   important factor  per�mitting NE states   achieved. 1O  general conclusions   supported  John Carlson' experimental study   Cobweb Theorem.   Carlson' experi�ments  Cournot convergent    divergent. Yet  four experiments  ob�served  converge  aggregate outcomes near  CEo 
+. Theory  Hypothesis: DA vS. () 
+ CE under  DA rules  exchange   static NE   following sense:    thOUght   buyer (seller)    buyers  sellers  going  bid 
+IOLedyard analyzed  data  preliminary draft   Smith (1979) paper,  offered  following important observation:   divergent group  experi�ments,   adds   set  Cournot best replies  subject responses  simply repeat  previous choice,  result  proportion  total responses  similar   proportion observed   convergent group. Intuitively,  suspects,   least  conJec�ture,    low-information uncertain environ�ments  frequent use   repeat choice strategy   intelligent means  imparting needed inertia  group choice  Cournot divergent systems. 
+ offer  units  CE price, then  remaining buyer (seller)    better individually   bid (offer)   price.   agents act   belief,  market  clear   price,   expectation  "rationaI"     sustained  individ�ual experience.  CE   property.   DA process   real time  bids (offers) freely announced,  acceptances occurring  temporal stochastic sequence,    clear   formal sense yet articu�lated,   self-reinforcing equilibrium expectations  evolved.     same ob�servation  applies   simpler processes ( 1) studied  Fouraker  Siegel. 
+William Vickrey' classic contribution   theory  incentive compatible institu�tions begins   observation   buyers  sellers  "too few"  number  ignore  influence  price then " ... normal result   case      optimal quantity   provided..." (1961, . 9).  Vickrey   mind process like   described  ()  made clear  subsequently sets forth  agency  "counterspeculation" begin�ning   statement " ...  market�ing agency needs,  order  determine  optimum pattern  transactions   com�modity,  unbiased report   margin�al-cost (= competitive supply) curves   sellers    marginal-value (= competitive demand) curves   pur�chasers..." (1961, . 10). Vickrey then pro�ceeds  articulate  incentive mechanism designed  elicit  individual' undis�torted marginal cost (value) schedule,   then used  establish single CE price. 
+  () mechanism provides incentive   individual  bid below / marginal willingness  pay  easily demonstrated. Let ;()  individual ' reported excess demand function,     common price resulting   () 
+ Formally, DA trading   likened  double price search process  learning.  ,  buyers (sellers) see offer (bid)  observe sample   distribution  potential purchase (sale) prices.  neither side  searching fixed distribution.  , buyers (sellers)  motivation  alter  bidding (offering) behavior  response   offers (bids)  acceptances  observe. 
+process. Individual   want  choose 
+Ej()    maximize ;[Ej()]-PEj() 
+subject   uniform price constraint Ej() 
++~"'IEiP)=,  :  ' marginal 
+valuation (cost,  Ej()<) function.  
+first-order conditions  maximum give 
+:(Ej)= -Ej()/~,..jEj()< (;)   
+believes  ~"'jE;()<,  (;)= 
+
+j-I(). Even   .elieves    =1=  Win reveal excess demand,  , Ej =;()(),   still pay   underreveal demand,  ~"'jlJ()()<. Note    de�duce diat   optimal  underreveal de�mand without having  know  EiP) functions;    required     
+believe    =1=   report decreasing . excess demand functions. 
+ () illustrates  CE price  
+quantity      basic experimen�
+tal designs.  outcome   obtained 
+under () pricing   individual bids 
+(offers)  unit   assigned value (cost), 
+ ,  Bl bids $5.90  /  unit 
+ $4.50   , S3 offers units  
+$4.60  $4.90,   .  suppose  
+person except B3 reveals demand (supply), 
+then B3  lower  market price  bid�
+ding $4.70  /  unit. Intui�
+tively   clear  under () agents  
+ incentive  lock   more valuable 
+( costly) units  revealing bids (offers) 
+  underreveal   remaining units  
+ attempt  lower (increase)  clearing 
+price. ,  theory implies  follow�
+ing hypothesis: DA  yield outcomes closer 
+ CE   (). 
+. Theory  Hypothesis: PQ  DA vs. () 
+Shubik,  . Dubey  Shubik prove   PQ process   property   CE  corresponding   NE.   demand  supply design   1 (),  equilibrium,    demand revealing (dr ) ( supply revealing (sr�'  indicated  D4  S4  (). ,  Bl  B2 (Sl  S2)  bid (offer)  respective marginal valuations (costs)   unit;  B3  B4 (S3  S4)  bid (offer)  units   marginal valuations (costs) corresponding   respective sec-
+CODvrinht � ?OOl ! Rj htS ReseD' 
+. 72 .1 SMITH .: COMPETITIVE MARKET INSTITUTIONS 
+ond units;    dr (sr) behavior   result  NE.    NE  seen,  example,  noting   B3 (S3) uni�laterally bids lower (offers higher),  bid (offer)  rejected,  / earnings  zero.  B3 (S3) bids higher (offers lower),  market-clearing price increases (decreases),  earnings decrease. Similarly,      agents,   bid (offer) shown   lee)  unilaterally altered,  agent' return   increased.    non-dr  Sr bids  offers   NE,   provide competitive equilibrium  simi�larly obvious. ,      bid any�thing   range (4.90-S.90), given   bids  offers shown    (),  result   NE. 
+ convergent dynamic scenario   PQ sealed bid-offer mechanism  illustrated   ()(). Assume  agent  simple Cournot maximizer,  ,   trial  agent chooses  "best reply"   choices made    agents   previous trial.  assume   agent,  knowing  bids  offers   tendered   others, minimizes  risk   excluded   market  choosing dr (sr) bid (offer). Finally, let  agent initially follow  cautious strategy  enter�ing bid (offer)    unit   idea  bidding (offering)   units    trial  choice  / best reply.   period outcome  shown   ().  agent quotes  unit   marginal value (cost)   unit providing  outcome (),)=(.00,4).  price  $.OO, B4' best reply   bid $.10   units; S2' best reply   offer  units  $.OO; S3  S4  offer  units  $4.90  $4.80, respectively;   re�maining agents repeat  first-period re�sponse.  result  (P2,Q2)=(4.9S,)    S2' offer rejected  shown   ().   price $4.9S,  best-reply bids  offers  shown   led) giving (P3,Q3)=(4.90,);  best reply     CE (4.90,6)   (). ,  CE allocation  reached  four moves   gameY   discussion above  NE 
+]20ther initial moves  reasonable   extensive form game.  example,  agent  choose ini� 
+ � 2001  Rights Reserved 
+behavior  wide variety  previous experi�ments,    expect subjects  follow  Cournot dynamic consistently,   example illustrates  ease  rapidity     possible  equilibrium  occur   framework  traditional price theory. 
+ comparing  ()  PQ mecha�nisms,    noted  special case  ()     fixed quantity  good  offered  inelastic supply,   items  discrete   buyer bidding     unit.  noted long ago  Vickrey (1961, 1962), demand revelation  optimal   case  yields NE (actu�ally, still stronger,   dominant strategy  reveal demand) under  highest rejected bid pricing rule.  discussing   price auction,   multiple unit case   unit  bidder, Vickrey observes  
+ essence   cases  admit   achievement  Pareto optimal result seems      extent   participants  choice   participating  ,   all-or�nothing choice.     stra�tegic holding back:  individual  hold back   achieve zero gain  . [1976, .1S] 
+, Shubik' PQ bid-offer mechanism   interpreted  ingenious way  gener�alizing  Vickrey intuition  reducing  () procedure   case    agent bids   "single" (price-quantity) unit. 
+ considerations invite  following hypothesis: PQ  yield outcomes compara�ble  DA,  , closer  CE    outcomes under (QJ. 
+. Effect  TiUonnement Voting 
+ PQ  incentive compatible ( CE  NE),   expect  voting version  perform  least  well. Indeed,  view  Vickrey' all-or-none intuition, PQv might 
+tially dr (sr) bid (offer)   units.  case, given   assumptions,  converge   CE   ()    move,    move (], ])=(4.90,4). 
+Co  
+Mean Price Quantity 
+Number Ratio  Deviation, Deviation, Efficiency, Efficiency, 
+Experiment (buyers, sellers) Pinal Period,  Buyer'  Seller' Surplus Period 7, P7-pO Period 7, Q7-QO Period 7, E7  Periods,  
+1 (4,4) 10 2 0.02 0 100.0 96.8 
+2 (4,4) 10 2 0.12 -1 74.6 89.1 
+3 (4,4) 9 2 -0.02 0 100.0 90.4 
+4 (4,4) 8 2 0.04 -1 91.1 94.2 
+5 (4,4) 9 2 0.14  100.0 98.0 
+6 (4,4) 10 2 0.10 -2 84.4 87.9 
+7 (4,4) 10 2 .oI  100.0 95.1 
+8 (4,4) 9 2 0.03 0 95.6 97.0 
+9 (4,4) 8 2 . 0 100.0 95.3 
+10' (4,4) 5 2 (periOd 5) 0.08 ~~t5) (periOd 5)100.0 96.9 
+ (4,4) 9 2 0.128 -1 91.1 91.6 
+12 (6,6) 8 2 -0.034  94.9 98.0 
+13 (6,6) 8 2 -0.019 0 98.7 97.7 
+14 (7,7) 9 2 0.008 0 97.4 95.4 
+15 (6,6) 8 1/2 -0.033  100.0 98.2 
+ better  PQ   stakes  in�creased   condition       T-period long-term contract.  particular,  disenfranchisement rule greatly increases  incentive  dlsr) be�havior  "safe" bid-offer levels  mini�mize  risk  exclusion.  hypothesis : 
+PQv willyield outcomes  least  close  CE   PQ. 
+ ()   incentive compatible,    evident  might   effect  adding  voting tatonnement conditions.  agent' veto power might  per�ceived  providing increased incentive  influence price  underrevealing demand (supply).   easier  ()  PQv    former mechanism    assured    disenfranchised  dr(sr) behavior    unit . ,  every agent  equal veto power  effect   neutralized.  offer  priori hypothesis   CE behavior  (). 
+. Experimental Results 
+. Comparison ofDA  PQ, PQv 
+ results  fifteen double auction (DA) experiments  reported   2.   four columns identify  experiment   design characteristics: Sequence num�ber, 1,2, etc. (col. 1),   prime  10' refers  group  experienced subjects; number  buyers  sellers (col. 2); num�ber  periods  trading (col. 3);   ratio  theoretical buyer'  seller' surplus (col. 4). Experiments 1  11 used  valua�tion  cost parameters shown   (), except   parameter-disguising constant    individual valuations  costs differed  successive experi�ments.  experiments 12-15 using six  seven buyers,    sellers,  com�petitive volume  exchange  twice  large   experiments 1-11.  supply  de�mand design shown   left   6 applies  experiments 12-14.  experiment 
+15,  design  altered    surplus ratio  1/2 instead  2 (see  4).13 
+ fifteen DA experiments summarized   2 show results    found typical   PLATO version   DA mechanism. Efficiency  "high"    high, nor  convergence  rapid,   
+13Por explicit analysis   effects  variations   distribution  available market surplus  price convergence  DA experiments, see Smith  Williams (\981c). 
+Copvri  � 2001   hts Reserved 
+. 72 .1 SMTTH : COMPETTTTVE MARKET INSTTTUTIONS 
+Price 
+
+3.00 
+2.80 
+2.60 
+2.40 
+2.20 
+2.00 
+1.80 
+1.60 
+1.40 
+ 
+2 4 6 8 
+Quantity 
+�
+� 
+�
+� 
+4 
+2 
+� 
+� 
+� � 
+6 
+3 
+� 
+6 
+4 
+� 
+... 
+� 
+� 
+6 5 
+� � 
+5 6 
+5 
+ 3. DA Experiment 9 
+7 
+8 
+�� �� .....� 
+� 
+6 
+5 
+Period 
+Quantity Exchanged 
+4 
+8 
+Period
+2 
+3 
+5 
+7
+6
+Price 
+ 
+. 
+.. 
+. 
+............................................................................... 
+10 
+/ 
+12 
+/ 
+/ 
+/ 
+/ 
+/ 
+ClJontity 
+~~~~~~~__-L__~____~__~~__-L__~____-L__~____~~~ 
+246810121416 
+Quantity 
+ 4. DA Experiment 15 
+similarly inexperienced subjects   oral version  DA (Williams, 1980).   final trading periods   experiments vary  8  10 (5  experiment 10'),  report  period 7 mean price deviation  equilibrium   quantity deviation  equilibrium  columns 5  6.  efficiency  period 7  shown  column 7,   efficiency across   periods,   experiment,  reported  column 8. Efficiency  computed   ratio  total subject earnings (excluding commissions)  equilibrium consumer' plus producer' surplus, expressed  percentage.  ten�dency   period 7 efficiency  exceed 
+Copyright � 2001  Rights Reserved 
+ efficiency across  periods reflects  effect  experience  causing rise  ef�ficiency. 
+ 3 displays   contract prices  sequence   trading period  DA ex�periment 9.  particular experiment shows somewhat more rapid convergence   typical  inexperienced subjects.  con�tract results  higher-volume market, ex�periment 15,  shown   4. 
+ 3 summarizes  results  eleven PQ experiments based  short-term con�tracting,   4 summarizes five experi�ments using  tatonnement long-term con�tracting rules. Primes  experiment 
+ MARCH 1982  3-SEALED-BID (PQ) AUCTION; SHORT-TERM CONTRACTS 
+Price Quantity 
+Number Ratio  Deviation, Deviation, Efficiency, Efficiency, 
+Experiment (buyers, sellers) Final Period, Buyer'  Seller' Surplus Period 7, p7-pO Period 7, Q7-QO Period 7, E7  Periods,  
+3' (4,4) 10 2 0.15 -2 77.8 73.3 
+5' (3,3) 10 2 0.14  100.0 84.3 
+6 (4,4) 10 2 0.11 -2 75.6 83.3 
+7 (4,3) 8 2 0.10  97.8 90.6 
+7' (4,3) 8 2 0.04 -2 64.4 76.7 
+8 12 (4,4) (4,4) 8 10 1/2 2 -0.10 -0.01   88.9 100.0 76.9 74.9 
+\3 (4,4) 10 2 0.10 -1 91.1 74.9 
+14" (7,7) 10 2 . 0 100.0 85.8 
+15 (6,6) 10 2 0.05 -5 80.8 73.2 
+15' (6,6) 10 2 0.08 -2 97.4 83.0 
+ 4-SEALED-BID (PQv) AUCTION: LONG-TERM CONTRACTS 
+Contract Maximum  Last 
+Number Ratio  Price Quantity Trial, * Number  Buyer'  Deviation, Deviation, (Number (Buyers, Trials, Seller' Period *, Period *, Agree, Disenfran-
+Experiment Sellers)  Surplus Pt'-pO Qt�-Qo  Veto,  chised) Efficiency 
+8' (4,4) 8 2 -0.07 -3 8 (3) 53.3 
+9v (4,4) 8 2 0.10 -1 7 () 91.1 
+IOv (3,3) 8 1/2 -0.15 -2 4 (2) 43.3 
+' (3,3) 8 2 -0.05 -2 4 (0) 93.3 
+12' (4,4) 10 2 .  10 (0) 100.0 
+number indicate   experiment   , "experience" session  two�experiment sequence ( different marginal values  costs) using  same subjects. exception  experiment 14"    subjects   experienced, having     more previous sealed-bid auctions    PLATO experiments   
+DA. 
+Figures 5  6 display  period-by�period contracts  experiments l3  15'.  results  typical   tendency  prices   above ( below,   ratio  buyer'  seller' surplus  1/2)  com�petitive equilibrium   indicated   price deviations  column 5   3. Similarly,  exchange quantity tends      units below  competitive al�location,  indicated  column 6   3.   5,  reader  note  abrupt reduction   exchange quantity  period 6.    atypical,  appears   interpretable  strong attempt  several buyers  sellers  influence  price. 
+ 7 plots  vetoed price-quantity results  trials  through 6,   trial 7 long-term contract outcome  experiment 9v. Again,  results  representative   voting experiments  reached agree�ment. 
+  obvious  Tables 2  4  support  lacking   hypothesis  some version   PQ mechanism  out�perform DA.   rank order  efficien�cies, ,   periods, using   eleven DA experiments   2   compara�ble  eight PQ experiments  ~ble 3,  Wilcoxen two-sample rank test yields  value ~ = -3.32   test statistic (asymptotically unit normal deviate).  hypothesis   DA andPQ mechanisms   equivalent efficiency  rejected ( = 
+96  IIt@ii2881AIIRi Illsli\osCloaJ 
+SMITH .: COMPETITIVE MARKET INSTITUTIONS
+. 72 .1 
+Price 
+4.70 
+4.50 
+4.30 
+4.10 
+3.90 
+3.70 
+3.50 
+3.30 
+3.10 
+10
+7 9
+8
+4 
+6
+12 
+5
+3 
+ 
+�
+� � 
+ 
+ 
+ 
+ 
+0 44
+5
+2 
+5
+5 
+5
+22 
+3
+ 
+Period 
+Quantity Exchanged 
+2 4 6 8 Quantity 
+ 5. PQ Experiment 13 
+Price Period
+10
+9
+7 86
+4 
+52 3 
+......................... 
+...,....~......... 
+............... 
+ 
+4 9 8 
+9 
+8 9 
+10 10 10 
+10 
+Quantity 
+~~~~~~~~__-LJ-__-L__-L__-L__-L__-L__~____~__-L__~Bdm~ 246810121416 
+Quantity 
+ 6. PQ Experiment 15' 
+0.00045).  hypothesis  better using  Wilcoxen test   period 7 efficiencies  ~= -1.32 ( =0.09).  suggests  possibility   time,  experi�ence, subjects  PQ  approach  ef�ficiency manifest  DA. ,  fact  PQ experiments 14"  15' ( 3) showed high efficiency  period 7, suggests  combination  larger numbers / in�creased experience  cause  PQ ef�ficiency  approach   DA. 
+ efficiency results   voting (taton�nement) versions  PQ  highly erratic ( 4).  five   PQv experiments reached unanimity allocation.    (9v, ',  12') compare favorably   DA experiments,   remaining  did  worse   DA experi�ment. , somewhat surprisingly,    latter experiments (8', 9v,  lOv) 
+Co   � 2001   hts Reserved 
+ 2 3 4 5 6 7 Tnal 
+Pnce 
+ 
+5 10 
+Quantity3
+,,,,,-D--L---1.....J2,-3--,--5--,-4-,-_5--,--5--1 Exchanged 
+246 8 
+Quantity 
+ 7. PQ Experiment 9v 
+reached unanimity   least  sub�ject  disenfranchised.   thought  disenfranchisement rule  create stronger incentives  bid high (offer low) enough  assure nonexclusion   market. 
+. Further Analysis ofPQ: 
+ m-m Hypothesis 
+Prices   PQ mechanism show per�sistent bias upward  buyers' surplus exceeds   sellers.  experiment 8 (Ta�ble 3)  surplus ratio  reversed  price  biased below  CEo  think  results  related   frequent at�tempts   buyers  sellers  in�fluence price   advantage   side   exchange. 
+  PQ market    NE   particular trial,   clearly possible  individual  determine price  / ad�vantage. , suppose  period 2,  (),  anyone    sellers, Sl, S3,  S4   offer $4.99.    best reply, although  sr reply,  period 
+1.  strategy  yield higher price, providing benefit   sellers (except S2).  fact, given  dr bids   buyers  period 2,   sellers  somehow put together cooperative response   S2  S3 give    units (  behaviorally reasonable   sale    units  risky), then    sellers  raise  price  $5.09  offering  amount.  sellers hold   behavior,   induce buyers  bid  shown  period 
+2.  illustrates  strategic possibilities   PQ mechanism. Buyers  similar strategic opportunities  sellers  prone  sr behavior. little calculation shows   monopoly price   lea)  $5.30 (achievable   sellers withhold  sec�ond units   buyers reveal   unit demands).  monopsony price  $4.70 (achievable   buyers withhold  sec�ond units   sellers reveal   unit supply). monopoly-monopsony price  $5.00   achieved  SI-S3  BI-B3  withhold   units,   group settles  split-the-difference (5.30-4.70) compromise price  $5.00. ,   price S4  B4  trade   units without disturbing  equilibrium.  alternative static price-quantity hypotheses  summarized   5. 
+  compare  period 7 price devia�tions   3   behavioral hy�potheses summarized   5,   clear    serious alternatives   CE  m-m hypotheses. Neither  monopoly   monopsony alternatives  remotely supported   data.   let Ho   CE (null) hypothesis (P_p =0),  HI   single m-m alternative hypothesis (P_po = 0.1)   considered,  results   reported   classical ex-f3 (Type I-Type ) error framework.  mean  variance   price deviations (col. 5)    eight experiments   3  =0.091,  =0.002755, respectively.14   choose ex error  .oI ( probability  rejecting Ho,  accepting HI'   fact    incorrect), then  critical value   price deviation  Pc=" (~/Ny/2 =0.054.  I-value under HI  then  =(0.054-0.)/(~/)/2 = -2.48 corre�sponding  f3 error ( probability  accepting Ho,  rejecting HI'     incorrect)    0.025. Con�sequently,  "power"   test  1-f3 > 
+0.975 ( probability  correctly rejecting 
+14In  calculation  change  sign  P7 -pO = -0.10  experiment 8  correspond   design change  reversed  surplus ratio  2  1/2. 
+. /rj  � 2001   hts iewprod 
+. 72 .1 SMITH ETAL: COMPETITIVE MARKET INSTITUTIONS  5-ALTERNATIVE PQ HYPOTIIESES USING  2 PARAMETERS 
+Price p_po Quantity 
+Competitive Equilibrium 4.90 0 6  
+Monopoly Equilibrium 5.30 0.40 4 -2 
+Monopsony Equilibrium 4.70 -0.20 4 -2 
+m-m Equilibrium 5.00 0.10 4(5)" -2(-1) 
+" quantity  5  B4  S4  trade  units. 
+ 6-SEALED-BID (()) AUCTION; SHORT-TERM CONTRACTS 
+Ratio  
+Number Final Buyer'  Price Quantity 
+(Buyers, Period, Seller' Deviation, Deviation, Efficiency, Efficiency, 
+Experiment Sellers)  Surplus Period 7 Period 7 Period 7  Periods 
+1 (4,4) 10 2 0.12  97.8 93.1 
+2 (4,4) 10 2 0.22 -2 75.6 78.2 
+3 (4,4) 10 2 0.05  100.0 86.0 
+3' (4,4) 10 2 0.10  91.1 96.7 
+4 (4,4) 10 2 0.02  100.0 82.4 
+5 (4,4) 10 2 -0.04 -2 84.4 89.1 
+5' (4,4) 10 2 .  100.0 97.8 
+Ho  accepting HI)' ,   sample, =0.091  experimental outcome  well   region (.., above Pc =0.054)    accept HI  reject Ho.  quan�tity deviation prediction   m-m hypothe�sis (  -2)  supported      eight experiments   3. Conse�quently,  appears   data   interpreted  follows:  group  buyers   group  sellers  attempt  manipulate price   groups' advantage;  leads  prices  vary randomly around  midpoint   monopoly  monopsony prices, depending upon     buyers   sellers     successful   effort.   prices   usually possible  trade five,  some�times  four, units.     noted   similar calculations  made using  mean price deviations   double auction (col. 5,  2)  results fail  provide significant support   m-m hy�
+15We  indebted  Morton Karnien  suggesting possible "bilateral bargaining" interpretation   PQ experimental results  led us  formulate  m-m hypothesis. 
+Copyright � 2001  Rights Reserved 
+pothesis ( example,  mean   DA price deviation  =0.05. Furthermore,  larger group DA experiments show nega�tive price deviation,   large group PQ experiments continue  show positive ( reduced) price bias. 
+. Comparison ofDA, PQ,  () 
+ results  seven experiments using  () mechanism  short-term contracting  listed   6. priori,    expect ()  perform  well  PQ,   results  contrary   hypothesis.  mean price deviation  period 7  ()  .067, compared  .091  PQ. Similarly,   period 7 efficiencies   efficiencies   periods tend   greater  ()   PQ (compare Tables 3  6). Based  Nash equilibrium theory,  expect  efficiencies    institutions   ranked [DA]= [PQ]> [()],   price deviations   competitive equilibrium   ranked [DA]= [PQ]< [()]. Neither   hypotheses  supported.  () auction comes closer  PQ  approximat�
+ MARCH 1982  7-SEALED-BID (()) AUCTION: LONG-TERM CONTRACTS 
+Contract 
+Maximum  Last 
+Number Ratio Price Quantity Agree, Trial, * 
+Number  Buyer'  Deviation, Deviation,  Veto,  (Number 
+(Buyers, Trials, Seller' Period *, Period *, (Number  Disenfran- 
+Experiment Sellers)  Surplus Pt'-pO Qt�-Qo Vetoes) chised) Efficiency 
+6v (4,4) 10 2 0.Q2  4 (0) 97.8 
+6' (4,4) 10 2 0.Q2  3 (0) 100.0 
+7v (4,4) 10 2 0.17  9 (0) 100.0 
+8v (4,4) 10 2 0.Q2  () 10 (0) 0 (100.0) 
+8' IOv (4,4) (4,4) 10 10 2 2 0.01 -0.01  -2 9 (0) 9 (0) 100.0 93.3 
+IIv (4,4) 10 2 0.01  () IO () 0 (88.9) 
+' (4,4) IO 2 -0.09  6 (0) 100.0 
+I2v (4,4) IO 2 0.04  7 (0) 100.0 
+I2' (4,4) IO 2 0.03  2 () 9l. 
+ing  high performance standards  DA.  appears   temptation  buyers (sellers)  raise (lower)  marginal bids (offers)  get  units accepted tends  outweigh  temptation  influence  price level   marginal bids (offers).  con�trasts sharply  PQ    evidence suggests   "all-or-nothing" character   bid-offer mechanism increases individ�ual attempts  influence  price level.  hypothesized greater discipline  PQ   () simply   supported.  results raise serious questions    explanatory power   Nash equilibrium concept   context   particular experiments. 
+.  () Better  DA? 
+ results  ten () experiments using long-term contracting (voting  disen�franchisement)  shown   7. Five   ten experiments  100 percent effi�cient,  outperformed   DA experi�ments   2. ,  experiments, 8vand llv, failed  reach agreement  ten trials.  8v  subject  vetoed  100 percent efficient outcome (shown  paren�theses)   last trial simply did  realize  veto   point meant  payoff. ,    experimental groups reached agreement    follow-on "experienced" sessions, 8'  '.   conclude    four sealed-bid institutions    compared  DA  ()   well  better  DA. Based  Nash theory  expect DA, PQ,  PQv  behave comparably   approach CE allocations more consistently  ()  ().  opposite behavior  observed. () performs better  PQ though  quite  well  DA,  () seems clearly    least  good      institutions. 
+. Individual Behavior   Sealed-Bid 
+Mechanisms 
+ view   discussion  best-reply strategies  Section ,     interest  examine  trial-by-trial choices  indi�vidual subjects   PQ, PQv, (),  () experiments. summary   choices, classified  subject experience,   number  buyers  sellers  con�stitute  market,  enumerated   8.   column  data lists  number  subjects participating   experiments  particular classification. 
+  column lists  total number  subject-trial replies  aD. experiments  given classification. Column  shows  total number ( percent  column 2)   responses   simple best replies,  row four lists  total number ( percent  column 3)  responses   dr  sr replies.  best-reply percentages  quite stable (80-83 percent) across  PQ treatments,   dr (sr) percentages 
+Cgnvrjnht @ 2001  RiQhts Resepwd 
+. 72 .1 SMITH ETAL: COMPETITIVE MARKET INSTITUTIONS  8-SUMMARY  INDIVIDUAL CHOICES, PQ, PQv, (), () ExPE~MENTS 
+Number(%) 
+Total Number(%)  
+Number  Choices Best Rep1ys 
+Subject Reply     
+Total Choices  Best Demand 
+Subjects  Trials Rep1ys Revealing 
+PQ 
+6-8 Buyers & Sellers 
+Inexperienced 39 321 263 (82%) 26 (10%) 
+Experienced 21 175 145 (83%) 35 (24%) 
+12-14 Buyers & Sellers 
+Inexperienced 12 108 86 (80%) 9 (10%) 
+Experienced 26 269 216 (80%) 53 (25%) 
+PQv 
+6-8 Buyers & Sellers 
+Inexperienced 14 66 56 (85%) 8 (12%) 
+Experienced 22 138 128 (93%) 31 (22%) 
+() 
+8 Buyers & Sellers 
+Inexperienced 40 571 459 (80%) 85 (14%) 
+Experienced 16 230 217 (94%)  (51 %) 
+() 
+8 Buyers & Sellers 
+Inexperienced 48 498 424 (85%) 84 (20%) 
+Experienced 32 272 242 (89%) 74 (31%) 
+Note: PQ  ()  short-term contracts; PQv  ()  long-term contracts, unanimity, included agents. 
+approximately double  experienced sub�jects. ,  tendency  make "stra�tegic" choices (defined   complement  best replies)   change     treatment conditions,    set  best-reply choices  tendency  revelation increases  experience.  PQv   seen  voting causes increase  best reply choices, particularly  experienced sub�jects (93 percent). 
+  () mechanism,  percent  
+choices   best replies (80 percent)  
+  same   PQ  inexperienced 
+subjects,  increases (94 percent)  expe�
+rienced subjects. ,  tendency  
+ 
+(sr) behavior  greater  ()   
+ PQ  PQv   inexperienced  
+experienced groups.  ()  best-reply 
+percentages    same   (), 
+  dr (sr) percentages  lower  
+. experienced subjects.  data suggest  
+ high performance  ()  () 
+relative  PQ  PQv   clearly  
+consistently related  stronger tendency  
+make best-reply,  revealing, choices   former.   suggest   poorer performance  PQ  PQv  due   block trading feature  increases  number  missed trades. ,  conse�quences  given tendency  behave stra�tegically  more serious   PQ  PQv mechanisms. 
+. Summary 
+Based   forty-eight experiments com�prising  present study  conclusions   summarized  follows: 
+. Prices  nearer   theoretical competitive equilibrium values   DA    PQ mechanism.  PQ,  price�quantity outcomes  best explained  monopoly-monopsony equilibrium     hypothesized  buyers withhold de�mand  attempt  obtain monopsony profit; sellers simultaneously withhold supply  attempt  achieve monopoly profits;     sides settle  split-the-
+Co   � 2001   hts Reserved 
+difference compromise price half way be�tween  monopoly   monopsony price. 
+2. 
+Overall efficiencies  significantly higher under DA exchange  under  PQ mechanism. ,  efficiency dif�ference  smaller   period 7 efficiency comparison    comparison  over�all efficiency.  narrowing   dif�ference suggests  possibility   more experience subjects  PQ  approach  efficiencies obtained  DA. 
+3. 
+ unanimity tatonnement version   sealed-bid mechanism, PQv,   provide improvement  performance   PQ mechanism  short-term contract�ing. Efficiency   price outcomes  PQv   erratic   PQ. 
+4. 
+ () mechanism,  allows buyers (sellers)  submit demand (supply) schedules, yields better results  terms  price  efficiency outcomes   ob�tained  PQ. Although ()   perform  well  DA,  comes closer   DA standard   PQ.  result  contrary  expectations based  Nash equi�librium theory   competitive equi�libria    Nash equilibria  PQ    () (computed net  commis�sions). 
+5. 
+Adding  unanimity tatonnement feature   last mechanism, called (), yields performance  least  good  DA. Again,    consistent  Nash pre�dictions. 
+6. 
+ analysis   mass  individual choices   PQ mechanism indicates   percentage  strategic responses (    best reply choices)  approxi�mately constant (17-20 percent)   trading group  small (6-8)  large (12-14), experienced  inexperienced. , un�der PQv  responses decline   7 percent  experienced groups. Approx�imately  same incidence  strategic responses  PQ occurs   () experi�ments.  same observation applies  com�paring PQv  ().  appears  important advantage  ()  ()  PQ  PQv    former pro�duces few missed trades attributable   Qlock trading characteristic   latter, 
+without causing  significant increase   incentive  underreveal demand  supply. 
+REFERENCES 
+Carlson, John ., " Stability  Experi�mental Market  Supply-Response Lag," Southern Economic Journal, January 1967, 33, 299-321. 
+Dubey, .  Shubik, ., " Strategic Market Game  Price  Quantity Strategies," Zeitschrift fur Nationalokonomie, 1980,60, 24-34. Easley, David  Ledyard, John, "Notes  Theory  Price Formation  Exchange  Oral Auctions," Northwestern Univer�sity, November 1980. 
+Fouraker, .  Siegel, ., Bargaining Behav�ior, New York: McGraw-Hill Book Co., 1963. 
+Groves, .  Ledyard, ., "Optimal Alloca�tion  Public Goods: Solution   'Free Rider Problem'," Econometrica,  1977, 65, 783-809. 
+Hazard, . .  Christie, .,  Investment Business, New York: Harper  Row, 1964, 177-78. 
+Isaac, .  Plott, . ., (1981a) " Op�portunity  Conspiracy  Restraint  Trade," Journal  Economic Behavior  Organization, March 1981,2, 1-30. 
+__  __, (l98Ib) "Price Control   Behavior  Auction Markets: Experimental Examination," American Economic Review, June 1981, 71,448-59. 
+Jarecki, . ., "Bullion Dealing, Commodity Exchange Trading   London Gold Fixing:  Forms  Commodity Auc�tions," Essay 16  . Amihud, ., Bid�ding  Auctioning  Procurement  Allocation, New York: New York Univer�sity Press, 1976, 146-54. 
+Ketcham, Jon, Smith, . .,  Williams, . ., " Behavior  Posted Offer Pricing In�stitutions," Southern Economic Associa�tion Meetings, Washington, .., Novem�ber 5-7, 1980. 
+Ledyard, John, "Alternatives   Cournot Hypothesis," presented   Summer Meeting   Econometric Society, Boulder, Colorado, June 1978. 
+Copyright � 2001  Rj hts Resepted 
+. 72 .1 SMITH .: COMPETITIVE MARKET INSTITUTIONS 
+Mendelson, ., Peake, . .,  Williams, Jr., 
+. ., "Toward Modem Exchange:  Peake-Mendelson-Williams Proposal  Electronically Assisted Auction Mar�ket,"  . Bloch  . . Schwartz, eds., 
+Impending Changes  Securities Markets:  Role   Exchanges, Greenwich: JAI Press, 1979, 53-74. 
+Miller, . ., Plott, . .,  Smith, . ., "Intertemporal Competitive Equilibrium: Empirical Study  Speculation," Quarterly Journal  Economics, November 1977, 111, 559-624. Plott, . ., "Theories  Industrial Organiza�tion  Explanations  Experimental Market Behavipr," FTC Staff Seminar  Antitrust Analysis, June 5-6, 1980. 
+___  Smith, . ., " Experimental Examination   Exchange Institu�tions," Review  Economic Studies, February 1978, 65, 133-53. Shubik, ., " Price-Quantity Buy-Sell Mar�ket   Without Contingent Bids," Cowles Foundation Discussion Paper . 445,  16, 1977. Smith, . ., " Experimental Study  Competitive Market Behavior," Journal  Political Economy, April 1962, 70, 111-37. 
+___, "Effect  Market Organization  Competitive Equilibrium," Quarterly Jour�nal  Economics,  1964, 78, 181-20l. ___, "Experimental Auction Markets   Walrasian Hypothesis," Journal  Political Economy, August 1965, 73, 387�
+93. 
+___, "Bidding  Auctioning Institu�tions: Experimental Results," Essay 6  
+. Amihud, ., Bidding  Auctioningfor Procurement  Allocation, New York, 1976,43-64. 
+___, "Incentive Compatible Experimental Processes   Provision  Public Goods,"   Research  Experimental Economics, . 1, Greenwich: JAI Press, 1979. 
+___, "Theory, Experiment  Antitrust Policy," FTC Staff Seminar  Antitrust Analysis, June 5-6, 1980. 
+___, " Empirical Study  Decentral�ized Institutions  Monopoly Restraint,"  . Quirk  . Horwich, eds., Essays  Contemporary Fields ofEconomics  Honor 
+Copyright � 2001   
+ . . Weiler, West Lafayette: Purdue University Press, 1981. 
+___ et ., "Competitive Market Institu�tions: Double Auction Versus Sealed-Bid Auctions," department  economics dis�cussion paper, University  Arizona, November 1980. 
+___  Williams, . ., " Experimen�tal Comparison  Alternative Rules  Competitive Market Exchange," Yale Uni�versity Conference  Auctions  Bid�ding, December 1979; revised March 1980. 
+__and __, (1981a) " Boundaries  Competitive Price Theory: Conver�gence, Expectations  Transaction Cost," Public Choice Society Meetings, New Orleans, March 13-15, 1981. 
+__  __, (1981b) " Nonbind�ing Price Controls  Competitive Market," American Economic Review, June 1981,71,467-74. 
+__  __, (1981c) "  Effects  Rent Asymmetries  Experimental Auction Markets," Public Choice Society Meetings, New Orleans, March 13-15, 1981. Vickrey, William, "Counterspecu1ation, Auc�tions,  Competitive Sealed Tenders," Journal  Finance, March 1961, 16, 8-37. 
+___, "Auctions  Bidding Games,"  Recent Advances  Game Theory, Prince�ton University Conference, Princeton: Princeton University Press, 1962, 15-27. 
+___, "Auctions, Markets,  Optimal Allocation," Essay 2  . Amihud, ., Bidding  Auctioning  Procurement, 
+New York, 1976, 13-20. Walker, . ., "Competitive Tatonnement Ex�change Markets," Kyklos, 1972, 25, 345�
+63. 
+___, "Edgeworth' Theory  Recon�tract," Economic Journal, March 1973, 83, 138-49. 
+Williams, . ., "Intertemporal Competitive Equilibrium:  Further Experimental Results,"  . . Smith, ., Research  Experimental Economics, . 1, Green�wich: JAI Press, 1979. 
+___ , "Computerized Double -Auction Markets: Some Initial Experimental Re�sults," Journal  Business, July 1980, 53, 235-58. 
+hts Reserved 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

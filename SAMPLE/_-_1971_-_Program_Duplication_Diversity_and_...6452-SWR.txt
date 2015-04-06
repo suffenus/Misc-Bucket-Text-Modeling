@@ -1,0 +1,223 @@
+Program Duplication, Diversity,  Effective Viewer Choices: Some Empirical Findings* 
+ HARVEY . LEVIN 
+Hofstra University  Center  Policy Research 
+ broadcasting,  standard   industry  regulatory performance  increasingly evaluated  program diver�sity.  government hopes thereby  avoid  charge  dictating audience preferences    same time safe�guarding  minority rights   industry  sensitive   told   ig�nored. Program duplication  diversity assume special importance  age  informed experts disagree   precise program mix best-suited  democratic social-political processes.   im�portant    continued absence  demand prices  particular program outputs further complicates  task  regulation,   current spectrum scarci�ties   technical barriers  entry  result. 
+ wider  range  available pro�gram types,  greater  number  possible choices   more varied  tastes  audiences accommodated. , new TV entrants  tend  duplicate  incumbent rivals' pro�gramming  long   market share   thereby command  exceed    otherwise preempt  new program type. According  . 
+* ongoing research reported   supported   Augustus . Weller Chair  Economics  Hof�stra University  grant   National Science Foundation.  greatly indebted  frequent talks   regressions  Howard Kitt   commented   final draft,   Richard Walko  invaluable help   computer runs. 
+81 
+Steiner  . Rothenberg, duplication  more likely  occur,  fewer  sta�tions   market   outset,  greater  disparity   sizes   different listener groups   smaller  disparity   audi�ence shares  competing stations. 
+Dramatic advances   cable  sat�ellite technologies, plus devices  impose  program viewing charges,  make possible greater diversity   near  middle term.    diversity  materialize  fact,   quickly?  seeking answer,  makes sense  start  analyzing today' conventional TV broadcast programming, still  ne�glected data source   complex em�pirical problem.   approaches ex�amined below,     widely utilized,    innovated  years ago  industry-commissioned study  diversity,   third, following Steiner,  offered    time  today. 
+1. Prime Time Shares  Major Program Types: Exploratory Study 
+ major TV programming studies  normally sought  estimate  rela�tive amount  broadcast time devoted  different program categories   net�work show sheet,   selected groupings  types  stations.  approach  serious limitations   analysis  pro�gram diversity,   basic information 
+82 
+ generates still makes  likely place  start. 
+Derived  data compiled   79 regional issues  TV Guide   week  Feb. 25, 1967, ..,  initial findings appear broadly consistent    studies  others   mid�1950'.   2,  changing num�bers  commercial stations   rough stability ( except   largest markets)    aggregate prime time share   overall program categories    mean values   specific types allocated    . Superfi�cially  pattern suggests growing dupli�cation   point, insofar   pro�gram mixes  markets  more stations resemble   fewer stations.    hand,  1 shows   pro�gramming  ETV  commercial sta�tions decisively supplements ( dupli�cates)  , irrespective  market size. Therefore ETV' entry   com�mercial market  alter  program mix  away   entertainment�types towards  informational ones.   2  shift actually occurs  ETV appears  erstwhile three-station market  suggests greater diversity, sooner,   new commercial entry. 
+ critical dilemma   approach    report  full array  time�shares information  substantial breakdown  program types, separately  number  type  station  market size,  produce bewildering mass  results impossible  draw     general conclusion . Yet  mean values  prime time shares  se�lected groups  program types (assigned  few overall classes) might well mask inter-category shifts   number  types  stations vary. more explicit analysis  viewer choices  some sim�plifying statistical construct  clearly needed. Fortunately  extensive classifi�cation  TV programs,  substance  
+...... 
+.! 
+..04 
+~ 
+~ 
+
+') 
+t-1--+------------�
+~ 
+ 
+= 
+ 2-PRIME TIME TV PROGRAM TIME SHARES  NUMBER  TYPE  STATION  MARKETS SIZE, FEB. 1967 
+( proportions  1.000) 
+.  Mkts. 
+.  Sta. 
+Comm'lMkt. 
+ 
+1 
+54 2 
+22 3 
+51 4 
+15 5!&more 
+8 
+Comm' &ETV 
+53 19 34 25 19 
+
+Entertainment 
+Comm' IComm' 
+ &ETV 
+Type  Info 
+Comm' IComm' 
+ &ETV 
+Type  Info 
+Comm' IComm' 
+ & ETV 
+Mean Proportions  Overall Categories* 
+.072 .072 .073 .072 .067 
+.072 .072 .072 .064 .063 
+Notes  Program Coding Used  Tables 1  2 
+.028 .029 .026 .028 .028 
+.028 .030 .028 .038 .038 
+.009 .005 .005 .006 .012 
+.009 .008 .008 .014 .017 
+Entertainment 
+Comm' IComm' 
+ &ETV 
+Type  Info 
+Comm' IComm' 
+ &ETV 
+.823 .826 .838 .825 .792 
+Type  Info 
+~ 
+t-t
+Comm' IComm' 
+ 
+Aggregate Proportions  Overall Categories** 
+.823 .819 .825 .744 .732 
+.144 .146 .133 .143 .149 
+.145 .153 .143 .206 .206 
+.031 .026 .027 .039 .058 
+tTl
+&ETV 
+<
+ 
+en 
+ 
+.031 .027 ~ .030 .049 .061 ~ 
+ 
+ 
+~ 
+ 
+()  Code: Entertainment: Adventure/Mystery/Police; Comedy; Variety; Westerns; Feature Film; Light Drama; Heavy Drama; Light Music; Heavy Music;  Sports Events; Specials. Type  Information: News/Weather/Sports; Travel; Light Talk/Variety Info; Heavy Talk/Special Talks; TV course. Type  en Information: Discussion/Debates/ terviews; Documentary/News Specials; Religious; Political/Editorials. 
+~ 
+(2)  Derivation: Especially helpful  . Steiner,  People Look  Televisioll (1963), chs. 5-6,  App. , Tables 10-11 (Master Program Codes);  
+)�
+typology used  . . Nielsen & Co.;    detailed program classification devised   National Association  Educational Broadcasters   () mid-1950'. Pertinent points   raised   program departments   major TV networks. t-3 
+en
+(3)  Application:  study  limited   prime time programs (6-11 )   stations (except satellites  foreign language)   75 largest  75 smallest markets reported   issues  TV Guide, Feb. 25-March 3, 1967.  minimize errors  judgment, programs  normally allocated according )�to official breakdowns   Network Showsheets,  published descriptions  TV Guide,   listings  classifications  Broadcast Measurement  Bureau, Series, Serials,  Packages- TV Film Source Book, . 6, Issue #2 (1965-66),  Issue #2S (Fall 1966}.  borderline cases, telephone inquiries :1  made.   doubt programs  classified against  hypotheses  tested ,  deficiencies    rectified, simply classified  
+'"
+" available".  analytic convenience  logs  subdivided  IS-minute units.  market categories refer  markets  sample ,    coincide   actual distribution  TV markets. ~ 
+ 
+ Program Time Typei () 
+ 
+* =calculated  follows:   tTl 
+en
+= 1 Total Prime Time 
+ 
+**Aggregate proportions   sum  1.000 due  rounding. 
+..> 
+84 
+ past studies, permits construction  Index  Program Diversity  meets  requirements. 
+. Index oj Program Diversity 
+Shortly  completion   explor�atory research, . Land Associates, under commission   National Association  Broadcasters, prepared Index  Di�versity based  similar 20-point cod�ing  logs  188 TV stations located  sample  59 markets covered  TV Guide   week  April 27, 1968. (See 
+. Land Assoc., Television   Wired City, 1968, ch. 2).  Diversity Index  defined  weighted mean rank  program categories   market, using  number  broadcast hours  weights,   DI = 
+.rh 
+. 
+wherein "   rank (1-20)   par�ticular market   program classifica�tion, determined  ordering categories according  total broadcast time devoted   ( sample week);     number  half-hours  programming time devoted   category."   conceived, low values   Index  indicate concentration towards   popular program types,  high values greater equality  time    popu�lar types  greater interest  minority taste groups. 
+  things, Land Associates concluded  rise  commercial sta�tions    six (  evening schedule) raised  Diversity Index 20%, though  declining rate   station entered  market.  Index rose 3.5%   station,   3%  sixth station.  contrast, add�ing single ETV outlet  five-station commercial market raised  Index  25%  adding  ETV  two-sta�tion market raised  Index full 41 %.    margin,  ETV entrant  rated 8-12 times more potent  raising diversity   more commercial sta�tion. 
+Though valuable step forward,  approach too  important drawbacks. Conceivably low diversity   mea�sured might  consistent  substantial viewer choices  hour-by-hour basis. Suppose   station  two-station market carries  identical number  30�minute units  four program types. Be�cause  program rankings (  weights)  identical   stations,  Land Index  indicate zero diver�sity.  suppose,   stations actu�ally staggered  30-minute periods dur�ing   broadcast  common program type,   viewers   period   week  choice   different program types.   then say  viewers   maximum effective choice,  ,  different pro�gram types   30-minute period,  70 "actual"   70 "potential" choices. 
+Regulatory constraints   nor�mally induce profit-maximizing stations  stagger  programs   way,   Land Index     erroneous   extreme example suggests. Never�theless,  seems essential  cast  Di�versity Index  form far more respon�sive   pattern  hourly viewer choices. 
+. Analysis oj Effective Program Options 
+ start,   define Coefficient  Viewer Choice  = 
+ Po =  actual number  program options  stations   market gen�erate  some series  arbitrarily de�fined time periods;   Pt =  maximum number  options viewers     period  filled   station  program type different   simultaneously broadcast    stations   market.   ex�treme,  coefficient  vary   reciprocal   number  stations   market (perfect duplication)   (perfect diversity). 
+ practical matter,  composite dependent variable poses  problem  downward bias  rising numbers  sta�tions, due  part   fixed number  program types used throughout,   part   smaller portion  prime time   some stations  smaller markets broadcast  .    increase  likelihood  spurious statistical results.  problems  more readily handled  defining "viewer choices"   abso�lute number  prime time program differ�ences   market throughout  week,   subsequent analysis finally employed  variable. 
+ results summarized  Tables 3  
+4  actually derived  modified sample  88 markets  279 stations, left   removal   one-station markets (relevant   initial study  prime time shares    viewer choices),   further adjustments  insure  data comparability, accuracy  completness needed  regressions.  convenience  converted  original 20-point code  coincide more closely    used  Land Associates. 
+. Average Number oj Program Options 
+ Markets  Varying Numbers oj Commercial Stations 
+ 3 presents  unweighted mean values   actual number  commercial program options,  number  stations   market.  comparison   added  comparable values  Land Associates.   cases,  number  program options rises  rising numbers  stations,   rate  increase   options declines.  new stations enter,  ,   diminishing marginal in�crement   absolute level  viewer choices. 
+ 3-AVERAGE NUMBER  PROGRAM OPTIONS  NUMBER  STATIONS  MARKET (Commercial ) 
+Average Number  
+Percent Increases 
+.  Markets .  Stations Program Options  Program Options ChangeNo.   .  Comm' PercentLandLand Sta.  
+Increase
+Sta. 
+Levin
+ Mkt. Mkt.
+Levin Levin
+Land Land 
+Levin
+(eve.) (full (eve.) (full)(eve.) sched) 
+  12  12 1.00" 1.00 1.00 
+2 19 12 38 24 .74 1.72 .71 74" 72 71   2 100 
+3 50 12 150 36 2.40 2.44 2.31 38 42 35 2  3 50 
+4 12 10 48 40 2.89 3.14 2.66 21 29  3  4 33 
+5 2 6 10 30 3.40 3.61 3.10 18  17 4  5 25 
+6 3 6 18 36 4.10 4.13 3.38 20 14 9 5  6 20 
+7  7 4.71  6  7 17 
+8  8 5.12 9 7  8 14 
+9 8  9 13 
+10 1 10 6.05 4.38 (5) (4) 9  10  
+Total 88 59 279 188 
+( ) =estimated  Land' curvilinear projection   average number  options  stations rise  9  10. 
+� =hypothetical value 
+Lmn Program Code: Dramatic Adventure, Cartoons, Children, Situation Comedy, Drama, Qui.  Came, Popular Music, Fine Arts, Sports Events, Serials, Variety, Feature Film, News, Instructional (light), Instructional (heavy), Interview, Discussion & Debate, Political, Docu�mentary & News Specials, Religious. 
+Comment: Distinction  "light"  "heavy" instructional programs adapted  Cary Steiner,  People Look  Television.   categories correspond   . Land Assoc., Tele1Jis;   Wired Cily (1968), see . 56-58. 
+ 4-MULTIPLE REGRESSIONS  VIEWER CHOICES  88 TELEVISION MARKETS, FEB. 1967 (Regression Coefficients   Standard Errors) 
+86 
+Dependent Variable, " Total Choices Equa-Constant Adj. tion Term . . . . , . . XlO " ' 
+76.9424 .0081� .8642 .5529 .5984 .96651 
+(.0043) (.0565) (.0261) (.0432) 
+90.1182 .0073� .8678 .5587 .5671 .96644 
+(.0044) (.0566) (.0279) (.0234) 
+89.8423 .0078� .8674 .5613 .5655 .96634 
+(.0044) (.0567) (.0299) (.0230) 
+89.6549 .0077� .5648 .8670 .96634 
+(.0043) (.0226) (.0563) Dependent Variable, " Commercial Choices 
+77 .1893 .0075� .5423 .5947 .94483 
+(.0037) (.0236) (.0392) 
+6 92.3780 .0067� .5481 .5594 .94422 
+(.0038) (.0251) (.0210) 
+92.0752 .0073� .5502 .5575 .94412 
+(.0037) (.0270) (.0207) 
+91.0142 .0069� .5576 .94412 
+(.0037) (.0202) 
+Note:   26 regressions run, equations  reported    best fit   dependent variables.  coefficients significant  1% level  two-tailed test, except  marked  asterisk   significant  10% level. 
+ =introduction   variable lowered value  adjusted &  coefficient  insignificant  10% level. 
+ noted,  fixed number  program types makes  some downward bias,  probability  choice  smaller  more numerous  stations  vice versa. Nevertheless,  20-point code uses  best-known program types,   coded logs unquestionably represent  kind  TV output actually available today. Therefore, some   bias pre�sumably  substantive relevance   real world  television.    practical count  distortion seems  best negligible, namely,  sheer detail  20-point code   relatively few sta�tions   sample (one-seventh) operat�ing  markets  more  four sta�tions.     case  noted     categories   similar    probably some offsetting bias  favor  choice. 
+. Regressions  Viewer Choices 
+ full range  variables analyzed   4 below  : 
+Dependent Variables 
+Xl = number  viewer choices   sta� 
+tions  market (including ETV). 
+X2 = number  viewer choices   com� 
+mercia! stations  market (excluding 
+ETV). 
+Independent Variables 
+Xa = ARB net weekly circulation  market, divided  number  quarter-hour program units broadcast   com�mercial stations therein, 
+X4 = number  quarter-hour program units broadcast  commercial stations. 
+X5 = number  quarter-hour program units broadcast  ETV stations. X6 = number  quarter-hour units broad�cast  independent stations. X7 = number  quarter-hour units broad�
+cast  network affiliates  stations. 
+Xs number  quarter-hour units broad�
+cast  single-owned stations. 
+X9 = number  quarter-hour units broad�
+cast  group-owned stations. 
+X10 = number  quarter-hour units broad�
+cast  newspaper-owned stations. Xu = number  quarter-hour units broad�cast  non-newspaper stations. 
+   noted  Xa divides net weekly circulation ( better predictor   TV homes)  X4, proxy   number  commercial stations more accu�rate   purposes   actual num�ber itself. Comparable proxies  used    independent variables too, main�ly  stations   types     market classes always broadcast weekly  same number  prime time quarter hour units.  regression coefficients indi�cate marginal increments  choice pro�vided   addition  commercial  ETV stations. 
+ principal findings  : 
+(1) 
+ equation 4,  number  ETV program units (X5)  substantially more important  commercial units (~)  raising  level  total viewer choices (Xl), holding constant market size (X3).   equa�tion 8, ETV   discernible impact   number  commercial choices (X2). 
+(2) 
+Equations 1  5 corroborate   greater detail. Again,  number  ETV units  substantially more im�portant  commercial broadcast units  explaining total choices how�ever  commercial units  classi�fied,   independent (X6)  network (X7), single owned (Xs)  group (X9), newspaper (XlO)  non�newspaper (Xll).  once more, ETV   discernible impact  commercial program choice.2 
+, Severe space limitations prevented   report�ing  results  several stepwise multiple regressions.   discussants   know    regressions  run without reference  market size,  coefficient   4  actually bit larger, though  wider margin  ETV  commer�cial TV,  narrower margin  network affiliates  independents.  eliminating market size differ�ences  factor  diversity (several proxies  used  significant),  relative impact  network affiliation, groupness  newspaper ownership,  well  ETV,   measured more accurately. Presum�ably  larger stations   larger markets,  more advertiser income,    count better able  sustain unprofitable news  public affairs pro�gramming,    contribute  diversity  con�ceived . Independent stations   clustered   top markets. Market size  therefore explicitly imposed  constraint  keep   coefficients conservative. 
+" rerunning  regressions  more homo�geneous sample-those 67   markets    independent stations-introduction  ETV (.) 
+(3) 
+ equations 1-3, though ETV' im�pact    case substantially greater      variable,  successive pairs  commercial subclassifications   significant. Furthermore,  regression coeffi�cient  network affiliates reveals statistically greater impact   independent stations. Though small,  difference   coeffi�cients  equation 1  significant   1 % level.  equation 2,    hand,  difference   coefficients  group  single own�ers  significant   5% level , whereas  difference  news�paper  non newspaper stations  equation 3  statistically insignifi�cant. 
+(
+4) Looking next  commercial choices (X2), once again network affiliates  statistically greater impact  independents  equation 5,  group owners  comparable edge  single owners  equation 6.  nonnewspaper stations   significant edge  newspaper sta�tions  equation 7 (  5% level), contrasting results  required further inquiry. Regressions  therefore rerun   67 markets   network affiliates .  calculated differences  group  single owner coefficients  sig�nificant   neither equation 2 nor 6 (even   10% level). How�ever, nonnewspaper stations  made greater contributions  diver�sity  newspaper stations   equations 3  7,   differ�ences  coefficients significant   1%level. 
+ bearing   findings  broad�
+did raise  value  R2 minutely   equations 6  7,   calculated ETV coefficients   .0870  .0909, respectively, significant   10% level. 
+AMERICAN ECONOMIC ASSOCIATION 
+cast regulatory policy    stated tentatively  follows: 
+(1) 
+Serious questions  raised    efficacy  new commercial entry   sole  major instrument  widening viewer choices. acti�vated UHF ,  even CATV sys�tems  20-40 channels,   necessary guarantee  diversity. ,  present economic-reg�ulatory structure includes dominant role  advertiser-supported national networking, negligible role  sub�scriber systems, existing technol�ogy  program production, trans�mission  interconnection, resul�tant set  cost parameters  given number  size distribution  TV program suppliers. Changes       parameters  alter  above-cited relationships   others reported   4. 
+(2) 
+ decisively higher relative impact  ETV  commercial stations in�dicates relative underinvestment   former,  things equal,   viewpoint  program diversity  conceived . ,  mea�sure  actual viewing   in�cluded. Neither   clear   comparable numbers  commercial  ETV statioBs,  addition  �other ETV   sample markets     large relative impact. Nevertheless, ETV    impact  today' market dis�tribution  stations,  ,  ,   regulators  work    near  middle term. 
+(3) 
+ follows  ,  things equal, policy  strengthen public television  far more effective way  widen available program options  policy  diversify station ownership alone. Nevertheless,    overriding social  political reasons  licensee diversification. 
+    measures  program di�
+versity rule   potential dangers  group  newspaper owners inject�ing common editorial positions   stations,  otherwise slant�ing news coverage.  systematic content analysis  determine  real  potential abuses  . Yet   little evidence   program diversity  decline sig�nificantly,   ,  policy  divestiture applied  newspaper  group owners , indeed,   newspaper case some small increase  diversity  appear  result.   counts, regulators  opt  licensee diversification  diffuse social  political power  take some small comfort   coeffi�cients   4. 
+(4)   innovative change,  ulti�mate impact  program duplication  diversity  improved microwave systems, domestic satellites, low�powered UHF stations, new multi�channel cable systems,  even na�tionwide cable grid,  depend  part   new cost levels   transmission  interconnec�tion technologies generate.4   relative size   ETV coefficients   4 underscores   need  give   painstaking atten�tion   organizational structure   public, quasi-public  private entities  eventually own  operate  new communications modes-their sources  funding,   explicit constraints    management   new channel ca�pacity  subject. 
+� 
+Even  statistically significant,  differences   coefficients    pairs  ob�viously  small. 
+� 
+ suggestive review   issues appears  . . Johnson,  Future  Cable Television: Some Problems  Federal Regulation (Rand Corp., RM�6199-FF Jan. 1970), . 26-40. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. . users  print. download.  email articles  individual use. 
+ 

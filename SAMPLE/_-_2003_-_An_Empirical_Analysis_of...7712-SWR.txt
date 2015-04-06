@@ -1,0 +1,425 @@
+Empirical Analysis   Risk Properties  Human Capital Returns 
+ IGNACIO PALACiOS-H uERTA' 
+Human capital resources  crucial pari  individual" capital holdings  comprise 
+   tOlal aggregate wealth   United States   economically advanced na�tions.   last few decades,  en�
+ergy   devoted   analysis  human capital   empirical regularities. 
+ result    accumulation  
+large amount  evidence supporting  im�portance  human capital   structure  evolution  earnings. occupations. employ�ment  unemployment. fertility.  eco�nomic growth  development.  
+ relatively recently, ,  econ�omists begun  undertake systematic analysis   properties  investment returns   implications  models  dynamic economies.    analysis   concerned   analysis  risky  riskless financial as�sets,   implications  intertemporal models  consumer optimization. Although 
+* Department  Economics. Brown University. Box . Providence,  02912 (e�mail: ipalacios@brown.edu).  owe debt  deep gr.Jtitude  Gary . Becker, Kev  . Murphy.  Gu illermo Mondino   helpful COlU�ments  earlier drafts, cncourugemcnt.  several !otimu�lating discussions.   benefited  conversatiOtl1l  Moshe Buchinsky. John Cochrane. Andrew Fosler. Lars Hansen. Kenneth Judd. Paul Romer. Sherwin Rosen. Stan�ley Zin.   suggestions   anonymous referees.,    audiences  seminars held   University  Chicago. Stanford University. Brown University,  Uni�versity  Cambridge. London Business SchooL  Amos Tuck School  Business.   University  Miami.  especially thankful  Giorgio De Sanlis   program�ming assistance.   National Fellows Progmm   Hoover Institution   George . Stigler Center   University  Chicago   hospitality  financial support.   Su rrey Walton  rc!>:lrch assistance.  errors arc mine alone. 
+1 Sherwin . Ro~cn (1987) reviews  human capital literature   impact    last decade. Dale . Jorgcnson  Barbara Frau11lcni (1989) estimate   share  human capital wealth   aggregate wealth   United States  1948-1989  around remarbble 93 percen!.   aggregate level. labor receives  least two-thirds  total income   United States   economically advanced nations. 
+948 
+considerable progress   made   recent literature toward understanding .:; prop�erties  implications  investment returns,  ahhough human capital assets   main form  individual  aggregate investments.  progress   reached  human capital literature.  result, number  crucial ques�tions remain unanswered.  instance, consider  issues raised  Gary . Becker (1993, . 205): 
+ chapter adds several dimensions   evalualion   effects  college education  earnings  productivity  comparing private  social gains  college education     in�vestmellls.  comparisons permit detennination     gained  lost  individuals  society  in�vestment   former rather    latter.   essential  determine    underinvestment  col�lege education:   help determine  capital market difficulties,  lack  knowledge  liquidity, CIC.,  serious impediments   flow  resources  college education (italics added). 
+ arguments apply    college  high school education    education level   fonns  human capital. suitable comparison   properties  different risky human capital returns,   human capital  financial returns,  then provide crucial infor�mation   key matters.  compar�isons.     great relevance  public policy, represent  subject matter  Ille analysis   paper. 
+Interestingly.   relatively little research   literature  helps us understand   risk-return trade-off  different human capital investments   financial investments  compare   margin. Moreover,  approach adopted   literature  unsatisfactory  generally invalid.  procedure usually fol�lowed   compare average levels  human capital rales  return, ignoring  role  risk,  restricting  intertemporal marginal rate  substitution (IMRS)   consumer  particular function  observed data.   aspect  pointed   Becker (1993, . 4) ,  regard La  own influential book, says: 
+  more serious error   dis�
+cussion   riskilless  investments  
+education.  ignored  then developing 
+literature  optimal portfolios,  did 
+ derive  measure  marginal risk�
+ variance   rate  return-from 
+analysis  utility maximization (italics 
+added). 
+Unfortunately,  error  never  cor�
+rected   human capital literature. Moreover.  analysis  even attempted  compare  risk-return properties  different human capital assets. Therefore,  reliable estimates  in�vestment gains  losses  individuals  sor.;iely exists. 
+ purpose   paper   begin  fill  gap  providing empirical comparison   properties  risk-adjusted human capital rates  return.  Becker remarks.  principal challenge   incorporate  role  riskiness  investments  education   comparison  investment returns:   marginal risk  deri ved  utility maximization?  then  returns,  returns relative   variabil�ity.  compared?  challenge   avoid restricting  LMRS   consumer  specific function   observed data.   1110st investment models. common implication  human capital investment models    equilibrium price  future human capital pay�offs   represented   expectation, con�ditioncd  current information,   product   payoff   IMRS   consumer.  exclusive approach taken   human capital literature   restrict  [MRS   specific parametric function   observed data. TIlis restriction leads  number  difficullies.  main     results   empirical estimations depend   particular features assumed   utility 
+2
+function.
+John . Hause (1974)   critique  Yoram Weiss (1972) already points Ollt  problems  calculations based  arbitrary utility functions   importance  
+ analysis   paper overcomes   important impediments  exploiting  properties  some recently developed method�ologies   analysis  asset returns  intel1emporal utility-based model .  particu�lar.  rccent years  finance literature  witnessed increasing use  tests  mean�variance spanning.   introduced  Gur Huberman  Shmuel Kandel (1987).  lit�erature  mean-variance spanning analyzes  effects   introduction  additional assets    mean-variance frontier  certain benchmark assets.   mean-variance span�ning   frontier   benchmark assets alone coincides   frontier   bench�mark assets plus  new assets.  instance, consider individual investing  human cap�ital.   frontier associated   human capital assets alone coincides   frontier   human capital assets plus financial asset, then mean-variance spanning means   individual    able  improve upon  human capital investmcnt  investing   financial asset.   frontiers   coincide, then  mean-variance characteristics   original investment   enhanced   investing   financial aSset. Empirically.   important  note  recent research shows .hal labor income risk represents important per�vasive risk factor   aggregate level  requires substantial risk premium  fimlllcial markets.) Similarly.   examine  prop�erties  different human capital returns  ex�amining  differences   mean-variance frontiers   span  new human capital asset  introduced. 
+ Giorgio De Santis (1993)   au�thors  shown,  hypothesis  mean�variance spanning   formulated  terms   volatility bounds   IMRS introduced  
+characterizing classes  Ulilily functions sui   anu�1Y7ing  uncertainty  risk elements  human capital markets. 
+ 
+See John . Campbell (1996). Ravi Jagannathan  Zhenyu Wang (1996).  Jagannathan et aJ. (1998).  papers. .   examine  incrernental contribu�tion  risk  retu rn  investing  financial assets   perspective  someune  owns human capital  vice versa. Previous   papers, Eugene . Fama  . William Schwert (1977) eX:lmined  Capital Asset Pricing Model (CAPM)   nonmarketable income model  David Mayers (1972) using  growth rate   ,lpita labor income. 
+Lars . Hansen  Jagannathan (1991),  extended  Hansen . (1995), without re�stricting  IMRS    specific parametric function   observed data. Frans . De Roon  Theo . Nijman (2001),  offer thor�ough review   literature  mean-variance spanning, describe  detail  duality  mean-variance frontiers  volatility bounds.   paper  study  risk properties  human capital returns   terms  mean�variance frontiers using  test introduced  Huberman  Kandel (1987)   terms  volatility bounds   [MRS using De Santis' ( 1993) procedure. 
+  important  remark   method�ologies  comparing  properties  invest�ment returns allow us  overcome existing shortcomings   human capital literature : ()  measure  marginal risk   derived  analysis  utility maximiza�tion; () differences  marginal risk  returns   accounted   estimating differences  mean-variance frontiers using  covariance structure  returns;  (.)  particular form   utility function needs   specified ,  result, risk-return differentials   de�pend   foml   utility function   degree  risk aversion. 
+  follows   examine  proper�ties  human capital returns   level  aggregation  demographic groups character�ized  sex, race, education,  experience.  empirical analysis yields number  re�sults. ,   determine  size   gain  loss associated  different forms  risky human capital investments  financial investments   different demographic groups.   period 1964-1996,  find   gains  college ( greater) education  unit  risk   5 percent  morc  20 percent greater   risky financial assets, whereas  losses  high school ( lower) education  unit  risk relative  risky financial assets  typically greater  15 percent   demographic groups. ,  Becker remarks,  comparisons  help  determine  serious human capital market difficulties, lack  knowledge,  liquidity problems  .  particular.   separate  different sources  gains  losses  investments.    hand, differences be�tween human capital  financiaJ assets  terms  returns  unit  risk   attrib�uled  differences   nature  markets   assets (.., liquidity, taxation).    hand, differences across demographic groups (sex  race)  given human capital holdings (.., college education)   associated  relative differences  nonmon�etary returns, capital market difficulties, fric�tions,   circumstances across  demographic groups.  often find substantial differences across some sex  race groups  identical human capital holdings. 
+. Measures  Human Capital Returns 
+ measurement  human capital returns   subject  great deal  attention   literature. David Card (2001) offers com�prehensive review   literature,  well  extended discussion  various econometric is�sues. Given  various procedures avaUable   literature  estimating  returns  schooling,   evaluate  robustness   empirical findings  various measures  human capital returns.  basic measure  consider   described  follows. Returns  schooling  typically calculated   propor�tional increase  earnings  year associated   last unit  education ( marginal return). ,  shaH consider  marginal payoff   last unit  education   period,     + . Let wdenote  real 
+ . 
+payoff  time   individual   units  education.  marginal return  then  ap�proximated : 
+( ) 
+ approximation accounts    one-period gains obtained  owning  -1 units  human capital  ,  well   skill premjum  owning  more unit  given time.  see , note     decomposed : 
+" = ~_ .+ 1 .+ 1 
+(2) 
+('.1+ 1 (' _ . ~_ .+  
+  fraction captures  gains associ�ated   -1 units  education.  gains. 
+  average  around 2 percent  year. lire typically ignored ,  best, indirectly ap�proximated   human capital measures (Cllrd, 2001).   fraction captures  relative extra wages   obtained  owning  more unit  education  given time.   sense,  measure ~,+  captures  trade-off associated   marginal produc�tivities  different levels  education (   )   period  time,   captures  earnings premium obtained   +  relative  , obtained   more unit  education.4 Alternatively.  measure   interpreted   premium necessary  transfer given individual   current life-cycle wage pro�
+file    someone   more unit  education  (  ( +   forgone wages represent  cost  school ing. 
+ empirical tests   implemented us�ing wages  construct  measure   different demographic groups,    ex�tended  account  tuition fees.  well    effects  ability  selectivity biases   measurement  wages.  addition,   consider  traditional Becker-Mincer ap�proach  estimate human capital returns,  measure suggested   endogenous labor supply model  Moshe Buchinsky  Philip Leslie (1997).   growth rale  labor in�come accounting   effects  revisions  future labor income  discount rates sug�gested  Campbell (1996).'  anticipation  
+..  indebted  Kevin . Murphy  suggesting  approximation.  measure    interpreted   gross income   maintenance costs    in�curred  keep unit  human capital  working order (see Becker, 197 1). Note     define , +. = '/ +...  + , + .... then  usual presem value expres�sion   typical human capital investment model  ob�tained: ,. _  ~ , ~j_ 1 J31lll'(/ +)//'(,)]' +.'  limJ_ (3-Iu'(, +)'+, = .  expression indi�cates  utils provided  net real wages today (1)  education  ,  equal   expected discounted sum  uti  provided   add itional wages , ,,,. (wages  education  minus wages  education  -1) lhat  more unit ofeducation  provide   future.  measure   useful  help explain  size   international diversification puzzle  human capital  considered part   wealth portfolio  individuals (Palacios-Huerta, 200la). 
+ Relative  Campbell' (1996) measure. RZ.,+ 1 adjusts  growth rate  real wages  given education level :,;; .   education premium term ~~] �. ,,'   typically important  sizable,    include  effects  revision  future labor income  discount rates. Fama  Schwert (1977)  Jagannathan  Wang 
+ results,   important  remark    find extremely similar results across  differ�ent measures. 
+. Mean-Variance Spunning Methodology 
+ typical optimization problem  indi�vidual consists  choosing  consumption  investments  maximize  expected lifetime discounted utility 2:;0=0 f3', (,).  (')  well-behaved utility funclion, ,[ . ] denotes  expectation conditional  infonnation available  time , f3 > 0 repre�sents  rate  lime preference,  ,  con�sumption  date . Let :+  =  + :+  �  = , ... , ", denote  real return  asset ,.  date   date  + , , + 1  n-dimensional vector   returns.  {+   real return earned  riskless asset.  equilibrium con�ditions   models : 
+(3) 
+  [MRS  11J,+ 1 = f3u'(+ >lu'(,)   { +  = ___ ,6  conditions hold 
+,[" .1  equality     market frictions   inequality otherwise.7 More generally, de�fi ne ~    difference    asset returns. Then,  equilibrium conditions   wriuen  �,(111, + JR~+ 1) = .  implies  
+ () 1�(')
+(4) > --�
+�(111) (') . 
+(1996) consider   growth rate   capita labor income,    stationary analogue    capita labor income variable used  Mayers' (1972) one-period model. 
+  utility-based models.   simply  IMRS   consumer.  discount factor   parametrized  sev�eral ways leading   typicaJ mode ls used   finance literature. . ..  CAPM  factor models    Arbitrage Pricing Theory (APT)   Chen-Roll-Ross model.  spec ific parametrization needs   assumed .  result.  implications   general  possible. 
+7 See Hua  David . Modest ( 1995)  Erzo 
+. . Luttmer (1996)   equilibrium Euler inequalilies   cases  short-sale constraints, borrowing con�straints. solvency constraints,  proportional transaction costs. 
+ means   lower bound   stan�dard deviation   [MRS  detemlined   famjJiar mean-variance frontier  asset returns   asset   greatest Sharpe ratio. Hansen  Jagannathan (1991) show   duality   frontiers   !MRS   asset returns allows us   construct minimum variance random variables ",    set  returns   analyze  mean�variance implications  investmem returns. [0 particular.   interested  comparing  properties   human capital returns   different demographic groups,  well   properties   human capital returns  given demographic group    finan�cial returns. 
+ general,  comparisons   imple�mented following intuitive procedure    described  follows. Let RA  R8 denote  different vectors  asset returns. Consider  variables lilA = ~ . '~, f1IJJ = ; . ;'   variable  = ' . 11' = [~ ~ . [f3A 13,,]'.  given risk-free rate ,+ = .8  want  examine  effects  adding  vector "   benchmark set  returns RA  vice versa.  ,  consider  comparison  Rj      = , . Following  procedure  De San tis (1993),   then possible  develop test  over-identifying restrictions  evaluate  hy�pothesis  coincidence   mean-variance frontier associated  ;   frontier as�sociated  ,   = , .  test  equivalent  test   coincidence   volatility bounds  Ill;   bounds  ,   = , . Under  null hypothesis   returns RA  /   same stochastic properties, then  spans ,    = , .  terms  volatility bounds   IMRS,  hypothesis  mean-variance spanning means  comparison  nIj    yield   f3j coefficients,  *,   veClOr 13 = [f3A 13.1  zero;  ,   volatility 
+ Hansen  Jagannmhan (1991) show   sto�chastic discount factor 1/1 " = '" (3 '" = [~ ~ /vJlIJ/\ Po '' = "' [�(""')J-11   same mean   true .    minimum variance    possible variables  satisfy �,1111,+ ,+  = 1.  mndom variable   evaluated   vector  asset retums  long  ( ""')  nonsingular.   show   feasible til  obey arm) 2: .     variance-covariance matrix   risky asset relUms. 
+bounds   !MRS implied      statistically identical. 
+  empirical analysis  evaluate risk�adjusted differences  rates  return following  different methodologies.   consider De Santis' ( 1993) ' test  comparison  frontiers.  test uses  covariance structure  returns  measuring  extent  risk-return differentials across different sets  investment returns,   implemented using  General Method  Moments (GMM). ,  indi�cated earlier.   test  hypotheses  mean�variance spanning using  test developed   seminal paper  Huberman  Kandel (1987).  authors propose likelihood ratio test. Although  test involves additional re�strictions,  exact distribution   test sta�tistic under  null hypothesis  known9 comparison   small sample properties     test procedures   found  Geert Beckaert  Michael . Urias ( 1996).  small sample results suggest   likelihood ratio test  spanning proposed  Huberman  Kandel (1987)  better power properties   GMM-based tests   literature. detailed description   tests   found   survey  testing methodologies  mean-variance spanning  De Roan  Nijman (2001). 
+Lastly,  addition  evaluating   change  fronliers  statistically significant using   testing procedures,    important  measure    frontiers change   different human capital  financial returns  compared.   con�sider  distance   frontiers   value  � ()  corresponds   minimum   frontier  .  statistic  equal 10  change   Sharpe ratio divided   risk�free return  corresponds   value  �(111).   minimum  typically  close  ,  change   frontiers  ap�
+9 Hubemlan  Kandel (1987) show   regression methodology   used  test  hypothesis  mean�variance spanning.  hypothesis  spanning means  ellch return   assets   added  benchmark SCi  assets   written   return   portfolio   benchmark assets plus error tenn.  tes\, therefore. involves linear restrictions   regression coefficients. Clearly. under  null hypothesis  spanning.  suc.: addilionlll asset   add   variance   original portfolio, individuals   like  include    portfolio. 
+proximately equal   increase   ex�pected return  unit  risk   obtained 
+ additional returns  included   orig�
+inal set: 
+I�()]
+(5) <() ""  [ <() . �(111 ) 
+= [ I�() ] 
+'-1-' 
+ <() 
+/+ 1 
+ concluding  brief description   testing methodology,   important  remark  fo llowing aspects: 
+,  methodology allows us  compare  stochastic properties  different human capi�tal  financial returns accounting  risk, with�out imposing  assuming  specific parametric model   IMRS  generating  returns. 
+,   possible  take explicit account   differential riskiness  investments  educa�tion  using  covariance structure  returns  measuring differences  mean-variance frontiers. 
+Lastly,  comparison  risk-adjusted rates  return across different human capital assets  financial assets    cannol lest  specific frictions  human capital markets.   require testing  specific '  specific Euler inequalitjes  consistent  human capital returns under different specifica�tions  preferences. 10   likely  reason why Becker (1993) considers   com�parisons help determining  capital mar�ket difficulties,  lack  knowledge. liquidity problems.   frictions, ma?, impede  flow  resources  education.  instance.  human capital assets   liquid  finan�cial assets     subject  identical taxation. lack  arbitrage opportunities  imply   span  same return space.  differences  mean-variance frontiers    find  then indicate  gains  losses associated  differences   nature  
+10 Sec ,llacios-Huerta (200lb)  analysis   extent   different frictions  reconcile consump�tion  human capital relUms under plausible preference parameters. 
+ TIle reason   differences  mean-variance fron�liers imply differences   set  feasible /I�s.    altributed 10 differences  human capital frictions (. .. borrowing constraints. transaction costs). 
+ assets,  markets. frictions.  taxa�tion. Likewise, differences  mean-variance frontiers across demographic groups  iden�tical human capital assets (.., college edu�cation)   associated  differences  frictions, circumstances, nonmonetary gains.  market structures   different individu�als operate. 12  comparisons  implement   next section. therefore.   interpreted   sense. 
+. Data  Empirical Evidence 
+. Data 
+Yearly data   .. equity index   
+.. Treasury bill   period March 1963-March 1996  obtained   Center  Research  Security Prices (CRSP) files. Eq�uity returns include  capital gains  div�idend yields.  wage data come   March Current Population Survey (CPS)  survey years 1964  1996.  CPS provides information  earn ings  weeks worked   calendar year preceding  March survey.  approximately 1.4 million workers.  data  initially divided  2,880 distinct groups, distinguished  sex, race (white. black). years  education (  18).  potential years  experience ( 0  40), defined  min {age -years ofschooling -7, "ge -17 }.  average real weekly wage  full-time workers  then computed   gender~ race-educatiol1-experience cell  total annual earnings deflated   personal consumption expenditure deflator   national income  product accounts divided  total weeks worked. 13  lest  propenies  human cap�ital returns   level  aggregation. 
+12  human capital  itliquid    generally impossible  individuals  hold more   type  human capital asset (except perhaps through marriage. al�truism.   arrangements   family). differ�ences  rates  retum  typically  arbitraged oUL 
+) See Lawrence Katz  Kevin . Murphy (1992).  example.  detailed description   main features   wage data    top-coding  bracketing  typically dealt .  same procedures  followed .  changes  educational attainment questions  oc�curred  1992   CPS  reconciled   previous questions using  procedure followed  David . Jaeger (1997). See Murphy  Finis Welch (1992)  Chinhui Juhn . (1993)  analyses   structure  wages  wage differentials     period  analysis. 
+ I-MEAN REAL HUMAN CAPITAL RETURNS  .. EQUITI INDEX RETURN  
+1964 -1996 
+Males Females 
+ Black White Black 
+ high school 
+Ex!!rience: 1-5 5.9 (6.2) -5. 1 (8.2) 2.0 (5 .7) -5.5 (10.5) 
+6-15 5.4 (4.7) -4.0 (8.3) 1.4 (4.9) -3.9 (10.0) 
+> 15 5.2 (5.3) -3. 1 (10.6) 3.5 (6.3) -0.6 (9.9) 
+High school 
+Eltpcrience: 1-5 13.6 (9.7) 2 1.9 (16.5) 18.8 (9.3) 20.3 (14.0) 
+6-15 8.1 (5.9) 15.8 (11.2) 13.7 (10.2) 22.9 (14.3) 
+> 15 5.2 (7.6) 12.3 (8. 7) 7.2 (6.7) 12.2 (10.2) 
+Some coll ege 
+Experience: 1-5 6.0 (6.0) 15.0 (9.9) 11.0 (4.7) 10.2 (14.0) 
+6-15 7. 1 (5.4) 9.6 (8.2) 11.2 (5. 1) .5 (12.3) 
+> 15 7.3 (4.2) 8.8 (8. 1) 10.0 (7. 5) 9.0 (11.7) 
+College 
+Experience: 1-5 14.2( 11.3) 18. 1 ( 10. 1) 16.8 (8.4) 11.1 (.2) 
+6-15 9.0 (7.6) 12.6 (9.3) 14.2 (10.4) 13.6 (9.7) 
+> 15 10.2 (9. 1) 14.0 (12.3) 9.2 (8.7) 6.0 (9.9) 
+More  college 
+Experience: 1-5 10.5 (4.7) 12 .3 ( 10.5) 12.1 (6.6) 14.2 (8.9) 
+6-15 10.0 (5.0) 10.4 (8.6) 10.3 (9.4) 20.6 ( 11. 2) 
+> 15 8.7 (8.1) 7.0 (12.0) 11.0 (.9) 18.3 ( 12.8) 
+.. equity index return 7.0 ( 12.7) 
+Note: Standard deviations   parentheses. 
+. Empirical Evidence 
+  reports  basic descriptive statistics 
+ human capital returns ~.,+ 1   different 
+demographic groups   .. equity index  1964 -1996. 
+ average rates  return  broadJy con�sistent  previous estimates   literature   groups.   important  note. how�ever,   compared   return   
+.. equity index, mean human capital returns 
+ relatively high   standard deviation  
+returns relatively low   demographic 
+groups. , human capital Sharpe ratios IE(' )/'(')  often  larger   Sharpe ratio   .. equity index. 
+ aspect  important   information   relarive variability  human capital rates  return  help  explain subtle  long standing problem   literature.  problem arises   fact  " private returns  schooling   nearly large enough  justify  claims  importance made  schooling,"  Mark Bils (2000, . 59-60) indicales.   certainly true   level  returns  school.ing   areas  economics  human capital plays important role.  anempt  justify  claims, economists  policy makers often indicate     important external effects  increased 
+schooling  school spending. Empirically, 
+, human capital externalities   
+hard  find  negligible [see, .., James 
+. Heckman  Peter . Klenow (1997)  Daron Acemoglu  Joshua Angrist (2000)]. 
+more natural resolution,  least  part.   
+problem   offered  simply looking   
+reward  variability ratio   investment; 
+ ,  jusl   level  returns bUI   Sharpe ratios.   large differences be�tween human capital Sharpe ratios  financial 
+Sharpe ratios   instances.  fanner ones clearly dominate  latter ones   demographic groups  different education  
+experience levels. NOle, ,  although broad differences  Sharpe ratios  clearly 
+informative,  covariance structure  returns 
+ plays key role  detemtining differences 
+ risk-adjusted returns.  tum next  testing   differences   vestment returns.  indicated earlier,  consider  GMM�based test  spanning  terms  volatility 
+bounds   !MRS proposed  De San tis (1993)   likelihood ratio test proposed  
+Hubennan  Kandel (1987).  addition   tests.   report  increase   expected return  unit  risk   obtained  additional returns  included   original set: du( ).14  OUf case,  con�sider  hypothesis  mean-variance spanning  adding just onc asset  benchmark set  
+returns.  
+ 2 shows  p-values   results   tests  di fferent human capital returns.  given education  experience groups, across sex  race characteristics.  null hypothesis  spanning    frontier associated   human capital returns  given demo�graphic group (benchmark returns) coincides   frontier associated   returns   demographic group plus  human capital returns  different demographic group. 
+ discussing specific findings,   worth noticing  fo lJowing general patterns. .  results   GMM  likelihood ratio (LR) tests   similar.  virtually  cases considered.   tests agree      null hypothesis  mean�variance spanning   rejected  conven�tional significance levels. ,   robust relationship   indicator   estimated increase  expected returns  unit  risk !.()   p-value   tests.  general pattern,  p-values  greater  0.40  indicator ranges    3 per�cent,  !'-values   0.30  0.10  indicator ranges  4  9 percent. More importantly,   null hypothesis  coin�cidence  frontiers  rejected  conventional levels,  indicator ranges  9  14 percent  p-values  0.10  0.05.   14  29 percent   -values  0.05  
+0.00.  following features   observed   specific comparisons across groups: 
+WHITE MALES. education levels below college,  hypothesis  mean-variance span�
+14  indicalorc:   used  cOlllpUle  net :lin  asset  asset    increase  expecled return  unit  risk obtained  adding asset  asset  minus  increase  expected return  lin   risk thaI  obtained  adding asset   asset . 
+1!1 Under  null hypothesis  coincidence  bound�aries. De Santis� GMM-based lest statistic  distributed    2 degrees  freedolll.  likelihood ratio test proposed  Hubennan  Kandel (1987)  distributed   distribution  2N  2(  ) degrees  Freedom. tn  case  =  =    = 33. 
+ning   rejected  conventional signHi�cance levels  considering  human capital returns   demographic group ex�cept white females  some college. Interest�ingly,  hypothesis  rejected    cases  graduate educmion ,   level  college education,   black females. 
+BLACK MALES. pattern  rejections   hypothesis  mean-variance spanning  quite different   group.  considering  human capital reI urns  white males,  hypothesis  rejected   cases except   level  graduate education    15 years  experience. fn  case  white females,  hypothesis  always rejected  conventional significance levels.  respect  black fe�males,  hYPOlhesis   rejected  college  more  college educat.ion levels  fewer  15 years  experience. 
+WI-liTE FEMALES. thi  case,    dif�ficult  reject  hypothesis  mean-variance spanning.  fact.  test indicates  rejection   hypothesis   5-percent level.  white males  lower education levels appear   closer  induce rejection   usual confidence levels,  well  some males   level  graduate education. 
+BLACK FEMALES. hypoLhesis  never rejected  considering  human capital returns  black males. Interestingly,  hy�pothesis  almost never rejected  consid�ering white individuals   least college education.    strongly rejected  educa�tion levels below college. 
+ conclude   findings thaI   nontrivial differences across some demo�graphic groups  identicaJ human capital holdings.  instance, net gains  white  black females  respect   groups tend  arise  high levels  education, whereas  white males  arise  education levels   college. Net losses arise  black individuals, typically  lower levels  education , es�pecially.  high school  college dropouts,  relative   white counterparts. 
+  3  report  results  mean�variance spanning tests  human capital  financial returns. 
+ Panel .  test  hypothesis  span�ning   returns   .. equity index  added  benchmark  human capital assets     different demographic groups.  results show   null hypothesis 
+ 2-M EAN�VARIANCE SPANNING  ESTS   UMAN CAPITAL  ETURNS ACROSS DEMOGRAPHIC GROUPS 
+:mcJ -Benchmark Human Capital Returns: White Males 
+Additional Human Capital Returns 
+Black Males White Females Black Females 
+GMM LR aU() GMM LR tlu() GMM LR 6,0"(111) 
+ high school 
+Experience: 1-5 0.37 0.48 3.17 0.25 0.32 6.55 0.42 0.55 3.26 
+6-15 0.27 0.42 4.11 0.28 0.23 5.15 0.39 0.46 3.00 
+> 15 0.21 0.28 6.32 0.24 0.19 6.29 0.53 0.44 1.86 
+High school 
+Experience: 1-5 0.14 0.28 8.88 0.12 0.20 8.80 0.36 0.42 3.60 
+6-15 0.10 0.18 9.00 0.21 0.26 7.77 0.23 0.33 6.61 
+> 15 0.0') 0.14 8.73 0.08 0.11 12.80 0.12 0.17 8.50 
+Some coll ege 
+Experience: 1-5 0.36 0.53 3.07 0.01 0.00 2 1.39 0.24 0.26 5.50 
+6-15 0.21 0.20 6.55 0.02 0.00 19.98 0.22 0.30 4.52 
+> 15 0. 13 0.17 7.90 0.12 0. 17 8.30 0.09 0.18 8.88 
+College 
+Experience: 1-5 0.12 0.16 8.66 0.12 0. 16 8.0 1 0.03 0.02 16.40 
+6-15 0.06 0.12 12.50 0.09 0. 12 10.40 0.04 0.05 15.31 
+>15 0.19 0.22 7.20 0.04 0.02 16.88 . 0.00 20.57 
+More  college 
+Experience: 1-5 0.04 0.04 15 .91 0.04 0.03 15 .90 0.00 0.00 26.03 
+6-15 0.03 0.02 15 .86 0.02 . 17.46 0.00 0.00 23.40 
+> 15 0.02 0.00 \8.22 0.04 0.01 14.52 0.07 0.05 12.70 
+Panel  Benchmark Human Capital Returns: Black Mal es 
+Add itional Human Capital Retu rn  
+Whi te Ml.lles White Females Black Females 
+GMM LR du{) GMM LR .1.() GMM LR 6, (1II ) 
+ high school 
+Experience: 1-5 0.01 0.00 25.20 0.03 0.00 18. 11 0.11 0.13 9.33 
+6-15 0.03 0.00 19.31 0.04 0.00 16.32 0.20 0.30 7.80 
+> 15 0.10 0.08 10.60 0.05 0.02 15.24 0.09 0.12 12.64 
+High school 
+Experience: 1-5 0.01 0.Q2 22.22 0.03 0.01 17.70 0.Q9 0.12 11.21 
+6-15 0.04 0.00 17. 17 0.04 0.00 15.1 8 0. 15 0.18 8.23 
+> 15 0.06 0.05 14.83 0.07 0.05 12.59 0.10 0.14 10.00 
+Some college 
+Experience: 1-5 0.00 0.04 23.00 0.03 0.00 17.24 0.11 0.14 12.36 
+6-15 0.03 0.00 15.31 0.06 0.05 14.98 0.18 0.23 10.41 
+> 15 .oJ 0.04 12.72 0.02 . 17.67 0.06 om 14.54 
+Coll ege 
+Experience: 1-5 om 0.03 20.64 0.03 0.01 16.76 0.05 . 14.79 
+6-15 0.05 0.01 14.32 om 0.05 12.49 0.04 0.00 16.86 
+> 15 0.11 0.15 10.55 0.06 0.04 13.85 0.14 0.12 8.90 
+More  college 
+Experience: 1-5 0.11 0.10 9.29 0.06 0.02 13.51 0.00 0.00 28.45 
+6-15 0.17 0.22 8.39 0.03 0.00 15 .79 0.17 0.16 8.60 
+> 15 0.06 0.02 12.47 0.04 0.01 14.90 0.12 0.14 9.66 
+ ABLE 2-Comilllled. 
+Panel C-Benchmark Human Capital Returns:  Females 
+Additional Human :lpilai Returns 
+White Males Black Males Black Females 
+GMM LR 6. (l1I) GMM LR ,6,0"(111) GMM LR 
+ high school 
+Ex.perience: 1-5 0.11 0.09 8.70 0.19 0.15 6.66 0.29 0.36 5.42 
+6--15 0.08 0.09 11.02 0.12 0.15 8.49 0.32 0.28 6.15 
+> 15 0. 12 0.07 8.22 0.0') 0.11 9. 15 0.2 1 0.23 7.34 
+High school 
+Experience: 1-5 0.07 0.06 13.64 0. 13 0.19 9.63 0.30 0.48 7. 10 
+6--15 0.09 0.08 11. 29 0. 12 0.16 8.90 0.37 0.29 4.66 
+> 15 0.15 0.16 7.51 0.12 0.10 8.27 0.32 0.40 4.83 
+Some college 
+Experience: 1-5 lUI 0.15 8.50 0.23 0.30 4.46 0.39 0.40 5.72 
+6--15 0.08 0.07 11.77 0.09 0.19 10.61 0.25 0.30 4.94 
+> 15 0.06 0.09 13.12 0.12 0.14 10.07 0.2 1 .~ 7.60 
+Coll cge 
+Experience: 1-5 0.07 0.09 12.9 1 0.07 0.06 12.85 0.24 0.32 7.65 
+6--15 0.12 0.17 8.28 0.12 0.10 8.34 0.16 0.36 8.50 
+> 15 0.23 0.20 5.43 0.10 0.10 9.24 0.38 0.50 3.02 
+Morc  college 
+Experience: \-5 0.14 0.20 8.28 .~ 0.11 12.59 0.32 0.44 433 
+6--15 0.11 0.26 8.80 0.07 0.12 14 .00 0.12 0.26 9.07 
+> 15 0.07 0.12 12.02 0. 11 0.15 9.21 0.25 0.21 10.12 
+Panel  Benchmark Human Capital Returns: Black Females 
+Additional Human Capi,,,' Returns 
+White Males Black Males  Females 
+GMM LR .6. (/) GMM LR ,6,(1 (/11) GMM LR Llu () 
+ high sc hool 
+Experience: 1-5 0.00 0.00 29.7 1 0.24 0.28 5.75 0.0 1 0.00 26.39 
+6--15 0.00 0.00 26. 15 0.12 0.18 8.92 0.02 0.00 24.50 
+> 15 0.00 0.00 25.67 0.23 0.30 5.20 0.04 0.00 24.61 
+Hi gh !>Chool 
+Experience: 1-5 0.00 0.00 25.51 0.15 0.11 8.29 0.03 0.00 20.90 
+6--15 0.02 0.01 18.60 0.09 0.15 9.56 0.05 0.02 18.31 
+> 15 0.02 0.00 17.93 0.07 0.10 12.03 0.12 0.14 10.10 
+Some college 
+Expericnce: 1-5 0.02 0.03 17.34 0.17 0.22 10.50 0.02 0.01 24.99 
+6--15 0.03 0.01 16.62 0.10 0.11 14. 15 0.04 0.01 IlJ.96 
+> 15 0.06 0.00 13.43 0.23 0.18 5.69 0.02 0.00 28.R2 
+College 
+Experience: 1-5 0.12 0.15 .6O 0.11 0.19 9.00 0.03 0.Q3 16.53 
+6-15 0.13 0.11 8.39 0.2 2 0.20 6.33 0.08 0.Q3 15.76 
+> 15 0.16 0.20 7.82 om 0.07 12.12 0. 12 0.08 10.88 
+More  coll ege 
+Experience: 1-5 0.12 0.15 8.57 0.34 0.48 3.26 0.02 0.00 20.44 
+6-15 0.21 0.28 6. 11 0.10 0. 12 9.28 023 0.18 7.97 
+> 15 0.12 0.12 8.39 om 0.12 14.79 0.10 0.10 IU5 
+Note:  lable reports  p-values   GMM  LR tests   GMM  LR columns. respec.:tively.   estimated incrcase  unit  risk under column 6.0-(11/). 
+ rejected   5-pcrcent level   individ�males)  high school education   uals    completed high school.  some college education (Iypically college drop�all males (, inlereslingly enough, nOI fe-outs)    15 years  experience. 
+ ABLE 3-M EAN-VARIANCE SPANNING  ESTS   UMAN CAr'ITAL  FINANCIAL  ETURNS 
+Panel -Benchmark: Human Capilal AsselS White Males Black Males White Females Black Females 
+GMM LR .6. (} GMM LR au() GMM LR .6,(1(11/) GMM LR .6.0'(111) 
+ high school Experience: 1-5 0.Q3 0.00 17.55 0.00 0.02 23.58 0.Q3 0.02 17.55 0.02 0.00 18.41 6.-15 om 0.00 26.66 0.00 0.00 18.64 0.03 0.01 20.92 0.00 0.00 26.90 > 15 0.00 om 23.47 0.04 0.Q3 18.37 0.04 0.04 15.38 0.01 0.Q3 22.28 
+High school Experience: 1-5 0.04 0.02 16.70 0.04 om 14.92 0.1 7 0.22 8.04 0.57 0.71 1.33 6.-15 0.04 0.00 18.89 0.04 0.03 20.18 0.27 0.23 6.56 0.77 0.88 0.42 > 15 0.09 0.05 9.98 0.21 0.12 7.90 0.33 0.30 3.62 0.41 0.52 2.82 
+Some college Experience: 1-5 0.00 0.03 23.21 om 0.Q3 20.70 0.11 0.17 M6 0.37 0.41 3.26 6.-15 0.01 0.00 20.09 0.03 0.04 15.61 0.21 0.30 7.02 0.05 0.05 14.66 > 15 0.23 0.19 5.18 0.17 0.18 8.52 0.09 0.14 9.11 0.28 0.36 4.07 
+Col lege Experience: 1-5 0.48 0.52 2.34 0.73 0.96 0.5 1 0.47 0.37 2.30 0.80 0.% 0.03 6.-15 0.40 0.50 3.32 0.77 0.92 0.40 0.50 0.60 1.82 0.37 0.32 3.76 > 15 0.35 0.41 351 0.81 0.88 0.26 0.3 1 0.26 4.00 0.61 0.79 0.92 
+More thnn college Experience: 1-5 0.43 0.60 2.2 1 0.30 0.44 4.08 0.67 0.77 0.82 0.66 0.89 0.08 6.-15 0.56 0.70 1.09 0.81 0.80 0.11 0.60 0.70 1.17 0.57 0.77 1.2 1 > 15 0.37 0.33 3.08 0.63 0.93 0.92 0.31 0.40 3.89 0.05 0.02 14.88 
+Panel 8-Benchmark: Financial Assets 
+White Mal es Black Males White Females Black Females 
+GMM LR 6.(1 (111 ) GMM LR .6.( ) GMM LR .6,0" (111) GMM LR .6.() 
+ high sc hool 
+Experience: 1-5 0.81 0.97 0.40 0.87 0.98 0.02 0.85 0.98 0.02 0.84 0.93 0.0 1 
+6.-15 0.60 0.78 1.20 0.84 0.99 0.00 0.75 0.82 0.32 0.81 0.90 0.02 
+> 15 0.63 0.80 1.08 0.83 0.99 0.00 0.74 0.80 0.40 0.55 0.62 1.60 
+High school 
+Experience: 1-5 0.35 0.45 3.56 0.60 0.73 0.9 1 0.22 0.18 6.59 0.14 0.10 8.3 1 
+6.-15 0.33 0.40 3.89 0.59 0.60 1.10 0.14 0. 11 8. 17 0.14 0.12 7.02 
+> 15 0.14 0. 19 8.23 0.16 0.15 8.22 0.06 0.05 12.26 0.06 0.04 13. 19 
+Some coll ege 
+Experience: 1-5 0.8 1 0.98 0.01 0.76 0.88 0.42 0.10 0.08 10.27 0.14 0. 12 9.08 
+6.-15 0.55 0.79 1.1 9 0.82 0.93 0.09 0.11 0. 10 9.26 0.14 0.16 6.74 
+> 15 0.55 0.86 0.56 0.50 0.46 2.00 0.11 0.12 8.39 0.32 0.28 .56 
+Coll cge 
+Ex.pcrience: 1-5 0.10 0.14 9.09 0.05 0.04 14.26 0.13 0.16 8.86 0.07 0.06 12.63 
+6.-15 0.06 0.05 13.26 0.06 0.03 13.82 0.14 0.20 7.29 0.09 0.08 10.28 
+> 15 0.05 0.05 14.17 0.06 0.02 14. 11 0.09 0. 12 10.73 0.10 0.05 9.94 
+Morc th. coll ege 
+Ex.perience: 1-5 0.06 0.05 10.26 0.11 0. 14 8.23 0.05 0.04 14.07 0.06 0.05 13 .28 
+6.-15 0.05 0.04 16.82 0.Q7 0.06 1 2.00 0.02 0.0 1 17.53 0.16 0.12 8.26 
+> 15 0.04 0.Q3 15.26 0.20 0.2 1 7.10 0.02 om 17. 17 0.3 1 0.25 4.00 
+Noll':   repons  p-values   GMM  LR tests   GMM  LR columns. rcspectivcly.   estimated increase  lIllit  risk under coluilln \( ). 
+ irtually  opposite results  obtained  .. equity index.   case,  hypothesis  Panel .   panel.  tes1the hypo thesis  typically rejected   usual confidence levels mean-variance spanning   human capi-in   GMM 1ests   likelihood ratio tal returns  !. different demographic groups tests  college  more  college educa�are added  benchmark  asset returns   lion levels , interestingly, never  educa�
+tion levels below college. 16 Note ,    2.  GMM  LR tests   simi�lar,    relationship   indi�cator Ilc:()   p-values   tests follows  general pattern described above. 
+ results arc important.  indicate    level  aggregation   demo�graphic groups  "losses"  "low" in�vestment  education relative  risky financial assets   substantial.  net increase   Sharpe ralio (computed  indicated  footnote 14)  high school dropouts goes  15  26 percent across  different groups. whereas  males  high school degree  some col�lege  goes   13  19 percent. Note    losses appear   reduced   accumulation  experience. Conversely.  "gains"  investments  education relative  financial assets typically come  college  graduate education levels.  net increase   Sharpe ratio   7  14 percent  males   least college degree, 14  17 percent  white females  more  college degree.  7  13 percent  black females     experienced ones. 
+Lastly,  tests   implemented   aggregate level  various aggregate measures  human capital returns. 17  hypothesis  mean-variance spanning   rejected  financia  returns  added   set  human capital returns,    strongly rejected  human capital returns  added  finan�cial returns.  maximum Sharpe ratio   15 percent greater   sets  returns   financial returns alone,    1.5-3 percent greater   human capital returns alone. Tbus,  net gains  aggregate human capital assets   12  13.5 per�cent  tenns  expected returns  unit  risk. 
+. Discussion  Interpretation 
+ comparisons   previous subsection  implemented across demographic (sex. race) groups  identical human capital hold�
+16   exceplion  females  high school educmion  more  15 years  experience. Note    p-values   tests  females  high school education  some college  substantially lower    -values  males   same group. 
+17  resu lts  available   author  Appendix upon request. 
+ings  terms  education  experience groups,   human capital  finan�cial returns.   purposes. .   want  exami ne differences across educa�tion  experience levels  given demo�graphic characteristics. Using  evidence presented   tables,  comparisons   readily made.  instance. risk-adjusted dif�ferences  college  high school re�turns   obtained  looking   college education compares  financial as�sets   then looking     assets compare  high school education   demographic group.  net estimates   corresponding risk-adjusted differences   rate  return  unit  risk    broadly inferred   tables. Consistent   findings ofa large literature   college-high school premium.  conclusively indicate superiority  greater levels  education  lower levels  education. 
+ comparisons   previous section  show  differences  risk-adjusted rates  return  unit  risk  human capital  financial assets   substantial.  in�stance,  private gains  college educa�tion  white male  unit  risk   7  10 percent greater   investments  financial assets. whereas  losses   white high school males   15 percent relative  financial assets.  results arc consistent  Becker' (1993, . 207) intu�ition  " education seems  yield money gain   typical white male college graduate.      typical white male high-school graduate" (italics added). Interest�ingly. simi lar evidence  found  females   blacks  well. 
+ findings correspond   period 1964-1996   help explain why education    skills  accumulated  rap�idly   period.  results  appear  suggest  investments  college ( more) education  continue growing   future.  indicated earlier, .  comparisons  identify  causes   risk-adjusted differences.  wou  require evaluating  different parametric models   IMRS  generating  different human capi�tal  financial returns.  principle. human capital assets    risky  illiquid  well-they   sold   rather poor collateral  loans-so positive liquidity premium wou   associated  human cap�ital. Despite  liquidity premium, , individuals  lower levels  education lypi�cally experience "'asses" relative  liquid as�sets. Differences  taxation   explain part   differences. . "although 
+ differences might  explained  compen�
+sating differences  liquidity  taxation, 1110re reasonable inference     private money gain  college   typical graduate  greater      obtained  investing elsewhere" (Becker, 1993, , 206). Differences  nonmonetary re�wards across genders (perhaps    division  labor   family) cou   
+ source  differences  monetary returns. 
+ regard   interpretation   resu lts   "typical" individual discussed above,   important  note   examining dif�ferences  risk-return trade-offs   level  aggregation, some idiosyncratic risk  left  
+  calculations.   commonly done  financial research   analysis   proper�ties  indexes  financial returns. . unlike financial asset returns  yield  same return   individuals, human capital returns vary across individuals. Interestingly. Kenneth . Judd' (2000) theoretical analysis shows   idiosyncratic risk  endoge�nous  risk premium  human capital  depend  systematic components  risk,   idiosyncratjc risk.   analysis  control  sex. race, education,  experience lev�els. lR   refer   typical indi vidual   level  aggregation.   next subsection   discuss  results   lests once  account   sources  heterogeneity.    nd  few differences. 
+Lastly,  some specific public policy impli�cations.  relevant measure   social rate  return rather   private rate  return  education   forms  human capital.    different   differences  social  private costs  returns, due  human capital externalities  more educated labor force.  schooling   signaling value  addition  raising productivity,   some  factor  
+18 Interestingly.  lhc comparisons   2  3  implemented controlling  occup:llion  industry   computation  ~.+ , lhc results  vinually idcnlicnl 10 lhose reponed  lhese tables. 
+production  supplied inelastically. '9 Using ev�idence  compulsory schooling laws. Ace�moglu  Angrist (2000) find  externalities   small, typically  significantly differ�ent  zero.  result.  risk-adjusted estimates obtained   analysis  reflect  private  social total gajns  losses  human capital investments. ,   provide reliable estimates  various public policy matters. 
+. Additiollal Empirical Evidence 
+ robustness   empirical findings   evaluated  examining number  ex�tensions including  role  tuition costs   effects  ability  selectivity biases.   considering  approximations  human capital returns  account   sources  risk  heterogeneity, including  typical Becker-Mincer approach   measures sug�gested  Buchinsky  Leslie (1997)  Campbell (1996).  found  few differ�ences  respect 10  previous estilll3tes.20  resu lts  available  Appendix upon request. 
+1<1 See  discussion  (~ker ( 1993). 
+:!) Rates  retUnl  estimated   classical Becker-Mincer lug-wage regressions using set  regres�sors  includes education. experience. sex. :lce. nine geographic dummic!>. metropolitan area. individual  family nonearned income.  marital stalus.  retUnlS tend   lower means :IIlU lower variances  ~.r_  '  highly similar Sharpe ralios.  results   tests  differences  risk-adjusted returns   similar. Buchinsky  Leslie (1997) dcvelop dynamic model  endogenous labor supply  accounts  evolving perecp�tions  future wages..  human capital :~ures   model  obtuincd using quunlile regression ap�proach. Mean returns  ilimilar  ~.,_ ' bUl  tend   lower variability. espcl.:ially  greater education lev�els.  result. human capilal Sharpe nl1ios :lrc sliglllly greater lhan  corresponding  ;.+ .' .  p-values    GMM tests   likelihood ralio tests  similar.  minor differences  found  college dropouts whcn comparing human capIl:l1  finan�cial returns.  measure suggested  Campbell ( 1996)  induces slighlly greater Sharpe ratios   induced  ~., ~ '  comparing human capital returns across de�mographic groups.  fJ-values  . GMM  likelihood ratio lests  essentially idcntical     2.  comp:lring human :lpil<ll  financial returns. .   slighlly easier  rejcct (accept)  hypolhesis IIml finan�cial (human capital) returns span  same mean-v:lriance space  lin;:lIlcial pluil human capital relums  educa�tion leveb above high :hool. 
+   considered aspect   concemed   measures  financial re�turns.  might  argued  appropriate comparison  human capital  finan�cial returns  involve  year  year changes  corporate dividends alone.   without considering capital gains.   financial capital gains   explained  changing expectations  future dividends. then   
+measures   equivalent.   need  
+  case.   consider  procedure  Casey . Mulligan (2002)  measure physical capital returns   national accounts ,    labor market data,    "dividend" portion   return [see Mulli�gan (2002)  details   computation   returns).  idea    followed  number  authors, including Zvi Griliches  Dale . Jorgenson (1966). Martin . Feld�stein  Lawrence Summers (1979). Feldstein  (1983).  others.  results   tests  mean-variance spanning  human  physical capital returns  shown   4. 
+ interesting features  worth noticing. . thep-values   tests   similar     3.  result  consistent   idea (   imply)  financial cap�ital gains  largely associated  changing expectations  future dividends. .   null hypothesis  coincidence  bound�aries  rejected,  indicator ~<()   gains  unit  risk  consistently lower ( average  20 percent lower)   indi�cator obtained  financial returns. aJthough still sizable. 
+ conclude   findings   results obtained above  largely consistent   obtained using  approximations  human capital returns ,lI1d   ob�tained  physical capital returns. 
+. Concluding Remarks 
+ anaJysis  capital returns.  human  financial. provides backdrop .   subject matter , several imponant areas  economics (human capital. labor economics, fi�nance).    important   public policy areas,   models  economjc growth  development, macroeconomics,  busi�ness cycles  microestimates  human capital returns playa fundamenral role  cali�brations  empirical analyses.  principal novelty   work   contribution  economics centers   attempt  provide analysis   risk-return properties  human capital returns  comparison   investments overcoming  difficulties   persisted   literature   last few decades. 
+ empirical analysis  yielded number  results.  particular,  variation   stochastic properties  different human capital returns  substantial, especially  compar�ing human capital  liquid assets.  dif�ferences indicate    gained  lost  individuals  society  investments  hu�man capital assets relative  financial invest�ments.  analysis  identify  sources   risk-adjusted differences.    suggest  some "di fficulties." '�frictions, ,.  costs  trading claims   present dis�counted value  future wages   present  some individuals, especially  low educa�tion levels   some minorities.  empir�ical analysis   explain  superiority  human capital.  least  college levels.  liquid investments.   level  private returns  schooling   litermure   suf�flcient  justify  claims  imparlance made  education   areas  economics.  analysis shows    possible  justify  superiority  investments  schooling  simply accollnting   riskiness    vestments. 
+ analysis    useful   areas.  instance.   extent  marriuge  families serve 10 hedge some risks   diver�sify human capital investments through altmism  implicit contracts,  analysis   ~cful   understanding  marriage  divorce markets.  structure   family.  invest�ments   human capital  children.  lllay  shed lighl   behavior  individuals regarding  allocations  risky finan�cial assets (bonds  stocks)  nontraded assets   human capital.21  empirical 
+21 Sec.  instance. Niko .mner . ([997)  Luis Viceira (2001). Steven :.lvis  Paul Willen (20(}0) cV:ll�uate  portfolio choice :lnd welfare implication'  hedg�ing labor income risks  financial assets.  rc:.ult:;,   analysis indicate   tess educated individuats wou td   ones thaI  benefit    accc<:,  financial markets perhaps.  instance. through 401   similar plans. 
+ 4-MEAN-VARIANCE SPANNING  ESTS   UMAN  PIWSICAL CAPITAL RETURNS 
+Panel -Benchmark: Human Capital Assets White Males Bl ack Males White Fcm.. les Black Females 
+GMM LR .6.fT () GMM LR .6.( ) GMM LR .() GMM LR .6.17(111 ) 
+ hi�h school 
+Experience: 1-5 0.02 0.02 14.81 0.00 .OO 18.90 0.01 0.01 15.22 0.03 0.00 15.06 6-15 0.00 0.01 22.70 0.00 0.00 16.02 0.00 0.01 15.33 0.02 0.00 21.88 > 15 0.03 0.02 19.69 0.Q2 0.03 15. 17 0.03 0.04 11.77 0.03 0.00 17.93 
+High school Experience: 1-5 0.04 0.00 14.02 0.00 0.02 13. 18 0.2 1 0.32 6.33 0.71 0.75 0.83 6-15 0.03 0.01 15.2 1 0.04 0.04 15.88 0.25 0.30 5.06 0.63 0.56 1.32 > 15 om 0.03 8. 13 0.26 0. 10 7.07 0.39 0.40 3. 12 0.52 0.64 0.9 1 
+Some college Experience: 1-5 0.03 0.03 19.07 0.Q2 0.01 18.11 0.10 0.29 6.16 0.21 0.46 2.66 6-15 0.02 0.05 17.30 0.02 0.05 12.88 0.17 0.25 5.17 0.07 0.08 11.50 > 15 0.27 0.22 4.6 1 0.22 0. 17 7.23 om 0.17 6.07 0.3 1 0.52 3.2 1 
+College Experience: 1-5 0.38 0.42 1.89 0.60 0.76 0.67 0.58 0.47 1.57 0.84 0.72 0.03 6-15 0.5 1 0.39 2.84 0.57 0.90 0.30 0.41 0.54 0.92 0.69 0.48 2.90 > 15 0.37 0.51 3.3 1 0.72 0.92 0.1 1 0.60 0.38 2.33 0.82 0.91 0.08 
+More  college Experience: 1-5 0.44 0.62 2.01 0.21 0.34 3.71 0.81 0.70 0.09 0.71 0.74 0.08 6-15 0.50 0.57 0.88 0.83 0.82 0.20 0.72 0.60 0.60 0.82 0.64 0.55 > 15 004 1 0040 2.53 0.89 0.77 0.63 0.28 0.41 1.28 0.04 0.01 12. 12 
+Panel B-Benchmark: Physical Capilal Assets 
+ Males Black Males  Females Black Females 
+GMM LR Au( ) GMM LR dU(", ) GMM LR .6.() GMM LR .6.(mJ 
+ high school 
+Experience: 1-5 0.65 0.73 0.63 0.63 0.80 0.00 0.85 0.88 0.02 0.90 0.99 0.00 
+6-15 0.47 0.82 0.92 0.90 0.87 0.00 0.75 0.95 0.00 0.89 0.70 0.03 
+> 15 0.58 0.7 1 0.8 1 0.98 0.96 0.00 0.74 0.99 0.09 0.77 0.77 0.87 
+High school 
+Experience: 1-5 0.46 0.55 2.34 0.78 0.88 0.28 0.22 0. 18 5.40 0.16 0.10 6.80 
+6-15 0.43 0.74 1.20 0.84 0.75 0.83 0.14 0.2 1 6.53 0.08 0.17 5.53 
+> 15 0.2 1 0.2 1 6.50 0.22 0.1 1 6.82 0.06 0.10 11.22 0.08 0.03 9.82 
+Some college 
+Experience: 1-5 0.72 0.83 0.09 0.92 0.64 0.4 1 0. 10 0.10 8.23 0.2 1 0.20 6.60 
+6-15 0.64 0.92 0.12 0.63 0.76 0.50 0. 11 0.15 6.66 0. 16 0. 17 5.40 
+> 15 0.4 1 0.64 0.40 0.2 1 0.85 0.90 0. 11 0.08 6.82 0.44 0.4 1 3.22 
+Col lege 
+Experience: 1-5 0.08 0. 12 7.50 0.04 0.09 12.06 0.13 0. 11 7.44 0.03 0. 15 9.90 
+6-15 0.08 0.05 11.02 0.09 0.06 11.1 2 0.14 0. 19 5.94 0.11 0.16 8.02 
+> 15 0.03 0.06 11.60 0.08 0.07 11.02 0.09 0.08 8.66 0.02 0.09 9.03 
+More (han college 
+Experience: 1-5 0.05 0. 11 9. 12 0.12 0.08 7.82 0.05 0.00 11.40 0.07 0.04 10.44 
+6-15 0.03 0.07 13.66 0.03 0.03 9.50 0.Q2 0.0 1 14.04 0. 10 0. 10 7.06 
+> 15 0.02 0.06 12.08 0.08 0.05 5.92 0.Q2 0.00 13.55 0.62 0040 2. 12 
+Note:   repons  .values   GMM  LR tests   GMM  LR columns. respectively.   estimated increase  unit  risk under column .6. '( ). 
+results    relevant  determine  sumption [Robert . Hall (1988); Mulligan optimal social rate  discount  use  evalu-(2002)]. ating benefit  cost streams  public in-Lastly,   extent   restrictions im�
+vestment (.., public education),    posed   [MRS  different  different 
+analysis  intertemporal substitution  con-human capital assets,  given   individ�
+uals hold human capital assets.  analysis  implications   properties  valid !MRS 
+ models  dynamic economies   some compelling questions   fields:   
+ fundamental sources  individual  ag�gregate risk?   risk affect  allocation   different classes  capital?  , "ultimately. satisfying model  risk  re�turn  explain  magnitudes   rewards  investors receive  bearing different kinds  risk" (Campbell. 1996. . 342). open. important question  future research    finding  classes  models. preferences.  market structures    consistent  human capital returns.  different restrictions imposed   IMRS  differ�ent human capital assets suggest    greatly vary across education levels  individuals. 
+REFERENCES 
+Acemoglu, Daron  Angrist, Joshua. " Large  Human-Capital Externalities? Ev�idence  Compulsory Schooling Laws."  Ben . Bernanke  Kenneth Rogoff. cds.. NBER macroeconomics annual 2000. Cambridge. MA: MIT Press, 2000, . 9-59. 
+Beckaert, Geert  Urias, Michael . "Di versi�fication, Integration,  Emerging Market Close-End Funds." Journal  Finance. July 1996,51(3), . 835-70. 
+Becker, Gary . �COII01I/; theOlY. New York: Alfred . Knopf. 1971. 
+___ . HUlIlall capital: theoretical  em�pirical analysis  special reference 10 ed�ucation. Chicago: University  Chicago Press, 1993. 
+Hils, Mark. "Comment   Large  Human-Capital Externalities? Evidence [rom Compulsory Schooling Laws,"  Ben . Ber�nanke  Kenneth Rogoff, eds., NBER mac�roeconomics anlilial 2000. Cambridge, MA: MIT Press. 2000. . 59-68. 
+Buchinsky. Moshe  Leslie, Philip. "Educa�Lional Attainment   Changing .. Wage Structure: Some Dynamic Implica�tions." Working Paper . 97-13. Brown University. 1997. 
+Campbell, .fohn . "Understanding Risk  Re�turn." Joumal  Political Economy, April 1996, 104(2), . 298-345. 
+Canner, Niko; Mankiw. . Gregory  Weil. David . " Asset Allocation Puzzle." American Economic Review, March 1997, 87(1), . 181-91. 
+Card, David. "Estimating  Return  School�ing: Progress  Some Persistent Economet�ric Problems." Econometrica, September 200 . 69(5). .  127-60. 
+Davis, Steven  Willen, Paul. "Risky Labor Income  Portfolio Choice." Mimeo. Uni�versity  Chicago. 2000. 
+De ROOD, Frans .  Nijman, Theo :. "Testing  Mean-Variance Spanning: Survey." JOflrnal  Empirical Finance.  200 . 8(2). .  I-55. 
+De Santis, Giorgio. "Volatility Bounds  Sto�chaslic Discount Factors: Tests  Implica�tions  International Financial Markets." .. dissertation, University  Chicago. 1993. 
+Fama, Eugene .  Schwert, . William. "Hu�man Capital   Capital Market Equilib�rium." Journal  Financial Economics. January 1977.4(1). . 95-125. Feldstein, Martin .; Oicks-Mireaux, Louis ~lnd Poterba, James. " Effective Tax Rate   Pretax Rate  Return." Journal  Public Eco/lomics. July 1983. 21(2). . 129-58. Feldstein, Martin .  Summers. Lawrence. "lnAation   Taxation  Capital Incomc   Corporate Sector." Nat;onal Tax JOllr�lIal. December 1979.32(4). . 445-70. 
+Griliches, Zvi  Jorgenson, Dale . "Sources  Measured Productivity Change: Capital Input." American Ecollomic Review. March 1966. 56( ). . 50-61. Hall, Robert . "Intertemporal Substitution  Consumption." Journal  Political Ecol1�amy. April 1988.96(2). . 339-57. Hansen. Lars .; Heaton, John  Luttmcr. Erzo 
+. . "Econometric Evaluation  Asset Pric�ing Models." Review  Financial Studies. Summer 1995.8(2). . 237-74. 
+Hansen, Lars .  Jagannathan, Ravi. "Impli�cations  Security Market Data  Models  Dynamic Economies." Joun/ oj Political Eco/lomy, April 199 1. 99(2), . 225-62. 
+Hause, John . "Thc Risk Elemenl  Occupa�tional  Educational Choices: Comment." Jourl/  Polirical Economy. Jul  1974. 82(4), . 803-07. 
+, I-Iml  Modest, David . "Markel Friclions  Consumption-Based Asset Pricing." 
+Journal  PoliliCltl Economy, February 
+1995, 103( 1), . 94-117. 
+Heckman, James .  Klenow, Peter . "Human 
+Capital Policy." Mimeo, University  Chi�cago, 1997. 
+I-Iuberm:, Gur  Kandel, Shmuel. "Mean�Variance Spanning." JOlin/  Finance, 
+September 1987.42(4), . 873-88. 
+Jaeger, David . "Reconci ling  Old  New Census Bureau Education Questions: Recom�mendations  Researchers." Journal oj Business  Economic Statistics, July 1997. 15(3). . 300-09. 
+Jagunmlthan, Ravi; Kubota, Keiichi  Take�hara, Hitoshi. "Relationship  Labor�Income Risk  Average Return: Empirical Evidence   Japanese Stock Market." Jou,.",,1  Business, July 1998, 7/( 3), . 319-47. 
+Jaganmlthan, Ravi  Wang, Zhenyu. "' 
+Conditional CAPM   Cross-Section  
+Expected Returns."  ournal  Finance. 
+March 1996,5/( 1), . 3-53. 
+Jorgenson, Dale .  Fraumeni, Barbara. " Accumulation  Human  Nonhuman Capital, 1948-84:'  . Lipsey  . Tice, eds.,  measuremelll ofsaving, il1l1estmelll.  wealth. Chicago: University  Chicago Press, 1989, . 227-82. 
+Judd, Kenneth . " Education  Good  
+Gold?'� Mimeo. Hoover Institution, 2000. 
+Juhn. Chinhui; Murphy, Kevin .  Pierce, Brooks. "Wage Inequality   Rise  Returns  Ski lL" Journal  Political Ecol1-OIllY. June 1993, 101 (3), . 410-42. 
+Katz. Lawrence .  Murphy, Kevin . 
+��Changes  Relative Wages, 1963-1987: Supply  Demand Factors." /orlerly 
+Journal  Ecollomics. February 1992. 
+107(1), . 35-78. 
+Luttmer, Erzo . . "Asset Pricing  Economies  Frictions." Econometrica, November 
+1996. 64(6), . 1439-67. 
+Mayers, David. "Nonmarketable Assets  
+Capital Market Equi librium under Uncer�
+tainty,"  Michael Jensen, ., Studies ill th  theory  capital markets. New York : Prae�
+ger, 1972. . 223-48. 
+Mulligan, Casey . "Capital, lnterest.  Ag�
+gregate lntertemporal Substitution   20th Century." Mimeo, University  Chi�cago. 2002. 
+Murphy, Kevin ,  Welch, Finis. " Structure  Wages." Quarterly Journal  
+Ecol1olllics, February 1992, 107( ), . 285�
+326. 
+Palacios-Huerta, Igmlcio. " Human Capital  Stockholders   lnternational Diver�sification Puzzle." Joul1Ial  International 
+Ecol1olllics, August 200 Ia, 54(2), . 309-1 . 
+___ . " Determines  Size   Hu�man Capital Premium?" Working Paper . 
+200 1-1 , Brown University, 2oolb. 
+Rosen, Sherwin . "Human Capital,"   new Palgrave: dictionary  economics. New 
+York: Macmillan Press Limited. 1987. 
+Viceira, Luis . "Optimal Portfolio Choice  Long-Horizon Investors  NOll-Tradable Labor Income." Journal  Finance, April 
+200 , 56(2), . 433-70. 
+Weiss. Yoram. " Risk Element  Occupa�lional  EducationaJ Choices." Journal  
+PoliliC( Economy, December 1972, 80(6), . 1203-13. 
+Copyright  American Economic Review   property  American Economic Association.  copyright  individual article   maintained   author  certain cases. Content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

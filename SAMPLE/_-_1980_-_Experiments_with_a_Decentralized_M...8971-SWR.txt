@@ -1,0 +1,452 @@
+Experiments  Decentralized Mechanism  Public Good Decisions 
+ VERNON . SMITH* 
+Public goods theory,  articulated  Paul Samuelson (1954), Mancur Olson,   others,  maintained   distinguish�ing characteristic  nonexcludability, inher�ent  public goods, implies  impossibility  optimal public good provision  de�centralized (voluntary) mechanisms.      excluded   benefits   public good,   incentive  "free ride";  , contribute    marginal valuation   cost   public good. Consequently, public goods theory  suggested  hypotheses. 
+HF:  free rider hypothesis. HI:  impossibility  decentralized public good provision. 
+Traditional public goods theory   viewed HF  HI  independent hypothe�ses.  assumption  free rider behavior  led   conclusion   decentral�ized mechanisms  lead   nonpro�vision  public goods ( example, Earl Brubaker refers    consequence   strong free rider hypothesis),   least  suboptimal quantities  public goods. 
+Precursory  recent contributions  William Vickrey, Edward Clarke (1968, 1971), Theodore Groves (1969, 1973),  Groves  John Ledyard,  accepting  logic  free riding behavior,  sought solutions   problem   form  cost-sharing mechanisms   give  individual incentive  contribute   cost  public good amount equal   marginal private valuation   pub�lic good. Consequently,  mechanisms  incentive compatible,  , individual' acting   self-interest support outcomes (Pareto optimality) judged   desirable   collective.  idea   find proce�
+�University  Arizona. Research support   National Science Foundation  gratefully acknowl�edged.  indebted  Michael Vannoni  program�ming  PLATO version   Auction Mechanism. 
+dures  harness  self-interest  pro�duce optimal common outcomes, just   traditional theory  private goods exchange  argued  action   self-interest  like invisible hand guiding collectives  specialize, then cooperate through market exchange,  provide optimal private out�comes.  Clarke-Groves-Ledyard (here�after, C-G-L) research denies HI'  hy�pothesizes: 
+Hp:  possibility  designing decen�tralized adjustment mechanisms  optimal public good decision. 
+Traditional public goods theory,  as�serting HF  HI'   questioned simi�larly  invisible hand hypothesis   provision  private goods.  fact  argu�ment  HI  leaned  sharp contrast  private goods,     presumed problem  decentralized deci�sion,  public goods,   problem  assumed   inevitable.  noted  Samuelson,   fundamental technical difference  private  public goods:  departing   rule  preference revelation, "... anyone person  hope  snatch some selfish benefit  way  possible under  self-policing competitive pricing  private goods" (1954, . 389). 
+ might  supposed   above dis-� cussion   "new" conventional wis�dom  public goods  acceptance   proposition  although    im�portant technical differences  public  private goods,   nevertheless possible,  applying C-G-L types  ingenuity,  design incentive-compatible decentralized pricing systems  public goods.   simplified reduction   important new contributions   warranted. Leonid Hurwicz,  private goods,  Ledyard  John Roberts,  public goods,  proved    impossible  find mecha�nism  provides individually rational 
+584 
+Pareto optima     individually incentive compatible.  results assume broader range  (costless) strategic be�havior   Nash competitive behavior postulated  C-G-L.  summary  cur�rent state  theory   issues appears    follows: Depending upon   assumes   strategic behavioral modes  economic agents,  attainment  optimal resource allocation  decentralized pricing systems    possible  impossible,    case  result   depend   goods  private  public. 
+   lessons   literature   brought us full circle   state,  none more important   necessity  learning  more   behavior  people  institutions  attempt  operationalize  significant concept  incentive compatibility.  abstract theory  done more  simply return    started, dramatizing  own dead end   absence  better understanding  behavior. Together,  above theoretical contributions  brought glimpse  possibility,  operational forms   Vickrey  private goods,  Groves  Ledyard  public goods,  better un�derstanding   scientific questions  require investigation. 
+. Empirical Tests  Public Goods Theory 
+   casual evidence  suggest  mechanisms exist   voluntary provision  public goods. Thousands  churches, music halls, libraries, scientific laboratories, art museums, theatres,    facilities   financed  voluntary contributions  fund drives con�ducted  private societies.   observa�tions  dismissed  evidence contrary  HI   grounds    instances  atypical altruism, then   serious question    public goods theory consists   refutable hypotheses.  ob�servations contrary  theory    ruled    basis  special explana�tions  part   original theory, then   indeed dealing   Galbraithian systems  belief,   scientific proposi�tions. 
+Copyright � 2001  Rights Reserved 
+ more substantive objection   ob�servations  successful private society fund drives might    represent "small" groups, whereas  public good problem  "large" group problem.  regardless   size   finite group,   always imagine larger collective,  conclude   hypothesis    disproven. Even  collective  size    incentive  free ride,  underprovide  joint outcome. Consequently,  size  claimed   critical parameter  public goods theory,  nature   effect   well specified  examining  ob�servations.  suppose  grant  action  private societies   compelling evi�dence rejecting HI;  although  dis�tinction  small  large   pre�cise, private societies  "clearly" too small  represent valid test  HI. Then   look  examples  voluntary action  larger collectives.  example  voting  national elections, , unlike Australia,   yet required  law   United States.  problem  voting  often described  public goods problem:   individual voter    per�ceivable effect   common outcome,    act  voting involves some cost (going   polls, reading  mark�ing  ballot, etc.),  follows, allegedly,    observe little   voting activ�ity.  fact, "remarkably large" numbers  people vote.   judged   evidence contrary  HI  political economists? ,   "paradox,"    great litera�ture   paradox  voting   distinguished contributions (see Gordon Tullock; George Stigler; . Ferejohn  . Fiorina). Once again, cherished belief re�mains unshaken,   observation  explained anecdotally. 
+  arguing  HI  disproved   fact  people vote,   observation  private societies  sometimes success�ful  building-fund drives;  arguing  clearer standards  evidence.  field observations  clearly inconsistent   strong free rider hypothesis; large num�bers  people vote,  public goods   provided  private societies.     know   know  field observation   optimal quantity   given public good   provided. Some fund drives succeed,   facility  built; others fail.  terms  optimality,  some   latter  succeeded,   some   former  provided larger  better facilities?   know   optimal without independent in�formation  individual valuations. 
+ problem appears   inherent  field studies,    controlled labora�tory experiments   provide unique source  empirical data  testing hypothe�ses  resource allocation mechanisms.  appears   field studies  best      compare mechanism  mecha�nism . Suppose theory suggests   incentive compatible,    . Then   test  hypothesis  observations  mechanism come  distributions  larger quantity   public good   observations  mechanism .    test  hypothesis  observa�tions  come  distribution whose central tendency   optimal quantity   public good.  last hypothesis ( well   former)   tested using ap�propriate laboratory experiments   ,  close approximation, induce known preferences  values  decision outcomes (see  1979  forthcoming papers),  thereby compute  theoretically optimal quantity   public good. 
+. Laboratory Experiments 
+  previous experimental research using partial equilibrium design ( in�come effects),  found  collectives com�posed  four, five,  eight members  able,   replications,  reach agree�ment  produce optimal  near optimal amounts  public good under  version   Groves-Ledyard mechanism   auction mechanism (see  1979 paper). , under  Lindahl mecha�nism  (unlike  Groves-Ledyard  auction mechanism)   incentive com�patible (.., Pareto optimal allocations     set  points   Nash equilibria),  found  experimental collec�tives did  worse; specifically,   replications none   public good  produced,   , positive quantity equal  one-half  optimum  pro�vided. ,  Lindahl mechanism experimental results provided evidence  support   '   results    incentive-compatible mechanisms sup�port Hp  demonstrating  operational procedures exist   solution   free rider problem. 
+ auction mechanism,    reviewed  greater detail  Section ,  characterized  collective excludability, unanimity,  budget balance.  exploits  fact  prior   actual provision  pure public good, collective,  there�fore    members,   excluded   good   providing . There�fore,  stopping rule requires  ()  sum  individual bids (contributions) cover  cost   proposed public good, ,   occurs, ()  collective then agree unanimously  accept  result.  once thought   new mechanism,  ac�tually   just extension, generalization,  formalization   age-old "fund drive" procedure used   private societies  eleemosynary institutions. 
+   conjecture     "pre -contract, group excludability" (see Brubaker) feature  derives  earlier experimental results (see  1979 paper)   results   reported below.     certainty,   suggested, per�haps,   results  . Sweeney  . Marwell  . Ames. 
+Sweeny reports  results  experiments   individual subject pedaled bicycle connected  electric generator.  individual thought    group  size six   group goal (public good)  maintain  bright illumination  "group light"   least ten minutes  thereby receive partial course credit   participation.  fact,  experimenter regu�lated  group light  rheostat,  well   subject' six individual lights  enabled   perceive  contributions   supposed members   group. Average -pedalling speed (revolutions  minute)  used  measure  individual' contribution   public good.  results 
+Copyright � 2001  Rights RA�AQ'�d 
+showed  subjects  large group ( perceived individual effectiveness  nil) withhold statistically significant part   contributions  comparison  small group (perceived effectiveness  large).  supports     context  situation   (   presumed) subjects be�lieved    excluded  course credit   group light   kept suffi�ciently bright. ,  points   emphasized: 1)  great significance   fact  contributions  quite large un�der  experimental conditions. Mean con�tributions differed  zero far more signi�ficantly    , even   group light  bright  independent  subject speed   subjects  contributing  little.  mean contri�butions (across six different treatment con�ditions) varied  speeds  170.45  203.61,  standard errors varied  
+26.12  58.89. 2)  conditions  excluda�bility  imprecise,  ,    exact measurement  indicated   subject   group light  adequately bright  meet  group goal.  consid�erations suggest  HF  supported    weak form,  perhaps     vagueness    conditions under  group excludability  oc�cur. Indeed, given  high mean contribu�tions under  treatment conditions,  seems   results ()  consistent   reported   1979 paper  entirely different experimental paradigm,  ()   support  generally held belief  free riding  serious problem   provi�sion  public goods. 
+ more recent experimental study  Marwell  Ames  concludes   weak version  HF  supported.  Marwell-Ames results   particular in�terest  traditional public goods the�ory applied   experimental paradigm provides clear incentive  free ride.  subject allocated endowment  "tokens" (225   equal distribution case)  "private exchange," yielding well-defined constant private marginal rate  return  money,  "group exchange" yielding well-defined marginal rate  return  money  varied   group' total 
+Copyright � 2001  Rights Reserved 
+contribution.  group exchange required average contribution  100 tokens  subject  yield return better     private exchange,  average  200  subject  yield optimal allocation.   appear   incentive  contrib�ute nothing   public good   high. Using collectives  size four  eighty,  mean contribution  127.6, well below  optimum,  remarkably large  conven�tional reasoning.  subjects   Marwell-Ames experiment made   investment,   possible  argue  learn�ing effects  repeat-play version  produce greater ( why  ?) support  HF'   Marwell-Ames results   contradict    experiments (see  1979 paper)  used repeat play. ,  seems   empirical results  robust under replication  call  question  traditional model  public good decision behavior. 
+. Field Experiments 
+Beginning  1974, approximately 150 sta�tion managers   American network  noncommercial television stations  used computer-based decentralized mechanism called  Station Program Cooperative (SPC)  produce  allocate substantial portion (nearly half   1974-75 season)   programs broadcast   stations.  SPC procedure uses series    twelve trials,   selected  25  38 programs  menus   200     operating seasons. 
+Unlike  laboratory experiments re�ported above,   field experiment re�ported below,  SPC (inefficiently,  the�ory) selectively excludes members    contribute  share  cost  given program.   trial,  station agent votes "yes"  ""   program, based   cost share allocated     previous trial.    trial initiali�zation procedure  followed.  present,  cost borne  station   program   simply 
+ ~   production cost  program ,    budget (measured   Com�munity Service Grant awarded  station)  station ,  ~   set  stations voting  program    previous trial.  little (  ) discretionary intervention   center   twelve�trial sequence,  process converges  ten  twelve trials. 
+   illegitimate  question  cor�rectness,  , efficiency,   process.     more interesting  ask   works, why  works,      improved upon using well-defined criteria.  works   sense   participants seem heartily  approve   process,  think    improved.  seems  work   sense  rapid convergence   strong individual exclusionary features,   view   good results   ex�periments ( rich  number  commodi�ties)    depend  individual exclu�sion,    certain    necessary feature. Ferejohn, Robert Forsythe,  Roger Noll (. 43-57)  investigated some   issues  series  laboratory experiments comparing  SPC procedure  " procedure" based  mecha�nism proposed  Jerry Green  Jean�Jacques Laffont.  termination condition   procedures    1)  same selections  made   subjects   consecutive trials (  third),  2)  trial exceed "secret" number (al�ways ten).  SPC terminated under 1)  every case (five experiments),    procedure terminated under 2)  every case (eight experiments).  terms  efficiency, neither procedure  clearly superior   . ,  multiple discrete public goods  individual exclusion  possible,  SPC stands   operational mecha�nism  would-be designers  beat:  makes allocations  worse,  terminates earlier,     mechanism      compared. 
+Peter Bohm  reported  results  
+significant Swedish television field experi�
+ment  provides  support  HF 
+even   weak form.  results  signif�
+icant    particularly unex�
+pected  November 1969   experi�ment  conducted.   well     ideas   recent literature  incentive compatibility  become known.  Bohm' data gave   recourse   conclude "  well-known risk  misrepresentation  preferences   con�text    exaggerated" (. 111).  retrospect  results   unexpected   conditions   Bohm experi�ment effectively introduce  collective ex�cludability characteristic   auction mechanism, ,    argued elsewhere (1979),  results  actually   ex�pected    wrong   theory  predicted free riding    place. 
+ summary,  empirical evidence  laboratory experiments, controlled field experiments,  actual field experience (SPC) overwhelmingly supports Hp.     true  incentive-compatible pub�lic good mechanisms  possible,    exist operational forms   mech�anisms;    true   mechanisms  fairly easy  invent,    com�plicated  difficult  understand,    easy  computerize  large-scale decisions. Furthermore,   some evi�dence (see Marwell  Ames)  suggest   problem  free riding   severe  fact, pretty weak-even    strong  fairly obvious incentives  withhold contributions  public good.   mechanisms   incentive com�patible, perhaps  undercurrent  non�free-rider behavior  some agents helps  offset  effect  strategic manipulation (always potentially present)   agents. 
+.  Auction Mechanism  PubUc Goods 
+Consider economy consisting   private   public good. Let consumer agent (= 1,2, ... , 1)  endowment   private good,  utility function '(Yi' ), increasing  concave  (" ) yielding utility '   retains Yi units   private good     collective   agents chooses  produce  units   public good. unit   public good   produced   units ( constant)   private good. 
+Let  agent choose 2-tuple (" ,) 
+ Bj = Wj ,   bid  private good 
+units   contributes   production  
+ public good,  Xj   quantity  
+ public good proposed  . Define:  collective' proposed quantity   public good   mean, = ". vkXk/,   individual proposals.  mean   proposals excluding   
+,=".vNjXjU-I). 
+ 
+ sum   bids excluding   , = 
+".vN,Bj' 
+ net (residual) price   public good     ;/"   share   cpst_of_the collective' proposal  (q�B,/Xj), 
+Collective agreement (equilibrium) re�quires    accept  share  cost  bidding  amount   accept  collective' proposed quantity   pub�lic good   personal proposal,  , agreement occurs    unanimity  th~ sense  , = ( -BJX,)  Xj=, 'tIi. procedure  operationaliz�ing  conditions  contained   process described   next section. 
+Assume (" 0) <(" )'tIy, <" >. Then  receives utility 
+() 
+'[ ,(q-B,/,), ],  , = (  ,/,), , = , 'tIi 
+=
+, 
+'["],  ==(q-B,/,)   =1=     
+   shown     chooses (" ;)  maximize "  resulting condi�tions correspond  Lindahl equilibrium    noncooperative  Nash equilibrium. , (1) defines   ash equilibria    Lindahl equilibria. 
+Assuming differentiability, maximum  , requires "agreement"  defined above,  (q-B,/,)(/);+(/)=,  
+(2) ,=(q-B,/,), 'tIi 
+(3) ,=, 'tIi 
+ -�
+(4) =q-B./ 'til 
+.  '
+'
+ 
+ (2),  (3) implies , =, 
+(5) 
+,  (4), (2),  (5) 
+ LBk 
+ 
+!!2. = ~= +
+(6) 
+Vk ~   
+Vk
+'= 
+ 
+ defines interior (0 <YiO < ,) Lindahl equilibrium, (~, ... , ~, XO).    Nash equilibrium    == bid Bjo=;-yjO,  propose Xj=Xo, agent ' best choice  ,=,,  ,=Xo; otherwise prevents agreement  re�ceives utility (" 0) <(,, XO). 
+  exist Nash equilibria    satisfy (4)  (6)  seen  considering  (yi, ... , yi; *)   '(,*, *) > '(")'tIi  
+LWi= Ly,*+qX* 
+,  
+Then  'tIj==, Bj=wj-y/,  =*, agent ' best choice   agree   arrangement  setting 
+,=,,*=  wj + Ly/+qX* 
+~ ~' 
+ ,=*. 
+  well known  Lindahl equilibrium    set  Pareto optimal arrange�ments,   latter  satisfy (6).  Lindahl equilibrium defined  (4)  (6)   Pareto optimal set defined  (6)   contrasted   free rider solu�tion.  obtain  solution, assume   agent  chooses Yi   assumption 
+Copyright � 2001  Rights Reserved 
+   determined  whatever budget ~( ;) results   choices.     chooses Yi' 0 ";;Yi";; " then  = ~(Wi-y;)/.    then assumed  maxriui(Yi'~(Wi-y,)/). ,  maXimum, (YI,~, ... ,YI; '),   
+.  (,,') ' 
+2..;; _____ =
+(7) 
+;. ' 
+ / =   < holds   .  (7)  allow  boundary solutions ,' =,   occur   experimental design re�ported  Section  below. 
+ auction mechanism experiments re�ported   1979 paper correspond   model stated above   set ; == 1, .  utility function  then (yi' )==Yi+()  ~ = ; (). Consequently,  set  Pareto optimal allocations defined  (6)  simply  quantity   public good   satisfying ~ViU;(XO)=,     Lindahl equilibrium quantity   equa�tion  unique solution.  Lindahl prices ,=;(Xo)  given  (4)  , representing agent ' bid  numeraire units  unit   public good.  budget constraint  necessarily satisfied  XO~,=qXO identically. 
+. PLATO Public Good Experiments 
+ experiments   reported  used computerized iterative decision process  operationalize  mechanism   preced�ing section.  computations   pro�cess  too complex    executed effectively without computer aid.  PLATO computer system  visual dis�play consoles  programmed  execute  procedures  guide subject groups through  decision process.  system  enormous advantages  manually executed experiments  standardizing pro�cedures, eliminating possible experimenter  "auctioneer" effects, recording subject choices, performing routine calculations,  displaying  appropriate private  public information   subjects. 
+Prior   commencement  experi�ment    initialized   experi�menter.  initialization PLATO requires numerical values  (/, , , ' ' ' ' /3,),  /   number  subject agents   participate   experi�ment,    maximum number  decision trials,    unit cost   public good,    private good endowment  subject ,   payoff function  dollars    '(" )==aiY,aiXfJi_bi   (Yi' )   ';;;' . 
+ language   process consists  private messages ((), ,()) sent  agent   tri~ t_to >LA ,  private messagesJ  ,/,)  public messages ('," ) sent  PLATO      trial.  process uses  following iterative procedure: 
+() 
+Starting rule:  trial   agent, using    typewriter keyboard, inde�pendently  privately types 2-tuple (,(), ())  ,() [, ]  () [,12]. Agent ,   discretion, then presses key  actually transmits  selection   "center,"  , memory space  PLATO. 
+() Transition rules: 
+() 
+  last subject-agent  entered _his choices, PLATO computes (~," ).  sixteen   experiments below,  message  transmitted   agent,   thirteen experiments,    rounded   nearest integer   message  sent. 
+() 
+ ~,,;;;' qX,  collective ~ reached tentative agreement.  ". ,, = qX,  agenfs share  cost  set equal   bid qX-". VN' BJ = ,.  fact  re�ported   ,  PLATO goes  voting mode    agent  asked  type "yes"  "" indicating  wishes  accept   accept  final  arrangem~ resulting   trial.  ~,, >qX, PLAT.,9 modifies  collective' decision (".," )    center re�tains none   bid surplus.  proce�dures  used   modification: 
+1. Rebate rule 1: PLATO  deter�mines   overbid  sufficient  allow integer increase   size   public 
+SMITH: PUBLIC GOOD DECISIONS
+good,  , th~ largest  = 0, 1,2,...   '2.;,">(+)  chosen.  re�maining bid surplus  then rebated   agent  proportion   bid. ,  agent ' bid  Bk  adjusted bid becomes 
+(8) 
+ +    adjusted proposed size   public good. 
+2. Rebate rule 2: PLATO adjusted  outcome ('2. ;;, )  give ('2.,;,~)   vecto~  ('2.   , ), )  ('2. vJ , -Bn, ')  orthogonal   production-pos�ibility frontier   point ('2., ( ;;), ') lies   frontier. Con�sequently,  adjusted quantity   pub�lic good   adjusted bid  agent   
+,= ___V_k_
+(9) 
+1+q2 
+() 
+ '2. ;,<qX, PLATOAco~~es  agent' share  cost ( -BJX),   received  private message   .   case PLATO bypasses  voting mode, goes  trial  + 1, !! again  agent selects 2-tuple (;, )   transmitted   center. 
+() Stopping rule: 
+() 
+ process stops  trial *';;;    arrangement resulting  trial *  brought  vote,    vote yes. 
+() 
+Otherwise  process stops  trial . 
+() Outcome rule: 
+() 
+  process stops  (iiia)  collec�tive  reached equilibrium agreement, 
+Copyright � 2001  Rights Reserved 
+  agent  paid ;[,;(*), (*)] dollars  cash.  0;(')  ' (unobserved) utility  money  : >0, then  final outcome    equation (1)  Section  
+ 
+,(*)='[yrCt*), (*)] 
+=;{,[ ;;(*),(*)]} 
+() Otherwise (..,   process stops  (iiib�  agent receives ,()=(,) = ,['(")]. 
+. Experimental Design  Results 
+ subject   monotone increasing utility ;(;)  ' dollars,  '= ;ya"XP';  ' payoff function, then  Lindahl equilibrium quantities   private  public good  independent   ;,  given  
+(10) 
+Xo=( ~) ~(::fiJ 
+ 1 exhibits  individual experimen�tal design parameters   basis set   classes  subject agents,  Lindahl equilibrium private quantities, bids,  payoffs.  PLATO version   auction mechanism  designed  replicate  basis economy  multiples  .  ,    classes  individuals identified  endowment  payoff function parameters. experimental collective consists   sub�jects   class, = 1,2,3, ... , correspond�ing  collectives  size /=3,6,9, ... ,    unit cost   public good  , 2q, 3q, ... .  public design parameters applying   experimental collectives  number  experiments conducted under  condition  listed   2. When�ever  available time  adequate, experimental session consisted   back�to-back experiments     experiment   play   same "experienced" subjects.  total number  
+ I-ExpERIMENTAL DESIGN, INDIVIDUAL PARAMETERS 
+Parameter Class 
+Parameter   
+ 0.2 0.4 0.1 
+f3 0.2 0.1 0.4 
+ 16 7 14 
+ 15 6 13 
+ 8 10 5 
+;, LE Private 4 8  
+Quantities 
+;;, LEBids 4 2 4 
+;(;, Xv) $14.14 $12.89 $13.65 
+Note: LE refers  Lindahl equilibrium. 
+experiments classified  collective size  experience treatment  shown   2.  free rider quantities   public good listed   2  computed using (7),   Cobb-Douglass payoff functions leads   solution 
+(11) 
+, � [ lX, qX' ] , ,
+; =mm wp-p;, = ~(;;) 
+Tables 3, 4,  5 contain  final trial bids  subject parameter class,   quantity   public good provided   experiment  collectives  size , six,  nine, respectively.  experiment  code numbered    column   .  example   3, PA3.3 refers  PLATO auction, collective size , session ,   order. Experi�ments without prime designation   last digit    "inexperienced" play    prime    "experienced" play.  PA3.3      experiments   third session   subjects,   A3.3'    experiment using  same subjects.   difference (besides experience) be�tween   experiments    sub�jects  rerandomized    parameter classes    experiment. Experiment PA9.1 aborted due  pro�gram error,    experiment   session PA9.'  completed  
+ 2-ExpERIMENTAL DESIGN, 
+COLLECTIVE PARAMETERS 
+Collective Size  3 6 9 
+, Unit Cost 
+Public Good 2 4 6 
+Xv, Lindahl 
+Optimal Quantity 5 5 5 
+', Free Rider 
+Quantity 2.89 1.67 1.42 
+Number Experiments: 
+Inexperienced 
+Subjects 8 3 4 
+Experienced 
+Subjects 7 3 4 
+Total 
+Experiments 15 6 8 
+Total Subjects 45 36 72 
+counted  experience play.   total  twenty-nine experiments,  collec�tive  size  (PA3.1)    size nine (PA9.3) failed  reach agreement  provide units   public good. 
+ mean quantity  public good pro�vided   experimental collectives   size  experience class  shown   
+6. Excluded   calculations   zero outcomes    experimental groups  failed  reach agreement.  pooled overall mean  5.3    ob�servations  included.   6    seen   appears    sys�tematic effect  collective size  experience   quantity  public good provided.   borne  more precisely  regres�sion  *  ) collective size, 2) dummy variable  experience,  3) dummy variable   rebate rule. None   variables  significant:  largest value   I-statistic      inde�pendent variables  0.285,  R2 = .005.   conclude  none   alleged "treatment" variables   credible ef�fect   provision   public good. Collectives   sizes provide  larger quantities   public good   predic�ted   free rider hypothesis,  mean quantities slightly larger   predicted   Lindahl quantity.   plots  twenty-nine experimental final trial out�comes (~,;*, *) along  production�possibility frontier.  twenty-seven experi-
+Cgpyright @ ?Qgl  RiQhts Res90' 
+2 3 
+Subject Parameter Class ",.=8 "'2=10 "'3=5 X�, Final t�, Final 
+LEBid, Wj-y,=BiO 4 2 4 Quantity� Trialc 
+Final Bids, ,� 
+Rebate Rule  
+PAJ.1b (3) () (2) 0(5) 15 
+PA3.2 4.55 1.8 3.6 5 6 
+PA3.2' 5 5 4 7 2 
+PA3.3 2 8 0 5 12 
+PA3.3' 5 2  4 11 
+PA3.4 3.67 3.67 4.58 6 3 
+PA3.4' 4.58 6.42 0.92 6 14 
+Rebate Rule 2 
+PA3.5 1.95 3.89 3.89 4.87 12 
+PA3S 3.69 5.54 1.85 5.53 12 
+PA3.6 3.95 5.92 4.93 7.4 14 
+PA3.6' 2.94 4.42 4.91 6.13 4 
+PA3.7 2.85 1.9 2.85 3.8 14 
+PA3.7' 1 2 3 3 10 
+PA3.8 3.94 6.89 1.97 6.4 1 
+PA3.8' 4.89 7.82 1.96 7.33 4 
+Note: See  . 
+" LE quantity  Xo= 5,   experiments. 
+bBids  quantities  parentheses   final trial outcomes  experiments failing  reach agreement. 
+cMaximum number  trials, = 15. 
+ 4-BID-QUANTITY OUTCOMES, PLATO AUCTION MECHANISM EXPERIMENTS, 1=6 
+Subject 2 3 4 5 6 
+    
+X� t�, ,
+Parameter Class ",.=8 "'2= 10 "'3=5 ",.=8 "'2=10 "'3=5 Final Final Maximum 
+LE Bid, wj-y,=, 4 2 4 4 2 4 Quantity" Trial Trials 
+Final Bids, ,� 
+Rebate Rule 1 
+PA6.1 5.76 2.88 2.88 3.83 5.75 2.88 6 3 15 
+PA6.1' 5.4 3.6 0.9 2.73 4.5 2.73 5 6 15 
+Rebate Rule 2 
+PA6.2 3.92 6.86 0 6.86 8.83 1.9 7.1 8 10 
+PA6.2' 0 5.99 3.99 3.99 8.98 1.4 6.08 7 10 
+PA6.3 5.87 6.85 3.91 6.85 3.91 4.89 8.07 8 10 
+PA6.3' 2.99 4.99 3.99 1 5.98 3.99 5.74 6 10 
+Note: See  . �See  3. 
+ments reaching agreement produced quanti-of  public good   collective size ties   public good  excess   came  popUlation  mean equal  relevant free rider quantity.  theoretical free rider quantities ( 
+ 7 records  ex (Type  error)  2),   alternative hypothesis HI   1-f3 (power) probabilities,   null  sample quantities came  popula�hypothesis Ho    sample quantities tion  mean equal   Lindahl quan-
+Copyright � 2001  Rights Reserved 
+Subject 2 3 4 5 6 7 8 9 
+       
+*, *, ,
+Parameter Class 
+"'1=8 "'2=10 "'3=5 "'1=8 "'2=10 "'3=5 "'1=8 "'2=10 "'3=5 
+Final Final Maximum 
+LE Bid, Wi-Y, = , 4 2 4 4 2 4 4 2 4 Quantity� Trial Trials 
+Final Bids, Bt 
+Rebate Rule  
+PA9.1' 6.22 3.56 1.78 0.89 7.11 4.44 5.4 2.67 3.56 6 10 15 
+PA9.2 7.47 2.79 3.71 5.57 1.86 1.76 5.57 8.36 4.64 7  15 
+PA9.3b (1.25) (6) (5) (4) () (5) (6) (7) (4) 0(7) (15) 15 
+PA9.3' 0.97 1.94 3.89 3.89 9.72 1.94 3.89 5.84 3.89 6 14 15 
+Rebate Rule 2 
+PA9.4 3.99 3.99 2.99 4.99 4.99 0 2.99  3.99 4.82 8 15 
+PA9.4' 3 6  0 4  4 4 2 4.17 12 15 
+PA9.5 3 5 3 2  3 5 7 3 5.33 7 10 
+PA9.5' 4.99 3.99 0 5.99 4.99  5.99 3.99 0 5.16 9 10 
+Note: See  . 
+�See  3. 
+bBids (quantities)  parenthesis   final trial bids (quantities)  experiments failing  reach agreement. 
+tity (5).   row  selected probabili�ties  used  calculate  critical value Xc (  collective size /), above   reject Ho (accept HI)   sample mean exceeds Xc'  calculations  based   t-distribution  sample sizes equal   number  experiments,  variances computed   X�,  listed  Tables 3, 4,  5.  critical values  then used  compute  1 {3 power probabilities   test.  example, under Ho  1=3 (col. 1,  7), Xc=2.89+(~/~)1/2= 
+3.5 corresponding  power  1-{3=0.7 (.., tp =(3.5 -5)(Jij/ Nj )1/2 = -0.528). 
+Examples   trial-by-trial "moves"  experimental collectives  illustrated  Figures 2  3  collectives  size   nine, respectively.  fjgure 2  trial 1,  collective proposed (1) = 8,  bid ~;_IBi() = ~~[ ,()] = 23 -10 = 13;  trial 2, ((2),~,(2�=(8, 10);   . Trials 4  11  voting trials  indicated   asterisks.  trial 4,  collective overbid  cost   proposal, .., 2X= 6<~,= 8,  under  integer�increase Rebate Rule 1,  collective' pro�posal  increased (dashed arrow)  4.  outcome  vetoed   collective proceeded  trial 5. Finally,  trial 11  collective proposed 4, bid 8  approved 
+ 6-MEAN PROVISION  PuBLIC GoOD 
+1=3,6,9;  =5 
+Mean Quantity  Public Good Chosen 
+Collective Size  Inexperienced Collectives Experienced Collectives Pooled 
+3 5.50 5.57 5.53 
+6 7.06 5.61 6.33 
+9 5.72 5.33 5.50 
+Pooled 5.91 5.51 5.7� 
+ Based   twenty-seven "agreement"experiments.  overall mean  5.3   twenty-nine observa�tions. 
+ 7-ERROR  POWER PROBABILITIES 
+ FREE RIDER (Ho)  LINDAHL 
+EQUILIBRIUM (HI) HYPOTHESES 
+Collective Size 3 6 9 
+  Probability 
+ Rejecting Ho 
+(Accepting HI) 
+ Ho  True 0.5 .05 .05 
+ = Probability 
+ Accepting HI 
+(Rejecting Ho) 
+ HI  True .70 .85 .83 
+Critical Value Xc 3.5 2.6 2.1 
+Co (5i  @ ilQQ1 lOtI!  : Iiilese: oed 
+25 
+Ex.perlmental Results 
+13.91 '3,6,9 
+XO'5
+3Iy, --y�
+20 
+ProductlOrl
+DI 
+Possibility 
+Frontier
+~ 
+131 131
+~ 15 
+191 
+cl: 
+191
+"5 191 13,3.3.61 
+~ 
+ 
+8 -5 10 
+ Free-Rider Quantities 
+� LE Quantity 
+( ) Expenmental Collective 
+~ 
+13.3.9.91-,161 
+~ 
+Size Agreemg  
+131 
+Outcome 161
+'" 
+~ 
+~ ~ 5 
+'( 4 Quantity  Public Good 6 8 
+FrGURE  
+ outcome unanimously.  3 il�lustrates    nine-member collectives under  orthogonal rebate rule.   trials 4, 5,  7,  collective overbid  mean proposal,    case new proposal  bid sum  computed  PLATO based   orthogonal adjust�ment (dashed arrows), under Rebate Rule 2,   boundary   production-possibility set. 
+   noted   public good quantity proposals   3   varia�ble     2.   typical   larger collectives ,    "law  large numbers" effect,   interactive   smaller collectives.  variance  final quantities   public good  three-member collectives  1.82;  six-member collectives, 1.36;  nine�member collectives, 0.82.  result sup�ports  hypothesis  larger groups   interactive  smaller groups,  using  Bartlett test,  unable  reject  null hypothesis    population variances  equal. 
+ subjects  auction mechanism experiment  free  bid zero,    interest  examine  data  Tables 3-5  instances   behavior   final (equilibrium  boundary) trial.   3, 
+IB 
+42 
+41 
+9 
+, , 
+40 
+39 
+38 
+37 
+36 
+35 
+34 
+3 
+2 
+ 
+I03'::-4---;5::'::7:~~:9 
+Expen ment PA3 3 
+Quantity  Publ, Goad  
+ 2 
+Experiment PA95 
+Production 
+-Possibility Frontier' 
+ +6X =69
+, 
+6 
+7 
+5 
+=9 =IO XO=5 
+� voting tnol 
+334~~~~~~~8~~9 
+Quontlty  PubliC Good  
+ 3 
+Copyright � 2001  Rights Reserved 
+ 8-FRACTION  SUBJECTS BIDDING ZERO   ENDOWMENT   FINAL TRIAL 
+Fraction  Fraction  
+Collective Subjects Subjects 
+Size Bidding 0 Biddingw, 
+3 1 45 =.022 3 45 = .067 
+6 2 36 =.056 1 36 =.028 
+9 4 72 =.056 6 72 = .083 
+ Collectives 7ill=.046 \0ill=.065 
+  seen     three-member collective did individual bid zero (subject 3  PA3.3)   final trial.    extreme,  individuals (subject   PA3.4, PA3.6,  PA3.6') bid  entire endowments ( rebate)   final trial. Normally   overbid  final (agreement) trial  corresponding rebate  prevented  bids  yield�ing zero payoff.  8 provides summary, classified  collective size,   fraction  subjects bidding zero   entire endowments.  twenty-nine sessions  included   determination.  zero bidders represent free rider behavior,  endowment bidders represent anti-free rider behavior,  results   8 suggest    extremes  represented  equally   population  subjects. Fur�thermore,  8 shows  credible in�crease  free rider bidding behavior  col�lective size increases   range  1= 3-9. 
+.   Pareto Optimality  
+Experimental Outcomes 
+ previous section tested experimental public good outcomes against  free rider  Lindahl optimal quantities   public good. ,    emphasized  Samuelson (1969),  Lindahl equilibrium (LE) (   income effects) pro�vides merely    Pareto optimal allocations,    special ethical ap�peal.   experimental collectives typi�cally reached agreement  public good quantities  deviated   Lindahl optimal quantity,   natural  ask   deviations fell   Pareto opti�mal set. 
+ Pareto optimal set  defined  (6).  1=3  Cobb-Douglas utility func�tions (6) becomes 
+(6') 
+ suggests linear regression hypothesis      four quantities (Yl' Yz, Y3' ) depending upon  quan�tities  arbitrarily selected   depen�dent  independent variables. IfY2  Y3  regarded   independent variables     dependent variable, then  Pareto-regression hypothesis  
+(12) 
+ , =(3,/,. Based   experimental design parameters listed   1,  Pareto-prediction hypothesis  
+(12') = .1875Y2+0.75Y3 +5.75 
+Using  fourteen observations  collec�tives  size   estimate  coefficients  equation (12') gives 
+= -0.546Yz -0.497Y3 + 9.533 (-3.915) (-9.728) (5.648) 
+ t-statistics shown  parentheses under  coefficient  computed   null hypothesis   population value  given   corresponding coefficient  (12').   clear   coefficients differ  significantly   Pareto-predicted values. ,  reject  hypothesis  collectives  size , using  auction 
+Copyright � 2001  Riohts ReSAO'8d 
+ 9 
+Parameter   
+Class wl=8 W2=  w3=5 
+LE Bid, , _ , Mean Bid,  Collectives 4 3.94 2 4.86 4 2.63 
+Note: See  . 
+mechanism, tended  provide Pareto opti�mal allocations. 
+ examination  mean bids  subjects    parameter classes ( 9) pro�vides some insight   nature  subject deviations   Lindahl optimum. Sub�jects  class  having endowment  8,  theoretical LE bid  4, bid  aver�age  close  4. , class  sub�jects  endowment  10  theo�retical LE bid  2,  mean bid  4.86.  subjects  prefer  private good   public good,  apparently    relatively large endowments tend  "overcontribute"   public good. Simi�larly, class  subjects  endowment  5  LE bid  4, tend  "undercon�tribute"  mean bid   2.63. ,  "rich" give more   "poor" give    predicted   LE bids.   design,  pattern  deviation   consistent  Pareto optimality. 
+ results contrast sharply   1979 paper reporting  results  twelve auction mechanism experiments based  designs   income effects.   previous experiments, subject  received payoff  JI,() mapping quantities   common quantity   private dollars. Subject bids   dollars  unit
+ 
+  public good,   stopping rule required =".vj'," ,   successive trials   = , ,   sec�ond trial (see  1979 paper  complete discussion).      partial equilibrium experiments converged   unique Pareto  Lindahl optimal quantity   public good given  ".ViV:(XO)=. Furthermore, linear regression  final trial bids ,�   LE prices :(Xo) using data  individual subjects across  series  experimental replications yielded intercepts insignificantly different  zero, slopes in�significantly different    R2 val�ues  0.82  0.99. ,   income effects, experimental outcomes   accurately predicted   LE quan�tity   public good   LE price.   current series  experiments  in�come effects,  LE quantity   public good  fair predictor,   LE bids  poor predictor  experimental out�comes. 
+. Effect  Parameter Changes:  Robust   Experimental Results? 
+  always appropriate  ask  particular experimental results  due  artifacts unrelated   theory  pur�ports  test.   context,    noted  subject payoffs  presented  12  12 tables listing '(" )   integer values "  = 1,2, ... ,12. ,  median value    subject' payoff   6.5.   6  pooled mean provision   public good  5.7     close   median      theoretical LE quantity (5). , look   9 listing mean bids.  average subjects contribute approximately one-half  endowments   public good  retain one-half  private use.  total endowment 23  = 2  collective   members, under  one-half rule  total bid  11.5, pro�viding budget support  5.7 units   public good.   low-information games   auction mechanism,    unrea�sonable  conjecture  subjects  drawn  median quantity proposals,  simple 
+ lO-ExpERIMENTAL DESIGN: 1=6, =2, XO=9, '=3.33, =  
+Parameter Class Parameter   
+ .24 .96 .8 
+fJ .96 .24 .8 
+ 1.5 1.5 1.5 
+ 0 0 0 
+ 5  6 
+,, LE Private 
+Quantities 1 8 3 
+, ,, LE Bids 4 2 3 
+Note: See  1. 
+Copyright � 2001  Rights Reserved 
+ II-BID-QUANTITY OUTCOMES, PLATO AucnoN MECHANISM ExPERIMENTS; 
+1=6, =2, XO=9, '=3.33, T-lO 
+Subject 2 3 4 5 6 
+    
+Parameter Class ",\=5 "'2= "'3=6 ",\=5 "'2=  "'3=6 X�, t�, 
+Final Final 
+LE Bid, ",;-yP-B; 4 2 3 4 2 3 Quantity Trial 
+Final Bids, ; (Rebate Rule 2) 
+PAl 3 3 3 2  3 7.5 9 
+PAl' 2.98 4.96 2.98 2.98 0.99 0.99 7.93 10 
+PA2 (1.5) (4) (4) (0) (6) () (8.83) 10 
+PA3 3.92 3.92 2.94 3.92 2.94 0.98 9.3 7 
+PA3' 1.97 1.97 1.97 1.97 4.93 1.97 7.4 9 
+PA4 3.61 4.51 3.61 0.90 4.51 4.51 10.83  
+PA4' 3.81 4.76 4.76 1.90 0 4.76 10 8 
+PA5 (.99) (9.88) (3.95) (3.95) (1.98) (1.98) (11.37)  
+PA5' 3   4 10 3   
+Note: See  . 
+ 12-MEAN BIDS  MEAN PROVISION 
+ PuBLIC GOOD 
+Parameter   
+Class ",\=5 "'2= "'3=6 
+LEBid ",;;=; Mean Bid Mean Provision  Public Good 9.14 4 2.85 2 3.46 3 2.81 
+Note: See  . 
+50-50 division  endowment   public  private expenditure alternatives. 
+ arguments suggest  desirability  replicating  experiments  differ�ent set  parameters.  10 lists  parameters used   series  nine experiments.  variation   previous design,  design uses parameters +, > 1 yielding  quasi-concave (Yi' ) func�tions.  subject classes   present design retain  same endowments (5  , 10)  LE bids (1  8)  characterized  previous design. 
+ final trial bids  quantities   public good  shown   11. Seven   nine experimental collectives reached agreement.  mean provision  public good   mean bids  parameter class  listed   12. (-test   null hypothesis   population mean quan�tity   LE 9   rejected �( = 0.24), whereas  free rider hypothesis  rejected�(= 10.1).    clear  collectives   providing quantities   public good near  artifactual median    payoff tables. Comparing  mean bids  class   class  subjects   9   mean bids  class   class  subjects   12 (endowments 5  10, respec�tively), note modest increase   bids  subjects  endowments  5  con�siderable decrease   mean bid  sub�jects  endowments  10.    consistent   artifactual one-half en�dowment bidding rule. 
+ conclude   auction mechanism 
+results reported  Section   robust 
+ respect  parameter changes.  sets 
+ experimental results support slight over�
+provision  public goods relative   
+Lindahl optimum. , individual bids 
+  support Lindahl optimal bids,  
+ deviation  actual  Lindahl opti�
+mal bids  explained  consistent 
+CQP):;~Rt @ ZlQQ1  ;~ :tiS Rue: oed 
+tendency  endowment-rich subjects  overcontribute,  endowment-poor sub�jects  undercontribute,  relation   Lindahl optimum. 
+REFERENCES 
+. Bohm, "Estimating Demand  Public Goods: Experiment," Euro. Econ. Rev., .2, 1972, 3, 111-30. 
+. Brubaker, "Free Ride, Free Revelation,  Golden Rule?," . Law Econ., Apr. 1975, 18, 147-61. 
+. Clarke, "Multipart Pricing  Public Goods," Pub. Choice, Fall 1971,2, 17-33. 
+___, " Market Solution   Public Goods Problem," Urban Econ. Repts., Univ. Chicago, 1968. 
+. Ferejohn  Fiorina, " Paradox   Voting: Decision Theoretic Analysis," mer. Polito Sci. Rev., June 1974, 68, 525�
+36. 
+___, . Forsythe,  . Noll, " Experi�mental Analysis  Decision Making Pro�cedures  Discrete Public Goods: Case Study  Problem  Institutional Design,"  Vernon Smith, ., Research  Experimental Economics, Greenwich 1979. 
+. . Galbraith, "Economics  System  Belief," Amer. Econ. Rev. Proc.,  1970, 60,469-78. 
+. Green  .. Laffont, "Characterization  Satisfactory Mechanisms   Reve�lation  Preferences  Public Goods," Econometrica, Mar. 1977,45,427-38. 
+. Groves, "Incentives  Teams," Econo�metrica, July 1973,41,617-33. 
+___, " Allocation  Resources Un�der Uncertainty:  Information  In�centive Roles  Prices  Demands  Team," tech. rept. . 1, Center Res. Manage. Sci., Univ. California-Berkeley, Aug. 1969, ch. 4, 71-73. 
+___  . Ledyard, "Optimal Allocation  Public Goods: Solution   Free�Rider Problem," Econometrica,  1977, 45, 783-809. 
+. Hurwicz, " Informationally Decentral�ized Systems,"  Roy Radner  . Bart McGuire, eds., Decision  Organi�zation, Amsterdam 1972. 
+. Ledyard  . Roberts, "  Incentive Problem  Public Goods," disc. paper . 116, Center Math. Stud. Econ. Man�age. Sci., Northwestern Univ. 1974. 
+. Marwell  . Ames, "Experiments   Provision  Public Goods : Resources, Interest, Group Size,   Free Rider Problem," Amer. . Sociol.,  1979,84, 1335-60. 
+Mancor Olson,  Logic  Collective Action: Public Goods   Theory  .Groups, New York 1968. 
+. Samuelson, " Pure Theory  Public Expenditure," Rev. Econ. Statist., Nov. 1954, 36, 387-89. 
+___, "Pure Theory  Public Expenditure  Taxation,"  Julius Margolis  Henri Guitton, eds., Public Economics, London 1969. 
+. Smith, "Incentive Compatible Experimen�tal Processes   Provision  Public Goods,"   Research  Experimental Economics, Greenwich 1979. 
+___, "Relevance  Laboratory Experi�ments  Testing Resource Allocation Theory,"  Jan Kmenta, ., Evaluation  Econometric Models, forthcoming. 
+. Stigler, "Economic Competition  Pol�itical Competition," Publ. Choice, Fall 1972, 13, 91-109. 
+. Sweeney, " Experimental Investigation   Free-Rider Problem," Soc. Sci. Res., 1973, 2, 277-92. 
+Gordon Tullock, Toward Mathematics  Politics, Ann Arbor 1967, ch. 7. 
+. Vickrey, "Counterspeculation, Auctions  Competitive Sealed Tenders," . FI�nance, Mar. 1961, 16, 8-37. 
+Co   � 2001   hts Reserved 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

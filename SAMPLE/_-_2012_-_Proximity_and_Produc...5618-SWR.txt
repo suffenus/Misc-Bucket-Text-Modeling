@@ -1,0 +1,107 @@
+American Economic Review: Papers & Proceedings 2012, 102(3): 407�411 http://dx.doi.org/10.1257/aer.102.3.407 
+Proximity  Production Fragmentation� 
+ Robert . Johnson  Guillermo Noguera* 
+Recent decades  seen acceleration  cross-border production fragmentation, defined  specialization across vertically linked stages   production process.  practice,  means  countries import intermediate inputs, com�bine  inputs  domestic value added,  reexport  combined product   final good   input  later production stages. 
+ fragmented production processes  commonly referred   �global� produc�tion chains. Anecdotes suggest, ,     chains might  more accurately described  �local� production chains,   include geographically proximate coun�tries.  example, auto parts trade  concen�trated  North America,  production  assembly  electronic components occurs  Asia.   good reason, too: proximity conserves  trade costs   incurred based   distance gross shipments travel  production stages. Further, regional trade inte�gration initiatives  lowered trade barriers preferentially  nearby countries. 
+Building   logic,  might expect  see increases  production fragmentation  time concentrated  proximate trading partners.   turn implies  fragmentation   driving localization  trade  time.   paper,  present evidence supporting    conjectures. 
+ measure changes  fragmentation,  draw  new data developed  Johnson  Noguera (2012a)  measures trade  gross  value added terms   past four decades. Comparing gross  value added trade sheds light  fragmented production chains  
+*Johnson: Dartmouth College, Department  Economics, Hanover, NH 03755 (e-mail: robert..johnson@ dartmouth.edu); Noguera: Columbia Business School, Uris Hall, 3022 Broadway, New York, NY 10027 (e-mail: gn2195@columbia.edu).  thank Joseph Celli, Michael Lenkeit,  Sean Zhang  research assistance. 
+�  view additional materials, visit  article page  http://dx.doi.org/10.1257/aer.102.3.407. 
+ chains give rise  double counting  trade statistics.  double counting implies  gross trade  multiple   actual amount  value added exchanged  countries. Changes   magnitude   double counting then serve  measure  changes  fragmentation. 
+ present  results documenting  changes  fragmentation  related  proxim�ity. ,  show  value added  export ratios  lower   falling more rapidly  time  partners  geographic regions   partners split across regions. ,  show   weighted average distance  source  destination  lower  gross trade  trade  value added,   discrep�ancy  growing  time. Put differently, gross trade increasingly travels shorter distances  value added trade, consistent  fragmentation serving  localize trade. Third,  show  bilateral value added  export ratios  fallen more  nearby trading partners, due   fact  gross trade  increased   proximate trade partners. 
+. Measuring Value Added Trade through Time 
+ measure  value added content  trade,  build  active literature   con�struction  global input-output tables, includ�ing Johnson  Noguera (2012b).  basic approach   link national input-output tables together using bilateral trade data  form synthetic global input-output   tracks shipments   final  intermediate goods  countries.  resulting framework   used  construct  value added content  bilateral trade, tracking value added   location     produced   destina�tion     absorbed  final demand. 
+ intuitive level,   knows  entire global input-output structure, then   com�pute   output   source country  needed ( directly  indirectly)  pro�duce final goods absorbed   destination.    knows  value added  output ratios 
+407 
+used  producing  output   source, then   compute  value added embodied   implicit gross output transfer.  call  value added produced  country   absorbed  country  �value added exports�  denote  bilateral flow  VAij .   work below,  focus  comparing  value added exports  gross exports,   notate Xij.  devote special attention   ratio  value added  gross trade,   term  �VAX ratio.� 
+Previous researchers  constructed  global input-output tables  short time hori�zons, often single year    decade.  Johnson  Noguera (2012a),  extend  work  bringing together data  trade, production,  input use   sector level  1970�2009.1  data allows us  construct sequence  global input-output tables,    year,  therefore track changes  inter�mediate sourcing, final goods flows,    value added content  trade  time. 
+Importantly,  time series dimension includes information  helps identify  causes  consequences  fragmentation. Changes  fragmentation differ across countries   absolute magnitudes    timing   changes,  opens  door  link�ing  changes  observables. Further,  regression context,  type  data allows   link changes  fragmentation  changes  bilateral trade costs, controlling  time-vary�ing source  destination characteristics  well  pair-specific characteristics   fixed  time. 
+ combine data  several sources, includ�ing  Organisation  Economic Cooperation  Development (OECD) Input-Output Database,  United Nations (UN) National Statistics Database,  National Bureau  Economic Research-UN Trade Database,   Centre d�Etudes Prospectives et d�Informations Internationales (CEPII) Base pour l�Analyse du Commerce International (BACI) Database.2  calculations below,  aggregate  data  form four composite sectors: agriculture  natural resources, nonmanufacturing industrial 
+1 Hummels, Ishii,  Yi (2001) constructed measures  fragmentation  ten countries  1970�1990.  work  extends country  time coverage ,  impor�tantly, adds bilateral dimension   measurement  fragmentation  time. 
+2 See Johnson  Noguera (2012a)  details. 
+production, manufacturing,  services. Based  data availability,  include 42 countries   framework, covering  OECD plus major emerging markets (including Brazil, China, India, Mexico,  Russia).  aggregate  remaining countries  form rest-of-the-world region.3 
+. Fragmentation inside versus outside Regions 
+ begin  defining proximity  terms  regions, grouping countries  regions .  quantify fragmentation inside versus out�side  region,  compute  VAX ratio  trade  countries inside  region (,  . )  compare    VAX ratio  trade  countries   region  part�ners outside  region ( . ).  define  VAX ratio  trade inside  region  VAXIN 
+= VAIN 
+_
+,  VAIN =. . . . VAij  XIN
+XIN 
+=. . . . Xij.4 Similarly, define  VAX ratio  trade outside  region  VAXOUT 
+_
+= VAOUT, whereVAOUT =. . . . (VAik + VAki)
+XOUT 
+ XOUT =. . . . (Xik + Xki). 
+ compute  VAX ratios   regions (North America, East Asia,  Europe) report results  four years (1975, 1985, 1995,  2005)   1.    points  take away   . 
+, VAX ratios  falling  time  inside  outside regions. , fragmentation  increasing    local  global scale.  size   decline varies across regions  trading partners,     range  0.10  
+0.15. 
+, VAX ratios  lower  trade inside regions  trade outside    year.  example,  VAX ratio  around 0.20 smaller inside Europe  outside Europe, depending   year.  holds true    regions  well,  suggests  intraregional trade  more fragmentation-intensive  trade outside regions. 
+3  assume  exports   42 countries   rest   world  absorbed .  Czech Republic, Estonia, Russia, Slovakia,  Slovenia  included   rest   world     decades  separately thereafter. 
+4 Note  Xii = 0  definition  exports,   set VAii = 0   notational convenience. 
+ 1�Value Added�to-Export Ratios inside versus outside Geographic Regions 
+1975 0.70 0.87 -0.17 0.77 0.88 -0.11 0.81 0.94 -0.13 1985 0.65 0.85 -0.20 0.73 0.87 -0.14 0.78 0.92 -0.14 1995 0.65 0.84 -0.19 0.75 0.88 -0.13 0.66 0.89 -0.23 2005 0.59 0.79 -0.20 0.61 0.79 -0.19 0.64 0.85 -0.21 .time -0.11 -0.08 -0.16 -0.08 -0.16 -0.08 
+Notes: Europe includes EU members  joined prior  2004. East Asia includes China, Indonesia, Japan, South Korea, Thailand,  Vietnam. North America includes Canada, Mexico,   United States. 
+Third,  gap  VAXIN  VAXOUT  growing  time.    seen  total changes  1975  2005,   larger  trade inside regions relative  outside regions. Further, looking decade  decade, changes   uniform through time.  example,  large gap  inside  outside VAX ratios  North America emerges   1985� 1995 decade,  period    Canada-United States Free Trade Agreement (CUSFTA)   North American Free Trade Agreement (NAFTA)  introduced.  fact  VAX ratios  falling  rapidly  regions implies  fragmentation  concentrated  geographically proximate countries. 
+. Distance  Fragmentation 
+ explore  link  proximity  fragmentation further,  turn  distance  measure  proximity.  measure distance,  use  population-weighted distance ( kilo�meters)   countries   CEPII Distances database.5  perform  exercises. ,  compute  average distance  source  destination  gross  value added trade,  compare  distances through time. ,  assess  changes  bilateral VAX ratios  1970  2009  related  distance. 
+ draw  work  Carr�re  Schiff (2005)  measure  average distance  source  destination    types  trade.   country,  define distance trav�eled  weighted average  bilateral distances dij,   weights   gross  value added trade shares.   explicit, export dis�tances  country   
+5 See http://www.cepii.fr. 
+Xijx 
+_
+DoT  =.()dij
+
+. 
+ VAij 
+_
+DoVAT  =.()
+dij ,
+VAi
+. 
+   superscript denotes exports, =. . Xij  total gross exports,  VAi =. . VAij  total value added exports. 
+Distances  imports (DoT im  DoVAT im)   measured analogously. Then,  compute distances   world  weighting  coun�try   share  global exports  imports. 
+  figures,  focus   difference  distance  gross trade  value added trade.6  plot distances   countries,  distances   United States  Japan separately,   1.7 
+   aggregate   individual countries,  average distance  gross trade  smaller   value added trade.  bench�mark  value,  distance traveled  gross trade  roughly 10 percent smaller   dis�tance traveled  value added trade.8 Further,  distance traveled  gross trade  falling rel�ative  distance traveled  value added trade, 
+6  Carr�re  Schiff (2005) point , distances  gross trade  falling   countries,   find  same   true  value added trade.  looking   difference,  focus   relative size   downward trends. 
+7  figures  computed using bilateral trade   37 countries     complete 1970�2009 time series (see footnote 3). Distances   United States  Japan  averaged  exports  imports using trade weights. 
+8 Across  years,  median distance traveled  gross trade   4,400 km,   median distance traveled  value added trade  4,900 km. 
+0
+-350 
+-400 
+DoT minus DoVAT
+-450 
+-200 
+-300
+-500 
+-400
+-550 
+-500
+-600 
+1970 1980 1990 2000 2010 Year 
+ 1. Difference  Distance Traveled  Gross  Value-Added Trade 
+pointing  fragmentation increasing  nearby partners. Gross trade travels 7 percent shorter distance  value added  1970, ver�sus 12 percent  2009. 
+ timing   changes  individual countries  suggestive regarding mechanisms. Echoing  regional results above,  see US distances falling sharply   1990�2000 period   CUSFTA  NAFTA take force.  Japan,  see sharp declines   1995,  hints   reorientation  Asian supply chains   Japan increasingly ships intermediates  processing  assembly destinations  Asia (.., China). 
+ average distance measures  sugges�tive evidence   localization  gross trade relative  trade  value added  time.  look directly  gross  value added flows,  turn  regressions. Specifically,  com�pute  change  log bilateral gross exports, log bilateral value added exports,   log   bilateral VAX ratio  1970  2009.  then regress  changes  exporter  importer fixed effects   log  bilateral distance (log(dij)).9  exporter  importer fixed effects allow individual source  desti�nation countries  experience different changes  average,   coefficient  distance measures  changes  larger  smaller  countries   farther apart. 
+9   regressions,  drop observations   bilateral trade    $1 million  1970  remove out�lier VAX ratios. 
+ 2 reports  regression results.10    column,  see   decline   VAX ratio  given bilateral pair  smaller  distance   pair increases. Plainly, VAX ratios fall more  nearby country pairs   faraway country pairs.    third columns report results  log exports  log value added exports  well.  log(VAXij)= log(VAij) log(Xij)  construc�tion,  difference  coefficients  distance   regressions equals  coefficient   VAX ratio    column. Yet   col�umns   look   changes  gross  value added trade together generate  overall change   VAX ratio. Changes   value added  gross trade  related negatively  distance,  implies   value added  gross trade  become more localized  time  absolute terms. Interestingly,  phenomenon  stronger  gross trade   value added trade,     makes changes   VAX ratio correlated  distance. 
+ ways  looking   role  distance  shaping gross  value added trade yield  same end result. Changes  fragmentation  associated  differential growth  gross relative  value added trade  short distances.  ,  rise  fragmentation appears   related intimately  growing localization  international trade. 
+10 Regarding model fit,  fixed effects account     overall variation,  country-specific changes  trade  VAX ratios  large.   VAX ratio, distance accounts  17 percent   overall R2. 
+ 2�Distance  Changes  Bilateral Trade 
+log(dij) R2 .(log(VAXij)) 0.10*** (0.01)0.53 .(log(Xij)) .(log(VAij)) -0.22*** -0.12*** (0.04) (0.03)0.65 0.70 
+ R2 0.09 0.04 0.02 
+Observations 1,090 1,090 1,090 
+Notes:  dependent variable  defined: .(log(Zij))
+2009) log(Zij
+= log(Zij 1970)   .{VAXij, Xij, VAij}. Exporter  importer fixed effects included   regressions. Robust standard errors   parentheses. 
+*** Significant   1 percent level. 
+. Conclusions 
+Collectively,  results point  strong role  proximity  explaining fragmentation patterns,   changes  trade patterns  time.    course  mecha�nisms through  distance  matter.  directly, distance   important due  costs  transporting goods across space.   same time, distance  simply  proxy   observables,   language dissimilarity,  impede trade. Another concern   distance  geographic regional membership   pick�ing   effect  regional integration initia�tives,   deepening   European Union  NAFTA  time. More work  needed  sort   possible channels. 
+Further, work aimed  quantifying  important trade frictions  relative  country�specific determinants  fragmentation   valuable, likely using models  fragmentation   trade costs take center stage,   Yi (2010).  expect   identifying informa�tion contained   time-varying bilateral value added trade flows introduced   note   helpful   endeavors. 
+REFERENCES 
+Carr�re, C�line,  Maurice Schiff. 2005. �On  Geography  Trade: Distance  Alive  Well.� Revue Economique 56 (6): 1249�74. 
+Hummels, David, Jun Ishii,  Kei-Mu Yi. 2001. �The Nature  Growth  Vertical Special�ization  World Trade.� Journal  Interna�tional Economics 54 (1): 75�96. 
+Johnson, Robert .,  Guillermo Noguera. 
+2012a. �Fragmentation  Trade  Value Added  Four Decades.� Unpublished. 
+Johnson, Robert .,  Guillermo Noguera. 
+2012b. �Accounting  Intermediates: Produc�tion Sharing  Trade  Value Added.� Jour�nal  International Economics 86 (2): 224�36. 
+Yi, Kei-Mu. 2010. �Can Multi-Stage Production Explain  Home Bias  Trade?� American Economic Review 100 (1): 364�93. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

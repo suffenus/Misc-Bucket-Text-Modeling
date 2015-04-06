@@ -1,0 +1,77 @@
+3. , "Windfall Income  Consumption: Comment," . Econ. Rev., June 1963,53,445-47. 
+4. MILTON FRIEDMAN, Theory   Consumption Function. Princeton 1957. 
+5. 
+, "Windfalls,  'Horizon,'  Related Concepts   Perma�nent Income Hypothesis,"  . . Christ, . Friedman, ., ., Measurement  Economics-Studies  Mathematical Economics  Econometrics  Memory  Yehuda Grunfeld, Stanford 1963, . 3-28. 
+6. 
+. . KREININ, "Windfall Income  Consumption-Additional Evi�dence," . Econ. Rev., June 1961, 51, 388-90. 
+International Factor Costs  Factor Use: Comment 
+ excellent review article [2] Leontief questions  usefulness   Minhas factor reversal study [4]  Minhas' estimates   elasticity  substitution   close  ,    well known  factor reversals  occur  Cobb-Douglas world. Leontief alleges  likely errors  measuring  wage rate lead  downward bias   least-squares estimates   elasticity  substitution. therefore concludes   true values  unity,  implies     Cobb-Douglas world   recent work   generalized constant elasticity  substitution production function   questionable usefulness. Using common errors  variables framework,  note  show   bias  towards,   away , unity  Leontief suggests. 
+Leontief says: 
+Interested  demonstrating  practical importance  crossovers, [Minhas] naturally rejected  Cobb-Douglas function ...  reached   formula capable  showing  existence ....  suggestion  appear   even more plausible   applying  least-squares method  estimate  slopes,  [   esti�mates   elasticity  substitution]   log linear equation� .. [log( / );=log .+. log Wij], Minhas   proceeded   assumption    variable (/ ).  subject  random errors,   variable   .  instead,  fitting  slopes   regression lines, allowed   errors affecting  observed magnitudes  ,  estimated elasticities  necessarily turn    larger,   23    24 industries examined  ,  magnitudes   / ... turn    less-although   in�stances  slightly less-than 1.  means   values   still closer  1-the constant elasticity   Cobb-Douglas func�tion [2, . 343]. 
+ order  understand Leontief' error,  consider  method used  measuring  wage rate.!   measured  dividing given industry' 
+1 (/ )'   value added-labor ratio  industry   country ,  Wij   wage ratio  industry   country . 
+2  analysis  modification  Lucas [3, . 26-30]. 
+COPYright � 2001  Rights Reserved 
+total wage bill   number  man-hours employed   industry, .., WiJ = ,;,;  ,;  industry ' total wage bill.    comes  accounting records,   reasonably  assumed   measured without error. Therefore,  error     measurement  ,;.  recorded number  man-hours  correct,   quality  labor  probably heterogeneous   sample.   words, hour  labor services   part   world    same commodity  hour  labor services  another part   world. 
+ find  bias arising   type  error, suppose  Lij,  measured labor input,   portion   true (quality-corrected) labor input. Let ,=Lt/Uii>  ~   true value  ,  error. 
+  true wage rate  ,   equal 
+; = ; /"
+',
+'6 ; 
+ implies  
+*   * 
+log ; = log ; = ; ; = Xii> Lij 
+ 
+qij = log Uij, ; = log  ;1Li;  Xii * = log ;. * 
+  same reasoning,  true output-labor ratio   shown   
+ implies  
+.. Vii * 
+log-.:!.. = log--q" = ' .. =  ..
+* ..�J� ' ', 
+ '" 
+Vii * 
+ Yi; = log  Yij = log ~ � Lij .1 
+Given  considerations,  "true" specification  estimating .   
+(1) 
+Yi; = + CTiXi; + (1 )qiJ + '7ij. ,  course, means   previous specification 
+(2) 
+Yij = + {fiXi; + ;  wrong ('7i;  EiJ   errors). 
+Copyright � 2001  Rights Reserved 
+   estimated  least-squares   commonly used (2) speci�fication,  estimating equation  be3 
+;( )( ) ;( )[ux + (1 ) -ux (1 )ql
+(3)  = =-------------------------------�
+;( )2 ;( )2 
+;( )( ) 
+= + (1-u)-----�
+;( )2 
+ =*+  =*+, 
+plim () =  + (1 _ ) plim ;(* +  * )( )
+(4) ;( )2 
+Cov (*) + () 
+=  + (1 ) . 
+Vex) 
+ *    assumed   independent ( reasonable assumption  *  nonstochastic),  bias   
+(5) 
+(1 ) [;~!~], 
+  positive  < 1  zero  = 1. , , *     independent,  bias   
+1 _  [() Cov (*)].
+(5') 
+( ) Vex) + Vex) 
+ linear homogeneous production function *,  efficiency-corrected wage rate depends   efficiency-corrected capital-labor ratio.  tech�nical progress across countries  Hicks neutral ( Arrow, Chenery, Minhas,  Solow [1] suggest   ),  efficiency-corrected capital-labor ratio   same   uncorrected ratio.    efficient labor force  usually found   countries  largest capital-labor ratios,   expect positive correlation  *   ( quality index). There�fore,  covariance  *    positive,   implies stronger upward bias.' 
+Therefore, Leontief  incorrect   direction   bias due  errors   variable . Rather  expecting  true values     smaller   estimated values,   expect    larger.  existence   bias   detract   usefulness  Minhas' work;  gives , instead, greater significance. 
+PERRY SHAPIRO* 
+3 Subscripts  deleted   variables. 
+,  point  nonzero covariance  suggested   referee. 
+*  author  graduate student  economics   University  California, Berkeley. 
+Copynght � 2001  Rights Reserved 
+1. 
+. . ARROW, . . CHENERY, . . MINHAS,  . . SOLOW, "Capital-Labor Substitution  Economic Efficiency," Rev. Econ. Stat., Aug. 1961,43, 225-50. 
+2. 
+. LEONTIEF, "International Factor Costs  Factor Use," . Econ. Rev., June 1964, 54, 335-45. 
+3. 
+. . Lucus, Substitution  Labor  Capital  . . Manu�facturing; 1929-1958. Unpublished doctoral dissertation, Univ. Chicago, 1963. 
+4. 
+. . MINHAS, International Comparison  Factor Costs  Factor Uses. Amsterdam 1963. 
+Copyright � 2001  Rights Reserved 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

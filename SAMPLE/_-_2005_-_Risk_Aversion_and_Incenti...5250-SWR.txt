@@ -1,0 +1,49 @@
+Risk Aversion  Incentive Effects: New Data without Order Effects 
+ CHARLES . HOLT  SUSAN . LAURY* 
+Holt  Laury (2002) used menu  ordered lottery choices  make inferences  risk aversion under various payment conditions.  main results   paper : () subjects  risk averse, even  relatively small payments    $5; () risk aversion increases sharply  large in�creases   scale  cash payoffs;  ()    signi.cant effect  increasing  scale  hypothetical payment.  few exceptions noted   paper,  treatments began  low-payment choice, followed  choice  hypothetical payments    scaled  ( 20X,50X,or90X), followed  real-cash decision   same high payment scale (20X,50X, 90X), followed  single, .nal, low (1X) real payment choice.    90X treat�ment  earn amounts ranging  $9.00  $346.50   task.  Glenn . Harrison . (2004) correctly note,  design con�founds order  treatment effects   high real payment choice  always com�pleted   low real  high hypothetical payment tasks. 
+ new experiment reported below,  . seek  replicate Harrison .�s .nding   order effect (participating  low-payment choice  making high-payment choice) magni.es  scale effect.   treat�ment,  subject completes  menu  lot�tery choices under just  payment condition (1X  20X, real  hypothetical), thereby elim�inating  order effects. 
+* Holt: Department  Economics, University  Vir�ginia, Charlottesville, VA 22904-4182 (e-mail: cah2k@ virginia.edu); Laury: Department  Economics, Georgia State University, 35 Broad Street, 1441  Bldg, Atlanta, GA 30303 (e-mail: slaury@gsu.edu).  research  supported  part   National Science Foundation, SES 0094800,    University  Virginia Bankard Fund.  thank Ragan Petrie  helpful suggestions  . . Bostian, Erin Golub, Kurt Mitman,  Angela Moore  research assistance. 
+. New Data 
+ new experiment  conducted  2004 using 216 subjects recruited  undergradu�ate economics classes   University  Vir�ginia.1    previous experiment,  session began  lottery choice �trainer�   unrelated experiment. Results  pre�sented   1.  comparison,  include data   Holt  Laury (2002) experi�ment,  shown   top  rows   1,   Harrison .�s (2005) experiment  rows   four. 
+  . treatment   new experiment, 48 subjects completed real low-payment choice, followed  real high-payment choice,    choices  scaled   factor  20.2 Results  presented   1, row 5.  average number  safe choices   low (1X) real treatment  shown  row .ve  6.1.  real cash payments  scaled   factor  20,  average number  safe choices made   subjects increased  7.1.    seen, subjects   new experiment  somewhat more risk averse   used   earlier studies; ,  scale effect ( 1X  20X)  cash payments  essen�tially  same     previous experi�ment.   cases,  average number  safe choices increased  approximately  safe 
+1 Unlike  experiment reported  Holt  Laury (2002), decisions  recorded using computer interface.  die-throw, ,  still done   experimenter  hand. ,  left/right order   safe  risky options  alternated  successive 12-person sessions.  order  presentation did  matter,    pool  data   presentation orders. 
+2    original experiments,  rough control  wealth effects, person   agree  give   payment   . (1X) choice  order  participate   high-payment choice.  subject did  agree  partici�pate   high-payment choice, stating   felt   earned enough   experiment already. Omitting  subject   following analysis   effect   results. 
+902 . 95 . 3 HOLT  LAURY: RISK AVERSION  INCENTIVE EFFECTS 
+ 1�AVERAGE NUMBERS  SAFE CHOICES:ORDER  INCENTIVE EFFECTS 
+Experiment Treatment 1X 10X 20X 50X 90X 
+Holt  Laury (2002) ..., Ga. ., . Miami 208 subjects 
+Harrison . (2004) South Carolina 178 subjects New experiments (2004) 
+.  Virginia 216 subjects 
+1. 
+Real (ordered) 5.2a 6.0c 6.8c 7.2c 
+2. 
+Hypothetical (ordered) 4.9b 5.1b 5.3b 
+3. 
+Real (ordered) 5.3a 6.4b 
+4. 
+Real (unordered) 6.0a 
+5. 
+Real (ordered) 6.1a 7.1b 
+6. 
+Real (unordered) 5.7a 6.7a 
+7. 
+Hypothetical (unordered) 5.6a 5.7a 
+Note: Superscripts indicate order ( = 1st,  = 2nd,  = 3rd). 
+choice   scale increased  factor  20.  use Kolmogorov-Smirnov test  identify differences   distributions   number  safe choices made   low-and high-payment levels.3   signi.cant dif�ference   distributions  safe choices    payoff-scale condi�tions ( < 0.01).  test  , , explore  extent    payoff-scale effect  due   fact   20X choice  made   1X choice. 
+ conducted four additional treatments    subject completed single lottery�choice menu   identical   described above. Unlike  . treatment ( ordered choices), ,  subjects participated  just  payoff treatment.  four (unordered) treatments tested : low (1x) real payments, low hypothetical payments, high (20x) real pay�ments,  high hypothetical payments.   48 subjects   real-payment treat�ment,  36 subjects   hypothetical�payment treatment.4 Instructions   treatments  identical, except   description   actual choices  subjects faced.5 
+3  Kolmogorov-Smirnov test looks  differences    distributions,   terms  shape  location.   good power  test  general differences  dis�tributions,   just   central tendency   distributions. 
+4  hypothetical-payment treatment  24 subjects making decisions   �safe� lottery   left,  12 subjects making decisions   �safe� lottery   right.  numbers  balanced   real-payment treat�ments,  24 subjects   order. 
+5 Instructions  available  line  http://veconlab. econ.virginia.edu/admin.htm.  view  on-line instruc�tions,    Decisions Menu  then select Lottery Choice Menu program.   use  session name 
+ data   single-choice treatments  summarized   bottom  rows  Ta�ble 1.  subjects  completed  low�real-payment decision  slightly  risk averse    completed  ordered task reported above (   low-real�payment treatment made 5.7 safe choices com�pared  6.1    participated under  payment conditions). Kolmogorov-Smirnov test, ,  reject  null hypothesis  equal distributions    low-payment treatments (two-sided p-value = 0.50). Wilcoxon rank-sum test  fails  reject  null hypothesis  equal dis�tributions  central tendency ( = 0.33). 
+ increase   number  safe choices   low-real  high-real payment condi�tions  identical (1 safe choice)   treatments  ordered data  row 5    unordered data  row 6,  indicates  real payoff-scale effects  important,    decisions  made  ordered  unordered manner. Again, Kolmogorov-Smirnov test fails  reject  null hypothesis  
+�test�  set  experiment. Instructions   seen  pressing  Instructions button   .nal Admin Results page   setup sequence.   hypothetical payment treatments,  .nal line   instructions noted  pay�offs    paid,   experimenter added verbal comment: �Unlike   tasks    done  far today,  earnings   part   experiment  hypothetical     added   previous earn�ings.� Under  real-payoff condition,  experimenter .nished  instructions  announcing  participants, �Your earnings   part   experiment  real    paid  cash   .nish.� Subjects recorded  own earnings  receipt form,   seemed    confusion  treatments    earnings   paid  . 
+904  JUNE 2005 
+equal distributions  safe choices    high-real-payment treatments  rows 5  6, even    priori belief   distri�bution  safe choices under  20X treatment,  conducted alone,  lie   left     20X choice follows  low-payment task (one-sided p-value = 0.18). Wilcoxon test, , rejects  null hypothesis  10-percent level  signi.cance (one-sided p-value = 0.09). 
+  effect  prior experience  low-payment decision  subsequent choices   clear-cut   20X level,  four unordered treatments .  primary conclusions  Holt  Laury (2002). Con�sidering   treatments   subjects participated  single payment con�dition ( last  rows   1),   signi.cant difference   distribution  safe choices under low-and high-real�payment conditions (Kolmogorov-Smirnov, one-tailed p-value = 0.01).    sig�ni.cant difference, ,   distribu�tion  safe choices under  corresponding hypothetical payment conditions (  = 0.42). Therefore, even  order-effects  elim�inated, scaling  payments  factor  20 leads  signi.cant increase  risk aversion,    using real payments. 
+. Conclusion 
+Harrison . (2005) correctly note   estimate  individual�s degree  risk aversion   biased   subject . completes  same decision-problem under different payoff scale.  response,  con�ducted new experiment   subjects completed menu  lottery choices under single payment condition,  order  elimi�nate order effects.   new data,  Harrison ., .  scaling  real payments results  signi.cant increase  risk aversion.  new data further demon�strate  scaling  hypothetical payments   same amount   cause signif�icant difference  risk aversion  possi�ble order effects  eliminated. 
+REFERENCES 
+Harrison, Glenn .; Johnson, Eric; McInnes, Melayne .  Rutstro�m, . Elisabet. �Risk Aversion  Incentive Effects: Comment.� American Economic Review, 2005, 95(3), . 900�04. 
+Holt, Charles .  Laury, Susan . �Risk Aversion  Incentive Effects.� American Economic Review, 2002, 92(5), . 1644�55. 
+Copyright  American Economic Review   property  American Economic Association.  copyright  individual article   maintained   author  certain cases. Content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

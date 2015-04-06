@@ -1,0 +1,152 @@
+Gender Differences  Wage Growth  Job Mobility 
+ PAMELA . LoPREST* 
+ male-female wage differential in�creases  workers' time   labor force. Lower wage growth  older female workers   explained  lower levels  labor�market experience due  time    labor force. ,  female-to-male ratio  earnings falls  time even  young full-time workers just entering  labor market. Data   National Lon�gitudinal Survey  Youth show  real wage growth    four years  labor-market entry  full-time workers  
+35.6 percent  men   29.1 percent  women.  paper focuses   job mobility  young male  female workers  try  explain  differential. 
+ question  why wage growth  lower  young women   young men  important  light  evidence showing   early period  young men' careers    high wage growth. Fully two-thirds  men' lifetime wage growth occurs  the�  ten years  experience (Kevin . Murphy  Finis Welch, 1990). Ifwomen' wage growth  low   period    large effects   lifetime earnings   labor-market behavior. 
+  paper,  use data   Na�tional Longitudinal Survey  Youth  try  explain  increasing differential.  fo�cus   differences  men'  women' patterns  job mobility  wage growth    four years  working full-time   labor market.    evidence  job-changing plays impor�tant role   wage growth  young men. Robert Topel  Michael Ward (1988) find  young men   mobile  large percentage  wage growth, 40 percent    ten years   labor market, com�
+* Urban Institute, 2100  Street, .., Wash�ington, DC 20037. 
+526 
+ing  job changes.  paper explores   extent differences  job mobility, re�turns  job mobility,   characteristics   jobs men  women hold  ac�count   differences  men'  women' wage growth. 
+. Data 
+ paper focuses   wage growth  male  female full-time new entrants   labor force. Although   important  understand wage differentials   seg�ments   work force, differences  male  female labor-force par�ticipation  time complicate wage comparisons. Women  average work fewer hours  spend more time    labor force   lives   men. Studying new entrants  work full time allows  initial comparison  groups  men  women   similar labor supply char�acteristics  limits differences directly at�tributable   time workeq   period  studied. . 
+ data  use    National Longitudinal Survey  Youth (NLSY), survey  12,686 young people   14-21 years old  1978.  survey con�tains detailed work-history information im�portant  identifying full-time workers   timing  labor-market entry.  identify full-time workers    work  consecutive years  more  26 weeks  year  average   least 30 hours  week worked. Labor-market entry  defined       years.  sample consists  1,597 individuals   1979 representative subsample   full-time workers  entered  labor market    interview date. Indi�viduals included   four years  data available  entry.    work�ers entered  labor market  1979  1983.   analysis  follows,  stack  four observations  individual  
+. 82 .2 GENDER  LABOR-MARKET OUTCOMES 
+create pooled sample  6,388 individual�year observations. Throughout  paper, job change refers  changing employers. 
+ sample  52-percent men  48�percent women.  construction,  sam�ple consists  workers    "at�tached"   labor market. Approximately 85 percent   men  women work  least 85 percent   weeks   four years  entering  labor force. Approx�imately 67 percent  men  women  job  every week   four-year sample.  sample , therefore,  representative  young workers  general.   sample  men  women   similar   high levels  labor-force participation. 
+. Mobility 
+Men' wage growth    four years  labor-market entry  significantly higher  women' wage growth   sample.  female/male wage ratio  la�bor-market entry  0.89.   fourth year   labor market,  wage ratio  fallen  0.85. Real wage growth   four years  35.6 percent  men  29.1 percent  women, difference  1.6 per�cent  year. 
+ discussed above, mobility plays im�portant role   wage growth  young men. ,     case  young 
+women. Differences  men  women  job mobility  returns  job mobility  largely account   differ�ence  men'  women' wage growth.  decompose  relationship  job mobility  wage growth   parts:  wage growth associated  job change   probability  job change. 
+Wage growth associated  job change  significantly higher  young men   young women.  wages     job   interview date,  precise wage change   job transition   available. Therefore,   impossible  sep�arate wage growth  changing jobs  wage growth   new job    interview date.  use   annual wage growth  years  job change, calcu�lated   difference  log real wages  consecutive interview dates  periods  
+ I-DIFFERENCES  JOB-MOBILITY 
+CHARACTERISTICS 
+Characteristic Men Women 
+Average four-year 0.276 0.225 
+total log wage growth (0.018) (0.017) 
+Average annual wage growth 0.087 0.041 
+ job change (0.015) (0.016) 
+Average annual wage growth 0.059 0.064 
+  job change (0.007) (0.007) 
+ job changes  percentage  36 33 
+individual-year observations 
+Voluntary job changes  22 24 
+percentage  individual-year 
+observations 
+Note:  pooled sample  6,388 individual-year ob�servations  used. Numbers  parentheses  stan�dard errors 
+  least  job change occurred.  average   annual wage changes  men  women  reported   1. Young men' average annual wage growth  job change  0.087. Young women experience wage growth  0.041  average  years  job changes.  changing jobs, women    50 percent   wage growth  young men.  compari�son, wage growth   changing jobs  similar  men  women. Average �nual wage growth without job change  
+0.059  young men  0.064  young women.  difference   statistically significant. 
+Despite significant differences  men  women  wage growth  job change, rates  job mobility  similar.  1 lists  number   job changes  percentage   entire pooled sample.   individual-year observations   pooled sample  women, 33 percent  changed jobs  least once   year,  36 percent  men  changed jobs. Restricting job changes   voluntary changes leads  similar results: 22 percent  men  24 percent  women voluntarily change jobs  interview years.  suggests  men  women   aver�age similar rates ofjob-changing    four years   labor market. 
+Given similar rates  job change  wage growth  staying   same job, 
+AEA PAPERS  PROCEEDINGS MAY1992 
+ difference  total wage growth  men  women  largely accounted   differences  wage growth  changing jobs.  illustrate  point further,  calculates women' total average annual wage growth using women' rates  job change,  assumes  men  women   same average wage growth   without job change, total annual log wage growth  women   0.068 compared  0.069  men. Women   average 19-percent lower annual total wage growth  men,  more  50�percent lower annual average wage growth  changing jobs. 
+. Job Characteristics 
+Significant differences exist  men'  women' wage growth  changing jobs. Why   differences ex�ist? standard model  job search     Kenneth Burdett (1978)  allows  search  holding job gives ex�planation  job mobility.  model suggests  individuals remain   current job unless  receive wage offer whose present discounted value  greater   present discounted value   current wages.   framework,  men  women  similar characteristics  faced similar wage distributions  offer rates,   change jobs   same frequency  receive  same wage growth  job change  average. ,   several reasons why    hold. 
+,  men  women  average  different job "preferences"  involve different trade-offs  wages  non�pecuniary aspects   job,   lead  lower wage growth  women. Women mayan average switch  jobs   more flexible schedules  lower hours  men   different household respon�sibilities. ,  noted  Solomon William Polachek (1981), women  choose jobs  occupations  involve lower skill atrophy   plan      labor force  some period  time   future.   jobs  occupations"  desirable characteristics, some women  make  trade-off   characteristics  wages leading  lower wage growth  job change. 
+, women    access  certain higher-paying jobs   dis�crimination.  employers perceive women  general  more likely  leave job, then jobs involving training   costly   employer    accessible  women  average, even  individual woman   planning  leave  job. Women     hired  certain traditionally male jobs    higher-paying. 
+   sets  reasons  result  lower wage growth  job change  women.   difficult  distinguish   reasons  women' lower wage growth given  data available. ,  suggest  men  women  aver�age switch  different jobs.   step  understanding  differences  wage growth  job changes,  study  differ�ences   characteristics   jobs men  women change .  concentrate    possible differences   jobs men  women change : hours worked  occupation. 
+Individuals   willing  trade off lower wages  hour   able  work fewer hours. Joseph . Altonji  Christina Paxson (1988) find some evidence using PSID data  relaxing overemployment constraints  associated  reduction   wage gain  worker requires  quit  current job.   sample, women change  full-time  part-time jobs more often  men.   years  job changes, 12.7 percent  women' changes   full-time  part-time jobs  7.9 percent  men' changes   full-time  part-time jobs.  average wage change   men  women  negative  making  transition,   indicate    wage trade-off   able   more flexible schedule. Women' average wage change  changing  full-time  part-time job   sample  
+-0.086,  men'  -0.016.  aver�
+age decrease  wages  significantly greater 
+ women   men. 
+   large differences  
+men  women   occupations   
+jobs  change . extensive literature 
+. 82 .2 GENDER  LABOR-MARKET OUTCOMES 
+exists   occupational segregation  men  women (see Barbara Reskin  Heidi Hartmann, 1986). Studies  at�tributed differing percentages   male-female wage gap  occupational seg�regation   shown  occupations  higher percentage  women pay  average significantly lower wages   occupations (Donald Treiman  Hartmann, 1981). 
+ entry, men  women  concen�trated  relatively few  different occupa�tions.  far  largest occupation  full�time entry  women  clerical,  41 percent  women entering   occupa�tion,  22 percent entering  service jobs. Men' initial occupations  some�what more varied. Operatives   largest group  23 percent  craftsmen, labor~ ers,  service workers    15 percent  18 percent  male entrants. 
+Despite  relatively concentrated distri�bution  occupation  entry, occupational change  frequent   sample. Using  ten I-digit Census-level occupation codes, 66 percent  men  54 percent  women change occupations  changing jobs.   aggregate level, women   likely  change occupations.   job changes, 25.5 percent  women remained  clerical oc�cupations.  occupational changes men  women make  different  well.  largest occupational transition  women  service  clerical, accounting  6.7 per�cent  women' job changes.  men,  largest category  occupational change  laborer  operator, representing 4.2 per�cent  men' job changes. . 
+  large differences   hours  occupations   jobs men  women  changing .   next section,  test   differences  account     difference  wage growth  job changes. 
+. Estimation 
+    male-female differen�tial  wage growth  job change   accounted   differences  job charac�teristics?  address  question,  esti�mate log-wage-growth equation   job changes, controlling  individual, human�capital,  labor-market factors.  empir�ical specification  standard wage equa�tion  logarithmic  differences.   standard specifications, differencing re�moves  non-time-varying characteristics   equation. ,  include some   non-time-varying characteristics   estimation    influence wage growth  well  wage levels.  non-time-varying variables include indica�tors  race, schooling level,  gender.  specification estimated   follows: 
+I1(,} = (XP} 
+  = (tenure" tenure,+' married, di�vorced, birth, 11 unemployment, 11 union status, black, female, education level, year  entry). 
+ estimate  equation,  use  pooled sample  individual-year observa�tions  include job change   year. Using  pooled sample introduces bias   estimates   standard errors   coefficients_ Differencing eliminates time-invariant individual-specific unobservables. ,   still cor�relation   error terms across observa�tions,  disturbance   time period, "  part   consec~tive wage-change observations, (+l-w,)  (, ,)'  correct   bias,  esti�mate  equation  change  log wage using generalized least squares (GLS).1  estimations use  GLS correction. 
+ estimate  equation including con�trols  differences  hours transition  occupation transitions separately. Despite  relative homogeneity   sample  labor-supply characteristics  construction,   individual differences   sam�ple    able  account  some   differences  wage growth. Therefore,   estimate  equation without control-
+ITbe method  use  estimate  covariance ma�trix   equation  described fully  Loprest (1992). 
+' 
+530 AEA PAPERS  PROCEEDINGS M4Y1992 
+ 2-DETERMINANTS  LoG WAGE GROwrn ling    hours  occupations�WITH JOB CHANGE 
+transition characteristics.  results   estimation  pre�
+Equation sented    column   2. 
+Variable () () () 
+report    combined male-female Tenure   .ot8 0.016 0.016 equation including female constant term. 
+(6.26) (6.41) (6.31) 
+ equation   estimated separately  men  women. test   
+Tenure   -1 -0.002 -0.002 -0.002 
+  equations differed   con�
+(3.04) '(3.06) (2.91) 
+stant    rejected, despite differ�Married -0.034 -0.034 -0.040 
+ences  some   coefficients   
+(1.08) (1.11) (1.29) separate equations. 
+ controlling  human-capital, de�Divorced -0.293 -0.153 -0.156 mographic,  labor-market characteris�
+(2.52) (2.48) (2.54) 
+tics, significant portion   difference  wage growth  men  women re�
+Birth 0.059 0.058 0.064 
+mains unexplained.  average male�
+(1.54) (1.50) (1.67) 
+female difference  log wage growth  Increase  -0.018 -0.023 -0.020 0.046.  characteristics controlled  ac�unemployment (0.76) (0.95) (0.84) count   33 percent   difference  average log wage growth, leaving large 
+Decrease  0.018 0.016 0.013 
+percentage unexplained. 
+unemployment (0.78) (0.67) (0.58) 
+Additional differences   characteris�tics   jobs men  women change  
+Nonunion  0.012 0.003 0.009 
+union (0.36) (0.10) (0.26)   able  account  some   "unexplained" differential.  ascertain  Union  -0.014 -0.112 -0.096 effect  movements  full-time  part�
+nonunion (2.89) (3.11) (2.67) 
+time work,  reestimate  log-wage-change equation  include indicator variables  
+Black -0.043 -0.039 -0.041 
+changing  full-time  part-time work 
+(1.79) (1.64) (1.72) 
+  interaction   female.   include indicator variables  changing  
+Female -0.031 -0.024 -0.031 
+(2.19) (1.39) (2.23) part-time,  full-time, remaining part-time, 
+  respective interactions  female. Full-time  -0.040  results  listed  column ()  
+part-time (0.87) 
+ 2.   decrease  annual wage growth associated  changing  
+Full-time  -0.099 
+full-time  part-time job   men
+part-time  female (1.60) 
+ women. Women changing  full�OCC-index 0.723 time  part-time job   sample expe�
+(5.38) rience decrease  wages  9.9 percent. 
+ effect    half  large  men OCC-indexX -0.031 
+   statistically significant. 
+female (0.15) 
+    difference  annual average wage growth  job change  
+Constant 0.034 0.050 0.035 
+(1.10) (1.55) (1.11) explained  differences  men'  women' changes  fUll-time  part-time 
+0.03 0.04 0.05 
+jobs?  break  difference   average annual wage growth  men 
+Note:  statistics   parentheses. Indicator variables   year  labor-market entry  education level women   parts,  difference due   included   reported . changing  full-time  part-time work 
+. 82 .2 GENDER  LABOR-MARKET OUTCOMES 
+   factors: 
+(.:1w,lchange) (.:1w,ljob change) 
+== Pr(full-to-part)  (.:1w, Ifull-to-part) 
+-Pr(full-to-part)  (.:1w, Ifull-to-part) 
++  factors 
+0.046 = (0.079)( -0.049)(0.127)( -0.099) 
++  factors 
+=0.009. 
+ left-hand side, 0.046,   differ�ence  men'  women' average annual log wage growth  job changes.  overall intercept shift associated   female  included  "  fac�tors."  differences  men  women  total wage growth  changing  full-time  part-time job accounts  19.6 percent   difference  total wage growth  job change.  comes  part   fact  women  more likely  make  transition   part   larger wage decrease associated   change  women   men.    significant percentage   difference,  leaves large part  wage�growth differences unexplained. 
+Differences  occupational changes made  changing jobs    source  differences  wage growth  job change.  way  assess  degree   men  women receive different returns  occupational changes   control  indi�vidual occupation transitions. ,  using ten-occupation classification,  means controlling  99 different tran�sitions,       fine disag�gregation    like.  example,  transition  service  sales occupa�tions still allows  large differences   actual job activities     categories    like  control . 
+ order  control   finer occu�pational transition categorization,  create one-dimensional index  captures  premium associated  different occupa�tional transitions. Alan . Krueger  Lawrence . Summers (1988) show  af�ter controlling  human capital factors, significant relationship  wages  occupation  industry remains.  label  relation  premium associated    certain occupation  industry.  estimate  premium  standard wage equation controlling  industry  occu�pation.  use data   CPS   larger sample size allows   disaggregate occupation more finely.  sample  made   young men 18-29 years old working more  30 hours  week  approxi�mate  NLSY sample.  control  42 different occupational categories. 
+ estimating  premiums   occupations,  calculate  change  occu�pation premium associated  every job change   NLSY sample.  index  zero    did  change occupa�tions  changing jobs.  use  index  change  occupational premium  con�trol   type  occupational change made   wage growth due solely   occupational change.  men  women  making  same "types"  occupa�tional changes,  index   similar,      difference   rela�tionship   index  wage growth  job change  men  women.     difference even  men  women  changing    different occupa�tions,    moving  occupations  lead   same change  premiUm.  average value   index  0.0045  men  0.0053  women. 
+ third column   2 shows  estimation including  occupational index "OCC-index"   interaction   index   female.  results   estimation show strong significant rela�tionship   index  wage growth,  expected. ,  coefficient   interaction   female   statisti�cally significant.  controlling  occu�pational transitions,  female indicator variable  still significantly negative, 
+-0.031.  results suggest , even   relatively disaggregated level  occupa�tional classification, differences   wage 
+AEA PAPERS  PROCEEDINGS  1992 , 
+growth associated  particular occupa�tional transitions made  men  women  account     difference  wage growth  job change. 
+. Conclusions 
+ paper began   fact  young men  women experience different wage growth   early years  labor-force participation.   sample  mainly full�time workers studied , women   average 19-percent lower annual wage growth  men. Further analysis shows   difference   attributed largely  differences  wage growth  chang�ing jobs. Men  women  similar rates  job mobility  wage growth  years without job change. , women   average   50 percent   wage growth  men  changing jobs. 
+Although   large differences   characteristics   jobs men  women change , hours  occupation differences account   limited amount   difference  wage growth  job change. Changing  full-time  part-time jobs accounts  approximately 20 percent   difference,  differ�ences  occupational transitions  unable  account     difference  wage growth. 
+ early labor-market years  time  rapid wage growth.  young men, job mobility plays large role   growth;  paper demonstrates     true  young women.  consequences   fact   far-reaching, affecting  lifetime wage profile  labor-market ac�tions  women.   therefore important  try  understand why  differences ex�ist.  study suggests  differences  job characteristics play  limited role   explanation.  source     substantial difference  men  women' wage growth  job changes still remains   explained. 
+REFERENCES 
+Altonji, Joseph .  Paxson, Christina, "Labor Supply Preferences, Hours Con�straints,  Hours-Wage Trade-Offs," Journal  Labor Economics, April 1988, 6,254-76. 
+Burdett, Kenneth, " Theory  Employer Job Search  Quit Rates," American Economic Review, March 1978, 68, 212�
+20. 
+Krueger, Alan .  Summers, Lawrence ., "Efficiency Wages   Inter-industry Wage Structure," Econometrica, March 1988, 56, 259-93. 
+Loprest, Pamela ., "Gender Differences   Labor Market Experiences  Young Workers," .. dissertation, Massachu�setts Institute  Technology, 1992. 
+Murphy, Kevin .  Welch, Finis, "Em�pirical Age-Earnings Profiles," Journal  Labor Economics, April 1990, 8, 202-29. 
+Polachek, Solomon William, "Occupational Self-Selection: Human Capital Ap�proach  Sex Differences  Occupa�tional Structure," Review  Economics  Statistics, February 1981, 63, 60-9. 
+Reskin, Barbara  Hartmann, Heidi, Women' Work, Men' Work: Sex Segre�gation   Job, Washington, DC: Na�tional Academy Press, 1986. 
+Topel, .  Ward, ., "Job Mobility   Careers  Young Men," National Bureau  Economic Research (Cam�bridge, MA) Working Paper, . 3294, 1988. 
+Treiman, Donald  Hartmann, Heidi, Women, Work,  Wages: Equal Pay  Jobs  Equal Value, Report   Committee  Occupational Classification  Analysis, Washington, DC, National Academy Press, 1981. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

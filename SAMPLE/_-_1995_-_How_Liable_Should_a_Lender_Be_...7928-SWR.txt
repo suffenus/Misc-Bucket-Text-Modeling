@@ -1,0 +1,600 @@
+ Liable  Lender ? 
+ Case  Judgment-Proof Firms  Environmental Risk 
+ ROHAN PITCHFORO * 
+Recently, .. environmental law  shown tendency (oward increased lender liability. model ofa potentially judgment-proofowner {/ firm, lender, alld 
+ potential victim  developed    policy  increase accidem fre�quency  reduce efficiency. Full, partial, Qnd :.ero lender-liability rules  minimum equity requirement  analyzed. Partial lender liability   equiv�alent minimum equity requirement deliver  highest level ofefficiency, /though  former  deliver higher contribution   lender   victim lhall  
+laller. Policy  empirical implications   discussed. (JEL K13, K32. Q38, G33) 
+ substantial rise   number  costly 
+environmental clean-up cases   United 
+States   1980'   accompa�nied  increase   entry rate  small firms  hazardous sectors (see  . Ringleb  Steven . Wiggins, 1990) .  combination  small firms  potentially 
+large accident costs raises  distinct possi�bility  increase   number  
+"judgmenl-proof" firms,  , firms   cause accidents  become bankrupt     sufficient assets leflto compensate  victim( ). Judgment-proofness  cause 
+ concern   results  reduced in�
+centive   firm   cautious. 
+  natural then  ask    appropriate policy   dealing   
+� Centre  Economic Policy Research. Research School  Social Sciences. Au stralian National University. Canberra. ... 0200. Australia.  paper evolved  part  Chapter 2   .. dissertation  MIT.    wou  like  thank  advisers Oliver Hart  Richard Schmalensee. Stewart Myers, David Seharfstein. Chri  Snyder.  Tasneem Chipty  provided helpful input. Thanks  Steve Dowri ck  thorough reading  early draft   paper   valuable suggestions. Participants   Industrial Organ�ization luneh  MIT. colleagues  ANU.   anon�ymous referees  provided useful comments,  did seminar participants   United States   United Kingdom  1994-1995.  gralefulto  Olin foun �dation   Department  Economics  MIT  fi�
+ support. 
+reduced incentive.  recent trend  envi�ronmental law    increase  
+potential liabililY faced  lenders  firms. According  Charles . Chadd . ( 1991 
+. -83): 
+ risk  lenders    thatlheir borrowers' environmental liabilities  lead   loss  loans   di m�inution  collateral' value  inabi lity  borrowers  repay  loans, bUI   face  risk  possible liabil�ity under  Comprehensive Environ�mental Response. Compensation,  Liability Act.   law   area 
+   infancy, under certain circum�
+stances lenders   liable  cleanup costs   exceed  value   loan involved. 
+  paper,  present model  poten�lially judgment-proof firm. lender,  
+potential victim.   model, increasing  
+liability   lender (  defined  in�
+creasing  contribution   victim  paid 
+  lender)  resull  higher accident probability  reduced social welfare.  important implication   resull    
+recent policy under  Comprehensive Envi�ronmental Response. Compensation,  Lia�
+bility Act (CERCLA)  increasing lender liability  resull  higher frequency  
+accidents. presumably  opposite outcome  
+ desired. 
+1171 
+ question    finding  extent   lenders   held liable. no�lender-liability rule  compared  full�lender-liability rule. Neither rule necessarily yields  first-best accident probability,    generally  possible  say  rule  yield lower accident probability. Results   model suggest  efficiency   enhanced  choosing some level  partial lender liability, under   contribution   lender   victim falls below  full level  harm caused.    trade-off 
+ fairness. under  panies   
+ some position  control  chances  
+accident-such   lender   owner�should bear  costs   accident,  ef�
+ficiency,   enhanced  lower 
+contribution   lender.    show   exists partial�lender-liability rule  yields  same 
+accident probability  minimum-equity re�
+quirement imposed   owners along  
+ lender liability. Under some circumstances, partial-lender-liability rule achieves   well  yielding higher contribution   victim.     sense  partial-Iender�
+liability rule   superior  minimum�
+equity requirement. 
+.  Judgment-Proof Problem 
+ specter  bankrupting tort claims   haunting law  economics journals  some time. Steven Shave  (1986)  1. . Summers ( 1983)  developed forn,.1 mod�els  analyze  choice  negligence  strict liability  rules  address  prob�lem, ' . Randolph Beard (1990)  exam�ined  effect  strict liability rule  injurers' behavior   costs  precau�tion  pecuniary. .  papers   focus   policy implications  differ�ent degrees  lender liability, nor   
+Shavell ( 1986) includes analysis  judgment�
+proofncss   choice  insurance. Summers (1983) 
+analyzes joint  several liability   ll  situations involving single injurer.  recently became aware  early paper  Alan . Sykes ( 1981 )  contains anal� ysis  vicarious liability  touches  some   issues analyzed . 
+authors examine  case    injurer  firm   choose  financial structure  well  some level  precaution. Consid�erations  financial structure  important  
+ context   degree  judgment�
+proofness becomes endogenous   tum influences  owner-manager' choice  pre�
+caution. Lf lenders face  liability, then   incentive  replace equity  debt  method  finance   substitution 
+reduces owners' exposure  tort risk.  lower risk  tum reduces  incentive   cautious. 
+ financiers face some liability, then   
+require owners  invest more   wealth  
+ firm  provide extra incentive  keeping  accident probability low. 
+ following example develops  ideas  presents  main results   paper with�out  fornlal structure   model,   given  Section . 
+Example : Imagine small company  handles  dangerous chemical    run  several owner-managers,  contribute equity capital. Assume    close corporation   owner-managers  limited liability.  owners  limited wealth  therefore require contribution  funds  outsiders  order  run  business.  shall refer   outsider      party ( lender) , although    several.  example, some cap�ital  come  bank , some equip�ment   trucks  cars   leased,   building   rented  real �estate company.  simplicity assume   agents  risk-neutral. 
+ full value   capital required   firm  $5 million,   owner-managers' col�lective personal wealth  assumed   $200,000.  simplicity, assume   fiml makes profit  $100,000  certainty.    owner-managers' choice variables   probability  accidental contamination  neighboring property,  known clean-up cost  $500,000. Together   lender    decide  level  debt  equity. 
+Suppose  no-lender-liability rule   place     equity put    owners   firm ' profit  exposed  tort risk. Ideally,  owner-managers  like  contribute zero equity.  doing other�
+. 85 .5 PITCHFORD ..  UABLE SHOUW LENDER 8E' 
+wise exposes some   personal wealth  
+tort risk'  lender  then contribute  entire $5 million.   accident occurs,  
+victim receives none   lender' capital, 
+   $100,000 profit   firm .  
+incentive   owner-managers   cau�
+tious  then dictated   potential $100,000 loss,     $500,000 accident claim.  accident probability chosen  therefore tend   too high . 
+ suppose   lender  made liable  pay some level  compensation    $300,000 <  < $500,000.  effect,  lender becomes like insurance company  pays    accident occurs.   falls below $500,000 ( full accident cost)  refer   policy  partial lender liability. As�sume   lender   owner-managers  write contract specifying  accident probability   owner-managers  choose,  example,   lender can�not observe  variable. 
+ lender (  liable  cj  clearly wish  cover  cost  accident  charg�ing premium   state   world    accident occurs.  lender   require   owners put    capital  possible,    reduce  lender' liabil�ity  accident occur.    as�sumed   owners  risk-neutral  choose  accident probability,    given  incentive  keep  low,     required  put ~  entire wealth  $200,000  equity.  means  $300,000   owner managers' funds (be�ing wealth plus  profits   firm )  ex�posed  tort risk.  lender  therefore pay  $300,000  costs   accident oc�curs.' Clearly  lender  require com pen�
+2  simplicity.  assume      mo�
+tivations   equity,  example.  give  owners 
+greater incentive   productive. 
+\ Recall   standard principal -agent model  solution wilh risk-neutral agent   make  agent  
+residual claimant    owns  returns 10  ac�tions.  reasoning   similar except   agent  limited wealth . 
+.. Although  lender  liable   entire amount , Conleact  written   owner  gives  lender claim   owner' assets ofS300.ooo  accident occur. 
+sal ion   no-accident state   world  face  risk   charge premium   shall denote  Yo. 
+ incentive   owner-managers face 
+ choosing  accident probability depends crucially   size  costs  face   state   world.   accident state   bankrupt   effect pay $300,000.   
+ way    owner-managers   
+punished more, unless   criminal pen�alties,    problematic     possible   court,  observe  owner�managers' choice  accident probability'   
+no-accident stale,  owner-managers pay Yo�The larger  premium,  more attractive   accidenl state relative   no-accident state.  accident probability chosen   owner-managers  therefore increIDiing  Yo-
+Consider  effect   owner-managers' choice  accident probability   liability   lender  increased.   accident occurs,  lender  pay  $300,000,   larger    larger.  compensate  fac�ing  increased cost   accident state,  lender  increase Yo. ,  argued above  increasing  premium  lead  higher accident probability   makes  no-accident state   world rela�
+tively  attractive   owners!  ex�ample leads 10 several conclusions, Increasing  compensation   victim,  increasing 
+ lender' liability  make  situation 
+worse  increasing  frequency  accidents. 
+ consequence, full lender liability   necessarily yield   best. Indeed, ir rull lender liability leads  sufficiently high pre�
+mium,   result  higher accident prob�
+ability      lender liability.  Section 11 simple model  developed  dem�
+onstrate  results  more detail. 
+   noted  increasing  liabil �ity  lenders  potentially judgment-proof firms might drive some   latter   
+business.  situation wiJ] occur   premium associated  increased lender li�
+ability  high enough  lead  negative expected profits.  firms remaining  
+~  establish criminal negligence  couns need   able  observe  owners' precaution level.   least  infer something  . 
+business increase  accident probabilities, whereas      business impose  risk  accident  society.   trade-off    effects    
+focus   model   paper,   clearly concem  public policy regarding  dcgree  lender liability. 
+. Model  Results 
+   agents   model: 
+owner-manager. outside financier ( lender) ,  victim.  owner-manager  assumed    individual    representative  group  owner-managers.  assume   agents   sk-neutral  or�der  abstract   " insurance versus 
+incentives" trade-orfs   inherent  
+contracts  risk-averse agents.  assumption allows   focus   inter�action  participation  wealth con�straints  onc hand   incentive  choose appropriate precaution level   .  owner-manager  small fiml seeks fi�
+nancing  project  costs fixed amount   offers (nonstochastic) gross retum  .'  project carries  risk  accident  occurs  probability    causes 
+damage  size    victim,   assumed   anonymous unless accident occurs. 
+ owner  reduce  accident probability  expending nonpecuniary ( effort) costs 
+according  twice continuously differentiable 
+function </>().  cost function  assumed    following properties: 
+(  ) lim </>() = 00 
+' �n 
+</>'() <0   (0, ) 
+</>'(1) ", 0 
+</>"() > 0   [0. ] . 
+> TIle qualitative nature   results re mains  somc subcascs   assumes strict risk-aversion. 
+7  assume   firm  small enough    owner-managers   treated  single agent.  sug�gested   resu lts  Ringleb  Wiggins ( 1990). Judgment-proofncss  .ely 10  more  issue  small finm. 
+Owner  lender State oflhe joinl1y make world realized 
+financing decision 
+FIGllolt:; 1. TIMlr.; INTHE  )!'! 
+.  reduction    desired, cost rises: 
+  limit   gets close  zero, cost be�comes prohibitively high.  owner contributes equity    proj�
+ect  some amount   limit   available 
+wealth.   assumed throughout  paper   >     full amount    financed   project  give  retum. Therefore,   project  proceed, further funding  required  some outside party  
+ refer    lender  financier.  prac�
+tice,  lender    party extending credit   firm,  example, supplier  provides inputs  retum  future payments.  opportunity cost  equity  outside fi�
+nance  taken   equal   normalized 
+ unity.  assume     possible   
+owner   lender  write contract 
+specifying ,   lender lacks  ap�propriate monitoring technology,  more gen�erally    too costly  describe  contract  factors  determine . 
+ timing  decisions   owner  realizations   state   world  de�
+picted    . ,  financing decision   firm  made; then  owner selects  accident probability. Subsequently,  state   world-whether  ! accident occurs-and  project return  realized. 
+. Interventions 
+ assume   planner  regulate  
+accident probability directly    
+same reason    outside financier  owner  write contract specifying . 
+Therefore, indirect fomls  intervention   used,    best  ! necessarily allainable.    consider  effect  efficiency  various degrees  lender liabil�ity.   problem analyzed below   
+   victim receives compensation 
+  (0, ill   lender,  condition  shall refer   partiallellder liability. Next, 
+ analyze no-lender-liability rule.   
+  equity   owner  exposed  tort 
+risk.  compare    special case  
+full lellder liability.    lender pays  victim  = . Finally,   examine  policy  adding minimum-equity require�ment  no-lender-liability rule  compare  policy  partial lender liability. 
+   interventions  different 
+impact   incentives   owner�
+manager faces  choosing .   therefore 
+worthwhile  consider  owner' generic in�
+centive problem. Under  intervention,  
+owner makes payment Yi  slate ofthe world 
+,    = 0   no-accident stale  
+ =    accident state.    capital cost  paid  some  party.  net value   project  denoted  1/ '"  . Then  owner sol ves  problem max,. // ( �p)" -py, <().  first-order condition   problem  <' () = , " '" .  interpret    marginal expected cost   probability  accident.  <' ()   marginal expected benefit.  positive .  solution  given   function  = (),  pC)  defined according  (.) >= (<')) '. Under ()  function pC)  downward-sloping. 
+ owner' generic problem  related   social problem   following way.  net value   project  1/ '"  ,  expected loss  accident   ,   cost  precaution  <().  benefits  costs  borne      par�ties   expected social surplus   = 1/ <() .  expected social-surplus 
+maximization problem  therefore max"  �
+<() .  problem  equivalent   owner' problem  Yo = 0  , = . Under (  )  yields  unique solution  = () '" pO.  assume throughout   maximal value  social welfare 1/ �<(')  '  positive. Therefore,   always some potential   project  worth undertaking. 
+Partial Lellder Liability: Lellder  Liable  SOllie Portioll  .-Suppose lenders  held liable  some amount  compensation   (0. ]1O  paid   victim   event  accident.  defined above, full com�pensation  full lender liability refers   
+case    lender contributes  full amount  = . Partial compensation  partial 
+lender liability refers   case    < .'  simplicity,  assume   financier  sufficient wealth  cover  liability. 
+   contractible. then  privately  efficient outcome   achieved simply  specifying   contract  ()   chosen.')     contractible,  prob�lem    finding  second-best (pri�vately) optimal contract   lender   owner  write  attempt  control  
+owner' choice  . contract  pair (", YI)    
+lender gets paid ,   owner  state;. 
+Recall   =0 denotes  no-accident state,   =  denotes  accident state.  fol�lowing accounting convention  adopted.  lender pays   front, receives    
+states,  pays compensation    vic�tim. 1n  owner  claim   net project 
+value 1/   used along  wealth   pay  lender ,  = . .  lender' expected profit under  con�
+tract  
+ER = ( )" + ()', ). 
+  contract   acceptable   lender, expected profits ER      outside-opportunity profits,   assumed   zero. Therefore  
+following participation constraint   
+satisfied: 
+(2) ( )" + (, ) ,. . 
+ owner' expected profit under  contract  
+(3) En = 1/ ( )Yo -py, <(). 
+"111is    say  society (. ..  taxpayer)   contribute funds   < .   case  environmental cleanup thi    inevitable under panial lender liabil �ity. 
+"  best  then  achieved   planner sets (" =  ~   private contract specifies  '�   chosen. 
+1Cl llie results arc independent   accounting con�vention,    victim cou   paid directly   lender' capital   accident occurs,  example. 
+  contract  signed,  owners choose   maximize  expression (3): 
+(4) <>'() (, ,,) = . 
+Equation (4)   owner' incentive�compatibility constraint. 
+Recall   owner contributes equity      project.  assume   owner faces limited liability ( close corporation,  example),   liability   limited (   partnership),  remaining wealth     costlessly hidden." Consequently,  transfers  satisfy ,   + .  inequal�ities   interpreted  bankruptcy con�straints: transfers   lender  exceed firm profits plus equity. [Effort costs <>()  sunk     relevant  bankruptcy.] 
+Combining   constraints  equity 
+  wand , :  +  eliminates    
+problem." Therefore  owner  pay  more   lender   upper limit   
+romler' wealth 1/ +    state,   
+following wealth constraints   satisfied: 
+(5 ) , : // +   = 0, . 
+Once  solution   problem   found,  level ofequity   solved   follows:" 
+  lmax(, ), ]. 
+, 1.0 
+Finally,  owner    ahead   project   earns nonzero profits: 
+(6)  ( )" -py, <>() "" . 
+  owners  give wealth  relatives. buy over� seas assets.  keep funds  bank accounts under  names,  example.  assume    cosllcss   im�plicity.  owners  hide  wealth  authori�ties.  analysis  equivalent  minimum-equity requirement   discussed below. 
+~ Equity   dummy variable   problem.      payments)" made   owner   lender   relevant   owner' incentives   cau tious . 
+..  example  YI :: / + . then  owner' total wea lth   put   equity.  neither constraint  (5)  binding. then equity  implicitly chosen   least cover  largest   payments )"   bank   profits "   firm. 
+ owner  lender choose  contract  maximizes  joint surplus En + ER =  �pc <>(), subject   constraints listed above,  follows: 
+(7) max  -pc <>() 
+1,'. \'1/.1  ) 
+subject  lender participation, owner incen�tive compatibility, owner wealth constraints,  owner participation [equations (2), ( 4 ), (5),  (6) ] . 
+.ristence.-1here   guarantee  s0�
+lution  (7) exists.     solution, then  outsider   contribute  funds   project,   firm wiU shut down.  demon�strate   Appendix    straightfor�ward existence conditions, parameter vaJues,  
+functional fomls  satisfy  conditions. 
+PROPOSITION : () Suppose   [,  + ]  solution  (7) exists. Then  (pri�valely) optimal contract  (Yo, 5',) = (, + 
+:),  some nonnegative ,   accident 
+probability  (). () Suppose  >  +   solution  (7) exisls. Then  (pri�
+valely) oplimal contract  
+(fo,,) = (  [(+)],(+))
+(1 ) 
+  accident probability  given  
+=min{<>'( ) +  +    pc = } . 
+(Sec  Appendix  proof.) 
+Illferpreting  COllfract. contract   interpreted directly  debt contract. Consider case ()    [,  + ]. ,  wealth constraints (5)   binding be�
+cause  accident cost   always  cov�
+ered  ,      chosen     
+Yl :  + .  example, consider contract  = .  accident occurs,  owner 
+ access  sufficient funds  cover   choosing , =    equity   lc , ].  financier therefore invests    faces  risk.  interpret  general case "" 0, note    possible  (2)  (6)    binding. Consequently. payments Yo  ,   adjusted upward  constant factor  still satisfying  constraints. Keeping , -Yo = censures [through (4)]   accident probability chosen   owner  optimal.  well   efficient.  contract serves  redistribute wealth be�tween  owner   lender through dif�
+ferent levels  . 14  owner invests equity 
+  [" +  . ] .  financier contributes   ,  , faces  risk. 
+ consider case ( )   >  + .   situation  owner    sufficient funds  pay   accident occur.  
+contract specifies   owner invests  max�
+imum equity  = .    accident occurs 
+ maximum amount YI =  +   available 
+ help pay  lender' costs.  means   lender faces  risk  having  pay  
+extra amount  ( + )   accident state 
+  charges premium, 
+Yo = ( ji _)[  ( + )]
+I-p 
+  no-accident state. 
+. Welfare /plicalions oj InteTVelllions 
+Partial Lender Liability.  victim 
+ involuntary participant   situation, 
+   owner  lender  some 
+measure  control   accident probabil�ity,  desire  fairness seems  favor full compensation ( = )   lender. Indeed 
+courts  tcnded  favor full compensation   victim  similar reasons. , 
+ potentially judgment-proof firm ,  noncontractible accident probability, effi�
+ciency  decline   lender'  contri�
+bution,   following proposition shows. 
+PROPOSITION 2: Suppose   >  +  
+  lender-liability rule  compen-
+ '     lenders competing   contract ex allie,   expect = 0,    lender makes '1.cro expected profits. Otherwise  lender   some bargaining power   able  make positive expected profi . 
+satioll   imposed. . assume  .'10�lurion  (7) exists ( given  Proposition 
+), Jar  =  alld Jor  =  + . Theil  
+soilltiolls  (7) exist Jor   lv. ] alld  Jol/olVillg resllits hold: 
+() SlIppose   [,  + ). Then ill�
+crease   leads  reduced accidellf probability  increased expected so�cial surplus. 
+() Suppose   ( + . ] . Theil redllc�
+tion   leads  reduced accidellf 
+probability alld illcreased expeered so�
+cial surplus. 
+( ) Compensatioll  =  +  leads   
+highest level oj expected social ./plus Jorc > . 
+(See  Appendix  proof.) 
+ intuition behind  results   fol�
+lows.  ()    [,  + )  accident probability  ()  stated  Proposition . 
+ owner  wealth enough  cover in�crease        interval    
+required  contract  put   wealth  equity.  ' () < 0, increase   im�proves social surplus  making  accident probability closer   first-best level, ,,( ). 
+ ()    ( + . ]   moral-hazard problem  some   
+cost  accident  external 10  owner, 
+     pay  amount  �( + ). reduction   leads  reduced 
+premtum, 
+YO=( ji _)[ <+)]
+I-p 
+  no-accident slate   change   punishment ; :;:  +    accident state.  result.  marginal expected cost  accident,  = YI .Vih  ses.  makes  no-accident state relatively more attractive.   owner   select lower accident probability.  key   seemingly coun�terintuitive result   owner wealth  lim�ited. Imagine    increased. rather  decreased.    way   lender  make  accident state  attracti ve   owner,  bankruptcy provides limit   punishment. Moreover, increasing 
+compensation makes  no-accident state 
+relatively  altractive through higher 
+premium. Therefore, increasing compensa�tion means    lower marginal expected cost  accident.   con�sequence  higher accident probability. 
+According  part ()  Proposition 2  highest level  social surplus under lender li�ability ( positive compensation levels)  achieved   =  + .       (private) costs external   owner,  consequently    O1oral�
+hazard problem.  lender simply requires   ~  ( therefore bears  risk  los�ing  capital)  charges  premium (. .. 
+Yo = 0).  increase   means premium   charged   no-accident state,  
+ marginal expected cost   fall . de�
+crease     =  +   leads  lower 
+social surplus,   directly reduces  
+marginal expected cost.   victim  involuntary partici �
+pant   situation,  gap  harm caused ()  compensation ()   con�sidered measure  fairness. Suppose   ( + , ] . Then Proposition 2 demonstrates direct trade-off  fairness  effi�
+ciency. reduction   leads  lower ac�
+cident probability  greater efficiency,    cost    fair. Note   con�
+cept  fairness used   based  ex post compensation.   consistent  legal no�
+tions  fairness    discussed  Frank . Michelman ( 1967 ).  analysis brings  light justification  limiting  liability  lenders.  more 
+compensation required    greater 
+ liability  lenders,  lower  efficiency.  presence  wealth constraint. noncon�tractible ,  potential judgment-proofness (>  + ) makes limiting liability desirable 
+ efficiency grounds.   then   society  choose  level  compensation  de�sired, according    efficiency   
+willing  sacrifice. 
+Proposition 2 gives  important results. 
+,  society carcs  fairness   vic�tim.   never worth compensating  person    + . Doing  creales situation   increasing  increases  fairness 
+ efficiency. .  society  concerned   efficiency, then  ~  +   best. 
+ model    extended  include 
+situations    firm,  well   vic�
+tim,  damaged   accident.  exten�
+sion  analytically equivalent  increase 
+    results  Proposition 2   
+reinterpreted  replacing    +    
+particular   interesting  part ( )  Prop�
+osition 2 tells us   occurrence  damage   firm leads  increased accident prob�
+ability!  intuition behind  result   
+ owner  pay higher premium   
+no-accident state  compensate  lender  bearing  risk  paying  ( +  )   accidem state.  wealth  available  pay  compensation bill    accident state  ofdamage   firm.  owner 
+ unconcerned   goes bankrupt 
+anyway. > 
+ Lender Liability.-Consider no�
+liability rule   financier.  compare  
+rule  full lender liability, assume  full compensation   victjm ( ~  )  re�quired, though    necessarily  
+achieved.  assume   owner invests   
+[0, ]   project. Nonnegative equity  
+assumed  otherwise  outsider  
+legally  considered shareholder   
+firm.17 
+~    seen  eas ily   problem  set    following modification   accounting conven�lion. TIle lender pays   frolli. receives    states,  pays compensation    ll  damage    firm.  owner  claim   net project value .   used along ",  pay  lender )"   state  = . . 
+" lf  owner did   bankrupt.    <  +  . then.  part ()  ProJXlsition 2. damage  induce lower accident probability   chosen. 
+17 Disallowing negative equity means,  example.   following contract   possible.  lender funds  entire project  cost   pay.\"  owner  net project value   output  realized ( ' = ).  return,  owner pays  financier  once   realiJ.:cd . Arrangementll  negative equity     dis�allowed  several rca <;ons. .  couns  see   deliberate attempt  "call everything debt"  avoid ton liability altogether.  more  borrowed   ncedcd  fund  projccl. Icnder   conc;idcrcd  owner   ponion   value   project lhat corresponds   excessive borrowing.  owner,  lender  then legally lose  priority  bank�ruptcy. , although  feature   present   model.  lender  sign  agreement    
+ financier invests     states   world  gets thi  amount back   
+states.   faces  liability. Even though  value   project   exceed  ac�
+cident cost    lender faces  liability,  
+maximum   funds available  compen�
+sating  victim  limited   ( ) = 
+ + . Recall  assumption   owner 
+  limited liability ( close cor�poration.  example)   liability   lim�ited (   partnership)  remaining wealth, HI ,   costless) hidden. lit  
+means .  accident occurs,  owner 
+loses   funds / +  tied    firm   accident cost , whichever  smaller.  accident occur (state ) ,  owner makes profit  , =  -cf>() -min(  + , ).   no-accident state (state 0), profit  
+  =  -cf>(). Therefore,  owner' ob�jective function  En = ( )   + pn"  En =  -cf>()  min(  + ,  ),   solves  no-lender-liability problem: 
+(8) max  -cf>()  min(  + . ) 
+".f� 
+subject    [0, ]. 
+ solution   problem   straight�forward.   > . then  owner chooses  = 0  finances  entire project  
+outside funds. Zero equity  chosen be�
+cause,   way,  owner exposes  wealth  tort  sk. Analysis   incenti ves 
+faced   owner-manager under Ihi  prob�lem shows   marginal expected cost   accident probability  . Therefore,   > .  accident probability   () > ',  expected social surplus falls below  first-best level.   < ,  choice    arbitrary   first-best level  
+ monitor efforts  owner  expend  produce 
+. Otherwise  owner  avoid producing  appro�
+prime amount  quality.  lender takes active mon�itoring role   finn.   legally  considered owner  lose  priority. Examples   situation   found   courts' interpretations   Security In�terest Exemption  CERCLA (sec . .. Susan . King. 1988; Chadd et a1 .. 1991 : Michael . Greenburg  David 
+. Shaw. 1992: Shane . Clanton. 1992). .~ Sec footnote  . 
+achieved   accident cost  inter�
+nal ized   owner. 
+Comparing Full Lender Liability   Lender Liabi!iry.-Supposc  >  + .  accident   necessarily occur,  condition   considered  potelltial judg�ment proofness.  accident  caused,  owner becomes judgment-proof  harm exceeds  sum   owner' assets. Whereas  case   lender liability led  zero equity (  DO-percent debt), full lender liability leads  contract under   owner-managers contribute  maximum eq�
+uity  ,  =  ( faee  least debt  ).  follows directly  part ()  Proposition    = . Under full lender 
+liability,  financier  owner agree   
+owner  expose  largest amount  wealth possible,  order  provide  strong�est possible incentive  keep  accident probability low.   important  stress  
+   necessarily expect comer so�
+lutions  reality.   large body  lit�erature  explains financial structure  cost-minimizing trade-ofr  financial 
+instruments   debt  equity (see  
+survey  Milton Harris  Artur Raviv 
+[1991]  Oliver . Hart [1991]) . Even ,  result highlights illcelltive  firms  
+richer  more realistic environments :  
+substitute  outside capital  lenders bear  liability,   increase equity  lenders  liable. 
+   deduced  Proposition 2, how�ever, full lender liability   necessarily lead   first-best: neither   case   lender liability. comparison   effect    rules yields  following ambi�guity result. 
+PROPOSITION 3: Suppose  >  + .  full-lender-liability alld 1I0-lender-liability 
+rules lead  excessive accident probabilitieJ 
+alld  social welfare  falls below   
+best.     compared priori Oil  grounds. 
+(See  Appendix  prooL)   surface,    surprising  full lender liability docs  yield   best, 
+  hann caused   viclim  internal 
+  contract   owners   lender. Standard intuition  internalizing  externality  solve  problem breaks down. Full lender liability yields lower  first-best social surplus   accident 
+probability   contractibl ,  conse�quently  owner  comm   choosing 
+ appropriate level. Once  contract  
+signed.  owner' incentive   cautious  determined   large premium YII  paid 
+  no-accident state     
+punishment Yl  result   accident 
+state.    sufficient wealth   sys�tem. then  contract  specify  mar�ginal expected cost   accident probability   = . Social surplus falls below  first�best level  lack  wealth   system 
+means  
+YI -Yo =  +  (  _) [ ( + ) 1
+I-p 
+  made high enough  cover  even  pis  small. 
+    surprising  full lender li�ability   necessarily lead  higher expected social surplus   lender liability.   despite  fact , under full lender liability,  owner invests higher level  equity.   think .  requiring greater levels  equity   exposed  ton risk. full-lender-liability rule  lead  greater caution  higher social surplus. 
+ ambiguous social-surplus comparison   explained  looking   incentives  care under   legal rules. Under full lender liability.  incentive contract leads  marginal expected cost YI <'   lender liability.  marginal expected cost  
+,   owner-managers pay   ac�cident occurs  nothing   accident oc�
+curs. ,  best, resources   combined under full lender liability    marginal expected cost YI -Yo    . full lender liability yields lower social surplus.   happen   premium 5\)   lender  charge  compensate   bearing  risk   accident   large,  1.  fixed   + .  2 illustrates  case.  horizontal axis depicts  level  com�pensation paid   victim   lender  
+~ 
+"�
+~ 
+ 
+Compensation () 
+FIGURI: 2. LENDER-LIABILITY Ruu-:~  MINIMUM 
+EQUITY REQUIREMENl' 
+ owner,   venical axis depicts  probability  accident. Under paniallender liability     + ,  accident proba�bility  given   function ( .) derived   solution   owner' generic incentive problem. [ curve   left   +  de�picts  function pC) .  curve   right   +  depicts  probability  accident chosen under panial lender liability    ( + lV. hJ .  shall denote  function  pC).  curve slopes upward  stated  
+Proposition 2,    rises.  marginal 
+expected cost  accident YI -Yo fall .  accident probability under  liability  ' = ( ).   probability under full lender li�ability  " = () > '.  lender liability leads  higher welfare,   social surplus  decreasing     > *.19  see   comparison   rules  ambiguous 
+ general, note    easily draw case   " < '   full lender lia�bility  preferred.  example,   true   = . 
+ observations suggest  compari�son   net value   firm    dif�
+ference Ytl -Yi   contract under lender 
+liability indicates  rule leads  higher welfare.  example,  apply   practice  panicular industry,  planner  com�pare  terms  standard (insurance  fi�
+1'1 Social surplus  () =  ~ 1)11 'jJ(),  '() =  /'() < 0   > * . 
+nance) contract   typical net value  firm   industry  directly compare  strength  incentives under  rule.  in�formational burden   planner  choosing    legal rules  therefore  relatively light." 
+Comparing Partial Lender Liability  Minimum-Equity Requirement .-1have com�
+pared  liability  full lender liability.  choice   rules  efficiency grounds  ambiguous. no-lender-liability rule did  furnish adequate incenti ves  owners  expose  wealth  risk. Full lender liability suffered  moral-hazard problem,  along  limited owner wealth   furnish adequate incentives  keep  accident probability low enough. comparison  partial lender liability   lender liability  minimum-equity re�quirement  resolve some   ambiguity. 
+PROPOSITION 4: Consider no-Iender�
+liability rule  minimum-equity require�ment,  = ~  . partial-lender-liability rule   = 1/ +  yields  same level  accident probability  expected surplus. Moreover, suppose { contract exists under full lender liability  yields lower expected surplus. Theil  exists partial-lender�liability rule    [1/ + , ]thllt yields  same level ofaccident probability  ex�pected social surplus. 
+(See  Appendix  proof.) 
+ proposition   easily understood 
+  aid  diagram. Consider  2.  accident probability  given   func�tion (') under partial lender liability (  > 1/ + ),   ( .) under minimum�equity requirement  partial lender liability (  < 1/ + ). 
+ nO-lender-liability rule  minimum�equity requirement ~ yields marginal expected 
+10  particular  burden   heavier ir    standard contract 10 observe   insurance com�pany thai  give reliable quote  , . ror  industry  sector  qucslion. Implcmcnling  rule   situation  require more infonnalion. namely. knowledge   values hand .   funclion <1>( ' ). 
+cost  = 1/ +   accident probability '" =  (1/ + ).  achieve  same accident prob�ability under partial lender liability,   
+ choose compensation   =  +   (.' 2. provided contract exists under paniallender 
+liability   = ' .  Proposition 2, exis�
+2
+tence  contract   =  <   guar�anteed  existence  conlract   = . 
+ diagram shows   partial-Iender�
+liability rule  always yield  same acci�
+dent probability   minimum-equity requirement      higher com�pensation   victim (subject  existence).  partial-lender-liability rule  superior   sense   fairer   victim,  per�haps   taxpayers,   end  paying  bill.   lender' participation con�straint  always binding, partial lender liabil�ity   = ' redistributes expected surplus   owner   victim.  partial lender liability   fairer   ex (lllte 
+ ex post senses. 
+. Policy Implications 
+CERCLA   Resource Conservation  Recovery Act (RCRA) form  legal ba�
+sis  issues concerning hazardous waste. 
+   law deals  regulation  liability issues regarding waste disposal 
+ clean-up procedures, including relrospec�
+tive assignments  liability  previously poorly managed disposal sites.  law   implications  liability  regulation 
+ present  future di sposal practices, in�
+cluding situations  accidental spills  
+contamination. 
+ results   paper  particularly ap�plicable  accidents covered under CERCLA. 
+ recent years, host  legal scholars  
+pointed   lenders  firms  carry 
+risk  causing environmental contamination 
+ themselves  held liable   cost  cleaning   contamination (.., King, 1988: Chadd et ., 199 1: Clanton, 1992; Greenburg  Shaw. 1992) .  part, thi  trend appears    motivated  desire  cost recovery.  fact   net  liability   cast widely.   just 
+  party associated   contam�
+ination   held liable, supports  contention. Presumably  wide scope  li�ability   aimed  reducing  fre�quency  accidents. 
+ results   model presented above suggest ,  party   some kind  creditor,  bank  rental company  business "yet   paid,"  observe  precautionary choice undertaken  fiml,    fiml  potentially judgment-proof. then increasing  liability   creditor  lead  increase   probability  ac�cident.  industry scale,  policy  lead  incrcase   frequency  accidents. 
+Although  model presented   com�pletely general,   demonstrate  general principle  full lender liability   neces�sarily superior  no-lender-liability rule ( status quo  standard bankruptcy law)  terms   impact   frequency  accidents. partial-lender-liability rule  more attractive   regard. although  trade-off  reduction   degree  cost recovery. 
+ practice,   further trade-offs   considered. [ applying  results   model  industry,   assumed   firms  identical.    implicit   project  undertake  socially worthwhile 
+even  second-best levels  accident proba�
+bility. [  projects arc privately worthwhile  deliver negative social surplus. then in�creased lender liability   desirable   some point.    put bad firms   business.  general.  benefit  driving  bad fimls   business needs   
+weighed against  cost  causing remaining firms  become  cautious.   therefore 
+ obvious  stringently applied liability   creditors   firm   best policy  
+every situation. 
+. Empirical Implications 
+ discuss  possibility  testing  pre�
+dictions   model. increase  lender 
+liability  needs   defined  empir�
+ical context.  suggested above, increase 
+ lender liability   interpreted broadly   model.   refcr   situation   creditor   firm faces increased 
+exposure  compensatory payments,  ex�ample, bank whose exposure increases 
+through shift  liability policy.    
+refer  increase   size  coverage 
+ compulsory insurance,   result  
+ insurance company faces increased lia�
+bility.   introduction  " joint  Sev�eralliability,"   case  exposure   agents associated   firm (  suppliers)  increased. ,  exists 
+large set  situations   provide  
+kind  variability  liability   relevant   model. 
+Time-series data   used  test  
+propositions.  model makes clear predic�
+tions concerning shift  creditor liability. 
+ arc  cases.   corresponds  pan ()  Proposition 2.    increase  liability   size   resulting com�pensation payments falls short  firm value, 
+ model predicts reduction   frequency 
+ accidents.  part ().   compen�
+sation exceeds  value   timl, then   expect increase   frequency  
+bankrupting accidents.  potential accident size  individual firm      accidents  unobservable   vary 
+ firms   same sector.   there�fore  necessary  compare sector averages  compensation  averages  firm value 
+ testing Proposition 2.     distinct predictions con�cerning  financial structure   firm  
+ face  changes  liability.  victim compensation falls short  firm value, in�crease  liability  lead  decrease   debt -equity ratio.   model.   
+firm chooses  minimum level  equity  
+,  ratio  ( )/ = KI(  + ) .   decreasing  .  dam�age payments  exceed gross firm value, 
+increase  creditor liability   affect 
+ debt-equity ratio  equity  al�
+ready  maximum   = .  practice  
+might  jexpected  equity   in�creased somewhat, although     high levels,    more costly.   increase   smaller    pre�
+vious casco 
+Another implicit prediction   model 
+  increase  liability  raise  cost  credit  drive some marginal firm  
+  business. reduction    num�ber  firms   output   sector  follow . 
+. Conclusions 
+ model  developed  demonstrate .  judgment-proof finns  noncontract�ible precaution. increasing  liability  out�sider creditors   lenders    unintended effect  increasing  frequency  accidents.  result suggests  policy�makers    look morc closely   reCent trend under CERCLA  increasing lender liability. 
+    possible  general  say   rule under current bankruptcy law   lender liability ( secured creditors)  superior  rule  full lender liability,  results suggest  partial lender liability  enhance efficiency through inducing reduc�tion   frequency  accidcnts.  desire  recover cost   directly compensate  victims  accident  lenders' funds   weighed  society against  possibility  increase   number  accidents. 
+ model suggests  compensation   victim  bener served  partial-Iender�liability rule   minimum-equity re�quirement,   former  deliver  same accident probability  higher level  compensation. 
+  positive side.  model makes clear 
+predictions concerning  frequency  acci�
+dents   financial structure   firm  liability changes.  predictions   
+tested empirically given appropriate data. 
+ApPENDIX 
+ following lemma  used  prove part 
+()  Proposition . 
+LEMMA : Suppose  following condi�
+tions  satisfied: 
+() 3p = pOl   
+ +  -pOe (", ) ~  " + </>'(") > 0 
+ 
+(A2) lim </>'() = -00 
+1, '1) 
+(A3) </>'()  0   (0.  . 
+Then. 3pE (,")  Ihatp = min! lg(. ) = 0 . 
+PROOF  LEMMA : 
+ 
++w-pc 
+,'  + ,
+I-p 
+ follows  (. ) $  +  + </>' (). Using   (A2) yields 3p > 0   (, ) < .  ( ) 3p"   (", ) > . Moreover lim" ., (  . ) = -00 im�
+plies  pO < .  (, }  continuous 
+function  (0,  ).   continuous  [, pOll. Therefore.   intemlediate-value theorem, 3p  (, pOl)  (. ) = . Define pas  smallest  . 
+PROOF  PROPOSITION : Direct substitution reveals   contract satisfies  constraints  ex = 0   pos�
+itive    feasible.   conlract 
+yields  accident probability (),    optimal.  shall prove part ()  contradiction.  (2),  contract  satisfy 
+
+(A4) , " $ -1--(, ) + ,. 
+ 
+Using (5), , $  +   (A4) gives 
++w-pc
+(A5) , ,,$  ""( . ). 
+ 
+Suppose  contract (", >,,)   =  solves (7),   Cy" ..,) '" Cillo 1.). Then      following conditions  hold: 
+() 
+(2) holds  strict inequality; 
+() 
+(5) holds  strict inequality   = . 
+[  true   (2)  binding  
+(5)  binding   = ,  contract   (Yo, . .,).  Therefore,  (A4)  (A5 ), 
+( A6) ., .,1" < (fJ. ). 
+Using (A6)  (4) yields (, ) > .  follows  Lemma   3p  (, )    = min( lg( , ) = 0) .  result means   accident probability  obtained under contract ('" ,)  strictly lower  ,  accident probability under (,", ., ).  ('" ,)  feasible  yields higher value   objective function  ., ., <  means pre) <  < ,  pre)   unconstrained optimal probability. 
+   demonstrate  feasibility  (ji" , ,) implies feasibility  (." ,). Clearly (." ,) satisfies (2), (4),  (5)   = .  feasible contract  satisfy (5)   = 0,   equivalent  
+1/ +  
+(A7) 1' "'. 
+ 
+ (" ,,)  feasible   < , (.",) satisfies (A7)   (5)   = .  final constraint  check  (6). Us�ing (2)   fact   >  yields ( �p)" + flY, .. pc > ( )Yo+ py, = pc. Therefore, satisfaction  (6)  (Yo, ,)  pimplies satisfaction  (6)  (Yo, ,)  . Contract (." ,)  feasible  yields higher value   objective 
+function ,   contradiction. There�
+fore  contract exists  solves (7)   
+(." , ). 
+Existenee. shall demonstrate  
+contract  exist  giving examples. 
+contract exists  solves (7)       constraints  (7)  satisfied   
+contract. Contracts   form given  
+Proposition  satisfy constraints (2)  (5)   =   construction.  contract  part ()  satisfies (5)   = 0,  (4). Therefore   need  establish  part 
+()  (6)  satisfied,   part ()  (4), (6),  (5)   = 0  satisfied.  conditions collapse, respectively, ( )  ( A9), below. 
+ existence condition  (Yo, ,) = (0, )  
+()  () ,((e� .. . 
+ existence conditions  (Yo, ,) = ([/(  )[ ( + )],  + )  
+( A9a) 31' =P3 (,) .. 0 
+(A9b)  -pc ,(jJ) '" 0 
+ = min ( 1'1 (', ) = 0 } 
+_  +  (A9c)  '" . 
+ 
+Examples  Satisfy Existence Criteria 
+(AB) alld (A9).-Suppose  = 1,000,  = 1,100,  = 500,  ,() = -Iog().   case, () = lie.  conditions  ()   contract    [, / + )  satisfied  pre) '" 0.0009, ,(()) '" 3.0414,   () ,((e� '" 996 > . 
+Suppose  = 2,000   example.  con�ditions (A9)   contract    ( + , !)  satisfied  
+� ) 1,500 -p2,000  0 
+(, =  _p -j5> 
+ = 0.0  ;  (', ) = 0 reduces   qua�dratic 2,0001" -1,5011' +  = 0    '" 0.00067,   -pc -4>(jJ) "" 999 > 0;  
++
+<=0.75. 
+ 
+PROOF  PROPOSITION 2: 
+()    [,  + ), ' = pre) . Social surplus  () ..   ()1! ,((e� > .   () ,(( e�  decreasing function  , condition ()   =  +  guarantees existence 'rIe  [,  + . Dif�ferentiating ( )  respect   gives 
+(AIO) '() = '()'(,' + !). 
+ ,' +  > 0  ' > 1'*   '() < 0, then '() > 0  required. 
+()    ( + , ],    shown   following statement holds: 
+  accident probability  
+min (plg(, ) = 0) exists   = , 
+then  exists    ( + , ).  
+ function pre)  decreasing  . 
+Suppose  statement holds. Then   straight�
+forward  show  direct substitution  con�
+ditions (A9b)  (A9c)  satisfied    
+(1/ + , ], meaning  contract (Yo, ; ) 
+exists   values  .  social surplus 
+ decreasing     > ',   declining  
+  required   proposition. Below,  prove 
+  above statement holds  therefore  
+ part ( )   proposition. 
+ define  function () according  
+(  ) () ~ min{ lg(,) = OJ . 
+ gr < 0, reduction     =  yields 
+(, ) > 0,   Lemma  says   
+ex ists   < .  remainder   proof 
+ proof  contradiction. 
+Suppose ()   decreasing  ;  . 
+ some  > , > , suppose , ~ (,)  
+, ~(, ).   known   < 0  (   ) 
+holds. Therefore  following strict inequality 
+ hold: 
+(AI2) (" ,) > (P2, , ) = . 
+ demonstrated   proof  Lemma  , according   propenies  , 3p > 0   
+( 13) (, ,) < . 
+Using  intermediate-value theorem  (AI2 )  ( I3),  knows 3p  (. ,)   (, col = . ,  < ,.  contradicts  definition  (.)  (   ).  , > "   function  
+decreasing  . 
+PROOF  PROPOSITION 3: Full lender liability leads   >  *  social surplus   lower   best 
+ 
+_ _  +  -jih 
+, -Yo = < . 
+I-p 
+ case   lender liability leads  sub�optimal result   1/ < . (//) > *  demonstrate   rules   com�pared,  suffices  give  examples-one  full lender liability  superior,   
+    inferior   lender liability: 
+. Full Lender Liability  Superior.�
+Suppose 1/ = 1,000,  = 2.000.  = 500.  ,() = -Iog( ). , () = 0.0005, () = 0.00067,  (//) = 0.001. 
+2.  Lender Liability  Superior. �
+Suppose 1/ = 100,  = 400.  = ,  ,() = -Iog( ). ,  () = 0.00667, () = 0.0102,  (//) = 0.01000. 
+PROOF  PROPOSITION 4:   pan,  partial-lender-liability 
+rule exists  yields  same   min�
+imum equity requirement,  sLraighlforward 10 
+prove   () = (1/ + ~)  ((c� = ((1/ + e�. Consider   pan,  panial-len-der-Iiability rule  higher com�
+pensation exists    assumed  contract 
+exists under full lender Liability  () > (1/ + ~).    proved above  ( )  
+ contract exists   = . then contract exists forc  (1/ + , ]  ()  function ()  increasing  .    known    = 1/ + ,  contract yields  (1/ + )   (  ) (1/ + )  (1/ + ~) < (). 
+Finally,   continuous function    
+[1/ + , ] . Therefore,   mean-value the�orem 3c  [1/ +  , ] satisfies () = (1/ + ~),   therefore gives  same level  social surplus. 
+REFERENCES 
+Beard, . Randolph. " Bankruptcy  Care 
+Choice." Rand Journal ofEconomics, Win�
+ter 1990,2/(4) , . 626-34. 
+Chadd, Charles .; Satinoven, Terry; Bergeson, Lynn .; Neuman, Reed .  Bryant, 
+Christopher  .. , voiding Liability  Haz�ardous Waste: RCRA, CERCLA.  Re�lated Corporate Law Iss ues." Corporate Practice Series 57, Washington, DC: Bureau  National Affairs, 1991. 
+Clanton, Shane . "Fleeting Security: CER�CLA Liability  Secured Creditors." Emory Law Journal, Winter 1992, 41 (  ), . 167-22 1. 
+Greenburg, Michael .  Shaw, )-dvid . " 
+Lend    Lend-That     Question:  Uncenainties  Lender Li�ability under CERCLA. �' Duke Law Journal, February 1992, 41(4), . 1211 -66. 
+Harris, Milton  Raviv, Artur. . ' Theory  Capital Structure." Univer�sity  Chicago Working Paper . 81. 1991. 
+Hart, Oliver . "Theories  Optimal Capital Structure: Principal -Agent Perspective." Unpublished manuscript prepared   Brookings Conference  " Takeovers, LBO�s.  Changing Corporate Forms," Washington, DC, March 1991. King, Susan . "Lenders Liability  Cleanup Costs." Environmental Law , Fall 1988, 18( ). . 241-91. Michelman, Frank . "Property, Utility,  Fairness: Comments   Ethical Foun�dations  'Just Compensation' Law." Har�
+vard Law Review, April 1967 ,80(6). . 1165-1258. 
+Ringleb,  .  Wiggins, Steven ..'Liability  Large-Scale, Long-Term Hazards." Journal  Political Economy, June 1990. 98(3), . 574-95. 
+Shavell, Steven. "  Judgement Proof Prob�lem." International Review  Law  Economics, June 1986, 6( ) , . 45 -58. 
+Summers, . . " Case   Disappearing Defendanl. " University  Pennsylvania Law Review, December 1983, 132 (  ), . 145-85. 
+Sykes, Alan . " Efficiency Analysis  Vicarious Liability Under  Law  Agency." Yale Law Journal , November 1981, 9J( ), . 168-206. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

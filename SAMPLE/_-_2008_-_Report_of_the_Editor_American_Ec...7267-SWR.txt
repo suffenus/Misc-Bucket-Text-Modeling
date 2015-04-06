@@ -1,0 +1,498 @@
+American Economic Review: Papers & Proceedings 2008, 98:2, 581�590 http://www.aeaweb.org/articles.php?doi=10.1257/aer.98.2.581 
+Report   Editor 
+American Economic Review 
+General Nature   Editorial Process 
+Manuscripts submitted   American Eco�nomic Review  handled  Editor, several Coeditors,  staff located  Pittsburgh, using Internet-based manuscript manage�ment software system. Papers  submit�ted online, processed   Pittsburgh office staff,  then distributed   Editor     Coeditors     refereeing  publication decision. Papers  assigned   basis  field  expertise   Coedi�tor, combined  variety   consid�erations including equalization  work load  conflict-of-interest rules. Once assigned, papers  handled   designated Coedi�tor throughout  decision process, without review   Editor. 
+  several conflict rules  affect assignment  manuscripts. Coeditors  gen�erally  assigned manuscripts authored  individual     institution,  individual  whom  Coeditor   recent coauthor,  individual   close professional  personal relationship   Coeditor,   individual   served  graduate student advisor  advisee   Coeditor. Papers falling   catego�ries  handled   Editor   different Coeditor  appropriate procedures  con�fidentiality  refereeing. Papers submitted  Coeditor  generally handled   Editor  papers submitted   Editor  handled  Coeditor, again employing appropriate con�fidentiality procedures. 
+Manuscripts   AER  reviewed  double-blind fashion:  name   author  removed   manuscript prior    sent   review,  referee names   revealed  authors. 
+Beginning  January 2006,  Editor  Coeditors  reserved  right  return manuscripts  authors without referee review.  decision  return manuscript without review  based upon number  consider�ations, including expected probability  meet�ing  standards   Review, breadth  topic, interest   AER audience,   factors. 
+Comments submitted   AER  refereed   author   article  commented     referees. Replies  Comments  sent   author   Comment    referees.    automatic right  reply;  author  Reply  provide sub�stantive  material discussion   issues  question. 
+Papers appearing    issue   Review,  issue containing  Papers  Proceedings   Annual Meeting,  han�dled separately.  President-Elect   Association chooses  papers  publication  advice  team  experts   vari�ous fields. 
+Editorial  Publication Statistics 
+Tables 1�6 provide information   edi�torial process   journal   past year  some previous years. 
+ 1 shows historical trends  submis�sions  publication rates.  number  submissions  fairly steady  1986  2002  jumped  2003,  year   Review began accepting online submissions. Submissions continued  climb  approxi�mately 4 percent   next  years   leveled off  approximately 1,300  2006  2007.  number  papers published  year   last six years  hovered around 100, significantly higher    few years prior  .  ratio  publications  submissions ranged  7  10 percent     1990s  dropped   rise  submis�sions  2003.  ratio   rising slightly  2004. 
+ 2 shows  disposition  manuscripts submitted     last four years   November 1, 2007,  provides more accurate measure   acceptance rate. Approximately 9 percent  2004 submissions   accepted  date. potential  8  9 percent  2005  2006 submissions    accepted   pending  revise-and-resubmit papers  
+581 
+ 1�Manuscripts Submitted  Published, tions  2007  show  22 percent  sub�
+1980�2007 
+mitted manuscripts   sent back   author without referee review. 
+Year Submitted Published % Published 
+ 3 indicates  publication lags length�
+1980 641 127 1981 784 115 1982 820 120 1983 932 129 1984 921 138 1985 952 128 1986 987 123 1987 843 99 1988 844 100 1989 946 116 1990 911 100 1991 884 110 1992 950 108 1993 900 94 1994 953 91 1995 929 88 1996 976 85 1997 976 66 1998 900 71 1999 927 79 2000 989 85 2001 931 96 2002 990 103 2003 1,223 106 2004 1,265 92 2005 1,337 98 2006 1,304 98 2007 1,308 101 
+20.0 ened slightly  2007   slight increase 
+15.0   length  time  acceptance  publi�
+15.0 
+14.0 
+.  4 shows  number  length  
+15.0 
+ type  publication (Article, Shorter Paper, 
+13.0  Comment  Reply)     last  
+12.5 
+12.0 years.  Review  increased  number 
+12.0  Articles   published   reduced 
+12.0  number  Shorter Papers  Comments 
+11.5 
+ Replies.  5 shows  distribution  
+12.0 
+published papers  2006  2007  subject, 
+11.0 using JEL codes.   considerable degree 
+10.0 
+10.0  fluctuation   number  publications  
+9.5  category  year  year,  compari�
+8.7 son  figures   last five years indicates 
+6.8 
+7.9 
+ increase   areas  microeconomics, 
+8.5 
+macroeconomics  monetary economics,  
+8.6 industrial organization,  small decreases 
+10.3 spread  across     categories. 
+10.4  6 shows  number  copies   
+8.7 journal   CD   produced,  well 
+7.3 
+7.3  number  pages  associated costs.  
+7.5 number  journal pages printed, net  advertis�
+7.7 ing, rose relative    2006,  therefore 
+Notes: Submissions   year include  new submis-so did printing costs. sions  November 1   previous year through October 31   stated year. Publications   year include  
+Data Posting Policy 
+December issue   preceding year   March, June, 
+ September issues   stated year, including regular 
+articles, shorter papers,  comments  replies.  2004,  Review began  require  authors  accepted papers  employ data  econometric exercises, simulation models,  experiments agree  post  data  pro�
+eventually accepted. Too few 2007 submissions grams   journal Web site unless exemp�
+  acted   estimate accurately  tion  proprietary data  requested  granted. 
+maximum eventual acceptance rate.  tabula-The policy  strengthened  2005  more 
+ 2�Disposition  Manuscripts  Year  Submission, 2004�2007 
+Submission Summary Revise  year Accepted Pending Rejected reject resubmit Withdrawn Total 
+2004 114 4 1121 0 17 8 1264 
+(9) (0) (89) (0) (1) (1) (100) 
+2005 83 20 1205 0 22 5 1335 
+(6) (1) (90) (0) (2) (0) (100) 
+2006 41 27 1021 169 35 8 1301 
+(3) (2) (78) (13) (3) (1) (100) 
+2007 3 332 640 286 43 4 1308 
+(0) (25) (49) (22) (3) (0) (100) 
+Notes: Entries show disposition   November 1, 2007. Figures  parentheses show row percents rounded   nearest integer. Pendings include pending resubmissions. Summary rejections  manuscripts returned   author without referee review.   supersedes  tables  previous AER reports. 
+ 3�Average Publication Lags  Year  Publication 
+Number  weeks 
+Year  Receipt  Acceptance  Receipt  publication acceptance publication publication 
+2005 77 37 113 
+2006 82 40 121 
+2007 84 46 130 
+Notes: Excludes  issue.  columns reflect  calen�dar year   year stated. 
+systematic enforcement   greater atten�tion  searching  alternative means  data access  papers requesting exemptions.  7 shows  number  papers     2007 issues containing data analysis,  number  exemptions granted,  number  authors  complied    round (defined  supplying data  receiving  acceptance letter detail�ing  requirement),   number  authors  complied  later reminder. Full com�pliance  achieved   issues. 
+Papers  Proceedings 
+ Papers  Proceedings    Hundred  Nineteenth Annual Meeting   American Economic Association  pub�lished   2007.  volume  edited  Ronald Oaxaca  Michelle DeBlasi, Assistant Managing Editor   Review.  deeply indebted       difficult work     expertly performed. Oaxaca  stepped down   post   wish  thank    19 years  service   position. William . Johnson  assume  post beginning    2008 volume. 
+Editorial Staff 
+ five Coeditors   Review   begin�ning  2007  Jeremy Bulow (Stanford University), Judith Chevalier (Yale University), Vincent Crawford (University  California, San Diego), Mark Gertler (New York Univer�sity),  Richard Rogerson (Arizona State Uni�versity). Chevalier ended  term  June 30, 2007. Pinelopi . Goldberg (Princeton Univer�sity) began term  Coeditor  July 1, 2007.  deeply indebted   Coeditors   dedication, professionalism, hard work,  insight.   handled demanding job  energy  good humor,   collective efforts  made enormous contribution   journal    profession. 
+ Editors rely heavily   Board  Editors  advice  evaluation  manuscripts. Board members  selected  reflect  high�est level  scholarship   economics profes�sion    different fields represented   submissions,  well   conscientious�ness, judgment,  professional reliability  demonstrated   refereeing   journal. 
+Six members   Board  Editors ended  service  2007     previously acknowledged: Mark Bils, John Heaton, Hilary Hoynes, Thomas Hubbard, Thomas Lemieux,  Steven Tadelis.   like  express  deep gratitude     service   AER. Six new members   Board began terms  2007: Judith Chevalier, Christian Hellwig, Shelly Lundberg, Kaivan Munshi, Holger Sieg,  Andrzej Skrzypacz,  wish  thank    service,  well   continuing members: Andrew Atkeson, Abhijit Banerjee, Bruce Blonigen, Ralph Braid, Colin Camerer, Gary Charness, Stephen Coate, Rachel Croson, Daniel Diermeier, Janice Eberly, Charles Engel, Simon Gilchrist, Ming Huang, Patrick Kehoe, Dirk Krueger, John Leahy, Jonathan Levin, James Levinsohn, John List, Monica Piazzesi, 
+ 4�Distribution  Publication Type,  Year 
+Articles Shorter papers Comments  replies 
+Year  Average page Average page Average page 
+publication Number length Number length Number length 
+2005 59 22 29 13 11 5 
+2006 58 23 33 15 9 5 
+2007 63 23 28 13 8 4 
+Note:   refers   March, June, September,  December issues.  5�Subject Matter Distribution  Published Manuscripts, 2005�2007 
+Subject category 2005 2006 2007 
+General economics  teaching 2 2 1 
+Schools  economic thought  methodology 1 0 0 
+Mathematical  quantitative methods 14 8 10 
+Microeconomics 39 43 48 
+Macroeconomics  monetary economics 22 20 21 
+International economics 12 13 5 
+Financial economics 17 8 12 
+Public economics 13 6 8 
+Health, education,  welfare 8 11 5 
+Labor  demographic economics 13 23 15 
+Law  economics 6 4 6 
+Industrial organization 10 14 20 
+Business administration  business economics; 0 7 4 
+marketing; accounting 
+Economic history 8 3 4 
+Economic development, technological change,  growth 11 15 10 
+Economic systems 4 0 1 
+Agricultural  natural resource economics; 1 0 1 
+environmental  ecological economics 
+Urban, rural,  regional economics 5 2 2 
+ special topics 3 4 5 
+Totals: 189 181 177 
+Notes: Includes  JEL codes reported   manuscript; excludes Papers  Proceedings, invited lectures,  comments. Entries represent totals  January, March, September,  December issues. 
+Frank Schorfheide, Peter Schott, Lones Smith, Michelle DeBlasi served  Assistant Manag-Joel Sobel, Steven Stern, Christopher Udry,  ing Editor    half  2007    John . Williams. replaced  Steve Stelling.  wish  thank   individuals   outstanding job  Office Staff   Assistants handling  major demands   journal  continually seeking improvements  opera-The AER  supported  outstanding staff tions.  Review   capable hands under located  Pittsburgh. Jane Voros  contin-their supervision.  Editorial Assistants  ued  serve  Managing Editor  2007. Pittsburgh   past year, Kirk Knutson  
+ 6�2007 AER: Copies Produced, Cost  Production,  Postage 
+(Journal  CD) 
+Journal CD 
+Copies Pages Pages .  Total 
+Issue printed grossnetb Composition Printing Postage copies Production Postage cost 
+March 17,943 558 538 $ 23,238 $ 55,329 $ 30,228 4,400 $ 9,524 $ 9,816 $128,135 
+ 19,394 606 600 $ 25,000d $ 60,791 $ 37,854 4,400 $ 9,099 $10,321 $143,065 
+June 19,985 510 502 $ 21,398 $ 52,956 $ 30,482 4,328 $ 9,195 $10,299 $124,330 
+September 19,500c 512 486 $ 25,000d $ 60,000c $ 30,500c 4,350 $ 9,373 $10,305 $135,178 
+December 19,500c 552 540 $ 25,000d $ 60,000c $ 30,500c 4,400c $ 9,350 $10,350 $135,200 
+Total 96,322 2,738 2,666 $119,636 $289,076 $159,564 21,878 $46,541 $51,091 $665,908 
+ Editorial content plus advertising. 
+ Gross pages minus advertising. 
+ Estimated. 
+  2007, prepress operations taken in-house. , September,  December issues set in-house. Figures  approxi�mate;   additional costs  start-up  training. 
+. 98 . 2 REPORt   EDItOR, AER 585 
+ 7�Data Posting Policy Statistics 
+Issue Number  papers Papers  data Exemptions First-round compliance Second-round compliance Noncompliance 
+March 28 12 1 10 1 0 
+June 24 17 3 10 4 0 
+September 21 13 1 9 3 0 
+December 26 17 2 8 7 0 
+Note:  includes regular articles, shorter papers,  comments  replies. 
+Katrina Focareta,    excellent.  addition, valuable research support   provided  Kristin Harnett. Several assistants   Coeditors  furnished needed  important support, including Janna Dodrill (Princeton University), Ben Gillen  Ricardo Serrano-Padial (University  California, San Diego), Loris Rubini (Arizona State University),  Judy Di Stefano  Patricia Szybist (Johns Hopkins University). 
+ 2007, prepress operations  moved  commercial typesetter   Pittsburgh office,   handled expertly  Denise Maiden, Russell Salminen,  Becky Fatalsky.   wish  thank John Rust   assistance   use  Editorial Express,  online manuscript management software used   Review    half  2007.  July 1,  Review  employed Manuscript Central/Scholar    purpose.  grateful  Professor Rust   associates   critical assistance pro�vided  2003  2007.  migration  data  Manuscript Central  greatly facilitated  Liz Braunstein, Srbo Cvetkovic, Chris Jackson,  Phelipe Johnson. 
+ always,  report ends   list  ref�erees   volunteered  services dur�ing 2007, more  2,000  number.  extend  deepest appreciation   time  energy   devoted   advancement   field. 
+Robert . Moffitt, Editor 
+Referees 
+. Aaronson . Anagol . Asker . Balke . Belleflamme 
+. Abbott . Anderhub . Atakan . Ball . Bellemare 
+. Abdulkadiroglu . Anderlini . Atkeson . Ballester . Belot 
+. Abraham . Anderson . Attanasio . Ballou . Belzil 
+. Abramitzky . Anderson . Austen-Smith . Baltussen . Benabou 
+. Acharya . Anderson . Ausubel . Bandiera . Benhabib 
+. Ackerberg . Ando . Autor . Banerjee . Benjamin 
+. Adda . Andreoni . Avery . Banks . Benkard 
+. Adolfson . Angeletos . Ayres . Bansal . Benmelech 
+. Adrian . Angelucci . Azoulay . Bar-Isaac . Bennardo 
+. Aggarwal . Angrist . Azrieli . Barberis . Bennedsen 
+. Aguiar . Antras . Babcock . Bardhan . Benoit 
+. Ahn . Anwar . Baccara . Bardsley . Bereby-Meyer 
+. Ainsworth . Aoki . Bacchetta . Barlevy . Bergstrand 
+. Akerlof . Aoyagi . Bacolod . Baron . Bergstrom 
+. Albanesi . Apesteguia . Bagwell . Barr . Berk 
+. Alberini . Apps . Bai . Barth . Berman 
+. Alderman . Arce . Baier . Bartling . Bernard 
+. Aldy . Arcidiacono . Baik . Barut . Bernard 
+. Alessandria . Arifovic . Bajari . Battaglini . Bernardo 
+. Allayanis . Armenter . Baker . Bauer . Bernhardt 
+. Almond . Arora . Bakshi . Baum-Snow . Bernheim 
+. Aloysius . Arya . Baland . Bech . Bertocchi 
+. Alvarez . Ascari . Baldenius . Bednar . Bertoletti 
+. Amador . Ashcraft . Balding . Beggs . Bertrand 
+. Amaldoss . Ashraf . Baldwin . Behrman . Besedes 
+. Amiti . Ashworth . Baliga . Bekaert . Besley 
+. Betancourt . Buchmueller . Choo . Davig . Dynan 
+. Bettinger . Bucovetsky . Chow . Davis . Dynarski 
+. Betts . Buera . Chowdhry . De Fraja . Eaton 
+. Bhalotra . Bullard . Chung . De Giorgi . Eberly 
+. Bhargava . Bulow . Clarida . de la Croix . Echenique 
+. Biddle . Burdett . Clark . de la Rosa . Edelberg 
+. Biglaiser . Bureau . Clark . De Loecker . Ederington 
+. Bils . Burgess . Clay . De Nardi . Edlund 
+. Bisin . Burgess . Clementi . De Nicolo . Eeckhout 
+. Black . Burkhauser . Clotfelter . de Roos . Ehrenberg 
+. Black . Burnside . Coate . De Santis . Einav 
+. Blalock . Burstein . Coates . De Vries . Ekeland 
+. Blanchard . Burtless . Cocco . de Walque . Ekholm 
+. Blanchard . Buschena . Coelli . Dean . El-Gamal 
+. Blanes  Vidal . Bushnell . Coen-Pirani . Deardorff . Ellingsen 
+. Blavatskyy . Busse . Coenen . Deaves . Elliott 
+. Blonigen . Butcher . Cogley . Dee . Ellison 
+. Bloom . Butler . Cohen . DeGraba . Elsby 
+. Bloomfield . Caballero . Colacito . DeJong . Emmerson 
+. Blume . Cagetti . Cole . Dekle . Engel 
+. Blume . Cairns . Coleman . Del Boca . Engelhardt 
+. Blumkin . Callander . Collier . Del Negro . Engelmann 
+. Boadway . Calvo-Armengol . Collins . Delacroix . Engseld 
+. Board . Camerer . Comin . Delipalla . Epple 
+. Board . Jean Camp . Conesa . DellaVigna . Epstein 
+. Bogomolnaia . Campbell . Conlin . Deltas . Erceg 
+. Bohn . Canova . Conlon . den Haan . Erdil 
+. Bohnet . Cantala . Conning . Demange . Erev 
+. Boivin . Cantillon . Considine . Demidova . Ergin 
+. Bolton . Caplan . Constantine . Deolalikar . Ermisch 
+. Bolton . Carlson . Cook . Dessein . Erosa 
+. Bombardini . Carlstrom . Cookson . Dessi . Esponda 
+. Boone . Carneiro . Cooper . Dessy . Esteban 
+. Borenstein . Carpenter . Copeland . Devereux . Esteban-Pretel 
+. Borgers . Carroll . Corman . Devereux . Eusepi 
+. Bosch-Domenech . Caruana . Corsetti . Devetag . Evans 
+. Bossaerts . Carvalho . Costa . Dewatripont . Evans 
+. Botticini . Casajus . Costain . Dey . Eyster 
+. Bouckaert . Caselli . Costinot . Di Cintio . Faberman 
+. Boudreau . Castro . Couch . Diaw . Facchini 
+. Bougheas . Cawley . Cox . Dichev . Faccio 
+. Bound . Cervellati . Craig . Dick . Fafchamps 
+. Bouwman . Chade . Craig . Dickens . Faia 
+. Bovenberg . Chakraborty . Crain . Dickert-Conlin . Fairlie 
+. Braid . Chakravarty . Crawford . Dickinson . Falk 
+. Bramoulle . Chambers . Cremers . Diermeier . Falvey 
+. Brander . Chanda . Crocker . Dinar . Fang 
+. Brandts . Chandra . Crockett . Dinopoulos . Farber 
+. Breen . Chang . Cropper . Djankov . Farhi 
+. Bris . Chang . Croson . Doepke . Farmer 
+. Brock . Chang . Crowley . Dollar . Farrell 
+. Broda . Chang . Crucini . Domeij . Farrell 
+. Broner . Charness . Cubitt . Dominitz . Fatas 
+. Brooks . Chatterji . Cuff . Dooley . Faulkender 
+. Brooks-Gunn . Chaudhuri . Cullen . Doornik . Feenstra 
+. Brown . Che . Cunat . Dower . Feinberg 
+. Brown . Chen . Dafny . Dranove . Feinstein 
+. Browning . Chen . Dal Bo . Drozd . Feld 
+. Bruce . Chen . Daley . Druckman . Feldman 
+. Brueckner . Chen . Daniel . Duffy . Feldmann 
+. Bruhn . Cheron . Danzon . Dufwenberg . Feri 
+. Bruni . Cherry . Daripa . Dupas . Fernald 
+. Brunner . Chetty . Das Gupta . Durham . Fernandez 
+. Brunnermeier . Chinn . Davidoff . Dustmann . Fernandez- 
+. Buchan . Choi . Davidson . Dyer Villaverde 
+. 98 . 2 REPORt   EDItOR, AER 587 
+. Fernando . Gathright . Grossman . Hellmann . Isham 
+. Ferrall . Gatti . Grubb . Hellwig . Ishiguro 
+. Ferreira . Gaynor . Grubert . Hellwig . Ishii 
+. Ferrero . Gazzale . Grund . Helpman . Itoh 
+. Fershtman . Geanakoplos . Guarino . Hendel . Ivanova-Stenzel 
+. Fevrier . Geczy . Guerrieri . Henderson . Ivkovich 
+. Feyrer . Gelbach . Guest . Henderson . Iyer 
+. Field . Gelman . Gueth . Hendricks . Iyigun 
+. Field . Gennaioli . Guilkey . Henrekson . Jackman 
+. Filmer . Gentry . Guinnane . Hermalin . Jackson 
+. Finkelstein . Gentzkow . Guiso . Herrendorf . Jacob 
+. Finus . Gerardi . Gul . Herrera . Jacoby 
+. Fischbacher . Gerber . Gunnthorsdottir . Heutel . Jain 
+. Fisher . Gerstner . Guo . Hey . Janssen 
+. Fisher . Gertner . Guo . Hibbing . Jappelli 
+. Fishman . Ghironi . Guo . Hillberry . Jehiel 
+. Fisman . Ghose . Gurkaynak . Hillman . Jeon 
+. Fitzgerald . Ghosh . Guttman . Hines . Jermann 
+. Flabbi . Giannoni . Guvenen . Hirsch . Jeske 
+. Flachaire . Giavazzi . Gyourko . Hirshleifer . Jewitt 
+. Fleming . Gibson . Haacker . Hitt . Jia 
+. Flores . Gil . Hadfield . Ho . Jiang 
+. Fogli . Gilboa . Hafalir . Ho . John 
+. Foley . Gilchrist . Hagedorn . Hobijn . Johnson 
+. Fong . Gilles . Haigh . Hoelzl . Johnson 
+. Fong . Gilligan . Haile . Hogan . Johnson 
+. Fortin . Giovannoni . Halevy . Holland . Johnson 
+. Fortson . Glewwe . Haliassos . Holt . Jones 
+. Foster . Glick . Hall . Hopkins . Jones 
+. Foster . Glomm . Hall . Hoppe . Jones 
+. Fox . Gneezy . Hallak . Horan . Jones 
+. Francis . Goeree . Haller . Horn . Jost 
+. Fraumeni . Goeree . Hallward- . Hornstein . Joyce 
+. Frechette . Goette Driemeier . Horst . Justiniano 
+. Freixas . Goetzmann . Ham . Hortacsu . Kaestner 
+. French . Goldberg . Hamermesh . Hossain . Kagel 
+. Friebel . Goldstein . Hamilton . House . Kahn 
+. Fried . Golosov . Hamilton . Houser . Kahn 
+. Friedman . Gomes . Hanemann . Hout . Kambourov 
+. Friedman . Gomes . Hanna . Howitt . Kanbur 
+. Friesen . Gomes . Hansen . Hoynes . Kaplan 
+. Frydman . Gomme . Hansen . Hoyt . Kapteyn 
+. Fuchs . Gonzalez . Hanson . Hsieh . Karceski 
+. Fuchs-Schuendeln . Goodwin . Hargreaves Heap . Huang . Kariv 
+. Fuerst . Goolsbee . Harrigan . Huang . Karlan 
+. Fujita . Gordon . Harrington . Huang . Kartik 
+. Fullenkamp . Gorodnichenko . Harrison . Hubbard . Kashyap 
+. Fumagalli . Gottschalk . Harstad . Huberman . Katayama 
+. Furman . Gourinchas . Hartog . Huck . Katz 
+. Gabaix . Gourio . Haruvy . Hummel . Kee 
+. Gabrielsen . Gowrisankaran . Haslag . Hummels . Keefer 
+. Gahvari . Goyal . Hassett . Hungerman . Kehoe 
+. Gajdos . Gradstein . Hassler . Hunt . Kehoe 
+. Gal-Or . Gravel . Hastings . Hurd . Keister 
+. Gale . Gray . Hatfield . Hurkens . Keller 
+. Gale . Green . Haucap . Hurst . Kemsley 
+. Galeotti . Green . Haurin . Iannaccone . Kenkel 
+. Galetovic . Green . Hausch . Ichniowski . Kennan 
+. Gan . Greenstone . Hayashi . Imbens . Kessler 
+. Garen . Gregson . Heal . Imhof . Kesten 
+. Garfinkel . Grether . Heathcote . Imrohoroglu . Khalil 
+. Garicano . Grogger . Heaton . Inderst . Khan 
+. Garleanu . Groseclose . Heidhues . Ioannides . Khandker 
+. Garriga . Grosskopf . Heinemann . Ireland . Khorana 
+. Gaspart . Grossman . Heinkel . Iriberri . Kiley 
+. Kimball . La Ferrara . Lopez . McAdams . Morgan 
+. Kimbrough . Ladd . Lopez-De-Silanes . McCabe . Morgan 
+. Kinnaman . Lafontaine . Lopez-Salido . McCarthy . Moro 
+. Kirchsteiger . Lagos . Lopomo . McDaniel . Morris 
+. Kitao . Lahiri . Lorenzoni . McElroy . Morrison 
+. Kiyotaki . Lai . Loretz . McKenzie . Morrisson 
+. Klaus . Laibson . Loury . McLaren . Mortensen 
+. Klein . Laitin . Lovallo . McMillan . Morton 
+. Klein . Lakdawalla . Low . McMillan . Morton 
+. Klein . Lalive . Lubik . McNown . Moscarini 
+. Kleiner . Lapham . Ludvigson . Mechoulan . Moschini 
+. Klemperer . Laroque . Ludwig . Meier . Mueller 
+. Klenow . Laslier . Lueck . Meirowitz . Mueller 
+. Klerman . Lassen . Luelfesmann . Meissner . Muendler 
+. Kletzer . Lau . Luke . Melenberg . Muller 
+. Klijn . Laubach . Lundberg . Mellers . Mullin 
+. Knack . Lavy . Lupton . Mello . Munshi 
+. Knight . Lawarree . Lusardi . Mellor . Muren 
+. Knittel . Leahy . Lusk . Mendoza . Murnane 
+. Kocher . Lee . Lustig . Mendys- . Murnighan 
+. Koessler . Lee . Luttmer Kamphorst . Murphy 
+. Kogan . Lee . Lyon . Menicucci . Murrell 
+. Kohler . Leeper . Ma . Menzio . Mustard 
+. Kojima . Lefgren . Ma . Merrigan . Musto 
+. Kollmann . Legros . Maasland . Metcalf . Myerson 
+. Kolstad . Leicester . Maccheroni . Metrick . Nachbar 
+. Konishi . Leininger . MacDonald . Meyersson . Nagel 
+. Konow . Lemieux . MacDonald . Mian . Nakamura 
+. Konrad . Lentz . MacGarvie . Michaelides . Nalbantian 
+. Kooreman . Levchenko . MacLeod . Michelacci . Nalebuff 
+. Kopczuk . Levin . Maggi . Midrigan . Napel 
+. Koren . Levin . Maitra . Mihov . Nason 
+. Korenman . Levin . Makhija . Milesi-Ferretti . Natalucci 
+. Kornienko . Levine . Malcomson . Miller . Navarro 
+. Kosenok . Levine . Malpezzi . Milligan . Neal 
+. Kosfeld . Levinsohn . Maluccio . Millimet . Neary 
+. Koszegi . Levitt . Maniquet . Milner . Nechyba 
+. Kotsogiannis . Levy . Manning . Milyo . Nenova 
+. Kovenock . Levy . Manovskii . Minoiu . Neumark 
+. Kramarz . Levy . Manso . Miranda . Nevo 
+. Kramer . Lewellen . Mansur . Mitchell . Newhouse 
+. Kranton . Lewis . Marcet . Mitchell . Ng 
+. Krebs . Lewis . Marcouiller . Mittendorf . Ngai 
+. Kreider . Lewis . Margo . Mitton . Nicholson 
+. Krishna .  . Mariotti . Moav . Nickerson 
+. Krishnan .  . Mark . Mobarak . Niepelt 
+. Kristensen .  . Marquez . Mobius . Nitzan 
+. Krosnick . Lichtenberg . Martin . Mody . Noel 
+. Krueger . Lien . Martin . Moehling . Noldeke 
+. Krusell . Light . Martinez . Moffatt . Norman 
+. Kugler . Lim . Martinsson . Moffitt . Normann 
+. Kugler . Lim�o . Marx . Mokyr . Norton 
+. Kuhn . Lindeboom . Masatlioglu . Monacelli . Noussair 
+. Kuksov . Linden . Mash . Monge-Naranjo . Novemsky 
+. Kumar . Lindert . Massey . Mongrain . Novshek 
+. Kumbhakar . Lindqvist . Masso . Monteiro . Nowbutsing 
+. Kuran . Lippi . Masson . Montero . Nyberg 
+. Kurmann . List . Mata . Mookherjee . O�Donoghue 
+. Kuruscu . Litov . Matouschek . Moore . Oberholzer-Gee 
+. Kuziemko . Liu . Matsusaka . Moorthy . Odean 
+. Kvasov . Livshits . Maxwell . Moraga-Gonzalez . Oettinger 
+. Kwasnica .  . Mayer . Morduch . Ok 
+. Kwerel . Long . Mayer . Morelli . Olivei 
+. Kyle . Longstaff . Mazzeo . Moreno . Olivetti 
+. Kyle . Loomes . Mazzocco . Moretti . Olken 
+. 98 . 2 REPORt   EDItOR, AER 589 
+. Oprea . Pesendorfer . Ransom . Rothenberg . Schott 
+. Orazem . Pesenti . Rao . Rothstein . Schotter 
+. Orbay . Pestieau . Rappoport . Rothstein . Schrag 
+. Oreopoulos . Peters . Rasmusen . Roussanov . Schram 
+. Orrenius . Peters . Rasul . Rousseau . Schultz 
+. Ortalo-Magne . Petrie . Rauch . Routledge . Schure 
+. Ortega . Phalippou . Ravenna . Royalty . Schwarz 
+. Ortmann . Phelan . Ravn . Rubinstein . Schwieren 
+. Orzen . Philippon . Raynaud . Rubio-Ramirez . Sch�ndeln 
+. Osberg . Philippopoulos . Rayo . Rudanko . Scotchmer 
+. Oster . Piankov . Rebitzer . Ruffin . Seabright 
+. Oster . Piazzesi . Redding . Ruffle . Segal 
+. Ostrom . Piccione . Reinhardt . Ruhl . Segura-Cayuela 
+. Ostrovsky . Pijoan-Mas . Reinhart . Ruhm . Seim 
+. Ostroy . Pilloff . Reinhold . Rupp . Seitz 
+. Ottaviani . Pinheiro . Reis . Rustichini . Sela 
+. Ottaviano . Pischke . Reiter . Rutstrom . Serrano-Padial 
+. Oviedo . Pissarides . Repetto . Ryan . Sgroi 
+. Oyer . Pistaferri . Repullo . Rysman . Shachar 
+. Ozbas . Pitt . Requate . Saar . Shaffer 
+. Ozbay . Plotnick . Restuccia . Sacerdote . Shalev 
+. Ozcan . Plott . Rey-Biel . Sadiraj . Shapiro 
+. Ozdenoren . Plug . Reynal-Querol . Sadzik . Shapiro 
+. Ozgur . Podgursky . Rhodes-Kropf . Saint-Paul . Shapiro 
+. Ozsoylev . Polak . Ribar . Saiz . Shayo 
+. Porter . Polansky . Richard . Sakovics . Shearer 
+. Paarsch . Polborn . Richardson . Saks . Sheiner 
+. Padro  Miquel . Pollak . Ridder . Sala . Sherstyuk 
+. Pagano . Pollet . Riedl . Salant . Shevchenko 
+. Page . Ponti . Ries . Sally . Shi 
+. Page . Ponzetto . Rigotti . Salvanes . Shikher 
+. Pages . Popkin . Riis . Salyer . Shogren 
+. Pagnozzi . Porter . Riley . Samuelson . Sides 
+. Palfrey . Portier . Rios Rull . Sanchez-Pages . Sieg 
+. Palia . Post . Ripoll . Sandler . Siegel 
+. Pan . Potter . Rivkin . Sandroni . Sigelman 
+. Pancs . Potters . Roberts . Sanjurjo . Sigouin 
+. Panunzi . Pratap . Robinson . Sansing . Silber 
+. Papageorgiou . Price . Robinson . Santos . Silverman 
+. Papai . Primiceri . Robson . Santos-Pinto . Simcoe 
+. Papell . Pritchett . Roca . Sanver . Simon 
+. Papke . Proost . Rockoff . Sapienza . Simonsohn 
+. Parent . Proto . Rockoff . Sarte . Sinai 
+. Park . Przeworski . Rodden . Sarver . Sinclair 
+. Parker . Puglisi . Rodrigues . Sattinger . Sindelar 
+. Pastor . Puller . Rodriguez Mora . Sauer . Singh 
+. Paterson . Putterman . Rogers . Sausgruber . Siow 
+. Paulson . Puzzello . Rogers . Savaglio . Skaperdas 
+. Pauly . Qian . Rohde . Schady . Skinner 
+. Pavan . Quadrini . Roider . Scharf . Skreta 
+. Pavcnik . Quiggin . Roland . Scharfstein . Skrzypacz 
+. Pavlov . Quigley . Romalis . Scheinkman . Slade 
+. Pavoni . Quinn . Romano . Scheve . Slesnick 
+. Pearce . Quintin . Romer . Schiantarelli . Sliwka 
+. Peltzman . Radelet . Rondi . Schipper . Sloan 
+. Pencavel . Raffo . Rose . Schlag . Smeeding 
+. Peracchi . Ragan . Rosenblat . Schlesinger . Smets 
+. Peralta . Raith . Rosendorff . Schmidt . Smith Jr. 
+. Pereira . Ramey . Rosenthal . Schmidt . Smith 
+. Perez-Gonzalez . Ramey . Ross . Schmidt . Smith 
+. Peri . Ramondo . Rossi . Schmidt-Dengler . Smith 
+. Perotti . Rampini . Rossi-Hansberg . Schmitz . Sniderman 
+. Perroni . Ramseyer . Rostek . Scholz . Snowberg 
+. Perry . Rangazas . Roth . Schor . Snyder 
+. Persico . Rangel . Rothblum . Schorfheide . Sobel 
+. Sodini . Szentes . Tybout . Waldfogel . Wosinska 
+. Solnick . Tabellini . Udell . Waldman . Wright 
+. Solon . Taber . Udry . Walker . Wright 
+. Solow . Tadelis . Ueda . Wallace . Wu 
+. Somerville . Takii . Ueda . Walsh . Wulf 
+. Sonmez . Talley . Unver . Wang . Wurgler 
+. Sonnemans . Tan . Uriarte . Warneryd . Xing 
+. Sonsino . Tan . Urrutia . Wascher . Xiong 
+. Sorensen . Tan . Vagstad . Watanabe . Xu 
+. Sorensen . Tappata . Valimaki . Watson . Xu 
+. Sorensen . Tate . Van Alstyne . Watson . Yang 
+. Sorenson . Tauras . van der Klaauw . Waugh . Yang 
+. Sotomayor . Tavares . Van der Linden . Webb . Yang 
+. Souleles . Taylor . Van Huyck . Weber . Yao 
+. Spiegel . Taylor . Van Nieuwerburgh . Wei . Yared 
+. Spiegel . Telang . van  . Weil . Yariv 
+. Spiegler . Temin . Van Reenen . Weinberg . Ye 
+. Spolaore . Temple . Van Wincoop . Weinberg . Yeaple 
+. Spraggon . Teulings . Van Zandt . Weinke . Yi 
+. Stabile . Thakor . Vanberg . Weir . Yilankaya 
+. Stafford . Thaler . Vandenbroucke . Weitzman . Yildirim 
+. Stahl . Thesmar . Vanderschraaf . Weizsacker . Yildiz 
+. Stango . Thoeni . Vannetelbosch . Werning . Yin 
+. Stanton . Thomadsen . Vardy . Westelius . Yinger 
+. Starks . Thomas . Varian . Weymark . Yitzhaki 
+. Starr . Thompson . Vayanos . Whinston . Yogo 
+. Startz . Thornton . Vega . White . Yoo 
+. Steger . Thum . Velde . White . Yoshihara 
+. Steindel . Thurman . Veldkamp . White . Young 
+. Steinmeier . Tiefenthaler . Venables . Whited . Young 
+. Steinsson . Timmins . Ventura . Wichardt . Yue 
+. Stephens . Timpone . Veracierto . Wickelgren . Zabojnik 
+. Stern . Tirole . Verdelhan . Wiederholt . Zambrano 
+. Stewart . Todd . Verdier . Wildasin . Zank 
+. Stinebrickner . Tombak . Vermeulen . Wilhelm . Zax 
+. Stoker . Tommasi . Veronesi . Williams . Zechner 
+. Stratmann . Tootell . Vettas . Williams . Zeckhauser 
+. Strausz . Topa . Viard . Willinger . Zehnder 
+. Strobel . Torvik . Viceira . Willington . Zeiler 
+. Stromberg . Townsend . Vickery . Wilner . Zeldes 
+. Strumpf . Tracy . Vijverberg . Wilson . Zettelmeyer 
+. Stryszowska . Traeger . Villalonga . Wilson . Zha 
+. Stulz . Traill . Villanueva . Winston . Zhang 
+. Sturm . Trebbi . Villeneuve . Winter . Zhang 
+. Subramanian . Trefler . Villeval . Winter . Zhao 
+. Subramanian . Treich . Vincent . Winter-Ebmer . Zhu 
+. Suen . Trejo . Violante . Winters . Ziegelmeyer 
+. Sufi . Trostel . Virag . Wittman . Zilberman 
+. Sugden . Tsyrennikov . Visaria . Wolfers . Zilibotti 
+. Sun . Tsyvinski . Vissing-Jorgensen . Wolff . Zimmermann 
+. Sundararajan . Tuesta . Vives . Wolman . Zingales 
+. Sussman . Tuinstra . Vlachos . Wolpin . Zinman 
+. Sutter . Tunca . Vogel . Womack . Zizzo 
+. Swann . Tuomala . Von Siemens . Wong . Zodrow 
+. Swanson . Turkheimer . Vytlacil . Woo . Zorn 
+. Sweeting . Turner . Wachter . Wooders . Zweifel 
+. Syverson . Turner . Wacziarg . Woodford . Zweim�ller 
+. Szeidl . Turocy . Waddell . Wooldridge . Zwiebel 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. . users  print. download.  email articles  individual use. 
+ 

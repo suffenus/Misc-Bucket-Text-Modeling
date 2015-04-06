@@ -1,0 +1,70 @@
+Import Controls  Foreign Oil: Comment 
+ RYAN . AMACHER, ROBERT . TOLLISON,  THOMAS . WILLETT* 
+ question   controls   importation  foreign oil   United States  take  form  tariffs  quotas   topic  recent public de�bate  investigation  economists. Under static competitive conditions   well known  equivalent tariffs  quotas   constructed.    context,    choice   made  economic efficiency grounds.  ,  recent issue   Review, George Hay points    ac�tual market  oil   United States dif�fers   required textbook conditions  equivalence. Under  .. oil import program  prevailed until recently,  refiner' quota  import  foreign oil  positive function   refinery input.  import tickets  allocated free  charge, rather  auctioned,  form   quota lowers  marginal cost  domestic refiners. Hay goes   show   combined   static competitive assumptions,  quota mechanism  generate greater consumer benefits  terms  lower prices   equivalent tariff (equivalent   sense   same percentage  im�ports  admitted).2 
+* University  Oklahoma; .. Council  Economic Advisers  Texas & University;  .. Trea�sury; respectively. Tollison  Willett   Cornell University   original drafting   paper. Without necessarily implying agreement   parts   analysis,   like  thank George Borts, George Hay, Edward Mitchell, Edward Tower,  unknown referee  helpful comments  earlier draft   Bureau  Business  Economic Re�search, University  Oklahoma,  drafting services. 
+1 See Jagdish Bhagwati (1965, 1968), Hirofumi Shi�bata,  Tsvi Ophir.    noted  number  economists,  economic efficiency grounds neither tariff nor quota  probably   best method  correcting   national defense externalities associ�ated   oil market. 
+2 Hay assumes  domestic supply  crude oil   taken   essentially unlimited  constant price. Assuming   prices   foreign  domestic crude oil  fixed,   easy  show  quota system  allocates import tickets  subsidy  refinery inputs results  lower consumer prices  refined prod�
+1031 
+Copyright � 2001  Rights Reserved 
+Hay expresses preference  tariffs  real world context  warns   anal�ysis   price effects   .. oil quota system holds  under  restrictive con�ditions. ,   address   perhaps even more important deviation   domestic oil industry   stand�ard textbook model: crude oil production   United States  limited   major producing states  regulatory commissions  practiced market demand prorationing under  old oil quota program. Under  system,  price set   industry  rati�fied   commissions  limiting produc�tion  level    result   ac�cumulation  undesired inventories.3 
+   addressing  issue   level  price   oil industry   paper. Rather,  wish  review  effects  tariffs  quotas  resource allocation, issue  Hay omits   analysis; ,   purpose  make use   simple model  profit-maximizing monop�oly  characterization   domestic oil industry.  assumption  profit maximiza�
+ucts  tariff  collects  foreign-domestic price differential   Federal Treasury.  con�clusion,  Hay points ,   arise   geo�graphic considerations.   domestic production  refining    point,   still hold. Except  unusual circumstances  crude oil imported  Petrol�eum Administration  Defense (PAD) districts I-IV  used  refineries   East Coast,  end point  Hay' analysis. 
+3  process  industry pricing  consistent  number  models  price level formation   indus�try.  example,   consistent  model stressing  colluding firms (  case,  prorationing au�thorities)  limit price  order  forestall govern�ment entry through import  antitrust action. Hay notes  existence  prorationing,  uses   explanation   assumption   offer curve  domestic producers (  wellhead)  horizontal  broad segments (1971, . 688). appears    mind description   industry  views  regula�tory agency  attempting  maintain constant prices  given periods  time.  further discussion   structure   oil industry, see  Cabinet Task Force  Oil Import Controls, especially . 81  121. 
+ DECEMBER 1973 
+tion  sufficient  show  differential ef�fects  tariff  quota  resource alloca�tion   industry.   formulation  level  domestic reserves,   produc�tion, depends upon  price   do�mestic industry  viewed  profit-maxi�mizing monopoly setting prices.   well known under conditions  potential  ac�tual domestic monopoly,  equivalence  quotas  tariffs breaks down. 4  relevance   point   oil import question  stresse'   report   Cabinet Task Force  Oil Import Contro!'   illustrated below,   foreign elasticity  supply   domestic market  high (     case  oi!), non�prohibitive tariff still allows imports  over�come  misallocational effects   do�mestic monopoly,  under quota      case. 
+. Graphical Analysis  1 represents  market derived de�mand curve   United States  crude oil.  colluding firms   case behave like textbook monopolist, setting marginal revenue (MRm) equal  marginal cost 
+(MCm)  resulting price    out�put  unit  time  .    shown 
+$ 
+ 
+MCm 
+0' 
+MRm 
+ 
+ / 
+ 1:  MONOPOLY  IMPORTS PROHIBITED 
+4 See Bhagwati (1965)  Charles Kindleberger, . 566-68.   concerned   static comparisons.  another major condition  nonequivalence, caused  moving  static  dynamic model, see Mordechai Kreinin  Ingo Walter. 
+   exceed  world price. More�over,  domestic monopoly  imports prohibited results   expected allocative inefficiency due  monopoly  marginal cost    price. 
+  government introduced foreign sources  supply through quota system,  market demand curve facing  do�mestic monopolist  shift   left,    2,   amount   quota ('').  colluding firms   fur�ther restrict  output, maximizing short�run profit  price OP2  output OB.5  effect   quota ( measured,  example,   divergence  price  marginal cost  Figures 1  2) reduces    eliminate  market power   domestic :mopoly  marginal cost  still   price. 
+, instead  introducing  foreign sup�ply  oil through quotas,  government  chosen equivalent tariff (equivalent    established  same discrepancy  foreign  domestic price),  market power   dominant domestic firms    severely constrained.6 
+$ 
+0' 
+' 
+QfT 
+ 2:  MONOPOLY  IMPORT QUOTA 
+5  straight line demand curve ( drawn   2)   unambiguous shift   monopo�list' marginal revenue, indicating decline  produc�tion. Under  assumptions (..,   demand curve representing  domestic market  convex  below),   uncertain   marginal revenue (  production) shifts   down  response  increase   quota. 
+6 Bhagwati demonstrated    presence  domestic monopoly quota produces higher price 
+80pjligl  @!601  ~igl  ~esel oed 
+. 63 .5 AMACHER, TOLLISON,  WILLETT: QUOTAS  TARIFFS 
+. 
+P1 
+P2r---~~~~----------�
+0'  
+MRm 
+  GIlT 
+ 3:  MONOPOLY  IMPORT TARIFF 
+  3 tariff  establishes price OP2  levied. P2ST  represents  supply curve   .. market.  once dominant coalition  firms,  without market power, produces output   price (OP2) equals marginal cost. Market power  absent under  import tariff   sense   equilibrium  domestic price ( world price plus tariff)  crude  longer exceeds marginal cost. 
+ tariff  quota   quite dif�ferent effects   structure   domestic oil industry. quota allowed  domestic monopoly  maintain  power,  pro�rationing  excess capacity  continue  exist.  tariff,    hand, allows competitive supply   world (plus tariff) price.7 Under  tariff  domestic firms  forced  produce    right  OA,    quota   allowed  re�
+(implici  tariff)   tariff  allows  same volume  imports (1965, . 53).    con�cerned  resource allocation comparisons   price comparisons ( issue   Hay' analysis  vulnerable   case  domestic monopoly, see . Mit�chell .),  consider  tariff  allows  correct volume  imports  establish equivalent domestic price.   consistent   standard definition  equivalence. 
+7 See Kindleberger, . 134.  Hay argues  pos�sible case  quota mechanism  terms  favorable price effects  consumers,   mentions some reasons  tariffs   preferred  quotas, . 691,   address  basic efficiency issue involved  choosing    policies. 
+strict output, producing OB   left  
+OA.8 
+Switching  tariff served  generate better allocative solution  curbing domes�tic monopoly power   stimulating increase  domestic production.  suspect  allocative gain  considerably out�weigh  type  potential price gains  consumers  quota system  analyzed  Hay.9 
+8 Inefficient producers  likely oppose tariff legislation  replace  quota,   tariff   effect  rationalizing production, bringing  "dose   inefficient well. 
+9  unpublished paper  Mitchell .,  issue   final consumer prices  affected  series  tariff  quota mechanisms   presence  do�mestic monopolist  discussed.  analysis demon�strates  under conditions  domestic monopoly  quota mechanism discussed  Hay turns   gen�erate  highest consumer prices.  related analysis, see Rachael McCulloch  Harry Johnson. 
+REFERENCES 
+. Bhagwati, "More   Equivalence  Tariffs  Quotas," Amer. Econ. Rev., Mar. 1968, 58, 142-46. 
+, "  Equivalence  Tariffs  Quotas,"  . . Baldwin et ., eds., 
+Trade Growth   Balance  Pay�ments: Essays  Honor  Gottfried Haber�ler, Chicago 1965. 
+. . Hay, "Import Controls  Foreign Oil: Tariff  Quota? ," Amer. Econ. Rev., Sept. 1971, 61, 688-91. 
+. Kindleberger, International Economics, 4th ., Homewood 1968. 
+. . Kreinin, "More   Equivalence  Tariffs  Quotas," Kyklos, Fasc. 1, 1970, 75-79. 
+. McCulloch  . . Johnson, " Note  Proportionally Distributed Quotas," Amer. Econ. Rev., Sept. 1973, 63, 726-32. 
+. Mitchell, . Tollison, . Tower,  . . Willett, " Price Effects  Tariffs  Quotas Under Domestic Monopoly," un�published manuscript, Cornell Univ. 1972. 
+. Ophir, " Interaction  Tariffs  Quotas," Amer. Econ. Rev., Dec. 1969,59, 
+100t--OS. 
+Copyright � 2001  Rights Reserved 
+ DECEMBER 1973 
+. . Scherer, Industrial Market Structure . Walter, "  Equivalence  Tariffs   Economic Performance, Chicago 1970. Quotas: Comment," Kyklos, Fasc. 1, 
+. Shibata, " Note   Equivalence  1971, 111-12. Tariffs  Quotas," Amer. Econ. Rev.,  Cabinet Task Force  Oil Import Con�Mar. 1968, 58, 137-42. trols,  Oil Import Question, 1970. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

@@ -1,0 +1,422 @@
+Paying      Gym 
+ STEFANO DELLAVIGNA  ULRIKE MALMENDIER* 
+  consumers choose  menu  contracts?  analyze novel dataset   .. health clubs  information    contractual choice   day-to-day attendance decisions  7,752 members   years.  observed consumer behavior  dif.cult  reconcile  standard preferences  beliefs. , members  choose contract  . monthly fee   $70 attend  average 4.3 times  month.  pay price  expected visit  more  $17, even though   pay $10  visit using 10-visit pass.  average,  users forgo savings  $600   membership. , consumers  choose monthly contract  17 percent more likely  stay enrolled beyond  year  users committing  year.   surprising  monthly members pay higher fees   option  cancel  month.   document cancellation delays  attendance expectations,   .ndings. Leading explanations   .ndings  overcon.dence  future self-control   future .ciency. Overcon.dent agents overestimate attendance  well   cancellation proba�bility  automatically renewed contracts.  results suggest  making infer�ences  observed contract choice under  rational expectation hypothesis  lead  biases   estimation  consumer preferences. (JEL D00, D12, D91) 
+�Saturday 31 December. New Year�s Res�olutions.   [...]    gym  times week  merely  buy sandwich.� 
+Bridget Jones�s Diary: Novel 
+�Monday 28 April. [...] Gym visits 0, .  gym visits  far  year 1, cost  gym membership  year �370; cost  single gym visit �123 (. bad economy).� 
+Bridget Jones:  Edge  Reason 
+ . offer consumers menu  con�tracts. Cellular phone users choose combina�
+* DellaVigna: Department  Economics, University  California  Berkeley, 549 Evans Hall, Berkeley, CA 94720,  National Bureau  Economic Research (e-mail: sdellavi@econ.berkeley.edu); Malmendier: Graduate School  Business, Stanford University, 518 Memorial Way, Stan�ford, CA 94305,  NBER (e-mail: malmendier_ ulrike@gsb.stanford.edu). Earlier versions   paper  distributed under  titles �Self-Control   Market: Evi�dence   Health Club Industry�  �Overestimating Self-Control: Evidence   Health Club Industry.�  thank Doug Bernheim ( editor),  anonymous referees, Marios Angeletos, George Baker, Rachel Croson, Rajeev De�hejia, Richard Gilbert, Oliver Hart, Caroline Hoxby, Daniele Paserman, Antonio Rangel, Emmanuel Saez, Andrei Shleifer, Jeremy Tobacman, Klaus Wertenbroch, Justin Wolfers, ,  particular, Edward Glaeser, Lawrence Katz,  David Laib�son   comments.   thank  participants  
+tions  monthly airtime minutes  prices. Credit card users choose  teaser rate offers  contracts  constant interest rate. large literature  industrial organization �alyzes  .t-maximizing contract design (Jean Tirole, 1988). standard assumption   literature   consumers  rational expectations   future consumption fre�quency  choose  utility-maximizing contract. 
+  paper,  provide evidence     always   case.  present novel dataset   .. health clubs  allows us  analyze  contractual choices  consum�ers  light   actual consumption behav�
+seminars  CREST, Dartmouth College, Harvard University, University  Michigan, Ann Arbor, Northwestern University, New York University, UC Berkeley, UCLA,  Ente Einaudi,  SITE 2001  2002,    Eastern Economic Asso�ciation 2002   comments.  thank Bryan . Graham  providing Mathematica code  Tobias Adrian, Augustin Landier,  Sendhil Mullainathan  inspiring conversations   beginning   project. Tatyana Deryugina, Tricia Glynn, Burak Guner, Camelia Kuhnen, Scott McLinn, Boris Nenchev, Nikita Piankov,  Justin Sydnor provided excel�lent research assistance.  . support, DellaVigna thanks  Bank  Italy,  Malmendier thanks  German Academic Exchange Service (DAAD). 
+694 
+ 1�EMPIRICAL FEATURES  POSSIBLE EXPLANATIONS 
+. 96 . 3 DELLAVIGNA  MALMENDIER: PAYING      GYM 
+Time 
+Trans. costs Membership inconsist. Overestimation 
+Standard  payment .  Limited  Time inconsist.  future 
+model  usage usage memory sophistication  naivete� .ciency Persuasion 
+Finding 1 
+Price  average attendance Distaste  Membership Commitment Commitment, Overestimation Pressure  
+. $17.27 pay  . overestimation  attendance salesman 
+usage  attendance 
+Finding 2 
+Average attendance  months Sorting  Sorting  Sorting  Sorting  Sorting  Sorting  Sorting  Sorting  
+2�4 higher  annual  enrollment enrollment enrollment enrollment enrollment enrollment enrollment enrollment 
+monthly contract 
+Finding 3 
+Users predict 9.50 monthly Overestimation Overestimation 
+visits; actual monthly visits  attendance  attendance 
+ 4.17 
+Finding 4 
+Interval  last Distaste  Membership Forget  Overestimation Overestimation Pressure  
+attendance  termination pay  . cancel  cancellation  cancellation salesman 
+2.31 full months usage 
+Finding 5 
+Survival probability  14 Forget  Overestimation Overestimation Pressure  
+months 17 percent higher cancel  cancellation  cancellation salesman 
+ monthly   annual 
+contract 
+Finding 6 
+Average attendance 27 percent Learning, Learning, Learning, Learning, Learning, Learning, Learning, Learning, 
+higher   year  sorting  sorting  sorting  sorting  sorting  sorting  sorting  sorting  
+annual contract 
+Finding 7 
+Decreasing average attendance Forget  Overestimation Overestimation Pressure  
+ time  monthly cancel  cancellation  cancellation salesman 
+contract 
+Finding 8 
+Positive correlation  price Heterogeneity  Heterogeneity  
+ average attendance  naivete� overconf. 
+interval  last 
+attendance  termination 
+ior.  dataset contains information    type  membership   day-to-day at�tendance decisions  7,752 health club mem�bers   years.  .nd  consumers choose contract  appears suboptimal given  attendance frequency.  addition, low�attendance consumers delay cancelling  con�tract despite small transaction costs. 
+ empirical analysis exploits  presence  contractual menu. Consumers  choose   .at-rate contracts� monthly contract  annual contract�and pay-per�visit option.  monthly contract  automati�cally renewed  month  month until  consumer cancels.  annual contract, instead, expires  12 months unless  consumer explicitly renews .  variation   per�usage pricing    renewal procedures allows us  identify several puzzling features  consumer behavior. 
+, consumers  choose monthly membership   $70  month pay  average 70 percent more    under  pay-as-you-go contract   same number  visits. Eighty percent   monthly mem�bers    better off   paid  visit   same number  visits. 
+, consumers  choose  monthly contract  17 percent more likely  stay en�rolled beyond  year  users choosing  annual contract.   surprising  monthly members pay higher fees   option  cancel  month.  result occurs even though high-attendance users sort   �nual contract  enrollment. 
+  additional empirical .ndings (summarized   1)  hard  reconcile  standard preferences  beliefs.  ex�plore potential explanations, including high transaction costs  payment  usage, risk aversion, underestimation  costs  attendance   cancellation, time inconsistency, naivete�   time inconsistency,  persuasion  health club employees. 
+  view,   parsimonious explana�tions   allowing  overcon.dence (na�ivete�). Consumers overestimate,  example,  future self-control   future .ciency  pursuing costly activities.  leads  over�estimation  attendance   cancellation  automatically renewed contracts.  alterna�tive explanation, persuasion  health club em�ployees  explain  .ndings. 
+ simple yet economically signi.cant de�cision�enrollment  attendance  health club�consumers deviate systematically   optimal contractual choice.   health clubs   sample,  average nonsubsidized user chooses  monthly contract ,  doing , forgoes savings   $600  member�ship,   total amount   $1,400 paid   health club.  results   study  likely  generalize   32.8 million Ameri�cans  exercise     16,983 .. health clubs. Therefore,   terms  monetary magnitude   terms  population involved,  nonstandard behavior  signi.cant eco�nomic impact.  .ndings   consistent  .ndings  consumer behavior   credit card industry (Haiyan Shui  Lawrence . Ausubel, 2004)  employee choice  401() plans (Brigitte . Madrian  Dennis . Shea, 2001). 
+ analysis  consumer behavior  just  . step toward better understanding  in�dustries  consumers display nonstandard preferences  beliefs. .t-maximizing .  respond   nonstandard features  consumer behavior   contract design.    central theme   growing literature  behavioral industrial organization (DellaVigna  Malmendier, 2004; . Eliaz  Ran Spiegler, forthcoming; Xavier Gabaix  David Laibson, forthcoming; Paul Heidhues  Botond Koszegi, 2005), surveyed  Glenn Ellison (forthcoming).  large effect  small cancellation costs  renewal rates  explain  high frequency  contracts  automatic renewal   newspaper, credit card,  mail�order industry.  .ndings  implications    design  .at-rate pricing (Eugenio 
+. Miravete, 2003).  DellaVigna  Mal�mendier (2004),  explore  implications  . pricing  leading explanation   results: overcon.dence  self-control. 
+ .ndings suggest caution  making infer�ences  consumer preferences  ob�served choices  products (Igal Hendel  Aviv Nevo, 2004)  contracts (Miravete  Lars-Hendrik Ro�ller, 2003),  actual con�sumption  unobserved. Inferences made under  assumption  rational expectations  lead  signi.cant bias.  example,    concluded  monthly members attend  av�erage  least twice week.  erroneous conclusion   overstated  impact  health club enrollment  health outcomes. 
+Finally,  .ndings  implications   policy debate  obesity (David . Cutler ., 2003). Subsidizing enrollment  health clubs  likely    small effects  obesity rates, given  low average attendance  members. 
+ remainder   paper  organized  follows.  Section ,  introduce  main features   health club dataset.  Section ,  develop predictions   contractual choice  enrollment  test  predictions empirically.  Section ,  present similar analysis   contractual choice  consump�tion behavior  time. Section  discusses possible explanations   empirical .ndings. Section  concludes. 
+. Health Club Dataset 
+. Health Club Industry 
+  January 2001, 16,983 clubs  oper�ating   United States.  industry reve�nues   year 2000 totalled $11.6 billion.  memberships   same period  32.8 million,   17.4 million  1987. Fifty-one percent   users  members  commer�cial health clubs,  34 percent  mem�bers  nonpro. facilities.   market leader Bally Total Fitness,  $1,007 million  revenues  4 million members,  publicly traded. Few companies operate  more  ten states. Ownership concentration    tenth percentile  .. industries. 
+. Dataset 
+ collected new panel dataset   health clubs located  New England,   label clubs 1, 2,  3.  dataset contains information   contractual choices   day-to-day attendance  users  enrolled  April 1, 1997.  sample period  April 1997 through July 2000  club 1  April 1997 through February 2001  clubs 2  3.  day-to-day record  usage  made avail�able   technology regulating  access   health clubs, described below.  panel  contractual choices comes   billing records.  entry   accounting data spec�i.es  price paid   transaction  four-letter code.  code allows us  track  membership type�standard, student, family, corporate�as well  details like  subsidiz�ing company ( ). 
+Several companies located near  clubs subsidize  employees� attendance.   corporate members,  health club re�ceives part   membership payments di�rectly   .,   remainder  paid   members.  health club informs  companies periodically   number  employees enrolled   attendance.  creates incentives   health club  record attendances accurately , possibly,  over�record . 
+. Contractual Menu 
+ conducted survey   97 health clubs   Boston metropolitan area  document  contract design   industry.1 Health clubs offer    options: 87 clubs offer monthly contract  monthly fee  automat�ically debited  month  credit card  bank account until  user cancels; 90 clubs offer annual contract.  monthly  �nual contracts  initiation fee   fee  visit. Finally, 82 clubs offer pay-per-visit option, often   form  ten-visit pass. Health clubs 1  2   sample offer   types  contract   following addi�tional features:2 
+.  monthly contract  monthly fee rang�ing  $70 (discounted level)  $85 (standard level). Noncorporate users  pay initiation fee ranging  $0 ( promo�tional periods)  $150. Corporate users gen�erally pay out-of-pocket monthly fee  $19  $65, depending   sub�
+1  details   survey, see DellaVigna  Mal�mendier (2004). 
+2 Contracts    six months  automatic expi�ration   available.    include    analysis,    typically targeted toward occasional summer users.   remove   sample free, limited-time memberships   occasionally given  employees   subsidizing companies. 
+sidy paid   company,   initiation fee. Cancellation   done  person   club   sending written note.3  cancel�lation takes place   10th   month,  further fees  due,   users  attend until  end   month. Mem�bers  cancel   10th   pay  fee   next month   attend until  end   following month. 
+. 
+ annual contract charges  front ten times  applicable monthly fee, .., $850  standard membership.4 Users  get discount  2 months   12  exchange  yearly commitment.  initiation fee   same  under  corresponding monthly contract.   end   year,  contract expires  members  wish  stay en�rolled   sign  again,   annual   monthly contract.  order  encourage renewal,  club sends  re�minder card  month   contract expires. 
+. 
+ pay-per-visit system offers  options,   pay $12  visit   purchase ten-visit pass  $100. Transaction costs   ten-visit pass  small. Users provide basic demographic information  receive card  ten visits. Unfortunately, attendance   tracked   pay-per-visit users. 
+Users  club 3 face  same menu  con�tracts  lower prices  slightly different services.  monthly fee ranges  $13  $52,   initiation fee    $50.  annual fee   annual contract equals ten times  corresponding monthly fee.  pay�per-visit options  $10 fee  visit,  $80 pass  ten visits. 
+Under  types  membership, users receive cards    deposit  basket   front desk   enter.    exercising, health club employee swipes  (marks  visit   ten-visit passes),  users pick     exit.  method guarantees high recording precision even dur�ing peak hours.   contracts give right   same services, .., temporary locker, tow�
+3 Some users cancel  discontinuing  payments   health club. 4  annual fee   paid   installments due   . six months. 
+els,5  access   equipment. ,   monthly   annual contract allow members  �freeze� (suspend)  membership   months  year.6 Users  monthly contract     pay  monthly fee   freezing period. Annual members get additional usage time   original 12 months. 
+. Sample Construction 
+ match  information  attendance   contract choice    clubs  form longitudinal dataset  monthly observations, covering  period  April 1997  July 2000 (club 1)   February 2001 (clubs 2  3).  analysis focuses  enrollment spells. spell starts whenever individual enrolls ( reenrolls)  club  ends whenever  in�dividual quits.  de.ne spells   censored    enrollment  ongoing   end   sample period,   individual switches  short-term contract  receives promotional membership. Accordingly, spells  completed   individual cancels  membership (under monthly contract)    membership ex�pires (under annual contract)   sam�ple period. Individuals  multiple spells   quit  club  reenroll  some later date. 
+ initial sample includes 10,175 individu�als.  drop individuals   never en�rolled   monthly  annual contract (1,867 individuals).  eliminate individuals  data inconsistencies (49 individuals).   exclude users  family membership  avoid issues regarding  joint consumption   services (247 individuals). Finally,  order  limit  sample  .rst-time users   clubs,  drop users   free  sea�sonal membership   chose monthly  annual contract (260 individuals). (Addi�tional information   dataset construction  available   Data Appendix.) 
+ leaves us  sample  7,752 indi�viduals  8,273 enrollment spells.   pa�per,  consider   . enrollment spell   individual.  row 1   2 shows, 
+5 Towels   included  memberships  club 3. 
+6 Monthly users   quit     additional months without repaying  initiation fee. 
+club 1  22 percent more members  club 2,  more  twice   members  club 3.  percentage  completed spells  similar across  clubs, above 60 percent.   7,752 individuals enrolled   club, 89 percent choose monthly membership   . contract. Health club members rarely change  type  contract  initially enroll .  addition   whole sample,   use  sample �no subsidy,�  includes  unsubsidized memberships.  consider membership   unsubsidized ,   whole spell,  average out-of-pocket fee ex�ceeds $70  month  enrollment  monthly membership  $700  year ($58  month)  enrollment  annual mem�bership.  smaller sample includes 1,070 in�dividuals (14 percent   full sample). 
+. Descriptive Statistics 
+ clubs 1  2 (columns 1  2),  average amount spent  spell   $550,   average fee  month ranges  $44  $52.  corporate users,   out-of-pocket payments    include sub�sidies paid   sponsoring ..  amounts  substantially lower  club 3 (col�umn 3),   contracts  cheaper,  substantially higher   sample �no subsidy� (columns 7  8). Across  clubs (column 4),  initiation fee averages $4   paid   14 percent  users. Individuals  monthly contract attend  average four times  month,  individuals  annual contract attend  average 4.4 times  month. Atten�dance  club 1 (column 1)  somewhat higher     clubs. Freezing  contract  rare    clubs.  bottom part   2 displays  available demographic controls. Users  somewhat more likely   male  female    average   early thirties. Corporate memberships account  50 percent   sample,  student memberships ac�count   2 percent. 
+. Contract Choice  Enrollment 
+. Predictions   Standard Model 
+ set  model  contract choice  health club attendance.  assume  health 
+. 96 . 3 DELLAVIGNA  MALMENDIER: PAYING      GYM 699 
+ 2�DESCRIPTIVE STATISTICS 
+Club 1 Sample:  Club 2 Club 3  clubs Sample:   clubs Sample:  subsidy  clubs 
+    
+    contract contract contract contract 
+contr. contr. contr. contr. monthly annual monthly annual 
+(1) (2) (3) (4) (5) (6) (7) (8) 
+Number  spells 
+Total 3,495 2,866 1,391 7,752 6,875 877 866 204 
+Completed spells 2431 1825 990 5246 5246 509 581 112 
+Total amount  $ 558.30 551.50 314.08 511.96 498.40 618.25 918.02 1,022.56 
+(500.52) (551.50) (304.18) (500.52) (504.94) (450.71) (699.58) (536.89) 
+ = 3,495  = 2,866  = 1,391  = 7,752  = 6,875  = 877  = 866  = 204 
+Initiation fee 6.35 1.91 2.89 4.09 3.88 5.74 14.68 17.65 
+(26.64) (11.91) (13.03) (20.23) (19.51) (25.10) (41.88) (45.57) 
+ = 3,495  = 2,866  = 1,391  = 7,752  = 6,875  = 877  = 866  = 204 
+Average fee  month 
+Monthly contract 52.14 49.04 31.27 42.22 47.12 55.98 78.56 73.60 
+(18.57) (19.09) (10.97) (19.22) (19.19) (20.58) (5.03) (15.78) 
+ = 3,185  = 2,551  = 1,262  = 6,951  = 6,875  = 76  = 866  = 20 
+Annual contract 48.19 44.33 24.13 43.01 46.99 42.57 70.12 66.27 
+(15.64) (17.08) (8.75) (17.45) (15.10) (17.64) (4.54) (4.03) 
+ = 436  = 391  = 147  = 974  = 97  = 877  = 6  = 204 
+Average attendance  month 
+Monthly contract 4.13 3.98 3.76 4.01 4.00 4.49 3.93 5.20 
+(3.92) (3.76) (3.69) (3.82) (3.82) (3.77) (3.76) (4.29) 
+ = 3,138  = 2,551  = 1,262  = 6,951  = 6,875  = 76  = 866  = 20 
+Annual contract 4.57 4.22 4.20 4.37 5.71 4.22 7.26 4.35 
+(3.98) (4.08) (3.95) (4.01) (4.27) (3.96) (3.50) (3.95) 
+ = 436  = 391  = 147  = 974  = 97  = 877  = 6  = 204 
+Contract choice  spell 
+Months  monthly contract 9.03 6.95 8.94 8.98 10.08 0.42 11.67 0.50 
+(8.27) (9.03) (8.84) (8.66) (8.57) (2.08) (8.87) (2.26) 
+ = 3,495  = 2,866  = 1,391  = 7,752  = 6,875  = 877  = 866  = 204 
+Months  annual contract 1.55 1.97 1.42 1.68 0.15 13.68 0.07 14.92 
+(4.67) (5.78) (4.83) (5.14) (1.50) (7.32) (1.05) (7.86) 
+ = 3,495  = 2,866  = 1,391  = 7,752  = 6,875  = 877  = 866  = 204 
+Freezing 0.26 0.31 0.18 0.26 0.29 0.05 0.35 0.04 
+(0.94) (1.14) (0.72) (0.99) (1.04) (0.38) (1.20) (0.32) 
+ = 3,495  = 2,866  = 1,391  = 7,752  = 6,875  = 877  = 866  = 204 
+Female 0.44 0.48 0.47 0.46 0.48 0.34 0.38 0.35 
+(0.50) (0.50) (0.50) (0.50) (0.50) (0.47) (0.49) (0.48) 
+ = 3,487  = 2,866  = 1,391  = 7,744  = 6,875  = 876  = 866  = 204 
+Age  sign-up 30.71 31.51 35.08 31.79 31.50 34.06 33.12 34.42 
+(8.44) (8.91) (9.30) (8.91) (8.78) (9.63) (9.75) (10.86) 
+ = 3,293  = 2,745  = 1,316  = 7,354  = 6,523  = 831  = 812  = 193 
+Corporate member 0.43 0.61 0.43 0.50 0.50 0.52 0.17 0.16 
+(0.50) (0.49) (0.50) (0.50) (0.50) (0.50) (0.37) (0.37) 
+ = 3,495  = 2,866  = 1,391  = 7,752  = 7,079  = 877  = 866  = 204 
+Student 0.05 0.00 0.00 0.02 0.02 0.01 0.00 0.00 
+(0.21) (0.05) (0.05) (0.15) (0.15) (0.12) (0.05) (0.07) 
+ = 3,495  = 2,866  = 1,391  = 7,752  = 6,875  = 877  = 866  = 204 
+Notes: Standard deviation  parentheses. enrollment spell starts whenever individual enrolls   club  ends whenever  individual quits   censored.  sample �no subsidy� consists   spells    average adjusted monthly fee   least $70   spell starts  monthly contract   least $58   spell starts  annual contract.  spells  column �. contract monthly� start  monthly contract.  spells  column �. contract annual� start  annual contract. �Average price  month� refers   out-of-pocket fee   case  corporate users. 
+club attendance involves immediate effort costs   high ( = 
+)  low ( = .),  indi�and delayed health .,    effort viduals differ   ex ante probability  costs  uncertain ex ante.  particular, costs costs   high. contract (', ', ') gives customers  right  exercise  fee '  'periods (days), once  . fee ' paid.  assume  consumers  choose  .at-fee contracts (like  monthly  annual contract)  '=0  pay-per-visit contracts  '=0.  summarize   results  contract choice   case  standard prefer�ences  rational beliefs.  derivation    working-paper version (DellaVigna  Malmendier, 2002). 
+Flat Rate versus Pay  Usage.�We con�sider .  choice  enrollment  .at-rate contract (,0, )  pay-per-visit contract (0, , ). Denote   daily discount factor   []  expected number  visits (  days) under  .at-rate contract. 
+Prediction 1 (price  expected attendance  enrollment):  agents  choose .at�rate contract, 
+ 
+(1) ]() .
+ [
+ factor () =(1 )/(1 )isa time-adjustment .cient due   fact   . fee   paid  front   per-visit fee   paid every period  1  .  small ,    =30 under  monthly contract, ()  approximately 1. Equation (1) says  payment  expected visit under  .at-rate contract   smaller   per-visit-fee . Intuitively,  consumers  attend frequently  choose  .at-rate contract. Suppose, instead,  consumer un�der  .at-rate contract attends infrequently enough   price  expected visit /[]  greater   per-visit-fee .   con�sumer switched   pay-per-visit contract without changing state-contingent attendance,    higher utility. Reoptimizing  attendance choices,    even better off. 
+Annual versus Monthly Contract.�The �nual contract requires yearly commitment.  monthly contract  offers  option  cancel   period  charges higher fee  month. Consumers  anticipate high enough probability   high-cost types ( =
+) prefer  monthly contract   .ex�ibility. Users  believe     low-cost types prefer  annual contract.  users  select  annual contract, therefore,  more likely   frequent users.  Predic�tion 2,  use attendance   initial months [] (  selective exit)  measure   likelihood   frequent user. 
+Prediction 2 (attendance  monthly  �nual members):  average initial attendance  annual members  higher   average initial attendance  monthly members: 
+EA []> EM []. 
+ third test   standard model   consumers  rational expectations   attendance. 
+Prediction 3 (forecast  attendance):  av�erage forecast  attendance equals  average actual attendance. 
+. Empirical Analysis 
+ test Prediction 1 using  sample  users enrolled  unsubsidized .at-rate mem�bership  clubs 1  2.  analyze separately users  club 3, given  lower fee  visit.   benchmark measure  price  visit,  use  price  visit under  ten-visit pass, $10, rather   $12 visit-by-visit fee:  ten-visit pass  cheaper  users  monthly  annual contract, given  at�tendance frequency.7 
+Monthly Contract.�For users initially en�rolled  monthly contract,  compute  price  expected attendance   month.  limit  analysis   . six months  tenure  target inexperienced users.  use  sample �no subsidy� (866 individuals)  ensure comparability  standard health clubs   corporate subsidy. 
+ . column   3 reports  aver�age monthly fees  months  through six, 
+7  (hypothetical) average price  average atten�dance  using  ten-visit pass, given  distribution  attendance  users enrolled   monthly   annual contract,  $10.91.  .  lower price relative   $12-per-visit fee outweigh  losses  unused coupons   users.  single-visit fee  $12  targeted toward one-time users   travelling businessmen. 
+ 3�PRICE  AVERAGE ATTENDANCE  ENROLLMENT 
+Sample:  subsidy,  clubs 
+Average price Average attendance Average price  month  month  average attendance 
+(1) (2) (3) 
+Users initially enrolled  monthly contract 
+Month 1 55.23 3.45 16.01 
+(0.80) (0.13) (0.66) 
+ . 829  . 829  . 829 Month 2 80.65 5.46 14.76 
+(0.45) (0.19) (0.52) 
+ . 758  . 758  . 758 Month 3 70.18 4.89 14.34 
+(1.05) (0.18) (0.58) 
+ . 753  . 753  . 753 Month 4 81.79 4.57 17.89 
+(0.26) (0.19) (0.75) 
+ . 728  . 728  . 728 Month 5 81.93 4.42 18.53 
+(0.25) (0.19) (0.80) 
+ . 701  . 701  . 701 Month 6 81.94 4.32 18.95 
+(0.29) (0.19) (0.84) 
+ . 607  . 607  . 607 Months 1  6 75.26 4.36 17.27 
+(0.27) (0.14) (0.54)  . 866  . 866  . 866 
+Users initially enrolled  annual contract,  joined  least 14 months   end  sample period 
+Year 1 66.32 4.36 15.22 
+(0.37) (0.36) (1.25)  . 145  . 145  . 145 
+Notes: Standard errors  parentheses. Standard errors  �average price  average atten�dance� measure computed using  bivariate Delta method.  number  observations  denoted  . enrollment spell starts whenever individual enrolls   club  ends whenever  individual quits   censored.  sample �no subsidy� consists   spells    average adjusted monthly fee   least $70   spell starts  monthly contract   least $58   spell starts  annual contract.  sample   t-th month includes spells   ongoing,  frozen,   miscoded  month .   six-month period,  sample includes spells   ongoing,  frozen,   miscoded   least  month   period.   one-year period   annual contract,  sample includes  spells  started  least 14 months   end   sample period,     prematurely terminated   medical reasons  relocation.  �average price�  period    average fee across people enrolled  period .  �average attendance�  period    average number  visits across people enrolled  period .  measure  column 3   ratio   measure  column 1   measure  column 2. 
+ standards errors  parentheses.  sam-exceeds $80   months, except   joining ple  month  consists  users  initially month   typically prorated,   month 3, enrolled  monthly contract    promotional free month  18.6 percent   continuous history  membership   month sample.  average number  visits  users   under  monthly  annual contract.  tth month  tenure (column 2) declines  Consumers drop    sample   5.46  month 2  4.32  month 6. (Month 1 cancel   censored.  users  switch  covers  part  month.) annual contract,  monthly fee   monthly  third column   3 presents  ratio share   annual fee.  average monthly fee   average fee  month  (column 1)   
+ 4�DISTRIBUTION  ATTENDANCE  PRICE  ATTENDANCE  ENROLLMENT 
+Sample:  subsidy,  clubs 
+ contract monthly, 
+months 1�6 
+(monthly fee : $70) 
+Average attendance Price   month attendance 
+(1) (2) 
+ contract annual, 
+year 1 
+(annual fee : $700) 
+Average attendance Price   month attendance 
+(3) (4) 
+Distribution  measures 
+10th percentile 0.24 7.73 0.20 5.98 
+20th percentile 0.80 10.18 0.80 8.81 
+25th percentile 1.19 11.48 1.08 11.27 
+Median 3.50 21.89 3.46 19.63 
+75th percentile 6.50 63.75 6.08 63.06 
+90th percentile 9.72 121.73 10.86 113.85 
+95th percentile 11.78 201.10 13.16 294.51 
+ = 866  = 866  = 145  = 145 
+Notes:  number  observations  denoted  . enrollment spell starts whenever individual enrolls   club  ends whenever  individual quits   censored.  sample �no subsidy� consists   spells    average adjusted monthly fee   least $70   spell starts  monthly contract   least $58   spell starts  annual contract.  spells  column �. contract monthly, months 1�6� start  monthly contract.  spells  column �. contract annual, year 1� start  annual contract.  variable �price  attendance�  de.ned   ratio   average price   average attendance   . period (six months   monthly contract,  year   annual contract). 
+average attendance  month  (column 2).  ratio   estimated price  expected atten�dance  month ,(/[])()  Prediction 1.     six months,  reject  hypoth�esis   price  expected attendance  smaller  $10 (  $12).  estimate ranges  $14  $16   .  months   higher  $17   subsequent  months.  summary measure,  com�pute  ratio  average monthly payment (col�umn 1)  average monthly attendance (column 2)   . six months across  individuals.8  resulting price  average attendance   . six months  enrollment equals $17.27, well above $10 ( $12). 
+ addition  averages,  consider   distribution   measures   . six months ( 4).  measure  price  attendance   ratio  total attendance  
+8   individual,  compute  average   available months until  sixth,   exception  miscoded months  months  freezing.  averag�ing across individuals,  weigh  individuals equally, independent  tenure. 
+total payment   . six months  mem�bership  monthly contract (column 2).  20 percent   individuals pays   $10  visit.  remaining 80 percent   saved money choosing  pay-per-visit con�tract, holding constant  number  visits. 
+Annual Contract.�We  test Prediction 1   users  chose annual contract  enrollment.  use  sample �no subsidy� further restricted  users  joined  club  least 14 months   end   sample period (145 individuals).  ensures   observe  annual contract   entirety.9 
+ bottom row   3 presents  esti�mation results.  average monthly share   annual fee   . year (column 1), adjusted  discounting,  $66.32.10  aver�age number  monthly visits   . year 
+9  exclude  annual contracts   terminated   twelfth month. Health clubs  required  accept cancellations  medical reasons   relocation more  25 miles   clubs. 
+10  use daily discount factor  0.9998, implying adjustment factor (1 )/(1 ) equal  1.037. 
+(column 2)  4.36.  resulting price  av�erage attendance (column 3)  $15.22  sub�stantially higher  $10 (  $12).  estimate  somewhat lower    monthly contract, consistent  selection  users  higher expected attendance   annual contract (Prediction 2).  4 shows  distribution across users  attendance (col�umn 3)    price  attendance (column 4)   . year  annual membership.  24 percent pay   $10  visit. 
+Finding 1 (price  expected attendance  enrollment): Users  choose unsubsi�dized .at-rate contract pay price  average attendance   $17   monthly contract   $15   annual contract.  share  users  pay ex post   $10  visit  20 percent   monthly contract  24 percent   annual contract. 
+Size   Effect.�As monetary measure   deviation   standard model,  monthly  annual memberships  compute  difference  actual expenses   whole enrollment spell  imputed expenses   same number  attendances  ten�visit passes.11  measure understates  sav�ings  paying  visit   agents  reoptimize  attendance.  �average loss� measure  positive   user   saved money purchasing ten-visit passes,  negative otherwise.  use  sample �no subsidy�  spells  start  October 1997. 
+ average loss  spell  $614  agents initially enrolled  monthly contract.  amount  43 percent   overall $1,423 spent   health club membership.  agents ini�tially enrolled  annual contract,   small, insigni.cant gain  $1. 
+ observed deviation   standard model  large monetary consequences  us�ers   monthly contract.  users   annual contract,  automatic expiration mod�erates  possible losses. 
+Robustness.�We  check  robustness  Finding 1. 
+1. Sample.  far,   restricted at�
+11  measure takes  account  potential loss associated   using fully ten-visit pass. 
+tention   unsubsidized sample  pooled  results across clubs.   include  users  initially chose monthly contract  disaggregate  results  club. Separately   club,  regress health club attendance   monthly fee using Epanechnikov kernel.  measure  attendance   average atten�dance  month   . six months.  cross-validate club  club  grid search  compute  optimal bandwidth   price.12  club 1 ( 1A),  average monthly attendance   kernel regression lies be�tween   .ve   increasing  price, although  estimates    smooth given  small bandwidth suggested   cross-validation.  use  average attendance   kernel regression  compute  ratio  price  average attendance   level  price ( 1B).  price  average atten�dance  signi.cantly higher  $10  users paying monthly fee  excess  $53.  estimates  club 2  comparable (Figures 1C  1D)  somewhat smoother given  larger optimal bandwidth.  club 3  price  average attendance  higher   per-visit fee  $8  users paying fee  excess  $46 ( 1F). 
+2. Underrecording  attendance.  high price  attendance  result  underre�cording  attendance due  faulty computer system  moral hazard problems   staff. Health club employees   seek  avoid queues  users waiting  swipe.   health clubs   sample  incentives  address  problems,   provide re�ports  attendance   corporations subsidiz�ing employee memberships.  therefore put  place     advanced  reliable systems  track attendance   industry. Un�like   clubs, front-desk employee col�lects  cards   members  swipes    member  exercising. There�fore, card swiping   generate queues.   witnessed  procedure  member  forgotten  card:  employee looks  name    computer  records  attendance. ,  errors  occur   direc�tions�failure  swipe  double swiping�  health club data used   analysis  unusually accurate. 
+12 Adrian Pagan  Aman Ullah (1999), . 110�20. 
+ 1. AVERAGE ATTENDANCE  PRICE  AVERAGE ATTENDANCE (KERNEL REGRESSIONS) 
+Notes: Point estimates  95-percent .dence intervals plotted.  sample   individuals initially enrolled  monthly contract.  individual price variable   average price   . six months.  individual attendance variable   average attendance   . six months. Figures 1A, 1C,  1E show kernel regression  attendance  price using Epanechnikov kernel.  bandwidth  determined  cross-validation  grid search separately   club. Figures 1B, 1D,  1F show  ratio   price   expected attendance predicted   price using  kernel regression. .dence intervals  derived using  Delta method. 
+ supporting evidence,   test  random events   computer crashes  idiosyncratic laziness  employees affect sub�stantially  accuracy   attendance record.  calculate  fraction  members attending   day   sample  regress   set  controls: 6 day-of-the-week dummies, 11 month dummies, 3 year dummies,  15 holi�day dummies.  recording precision  highly variable,  R2   regression   low.  R2   regression  club 1, instead,   high  0.8785,   day-of-the-week dum�mies explaining    variance.  re�gression  clubs 2  3 yield even higher R2  0.8915.13  high explanatory power   regressions suggests  daily variation  recording precision  limited. 
+3. 
+Ex post subsidies. Some HMOs reimburse members partially  health club expenses.   extent   reimbursements make  annual   monthly contract cheaper rela�tive   pay-per-visit contract,  induce users  choose .at-rate contracts. ,  HMOs   state    clubs operate offer discounts    initiation fee ,    .at-rate  pay-per-usage contracts.14 
+4. 
+Membership .. Consumers� choice   monthly  annual contract   due  contract-speci. membership ..   .  available under  per-visit payment, though,   option  rent over�night locker  extra fee,   9.4 percent   users ever rent locker.   exclude  users,  results  price  average attendance   monthly contract   vary. 
+Overall,  observe robust deviation  Prediction 1. Nonsubsidized users enrolled  contracts  . fees pay price  average attendance   signi.cantly higher   per-visit price available  alternative con�tract.  result  robust   type  contract (monthly  annual),  sample ( amount  subsidy),   club considered.  results   appear  depend  measurement error, ex post subsidies,  unobserved ..  deviation  Prediction 1  large: unsubsi�
+13 Detailed results  available  DellaVigna  Mal�mendier (2002, Appendix  1). 
+14  report  results  Appendix  3  Della-Vigna  Malmendier (2002).  thank Nancy Beaulieu  providing  list  HMOs. 
+ 5�AVERAGE ATTENDANCE  MONTHLY  
+ANNUAL CONTRACTS 
+(Sorting) 
+Average attendance   n-th month  enrollment 
+Sample:  clubs 
+Month 2 Month 3 Month 4 
+Monthly contract 5.507 5.005 4.614 (0.0668) (0.0696) (0.0709)  . 6219  . 5693  . 5225 
+Annual contract 5.805 5.629 5.193 (0.1885) (0.1934) (0.1913)  . 862  . 841  . 817 
+Notes: Standard errors  parentheses.  number  ob�servations  denoted  . enrollment spell starts when�ever individual enrolls ( reenrolls)   club  ends whenever  individual quits   censored.  spells  row �monthly contract� start  monthly contract.  spells  row �annual contract� start  annual contract.  sample  month  includes spells   ongoing,  frozen,   miscoded. 
+dized members  monthly contract pay 70 percent  excess   $10 fee. 
+ test Prediction 2   initial sorting   monthly   annual contracts,  compare  average number  visits  months 2, 3,  4  tenure  individuals initially enrolled   monthly    �nual contract.15 Given   price  visit   zero   contracts, differences  atten�dance  re.ect differences   expected future attendance cost. Column 1   5 re�ports  results   whole sample.   month, expected attendance  higher under  annual  under  monthly contract,  signi.cantly   months 3  4. Overall, average attendance  months 2  4  10 per�cent higher under  annual contract.  mag�nitude   difference  comparable  variation  average attendance  age groups   gender.   break down  sam�ple  24 age-gender-month cells, average at�tendance  higher under  annual contract  
+15  exclude  . month  attendance  prorated   number  effective days  membership,   prorating procedure  slightly different   annual   monthly contract.    extend  comparison  months   fourth,  users  experience high cost  quit under  monthly contract   under  annual contract. 
+20 cells   24. Even  controlling  some heterogeneity, individuals  higher at�tendance  more likely  choose  annual contract  enrollment. 
+Finding 2 (attendance  monthly  annual members): Average attendance  months 2�4  10 percent higher under  annual contract  under  monthly contract. 
+ consumers� choice  .at-rate contracts  per-visit fee  hard  explain   standard framework (Finding 1),  choice   monthly  annual contract (Finding 2)  consistent  standard prefer�ences  beliefs. Consumers sort according   expected attendance. 
+Finally,  elicit  expectations  health club members   future attendance us�ing survey  48 randomly chosen respondents interviewed  mall.16  mall   near health club,   respondents   selected  health club attendance.  ask  ones  report   members   attend health club  often  expect  visit  health club   next month, September.17  question attempts  measure directly  health club users  rational expectations. Although    observe actual attendance   48 survey respondents,   unlikely  differ substantially  attendance   data�set,    robust across demographic subgroups. Across 24 (gender)*(club)*(age) subgroups,  average monthly attendance   membership  lower  4.75 visits  23   24 groups,  overall average  
+4.17 monthly visits. 
+Finding 3 (forecasts  attendance):  av�erage forecasted number  monthly visits, 9.50 
+(.. 0.66),  more  twice  large  av�erage attendance, 4.17. 
+ overestimation displayed   subjects matches Finding 1.  health club consumers expect  attend 9.5 times  month,   indeed choose .at-rate contract, rather  paying  visit. 
+  present  subjects   follow�ing scenario: Suppose , based   pre�
+16  interviews  done  August 2002  Walnut Creek, California. 
+17   sample, average attendance  September  5 percent lower    rest   year. 
+vious experience,  expect  attend  average .ve times  month ( once week),   enroll  monthly membership.  plan  attend  health club throughout  next year.   choose monthly contract  monthly fee  $70  month  ten-visit passes  $100 ( visit costs $10)?  question attempts  measure  us�ers endowed  realistic expectations  attendance  still overwhelmingly choose .at-rate contracts.   hypothetical scenario, 18 consumers   48 prefer  monthly contract,  30 prefer  ten-visit pass.  realistic expectations  attendance, there�fore,  majority prefers  pay  visit. 
+ .ndings suggest  health club mem�bers  unrealistic expectations   future attendance.   take responses  hypothetical questions  caution, , particularly   survey sample differs   health club sample. 
+. Contract Choice  Time 
+. Predictions   Standard Model 
+  previous section,  analyzed consum�ers� initial choice  membership contract.   section,  compare  renewal decisions  monthly  annual members.  take ad�vantage   differences   renewal pro�cedure    .at-rate contracts. ,  renewal default differs.  monthly con�tract  automatically renewed  requires (small) effort�sending letter  cancelling  person�in order  discontinue  member�ship.  annual contract automatically expires  12 months,  cancellation requires  effort. , members  monthly con�tract  cancel   month,  members  annual contract  committed  year.  evaluate  impact   differ�ences  cancellation lag, survival probabilities,  average attendance  time  simple setup  standard preferences  beliefs (de�tails   DellaVigna  Malmendier, 2002). 
+Calibration.�We illustrate  effect   renewal default  cancellation   follow�ing calibration. Consider  agents  iden�tical preferences  identical effort costs  attendance.   enrolled   monthly con�tract,     annual contract.   end   contractual period,  consumer  ei�ther renew  monthly  annual contract,  switch   pay-per-visit contract (  equivalent  dropping ). Denote    (possibly negative) daily savings  switching   pay-per-visit contract,   assume   deterministic.18  savings   decreasing   future health club attendance.  example, member  monthly fee  $70  expects   attend  more   = $70/30 = $2.33. Denote  8  daily discount factor     one-time effort cost  cancellation. 
+Under  annual contract,  cost  zero,   agent drops   8s/(1 -8) > 0,  ,   > 0. Under  monthly contract,  cost   stochastic,  ... draws  period (day)   ... .   period,  agent  switch  payment  visit   realized cost   postpone switching.  .  postponement   option value  lower future realization  ,   cost   foregone savings .  value function  solves  = [max(, -8s + 8V)].  solution   agent�s dynamic programming problem  threshold level *.  agent switches  pay�ment  visit   realized transaction cost  smaller  *. Without solving  *,  derive upper bound   expected number  periods (days) until cancellation, [] = (1 (*))/(*), under  assumption 8 = 1.  Section IIIB  then compare  predicted []  empirical proxy. Denote  .2  bottom quintile   cost distribution,  , 
+.2 = F-1(.2),  denote  Ikthe lower bound   cost distribution. Then []   smaller  max(4, [.2 -kI]/).  derivation   follows.  cost realization  .2,  agents  switch  payment  visit,  .    switch   = .2,  expected delay    (1 (.2))/(.2) = 4 days.     switch   = .2, revealed preferences imply   .  delay�bounded above  .2 -kI�must  higher   cost  delay, [].  yields  bound. 
+18  simplicity,   neglecting  learning  time   savings .  model  learning, agents  wait  cancel   reasons. ,   capture   calibrations,   wait  lower realization  . ,   wait  lower realization  .  calibrations show   predictions  robust   . option value argument. Adding  option value re�garding   unlikely  change  predictions substantially. 
+ order  calibrate  upper bound   expected delay [],  make  conservative assumptions .2 = $10 (corresponding   value   hour  time  calm day)  = 0.   values, individual  
+ expects   attend  health club  more ( = $70/30 = $2.33) delays  average  more  max(4, 10/2.33),  , 4.3 days. individual  expects  attend four times month ( = (70 -40)/30 = $1) delays  average  more  ten days. Under  stan�dard model, therefore, monthly members  low expected attendance switch almost imme�diately  payment  visit.  switching be�havior  monthly members   similar     annual members.  summarize . prediction  contract choice  time. 
+Prediction 4 (cancellation lags under  monthly contract): Low attenders under  monthly contract delay cancellation    few days. 
+Survival Probability.�We  compare  renewal behavior  monthly  annual con�tracts   contracts    renewal, ..,  12  24 months.  survival proba�bility Sj,   probability  consumer initially enrolled  contract  (equal  Monthly  Annual)  still enrolled     .at-rate contracts�either monthly  annual�after  months,   = 12, 24.  example, SM,12   probability  monthly member   switched  payment  visit  month 12. Similarly, SA,12   probability  annual member renews  annual  monthly contract  12 months. 
+Sorting  enrollment (Prediction 2) implies  users  selected   annual contract  ex post more likely   frequent users.  users  more likely  renew�either  monthly   annual membership.  increases SA, relative  SM,. Cancellation costs   monthly contract, instead, act  increase SM, relative  SA,.  calibrations above, , suggest   standard model  effect  cancellation costs   small.  therefore expect  sorting effect  dominate. 
+Prediction 5 (survival probability):  sur�vival probability      years  higher  agents  initially chose  annual membership   agents  initially chose  monthly membership: SA, > SM,,   = 12, 
+24. 
+Attendance  Time.�Over time, monthly  annual members learn   atten�dance patterns,  therefore  . Learning induces selective exit  individuals  ex post low attendance. De.ne  stayers individ�uals initially enrolled  .at-rate contract    switch  pay-per-visit contract   . year. Attendance  stayers  later periods   higher  attendance   initial group,   low-attenders  switched  paying  visit.   standard model,  prediction holds  similar form    annual   monthly contract.19 
+Prediction 6 (expected attendance  time  annual contract):  users initially enrolled  annual contract,  expected attendance    year  stayers  higher   expected attendance   . year   initial group. 
+Prediction 7 (expected attendance  time  monthly contract):  users initially enrolled  monthly contract,  expected attendance  stayers  increase  month  month. 
+. Empirical Analysis 
+Cancellation Lags.�To test Prediction 4,  adopt conservative measure  cancellation delay []  low attenders.  measure  lag   number  full months   last attendance  contract termination  us�ers  monthly contract   time  ter�mination.  example,  agent attends  last time  March 10  cancels  April 5,  count  51 days  last attendance (March 10)  membership termination (April 30)   full month.   likely  under�state  true cancellation lag  low-attenders   grounds: ()  measure   in�clude months  low,  positive, monthly attendance;  () members  attend  club  last time  order  cancel  long 
+19  main difference     annual contract  comparison   made  across years,   selec�tive exit  possible  every 12 months. 
+period  nonattendance.  restrict  sample  users  paid  initiation fee,  ensure minimal costs  rejoining.20 
+Finding 4 (cancellation lags under  monthly contract):  average, 2.31 full months elapse   last attendance  contract termination  monthly members,  associated membership payments  $187.  lag   least four months  20 percent   users. 
+Even though  transaction costs  cancel�lation  likely   lower  $15 (time cost  sending cancellation letter  visiting  club), users spend  average $187  member�ship fees   last attendance.  lengthy delay   odds   calibrations  Section IIIA,  imply average delay    .ve  ten days. 
+Survival Probability.�To test Prediction 5, ideally   compute  percentage  monthly members   annual members still enrolled  year   initial enrollment.  need  take  account, ,  ()  . month  contract  prorated,  every annual member  still enrolled   thirteenth (calendar) month;  () 11.5 percent  �nual contracts last  additional month due  promotions.  therefore de.ne  survival probability   share  members still en�rolled  .at-rate contract   .fteenth cal�endar month.  order  estimate  survival probability,  set survival   1  individual   enrolled   .fteenth month  enroll�ment,  0 otherwise.21  use  following empirical .: 
+(2)  =1if *  =+" +BXi +8i 20, 
+ 8i  normally distributed    dummy variably  equals 1   . con�tract  individual   monthly contract,  0 otherwise.  vector  controls  includes gender, quadratic function  age, dummy 
+20  include users  unsubsidized membership (monthly fee higher  $70  annual fee higher  $700)  joined  club  year   start   sample (April 1997). 
+21  survival measure,  = 1, applies   members   temporarily quit  club   reenrolled   .fteenth month   initial enrollment. 
+ 6�PROBIT  RENEWAL DECISION 
+Sample Non-missing controls,  clubs  subsidy,   subsidy ,  
+Enrollment  Enrollment  Enrollment  Enrollment  Enrollment  Dependent variable 15th month 16th month 27th month 15th month 15th month 
+Controls . Controls . Controls . Controls . Controls .  time  time  time  time  time controls dummies controls dummies controls dummies controls dummies controls dummies Controls (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) 
+Dummy  enrollment 0.0483 0.066 0.0337 0.0546 0.0011 0.0271 0.0634 0.0694 0.091 0.1019  monthly contract (0.0218)** (0.0221)*** (0.0221) (0.0224)** (0.0260) (0.0254) (0.0479) (0.0501) (0.0368)** (0.0372)*** Female .0.0438 .0.0425 .0.0762 .0.0187 .0.0186 (0.0143)*** (0.0144)*** (0.0165)*** (0.0394) (0.0277) Age 0.0133 0.0155 0.0228 0.0304 0.0229 (0.0046)*** (0.0046)*** (0.0052)*** (0.0111)*** (0.0077)*** Age squared .0.0001 .0.0002 .0.0002 .0.0003 .0.0003 (0.0001)** (0.0001)** (0.0001)*** (0.0001)** (0.0001)*** Corporate member 0.0728 0.0676 0.0676 0.234 0.0024 (0.0144)*** (0.0145)*** (0.0167)*** (0.0471)*** (0.0319) Student member .0.1123 .0.0924 .0.0894 0.1966 .0.1173 (0.0503)** (0.0519)* (0.0567) (0.2669) (0.0666)* Month  year  enrollment      
+Baseline renewal probability  annual contract 0.3983 0.4017 0.3906 0.3932 0.2609 0.2589 0.4701 0.5537 0.4252 0.4347 
+Number  observations  . 4,962  . 4,962  . 4,833  . 4,833  . 2,860  . 2,860  . 715  . 715  . 1,384  . 1,384 
+Notes: Standard errors  parentheses.  number  observations  denoted  . Entries    represent  marginal .cients   probit  response  .nitesimal change   continuous variables,  discrete change   dummy variables. enrollment spell starts whenever individual enrolls   club  ends whenever  individual quits   censored.  sample �non-missing controls� consists   individuals  whom  demographic controls �age�  �female�  available.  sample  further restricted  individuals  join  least 15 months   end   sample period.  sample �no subsidy�  restriction   sample �non-missing controls�  individuals paying  average per-month fee   least $70.  sample �no subsidy II�  restriction   sample �non-missing controls�  individuals paying  average per-month fee   least $60.  controls �month  year  enrollment� indicate   probit contains 11 dummies   month  enrollment  4 dummies  year  enrollment.  baseline renewal probability   annual contract   predicted 
+renewal probability  individuals starting  annual contract. 
+* Signi.cant   10-percent level. 
+** Signi.cant   5-percent level. 
+*** Signi.cant   1-percent level. 
+ corporate membership, dummy  student membership, 11 dummies   month,  4 dummies   year  enrollment.  restrict  sample  users  joined  club  least 15 months   end   sample period.   drop users  missing values  control variable,  well  spells   cen�sored   .fteenth month. 
+ .cient . captures  difference  survival probability  users initially en�rolled  monthly contract  users initially enrolled  annual contract.  .cients   6   marginal change  response  .nitesimal change   continuous independent variables,  discrete change   independent dummy variables.   spec�i. without controls (column 1), .�  pos�itive  signi.cant. Enrollment  monthly contract increases survival  4.83 percentage points relative   baseline rate  39.82 percent survival   annual contract.  introduction   controls increases  coef�.cient .�  0.0483  0.0660 (column 2). Controlling  some   unobserved hetero�geneity reduces  downward bias   co�ef.cient due   initial sorting (Prediction 2).  example, individuals enrolled  monthly contract  signi.cantly younger  users  annual contract ( 2),  young people   likely  renew (column 2   6). Failing  control  age biases  .cient .� downward. 
+Finding 5 (survival probability):  survival probability  14 months   monthly contract  17 percent higher    �nual contract. 
+  worth reiterating  �survival� includes renewal      .at-rate con�tracts.    rule   liquidity con�cerns (..,  dif.culty  making annual payment   once),  concerns   long-term commitment   year in�duce annual members  quit. 
+Robustness.�In columns 3 through 10   6,  check  robustness   .ndings.  measure enrollment   sixteenth month   joining date  alternative measure  survival.  demographic controls, users ini�tially enrolled   monthly contract  5.46 percentage points more likely   enrolled   sixteenth month (column 4)  users initially enrolled   annual contract. Alternatively,  measure enrollment   twenty-seventh month   joining date (columns 5  6).  estimate  .  positive, although  signi.cantly different  zero. 
+  replicate  results  columns 1  2   6   sample �no subsidy� (col�umns 7  8)    larger sample �no subsidy II�  users  pay  least $60  month   monthly contract,  $600  year   annual contract (columns 9  10).   ., smaller sample  estimated .�  sim�ilar magnitude    benchmark .ca�tion,   estimates  imprecise.   , wider sample,  .cient .�  positive  large (0.1019  controls),  well  pre�cisely estimated. Overall,  results  survival probability  robust   measure  past at�tendance,  measure  survival,   sample. 
+Attendance  Time.�Finally,  test Pre�dictions 6  7   dynamics  average attendance.  . consider spells starting  annual contract   sample �no sub�sidy�  lasting  least  years.22  dis�play  results  columns 1  3   bottom part   7. 
+Finding 6 (average attendance  time  annual contract):   annual contract, av�erage monthly attendance   initial group   . year, 4.36,  signi.cantly lower   stayers    year, 5.98. 
+ difference  attendance    groups  large:  baseline group   . year attends  average 27 percent   stayers    year. Consequently,  price  average attendance   . year, $15.22,  signi.cantly higher     year, $11.32.  results   whole sample  comparable (columns 4  6   7). 
+ 2A shows  within-year dynamics   price  average attendance.  sample  
+22  results remain unchanged   restrict  sample further  users  renew  annual contract  12 months. 
+month   given  users   �no subsidy� sample   joined  annual mem�bership   still enrolled  .at-rate contract   t-th month  tenure.   . 12 months,  price  average attendance increases  12.3  19,  negative shocks accumulate.  renewal (months 13  14),  price  attendance  halved. 
+ spells starting  monthly contract,  sample  average attendance  month   given   users   �no subsidy� sample   joined  monthly membership   still enrolled  .at-rate contract   t-th month  tenure. Columns 1  3   top part   7 show  results  six�month groups. 
+Finding 7 (average attendance  time  monthly contract): Average monthly atten�dance   . six months  monthly con�tract, 4.36,  20 percent higher    next six months   signi.cantly higher      later six-month periods  stayers. 
+ price  average attendance   . six months, $17.27,  signi.cantly lower      later six-month periods.23  Fig�ure 2B shows,  price  average attendance increases   . ten months   $15   $20,  remains constant there�after.  results  similar   whole sam�ple (columns 4  6). 
+Summary.�Unsubsidized monthly members spend  average $187  periods   attendance  cancellation (Finding 4), de�spite small transaction costs  cancellation.  addition,   year, more monthly members  still enrolled  .at-rate contract  annual members (Finding 5). Surprisingly, members  pay higher fees   option  cancel  month  more likely  renew past year.  result   arise   sorting  despite sorting (Finding 2).  re�sult  economically  statistically signi.cant  robust across .cations. Finally, aver�age attendance decreases  20 percent   . six months   next six months  
+23  results remain unchanged   restrict  sample further  users    monthly contract   times until month . 
+. 96 . 3 DELLAVIGNA  MALMENDIER: PAYING      GYM 711 
+ 7�ATTENDANCE  PRICE  AVERAGE ATTENDANCE  TIME 
+Sample:  subsidy,  clubs Sample:  clubs 
+Average price  month (1) Average attendance  month (2) Average price  average attendance (3) Average price  month (4) Average attendance  month (5) Average price  average attendance (6) 
+Users initially enrolled  monthly contract 
+Months 1�6 Months 7�12 Months 13�18 Months 19�24 75.26 (0.27)  . 866 81.89 (0.26)  . 577 81.27 (0.34)  . 331 81.82 (0.37)  . 189 4.36 (0.14)  . 866 3.63 (0.17)  . 577 3.89 (0.23)  . 331 3.97 (0.31)  . 189 17.27 (0.54)  . 866 22.56 (1.07)  . 577 20.88 (1.26)  . 331 20.59 (1.62)  . 189 44.77 (0.23)  . 6,875 52.81 (0.31)  . 3,867 52.99 (0.41)  . 2,131 53.95 (0.59)  . 1,130 4.33 (0.05)  . 6,875 3.91 (0.07)  . 3,867 4.41 (0.10)  . 2,131 4.45 (0.14)  . 1,130 10.35 (0.13)  . 6,875 13.50 (0.26)  . 3,867 12.03 (0.29)  . 2,131 12.12 (0.39)  . 1,130 
+Users initially enrolled  annual contract 
+Year 1 Year 2 66.32 (0.37)  . 145 67.70 (1.07)  . 35 4.36 (0.36)  . 145 5.98 (0.87)  . 35 15.22 (1.25)  . 145 11.32 (1.67)  . 35 44.16 (0.69)  . 598 46.72 (1.68)  . 108 4.19 (0.16)  . 598 5.82 (0.45)  . 108 10.55 (0.45)  . 598 8.02 (0.68)  . 108 
+Notes: Standard errors  parentheses. Standard errors  �average price  average attendance� measure computed using  bivariate Delta method.  number  observations  denoted  . enrollment spell starts whenever individual enrolls   club  ends whenever  individual quits   censored.  sample �no subsidy� consists   spells    average adjusted monthly fee   least $70   spell starts  monthly contract,   least $58   spell starts  annual contract.   six-month periods,  sample includes spells   ongoing,  frozen,   miscoded   least  month   period.  year 1   annual contract,  sample includes  spells  started  least 14 months   end   sample period,     prematurely terminated   medical reasons  relocation.  year 2,  sample includes  spells  started  annual contract  least 26 months   end   sample period,   lasted  least 25 months.  spells  row �. contract monthly� start  monthly contract.  spells  row �. contract annual� start  annual contract.  �average price�  period    average fee across people enrolled  period .  �average attendance�  period    average number  visits across people enrolled  period .  measure  column 3   ratio   measure  column 1   measure  column 2. 
+ monthly contract (Finding 7), pattern op�posite    found  annual contracts (Finding 6). 
+. Interpretations 
+  consider  assumptions  consumer preferences  beliefs  explain  seven empirical .ndings, summarized   1.  .ndings  consistent  stan�dard economic models. Health clubs members use information  expected future attendance  sort   monthly  annual contract (Finding 2)   sort    annual contract (Finding 6).   .ndings, instead,  hard  reconcile   standard framework. Consumers pay $17  expected attendance under  monthly contract (Finding 1)  ap�pear  overestimate future attendance (Finding 3).  addition, monthly members  low at�tendance accumulate delays  cancellation (Finding 4), leading  higher renewal proba�bility   year relative   annual con�tract (Finding 5). Finally, average attendance  survivors decreases  time   monthly contract (Finding 7).  .nding  puzzling   observe  opposite pattern   annual contract (Finding 6). 
+ . consider  enriched versions   standard model (Interpretations 1  2)  
+ 2. PRICE  AVERAGE ATTENDANCE  TIME 
+Notes: Point estimates  95-percent .dence intervals plotted.  2A plots  ratio  average price  average attendance  month   tenure.  sample  �no subsidy,  clubs�  individuals initially enrolled   annual contract  still enrolled  month   tenure.  2B plots  ratio  average price  average attendance  month   tenure.  sample  �no subsidy,  clubs�  individuals initially enrolled   monthly contract  still enrolled  month   tenure. Standard errors   ratio  average price  average attendance computed using  bivariate Delta method. 
+explain  additional .ndings.  then discuss nonstandard preferences  beliefs (Interpreta�tions 3  9)  possible explanations.   end,  summarize  explanations rationalize   empirical .ndings. 
+1. Risk aversion. Users   risk averse  income  prefer .at-rate contract   pay-per-visit contract (Finding 1)   former contract minimizes  variance   payments.24   small amounts  money required  monthly contract, , 
+24  result requires utility function   additively separable  income  health club net .. Under  assumption   utility function  concave function   sum  income  health club net .,  predic�tions  reversed: more risk-averse agents  more likely  choose  pay-per-visit contract. 
+health club members   locally risk neu�tral (Matthew Rabin, 2000). 
+2. 
+Transaction costs. Users  choose .at-rate contract even though  attend little (Finding 1)  paying  visit entails large transaction costs.   same reason,    postpone  cancellation  monthly contract (Finding 4). ,  actual trans�action costs  small. Users  purchase ten-visit pass  .lling  simple form,   then enter  club  ten visits   same procedure  users  monthly  annual contract. transaction-cost-based expla�nation requires time cost   $70   few minutes necessary  .ll   form. related explanation involves psychological trans�action costs,   distaste  payment  visit (Drazen Prelec  George Loewenstein, 1998).  costs   need   high. Moreover,  explanations   rationalize  over�estimation  future attendance (Finding 3)   differential renewal behavior  annual  monthly contract (Findings 5, 6,  7). 
+3. 
+Membership .. Findings 1  4  arise  psychological .   monthly  annual memberships.  con�tracts  make  member feel �virtuous�  provide  opportunity  impress others. Ar�guably,  psychological .  ap�ply   ten-visit passes,    cases consumers complete initial registration pro�cedure  receive card,    shown  friends. Even  consumers treat monthly  annual memberships  special, ,   hard  explain  differential renewal patterns  monthly  annual contracts (Findings 5  7).  anything,  annual contract provides more membership utility, given   signals stronger commitment.   imply higher survival probability   annual con�tract, against Finding 5.25 
+4. 
+Time-variation  preferences  exer�cise.  people enroll whenever    enthusiastic  exercise, rational ( slow) updating process  mean reversion  ex�plain  delay  cancellation (Finding 4)   decrease  attendance  surviving 
+25 Taste  membership likely implies  high�attendance users switch   monthly   annual contract  signal commitment.  switch instead hap�pens   1.5 percent   6,875 spells initiated  monthly contract. 
+monthly members (Finding 7). Mean reversion, , explains neither  initial overpay�ment (Finding 1), nor  difference  renewal patterns  monthly  annual mem�bers (Findings 5  6). 
+5. 
+Limited memory. Rational agents  limited memory  fail  cancel  monthly membership promptly   stop attending (Finding 4)   forget. Dis�traction   explain Findings 6  7: non�attenders fail  cancel  time,   get automatically disenrolled under  annual con�tract. Rational consumers, ,  �ticipate  future limited memory   wary   monthly contract. Instead,  90 percent  customers  .at-rate contracts choose  monthly contract ( 2).  addi�tion, even   allow  overestimation  future memory,  interpretation   ex�plain Findings 1  3. 
+6. 
+Time inconsistency  sophistication. Flat-rate contracts  attractive  sophisticated agents  ({, 8) preferences (Robert . Strotz, 1956; Edmund . Phelps  Robert . Pollak, 1968; Laibson, 1997; Ted O�Donoghue  Rabin, 1999).  agents ,  addition   usual discount factor 8, discount factor {< 1  present  future payoffs.  discount function  1, {8, {82, ... . Given  health club attendance involves immediate costs  delayed .,  present-biased agents attend  health club  often   wish   time  enrollment.   purchase .at-fee membership  commitment device  increases future attendance (Finding 1). 
+ agents  delay one-time activities  immediate costs,   contract cancel�lation.  cancellation delays   agents  too short, ,  account  Findings 4 through 7,   show  extension   calibrations  Section IIIA. Using  same revealed-preference argument,  obtain bound  cancellation delay  sophisticates given  [] smax(4, [.2/{.]/).26 Under  calibrated magnitudes27 .2 = $10, .= 0,  
+26  uniqueness   equilibrium level  *   proved along similar lines  Proposition 1  James . Choi . (2005). 
+27 Laibson . (2004), . Daniele Paserman (2004),  Shui  Ausubel (2004) estimate  hyperbolic model  .eld data  .nd values  { 0.5  0.8. 
+ = 0.8, nonattenders28 ( = $2.33) delay   5.33 days,  average. Under  same assumptions, low attenders ( = $1) delay   12.5 days.  bounds   depend   assumption 8 = 1.  show ,  solve  dynamic programming problem  func�tion  , assuming discount factor 8 = 0.9995 (corresponding  yearly discount fac�tor  0.83).  consider  low-attendance case ( = $1)  assume  . (15, 4).29  resulting expected cancellation delay [] (Fig�ure 3A)  5 days   = 0.8     15 days even    low  0.5.  calibrated delay  substantially smaller   observed delay   60 days.  3B shows  corresponding probability  delay    120 days (4 months).  probability  essen�tially zero    above 0.4, contrary   empirical .nding  20 percent  users delay   4 months. Time inconsistency  sophistication, therefore,  generate  delays observed   data. 
+7. Time inconsistency  partial naivete�. Agents  (, 8)-preferences   overcon�.dent   future self-control  expect   discount parameter f� ,   < f�  1 (George . Akerlof, 1991; O�Donoghue  Rabin, 2001).  (partially) naive agents  pay more  $10  expected visit (Finding 1)   overestimate  fu�ture attendance (Finding 3). (   addition   commitment device reason.)   extend  calibrations  Section IIIA  show  naive (, 8) agents   accumulate substantial delays   cancellation  au�tomatically renewed contract,   major .nding   paper.  3A plots  ex�pected cancellation delay  naive agent  low attendance ( = $1), 8 = 0.9995,  costs  . (15, 4).   = 0.7,  cancellation delay   naive agent matches  delay   60 days observed   data. Moreover,  same level    matches  probability  delays lasting  120 days ( 3B), 0.2. Differently  time-consistent  time�inconsistent sophisticated agents,  predicted 
+28  savings   sophisticated agents include  .  commitment  higher future attendance under  .at-rate contract (see DellaVigna  Malmendier, 2002). 
+29  results  essentially insensitive   choice  /  [10, 30]  (2  [1, 49]. 
+delay  naive agents matches  empirical estimates. model  naive (, 8) agents, there�fore,  explain   .ndings   paper.30 
+8. 
+Overestimation  net .. Users  choose .at-rate contracts (Finding 1)   overestimate  future .  atten�dance  underestimate  expected future costs. Projection bias (Loewenstein ., 2003)  reinforce  effect  health club consum�ers  high attendance expectations  sign�up.  interpretation  consistent  Findings 3  4,     explain Find�ings 5, 6,  8  higher survival   monthly    annual contract.  order  overestimation  explain    empirical .ndings, consumers need   unrealistic expectations    costs  attendance   costs  cancellation.    case  consumers overestimate  future .ciency,  ,  ability  perform desirable tasks   health club attendance  contract switching. 
+9. 
+Persuasion. Given  users attend  average fewer  eight times  month, .at�rate contracts   average more .   health clubs  pay-per-visit contracts. Health club employees, therefore,  incen�tives  persuade consumers  sign .at-rate contracts.        pro�viding (suf.cient) information   pay�per-visit alternative   urging people  take   monthly  annual contract.  address  . concern, underprovision  information,  considering  contractual choices  sub�group   surely well-informed.   data, members  . HMO  choose be�tween 20-percent discount   .at-rate contracts  $6 payment  visit. Members claiming  discount   obtained  information   HMO itself,  explic�itly lists  options. Nevertheless,  price  expected attendance  months 1  6   1,566 HMO members enrolling  monthly contract equals $10.31 (.. 0.23), sig�ni.cantly higher   $6 price  visit. , even informed members display  ten�dency  choose  more costly .at-rate contract. 
+30  amount  delay predicted   naive model  decreasing   variance   cost distribution.  ( substantially larger  4,  calibrations   naive model   match  data. 
+ 3. CALIBRATION  EXPECTED DELAY  CANCELLATION 
+Alternatively, health club employees  likely  explain  difference  renewal exert pressure  members  choose .at-between  monthly  annual contract, al�rate contract (Finding 1) (. Douglas Bern-though health club employees  exert pres�heim, 1994). Employee persuasion   sure  renew   monthly members  explain  cancellation lag   monthly annual members. Persuasion   explain contract (Finding 4), even though members  survey evidence  overestimation  at�can  cancel  writing. Persuasion  un-tendance (Finding 3). 
+   nine explanations above,   successful ones,   view, involve  over�estimation  attendance  overestimation  cancellation. Overestimation  future atten�dance (Finding 3) leads consumers  choose .at-rate contracts (Finding 1). Overestimation  future cancellation leads consumers  delay cancellation   monthly contract (Finding 4),     annual contract  requires  cost  cancel (Findings 5  7). model   features   partially naive (., .) model  O�Donoghue  Rabin (2001),   calibrate   data. model  overesti�mation  future .ciency (   for�malized   literature)  make  same predictions, without reference  self-control.  addition, persuasion  health club employees  plausible explanation  some   .ndings. 
+. Heterogeneity 
+ leading explanation suggests   mechanism�overestimation  future self con�trol   future .ciency�is   root   .ndings.     case,    hetero�geneity  overestimation,  expect correla�tion   .ndings.  particular, monthly members  pay high price  attendance    more likely  accumulate long cancellation lag.    necessarily  case   different .ndings  driven  different phenomena ( ,  example, risk aversion  Finding 1  limited memory  Findings 4to7). 
+ test  prediction  users enrolled   monthly contract.  measure  cancel�lation lags,  use  number  consecutive full months   last attendance   expiration (  Section IIIB).  measure  price  attendance,  take  ratio   payments   health club   attendance   period  sign-up   months   last attendance,   equal  1, 2, 3,  4.  limit  time frame  order  avoid spurious correlation   price  attendance  months  delay due  low attendance   .nal months. Finally,  take  log  1 plus  measures  order  reduce  skewness   variables.  correlation   cancellation lag   price  attendance  positive  signi.cant,  val�ues  0.192 ( . 1)  0.182 ( . 4). 
+Longer lags     measures   affect  estimate, suggesting   correla�tion   likely   spurious. 
+Finding 8 (correlations): Users  pay high price  attendance   monthly contract subsequently display longer gap  last attendance  contract termination. 
+ results  consistent   idea  unique explanation�such  overestimation  .ciency  self-control�drives   results   high price  attendance  .at-rate memberships (Section IIB)   re�sults  renewal behavior (Section IIIB). 
+. Conclusion 
+  consumers choose  menu  contracts?   paper  consider contract choice  health clubs. Using new panel data�set   .. health clubs,  .nd  members  choose contract  . monthly fee   $70 attend  average fewer  4.5 times  month.  pay price  expected visit  more  $17, even though   pay $10  visit using ten-visit pass.  average,  users forego savings   $600   membership.   .nd  consumers  choose  monthly, automatically renewed contract  17 percent more likely  stay enrolled beyond  year  users committing  year.   surprising  monthly members pay higher fees   option  cancel  month.  present additional evidence, including re�sults  cancellation delays  estimates  attendance expectations  survey.  results  dif.cult  reconcile  standard model.  present number  explanations   .ndings.  leading explanations involve overestimation  future self-control   future .ciency. 
+ analysis  consumer behavior  . step. Rational, .t-maximizing health clubs  observe  features  consumer behavior using datasets like   analyzed   paper.  DellaVigna  Malmendier (2004),  characterize  .t-maximizing contract  goods  immediate costs  delayed .,   health club attendance.  consumers   overcon.dent  future self-control�one   leading explanations   paper�the .t-maximizing contract in�volves below-marginal cost pricing  atten�dance  automatic renewal  transaction cost  cancellation.  typical contract  health clubs   Boston area indeed   features.  evidence  contractual design  consistent   .ndings  consumer behavior. 
+DATA APPENDIX 
+ data  consumer behavior come   attendance panel   billing records. seven-digit identi. number allows us  link multiple spells   same individual. 
+Attendance Panel.�Each time user  .at-rate contract exercises, staff member swipes  electronic card   user,  there�fore creates attendance record. observa�tion   attendance panel consists   individual identi. number,  date   visit, basic demographic information (birthday, gender), code  short-term memberships,   enrollment   expiration date ( members  terminated  membership).  information    date  visit  con�stant across  observations  given individual. 
+Billing Records.�The health clubs keep .cial record   customer payments.  billing data provide detailed  accurate infor�mation   category  users�retail ( default), student, family, corporate�as well   type  transaction.  line   billing panel consists   individual ID,  date   contractual transaction,  four-digit code  identi.es  transaction,   price paid ( ).  example, line �1234567 1/1/98 R564 55� indicates  user 1234567 paid out-of-pocket monthly fee  $55  January 1, 1998.  monthly fee applies  employees   company linked  code R564.   monthly contract, typical transactions   payment   initiation fee,  monthly fee,   items  overnight locker  personal trainer.  codes involve monthly freezes  memberships, bounced payments,  termination  membership  delin�quency   payments.   annual con�tract, typical transactions   payment   initiation fee    annual fee. 
+ use  price stated   records  measure   monetary payments   clubs.   alternatively use  four-digit code  conversion  (based   prices   August 2000)  recover imputed price.  correlation    measures  price  0.9668. None   results changes   use  imputed price instead   actual price. 
+Monthly Panel.�We merge  attendance   billing panel  unique dataset,   then transform  data  balanced panel  monthly observations.  observation consists  variable de.ning  membership ( enrolled/enrolled  monthly contract/ enrolled  annual contract/ freeze),  number  attendances   month,   price paid   month.  annual contract,  monthly price  1/12  original price.  prorate  fees   . month  monthly  annual contracts  start   middle  month.   prorate  fees   .nal month  annual contract. Monthly contracts always terminate   last day   month,   prorating  needed   last month. 
+Enrollment Spells.�We de.ne enrollment spell   time period  continuous monthly / annual membership, including possible freezes   membership.   more   full calendar month  nonenrollment separates  contracts  individual,  still include    spell.  example,    case  annual contract expiring  1/15/98  renewed  3/17/98.  missing monthly pay�ment   due  (unrecorded) one-month promotional offer, delay  payment,  miss�ing data  monthly payment. 
+ consider enrollment spell censored     ongoing   end   panel     followed  short-term contract  promotional membership. Otherwise,  spell  completed. Short-term contracts  one-month, two-month, three-month,  four-month mem�berships  automatic expiration.   uncommon contracts designed  summer us�ers.  identify promotional contracts  se�quence  months   contract  attendance   least half   months.  assume    periods health club mem�bers  using free temporary membership,   clubs grant  various promotional  charitable initiatives. 
+REFERENCES 
+Akerlof, George . �Procrastination  Obedi�ence.� American Economic Review, 1991, 81(2), . 1�19. 
+Bernheim, . Douglas. � Theory  Confor�mity.� Journal  Political Economy, 1994, 102(5), . 841�77. 
+Choi, James .; Laibson, David; Madrian, Brigitte  Metrick, Andrew. �Optimal Defaults  Active Decisions.� National Bureau  Eco�nomic Research, Inc., NBER Working Pa�pers: . 11074, 2005. 
+Cutler, David .; Glaeser, Edward .  Sha�piro, Jesse . �Why  Americans Be�come More Obese?� Journal  Economic Perspectives, 2003, 17(3), . 93�118. 
+DellaVigna, Stefano  Malmendier, Ulrike. �Contract Design  Self-Control: Theory  Evidence.� Quarterly Journal  Eco�nomics, 2004, 119(2), . 353�402. 
+DellaVigna, Stefano  Malmendier, Ulrike. �Overestimating Self-Control: Evidence   Health Club Industry.� Stanford University, Graduate School  Business Research Paper: . 1880, 2002. 
+Eliaz, .  Spiegler, Ran. �Contracting  Diversely Naive Agents.� Review  Eco�nomic Studies (forthcoming). 
+Ellison, Glenn. �Bounded Rationality  Indus�trial Organization,�  Richard Blundell, Whitney Newey,  Tonsten Persson, eds., Advances  economics  econometrics: Theory  applications, Ninth World Con�gress. Cambridge: Cambridge University Press (forthcoming). 
+Fielding, Helen. Bridget Jones�s diary: novel. New York: Penguin, 1999. 
+Fielding, Helen. Bridget Jones:  edge  rea�son. New York: Penguin, 2001. 
+Gabaix, Xavier  Laibson, David. �Shrouded Attributes, Consumer Myopia,  Informa�tion Suppression  Competitive Markets.� Quarterly Journal  Economics (forthcoming). 
+Gourville, John .  Soman, Dilip. �Payment Depreciation:  Behavioral Effects  Temporally Separating Payments  Con�sumption.� Journal  Consumer Research, 1998, 25(2), . 160�74. 
+Heidhues, Paul  Koszegi, Botond. �The Im�pact  Consumer Loss Aversion  Pricing.� Center  Economic Policy Research, CEPR Discussion Papers: . 4849, 2005. 
+Hendel, Igal  Nevo, Aviv. �Intertemporal Sub�stitution  Storable Products.� Journal   European Economic Association, 2004, 2(2�3), . 536 �47. 
+Laibson, David. �Golden Eggs  Hyperbolic Discounting.� Quarterly Journal  Econom�ics, 1997, 112(2), . 443�77. 
+Laibson, David .; Repetto, Andrea  Tobac�man, Jeremy. �Estimating Discounted Func�tions  Lifecycle Consumption Choices.� Unpublished Paper, 2004. 
+Loewenstein, George; O�Donoghue, Ted  Rabin, Matthew. �Projection Bias  Predict�ing Future Utility.� Quarterly Journal  Economics, 2003, 118(4), . 1209 �48. 
+Madrian, Brigitte .  Shea, Dennis . �The Power  Suggestion: Inertia  401() Par�ticipation  Savings Behavior.� Quarterly Journal  Economics, 2001, 116(4), . 1149�87. 
+Miravete, Eugenio . �Choosing  Wrong Call�ing Plan? Ignorance  Learning.� Ameri�can Economic Review, 2003, 93(1), . 297� 
+310. 
+Miravete, Eugenio .  Ro�ller, Lars-Hendrik. �Competitive Non-Linear Pricing  Duopoly Equilibrium:  Early US Cellular Tele�phone Industry.� Center  Economic Policy Research, CEPR Discussion Papers: . 4069, 2003. 
+O�Donoghue, Ted  Rabin, Matthew. �Doing    Later.� American Economic Review, 1999, 89(1), . 103�24. 
+O�Donoghue, Ted  Rabin, Matthew. �Choice  Procrastination.� Quarterly Journal  Economics, 2001, 116(1), . 121�60. 
+Pagan, Adrian  Ullah, Aman. Nonparametric econometrics. Cambridge: Cambridge Uni�versity Press, 1999. 
+Paserman, . Daniele. �Job Search  Hyper�bolic Discounting: Structural Estimation  Policy Evaluation.� Center  Economic Policy Research, CEPR Discussion Papers: . 4396, 2004. 
+Phelps, Edmund .  Pollak, Robert . �On Second-Best National Saving  Game-Equilibrium Growth.� Review  Economic Studies, 1968, 35(2), . 185�99. 
+Prelec, Drazen  Loewenstein, George. �The Red   Black: Mental Accounting  Savings  Debt.� Marketing Science, 1998, 17(1), . 4�28. 
+Rabin, Matthew. �Risk Aversion  Expected�Utility Theory: Calibration Theorem.� Strotz, Robert . �Myopia  Inconsistency  Econometrica, 2000, 68(5), . 1281�92. Dynamic Utility Maximization.� Review  
+Shui, Haiyan  Ausubel, Lawrence . �Time Economic Studies, 1956, 23(3), . 165�80. Inconsistency   Credit Card Market.� Tirole, Jean.  theory  industrial organiza-Unpublished Paper, 2004. tion. Cambridge, MA: MIT Press, 1988. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. . users  print. download.  email articles  individual use. 
+ 

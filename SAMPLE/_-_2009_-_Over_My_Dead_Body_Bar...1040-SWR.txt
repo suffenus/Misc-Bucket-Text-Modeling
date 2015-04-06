@@ -1,0 +1,150 @@
+American Economic Review: Papers & Proceedings 2009, 99:2, 459�465 http://www.aeaweb.org/articles.php?doi=10.1257/aer.99.2.459 
+  Dead Body: Bargaining   Price  Dignity 
+ Roland B�nabou  Jean Tirole* 
+  cut  pay     super�performers,   big morale problem. Everyone thinks   superperformer. 
+(Head  human resources  manufacturing company,  Bewley 1999) 
+ pay cut  represents lack  recogni�tion.   true  anybody. People never understand  don�t want  understand.  don�t want  believe   com�pany     trouble.  live   own world  make  subjective judgments. 
+(Small business owner,  Bewley 1999) 
+Concerns  pride, dignity,   desire  �keep hope�  future options often lead individuals  groups  walk away  rea�sonable offers, try  shift blame  failure onto others  take refuge  political utopias. Costly impasses  conflicts result,   trials, divorces, strikes,  scapegoating  minorities  economic hardships,  wars. key  puzzling aspect   processes   role played  wishful rationalizations  delusions,  attested  field observers (.., Truman . Bewley (1999)   context  labor relations; Kevin Woods, James Lacey,  Williamson Murray (2006)    war),  well  controlled experiments. Leigh Thompson  George Loewenstein (1992)  Linda . Babcock . (1995)  demonstrate  subjects  bargaining situations  common knowledge spontaneously generate, through self-serving processing  recall   same evidence, divergent beliefs   fairness   cause  wishful predictions  outcomes,     associated  costly delays  disagreements. 
+*B�nabou: Department  Economics  Woodrow Wilson School, Princeton University, Princeton, NJ 08544, CIFAR, CEPR, IZA,  NBER (e-mail: rbenabou@ princeton.edu); Tirole: Toulouse School  Economics, 21 all�es de Brienne, 31000 Toulouse, France,  MIT (tirole@cict.fr).  thank Muhamet Yildiz  helpful com�ments. B�nabou gratefully acknowledges support   Canadian Institute  Advanced Research. 
+ analyze  behaviors,  propose simple model   anticipatory  self-esteem concerns lead   inefficient breakdown  Coasian bargaining under symmetric informa�tion,   sides seek  self-enhance  turning down �insultingly low� offers.   ,  build  B�nabou  Tirole (2007),  develops general framework  analyzing social  eco�nomic phenomena involving beliefs  people �invest .� 
+  key building blocks   theory  self-inference  motivated beliefs.   refers   idea  people,  unsure   deep values, abilities,  worth,  often led  judge �what kind  person�     own actions.1   refers   fact   self-views carry costs  benefits,    affective (self esteem, anticipa�tory emotions  future prospects), func�tional (motivation, self-discipline, convincing others),  . 
+ extend   framework  bargaining   distributive conflicts.  consider partnership   individuals  groups (par�ties  dispute, capital  labor, majority  minority populations)   decide   continue together  destroy  match. Continuation always yields positive surplus,  low output realization means   least  party  low ability. Moreover, whereas joint output  hard data, individual contribu�tions   (�who   blame,� �who  getting raw deal�)  soft signals, symmetrically observed  producing  bargaining  imperfectly recalled following split. Agreeing  inferior  even equal contractual terms  low-performance team then entails loss  self 
+1 See, .., Leon Festinger  James . Carlsmith (1959)  cognitive dissonance, Darryl . Bem (1972)  self�perception,  George . Quattrone  Amos Tversky (1984)   self-manipulation  �diagnostic� actions.  recent experiments   strategic management  self�image through costly actions  information-avoidance, see Jason Dana, Roberto . Weber,  Jason . Kuang (2007)  Nina Mazar,  Amir,  Dan Ariely (2008). 
+459 
+image / anticipatory utility. Conversely,  refusing �insulting� proposals  destroy�ing  match     obtain enough  concession,  side  try  preserve  salvage  dignity  shift  blame onto  , taking refuge  bleak realities  feelings  self-righteousness  wishful hopes  � better tomorrow.�  equilibrium,  range  sustainable sharing rules  shown  shrink   importance  self-image  anticipatory concerns. Beyond point, bargaining impasse becomes unavoidable,  spite  gains  trade  fully symmetric information. 
+ paper relates    literature  cog�nitive dissonance  motivated beliefs (.., George . Akerlof  William . Dickens 1982; Matthew Rabin 1994; B�nabou  Tirole 2002, 2006a; Markus Brunnermeier  Jonathan Parker 2005),  well   related issue  anticipatory feelings (.., Loewenstein 1987; Andrew Caplin  John . Leahy 2001).  closely related, through  idea  self�signaling  self-reputation,  Ronit Bodner  Drazen Prelec (2003)  B�nabou  Tirole (2004, 2006b).   experimental side, James Konow (2000)  Dana, Weber,  Kuang (2007) demonstrate  subjects mak�ing monetary allocations affecting  own payoffs engage  self-deception  informa�tion avoidance   fairness  likelihood   players� outcomes. 
+  related body  work    identity (.., Akerlof  Rachel . Kranton 2005; Robert . Oxoby 2003).   models, agent�s preferences  attitudes depend   chosen group memberships. , instead, explic�itly model  management  beliefs   cognitive mechanisms through   occurs.   leads  different results,    fact   able  manage one�s own identity  often make person worse off. 
+Finally,   recent literature  bargain�ing  contracting  heterogenous beliefs (.., Muhamet Yildiz 2004; . Nageeb . Ali 2006).  general motivation    under�stand  sources  delays  breakdowns,   methods  focus  quite different.  par�ticular, beliefs  exogenous  remain invari�ant  offers  counteroffers.    hand,  papers make explicit  dynamic aspect  bargaining, whereas  consider  simpler Nash demand game. 
+. Model 
+. Technology 
+ consider �partnership�   risk-neutral individuals  groups�spouses, labor  management, majority  minority populations, etc.  partner    high  low type,  (probability .)  (probabil�ity 1 .), corresponding  different levels  ability, motivation, honesty, deservedness, outside opportunities, etc.    peri�ods,  illustrated   1,   abstract  discounting.  date 0,  joint output  productivity   partnership  revealed:    good  bad,  .{yB, yG},  yG > yB.  technology exhibits complementarity,    =yG      agents   type .  interesting case  then    =yL,   means   least    parties  �to blame�   low output� disappointing marriage, firm,  economy, lost war, etc. 
+  end  period 0,   partners  decide  : () remain together,   case   continue  produce  same (expected) output  period 2 ( long run),   bargain      shared;  () split,   case  agent   get res�ervation value determined   type:  =vH  high type   =vL  low type,  vH >vL.  outside options  correspond  producing  autarky, searching  new match,  triggering costly fight    side  control  resources. 
+Let parameters    staying together  efficient   teams,  balanced (HH  LL)  unbalanced (HL),    latter case compensating transfer ( share  yB exceeding 1/2)  needed  induce  more productive partner  stay: 
+(1) yG >2vH >yB >vH +vL >2vL. 
+ bargaining  making  stay  quit decisions   end  period 0,   parties  assumed  know ( recent obser�vation)    joint output ,    one�s type.  common knowledge  make inefficient-breakdown results   more inter�esting  allow us  provide formal model   Babcock . (1995) types  findings described above. 
+Periods 1 +2 
+Period 0 
+P1: Hor  
+P2: Hor  
+Symmetric information 
+ 1. Bargaining  Malleable Beliefs 
+. Preferences  Beliefs 
+ keeping   general self-inference approach  identity,  further assume ,  date 1: 
+(1)
+ Whereas  level  joint output   �hard� data   easy  remember  verify, individuals� separate contributions  it�their types v�represent soft, unverifiable informa�tion,  later    imperfectly recalled.2 Indeed,   always  more pleasant, ceteris paribus,  �recall�     competent  honest partner     entirely  blame   team�s poor performance (�every�one thinks   superperformer�). 
+(2)
+ Individuals experience anticipatory feel�ings,   hope  dread,   long-run (date-2) income  consumption prospects. Alternatively,   derive utility  pure self-esteem   talent  worth. 
+  formalize  discuss further     premises. 
+ person�s past choices  define  sense  identity  dignity,    informative   �kind  person� ; therefore ,  times,   fully confident   own type�deep values, abilities, etc. Similarly,  later perfectly understood   tipped  scales  decision   desire  achieve certain self-image,  attempts  come  nil. Some form  imperfect self-knowledge (memory, accessibility)  therefore essential 
+2 Given  same information, subjects  bargaining situations systematically recall more   evidence  favors  own side, even  roles  exogenously determined (Thompson  Loewenstein 1992).  dicta�tor games,  take advantage  contextual ambiguity  �persuade� themselves   deserve more    judge    fair share  making allocations   people (Konow 2000). 
+ understanding  people�s choices   shaped  concerns   �being true  ,� �maintaining  integrity,� �keep�ing  self-respect,� etc. , indeed,   extensive evidence  people�s recall   past feelings, efforts,  motivations  highly imperfect  self-serving,   judge them�selves   behavior,  consequently tailor  latter  preserve certain self-views.3 
+ASSUMPTION 1 (Self-inference):  date 1,  player  aware ( reminded)  past indi�vidual contributions, ,  = 1, 2,   prob�ability ..  probability 1 .,  longer recalls ( access )  signals  uses instead  outcome   negotiation  infer     player�s types. 
+ denote  .�i individual i�s date-1 belief  �what kind  person�    v�i =.�i vH +(1 .�i )vL  corresponding expected ability,    defines  (subjective) sense  identity.  probability .,  poste�rior v�i   equal   true value ( unbiased signal),   probability 1 .   equal   conditional expectation v�i .[vL, vH]    inferred   offers  made     accepted  rejected.  assume ,  making  inferences   =1, players  fully rational Bayesians. Although  assumption  easily  relaxed,   natural benchmark  imposes discipline   extent   agents  choose  believe  suits .4 
+3 See, again, footnote 1. Further discussions  ref�erences   found  Bodner  Prelec (2003)  B�nabou  Tirole (2004, 2007). 
+4   makes  model directly applicable  contexts    bargaining parties  signaling  outside audience.  social-reputational concerns, ,  
+ suits ,  turn, depends   affective needs  instrumental functions  identity  dignity serves  .  discussed  B�nabou  Tirole (2002, 2007),  former include pure ego gratification  well  remain�ing hopeful  one�s future prospects (antici�patory utility);  latter include  motivational value  �believing  oneself�  achieve long�term goals  overcome self-control problems,  well  possible facilitating role  signaling  others (   easier  persuade others  claim, true  false,    convinced  ).  shall focus     class  motives, namely �mental consumptions� (Thomas Schelling 1986),   explain  Section IIB  simple variant yields functional role  dignity,  strengthens    resist momentary temptations. 
+  follows,  denote  Eti agent i�s expectations  date  = 0,1. 
+ASSUMPTION 2 (Motivated beliefs). Let U2  denote agent ' long-run income, equal  .iy  bargaining leads  agreement   ' share  .       leads  split.   =0,  agent seeks  maximize  (undiscounted) expected present value 
+(2) U0  =E0  [su1  +U2  ], 
+ u1   utility flow received  period 1  equal  : () u1  = E1 [U2 ]   anticipatory-utility case;  () u1  =E1 [ ]  pure self-esteem case. 
+ made clear   notation,   cases  closely related. Throughout  paper  shall focus  exposition  (),   some�what more �consequentialist,�    results  qualitatively identical  (). 
+�shut off� (through anonymity)    cited experimen�tal evidence.   field surveys,   seem second�ary  importance  individuals� self-perceptions (see, ..,  quotations above  Bewley 1999). , although self-reputation  social reputation   complemen�tary concerns,  correspond  empirically distinct phenomena   analyses point  different mediat�ing mechanisms�in particular,  key role  memory  retrospective accessibility   pursuit  self-serving beliefs. 
+. Bargaining 
+ formalize  bargaining process  stan�dard Nash demand game.   = 0,  full  symmetric information, players 1  2 simul�taneously make demands  shares .1  .2  future output, .5 larger share  correspond  monetary transfer, control right (regional autonomy, child custody, seats   board),  new performance measurement system   alter  sensitivity  income shares  individ�ual contributions.  .1 +.2 = 1,  gets  asked , whereas  .1 +.2 > 1  nego�tiation breaks down   pair dissolves.  assume  offers  later remembered (having  formally recorded, submitted  arbitra�tor, etc.),   key results  similar    . 
+  look  symmetric, pure-strategy Perfect Bayesian equilibrium,  agreement 
+ shares . * >1/2 >. *   high  low 
+types, respectively,  unbalanced partner�ship,   common share 1/2  balanced .    equilibrium   sustained  look   (still  pure strategies)  partial efficiency,      types  partnerships reaches agreement. 
+ restrict out-of-equilibrium beliefs  fol�lows. pair  output yG  unambiguously identified  HH, due  technological con�straints.  pairs  output yB, let  denote  set  offers made  equilibrium. 
+(1)  . .  . ., player   presumed   played   equilibrium path.   identifies    type, then  partner   . Otherwise,  use  D1 criterion  restrict beliefs   partner�s type. 
+(2) .  .       jointly inconsistent  equilibrium, then: () . =. (..,  sides demand . * >1/2)   play�ers  considered equally likely   devi�ated,   assigned  same image; () . >., then v�i =vH  v�j =vL;     spirit  standard equilibrium refinements (  D1),    always  strong type     lose  breaking   match. 
+5  treat  allocation  period-0 output ( ) sunk�e.., shared ex ante  50�50 basis,  types  revealed.  expected output  equal   periods, allowing initial resources   part   bargaining  simply amount  doubling  size   pie. 
+. Results  Implications 
+. Equilibrium 
+Let us  observe    equilibrium  agreement,  shares demanded   sides  sum  . Otherwise,  party  ask   percent more  gain (1 + ) ,   team  still stay together.   same reason, downward deviations   type (asking     equilibrium share)  never profitable.  binding constraints   correspond  upward deviations. 
+ (1 + )yG/2 >(1 + )vH, matched strong partners (HH) always stay together, shar�ing output equally.  interesting case    low-productivity pairs,  = yB. Consider, , bargaining  unbalanced (HL) team.    type   satisfied   share,    : 
+(3) . * yB = vH. 
+Otherwise  ask  more,   break   team  maintaining  poste�rior belief v�= vH (   party   asking  . * < 1/2,  identifies    type  mixed pair)  achieving (1 + )vH >(1 + ).* yB. 
+Next,   weak partner ( type)  accept  bargain,    : 
+_
+(4) (1 + ). * yB = vL(1 +.)+ (1 .), 
+_
+  =(vH + vL)/2. Otherwise,  deviate  break  match  demanding .* (mimicking  strong partner),  achieving  probability 1 .  posterior self-view v�
+_ 
+= , even though  true �worth�  outside option   vL.  deviations  .'>.  .'..*  still identify    weak type, v�= vL,   fortiori unprofitable under (4). 
+ set  mutually agreeable sharing rules (. *, 1 . * )   defined  
+_ 
+vL(1 + .) + (1 .) 
+(5) =. * yB
+1 +  
+= yB  vH. 
+ illustrated   2,  shrinks  identity concerns increase,   
+yB  vH  vL
+(6) * =_ 
+vH +.vL +(1 .)  yB 
+  denominator  positive (otherwise, let * =+8). Beyond  critical threshold bar�gaining impasse arises,  spite  gains  trade  symmetric information. Intuitively, higher  makes  loss  self-image involved  �admitting blame� more costly    type,  then requires higher .*   compensated.  some point  becomes more    type  willing  grant, given  outside option,   agreement   reached.   par�ties then split ( fight)   demanding .* . 
+ next turn  bargaining  LL team.  asking  share .' > 1/2,  side  break   match  achieve,  probabil�ity 1 ., self image vH. Therefore,  part�nership remains sustainable   (1 + )yB/2 = vL + [.vL +(1 .)vH]   = **,  
+yB  2vL
+** = __________________
+(7) 2[.vL +(1 .)vH] yB 
+  denominator  positive ( , let ** =+8). Otherwise  match  dissolved,   side seeks  convince    better    (demanding again .* ), even though  reality   equally bad. 
+ general, **   above *,  illustrated   2,  below .  brevity,  shall focus   case * < **,  occurs (  .)     3yB/2 < 2vH + vL.6 Together  (1),  means  vH + vL < yB <(2/3) � (2vH + vL). 
+ obtain further result  linking joint output  individual productivities. Consistent   earlier assumptions, let HL  LL pairs  produce yB =FvL,      (1) holds.7   then simple  verify ,  vH/vL rises, *  **  decrease,  (5) becomes more stringent. 
+PROPOSITION 1: ()   = *, unbalanced low-output (HL) partnerships successfully negotiate, splitting resources according   sharing rule .* satisfying (5).  agreement range shrinks   ,   > *,  match  
+6 See  online Appendix (http://www.aeaweb.org/ articles.php?doi=10.1257/aer.99.2.459),   provides more detailed proof  Proposition 1 below. 
+7   words,  production technology    Leontieff type,  = Fmin{v1, v2}. 
+.
+ 
+1/2 1 -vH /yB 
+vL /yB 
+0 
+0 * ** 
+HL partnerships agreement set 
+ 2. Agreement  Breakdown Regions 
+inefficiently destroyed. ()  =**, balanced low-output (LL) partnerships successfully nego�tiate, splitting resources equally.   > **,  match  inefficiently destroyed. () Let yB =FvL.   ,  bargaining set shrinks   types  impasses become more likely,  greater  inequality vH/vL  high  low types� productivities. 
+ model  bargaining  malleable beliefs identifies new  potentially impor�tant limit   achievement  Coasian deals, namely  preservation  dignity, pride,  �hope�   future.   leads  test�able predictions,   salience    pro�ductivity differential vH/vL   manipulated experimentally.  latter    measured empirically  real-world contexts,    observe  more unequal bargaining positions reduce  likelihood  agreement. 
+ (6)  (7),   : 
+PROPOSITION 2: Inefficient breakdowns  Coasian bargaining  more likely: () more salient  agents� identity concerns ( higher );  () more malleable   memo�ries,    beliefs ( lower .). 
+. Welfare 
+ HL pairs split,  sides   ask�ing   same . * >1/2,   LL pairs  split  same  hold. Otherwise (   equilibrium refinement),  agent  deviate  .*  achieve self-reputation vH.   pair  splits, therefore,  side ends   (1 +.)+(1 .)v�,  
+(8) v�= [ |yB, .1 =.2 =. * ] 
+  average value      dissolu�
+_
+tions, equal     HL pairs dissolve,   (.vH +vL)/(1 +.)  LL pairs  split.   ,  fine,  net gain  self�esteem  anticipatory utility,  transfer   high   low type  HL pairs,   HL  LL pairs   latter  break .  pursuit  self-enhancement  zero-sum game  leads   net destruc�tion  surplus, equal ( average   dis�solving pairs) (1 +)(yB -2v�)>0. 
+PROPOSITION 3: increase   malleabil�ity  beliefs 1 . always reduces (normalized) ex ante welfare,  =[U0  +U0 ]/(1 +).  same holds  increase   salience   anticipatory-utility  identity concerns. 
+ B�nabou  Tirole (2007)  show , whereas  positive implications  individual belief management   similar   arises  hedonic motives (self-esteem, antic�ipatory feelings)  instrumental ones (sense  direction, self-discipline), normative conclu�sions,  contrast, depend critically   dis�tinction. similar principle applies   present strategic context. Due  space constraints,  sketch    variant   bargaining model  leads  more attractive role (nor�matively speaking)  dignity concerns. 
+  additional assumption  ,  date 1,  individual  need  carry  task : () requires costly effort  perseverance,   potentially subject  self-control prob�lem (.., due  hyperbolic discounting, �<1);  ()  expected return  increases   agent�s individual productivity ,   perseverance  self-view v�  complements. 
+ date-1 task   independent    agent  paired  unpaired   time,    apply   unpaired agents: searching  better opportunities, fighting,  holding  longer  costly bargaining. 
+  settings, pooling  rejecting �realis�tic� offers boosts  vL type�s self-confidence  subsequent motivation,  weakens    vH type.   effect leads  welfare gain,    loss. Therefore,   nature   date-1 self-control problem (value  prob�ability distribution  �, returns  effort) makes  more  concern   low type    high , meaning   severity  moderate,   net efficiency gain   malleabil�ity  beliefs (. < 1)   enhancement   low types� dignity   allows.   self�control problem  harder, , meaning   affects  high types more often   low ones,   again net social loss. 
+. Conclusion 
+ simple model  proposed  analyze  role,  bargaining   distributive conflicts,  belief distortions endogenously generated  pride, dignity,  wishful thinking  future outcomes.  set  further applications  include contracts  organizational design.  interesting direction   political econ�omy  reforms,   opening  trade  lib�eralizing  labor market. Whereas  standard concern   winners  credibly com�mit  compensating losers, potentially equally important     latter precisely   want  see themselves (  identified  oth�ers)  losers,  dependent  �handouts�   rest   community. 
+REFERENCES 
+Akerlof, George .,  William . Dickens. 1982. �The Economic Consequences  Cognitive Disso�nance.� American Economic Review, 72(3): 307�19. 
+Akerlof, George .,  Rachel . Kranton. 2005. �Identity   Economics  Organizations.� Journal  Economic Perspectives, 19(1): 9�32. 
+Ali, . Nageeb . 2006. �Waiting  Settle: Multilateral Bargaining  Subjective Biases.� Journal  Economic Theory, 130(1): 109�37. 
+Babcock, Linda, George Loewenstein, Samuel Issa�charoff,  Colin Camerer. 1995. �Biased Judg�ments  Fairness  Bargaining.� American Economic Review, 85(5): 1337�43. 
+Bem, Darryl. . 1972. �Self-Perception Theory.�  Advances  Experimental Social Psychology. . 6, . . Berkowitz, 1�62. New York: Academic Press. 
+B�nabou, Roland,  Jean Tirole. 2002. �Self-Con�fidence  Personal Motivation.� Quarterly Jour�nal  Economics, 117(3): 871�915. 
+B�nabou, Roland,  Jean Tirole. 2004. �Willpower  Personal Rules.� Journal  Political Economy, 112(4): 848�886. 
+B�nabou, Roland,  Jean Tirole. 2006a. �Belief  Just World  Redistributive Politics.� Quar�terly Journal  Economics, 121(2): 699�746. 
+B�nabou, Roland,  Jean Tirole. 2006b. �Incen�tives  Prosocial Behavior.� American Economic Review, 96(5): 1652�78. 
+B�nabou, Roland,  Jean Tirole. 2007. �Identity, Dignity  Taboos: Beliefs  Assets.� Centre  Economic Policy Research Discussion Paper 6123. 
+Bewley, Truman . 1999. Why Wages Don�t Fall Dur�ing Recession. Cambridge, MA: Harvard Univer�sity Press. 
+Bodner, Ronit,  Drazen Prelec. 2003. �Self-Signaling  Diagnostic Utility  Everyday Decision Making.�   Psychology  Eco�nomic Decisions, . 1.,  . Brocas  . Car�rillo, 105�26. Oxford: Oxford University Press. 
+Brunnermeier, Markus .,  Jonathan . Parker. 2005. �Optimal Expectations.� American Eco�nomic Review, 95(4): 1092�1118. 
+Caplin, Andrew,  John Leahy. 2001. �Psycho�logical Expected Utility Theory  Anticipatory Feelings.� Quarterly Journal  Economics, 116(1): 55�79. 
+Dana, Jason, Roberto . Weber,  Jason Kuang. 2007. �Exploiting Moral Wiggle Room: Experi�ments Demonstrating Illusory Preference  Fairness.� Economic Theory, 33(1): 67�80. 
+Festinger, Leon,  James . Carlsmith. 1959. �Cog�nitive Consequences  Forced Compliance.� Jour�nal  Abnormal  Social Psychology, 58: 203�10. 
+Konow, James. 2000. �Fair Shares: Accountability  Cognitive Dissonance  Allocation Decisions.� American Economic Review, 90(4): 1072�91. 
+Loewenstein, George. 1987. �Anticipation   Valuation  Delayed Consumption.� Economic Journal, 97(387): 666�84. 
+Mazar, Nina,  Amir,  Dan Ariely. 2008. �The Dishonesty  Honest People: Theory  Self-Concept Maintenance.� Journal  Marketing Research, 45(6): 633�44. 
+Oxoby, Robert . 2003. �Attitudes  Allocations: Status, Cognitive Dissonance,   Manipula�tion  Attitudes.� Journal  Economic Behavior  Organization, 52(3): 365�85. 
+Quattrone, George .,  Amos Tversky. 1984. �Causal Versus Diagnostic Contingencies:  Self-Deception   Voter�s Illusion.� Journal  Per�sonality  Social Psychology, 46(2): 237�48. 
+Rabin, Matthew. 1994. �Cognitive Dissonance  Social Change.� Journal  Economic Behavior  Organization, 23(2): 177�94. 
+Schelling, Thomas . 1986. �The Mind  Consum�ing Organ.�   Multiple Self, . . Elster, 177� 
+95. Cambridge: Cambridge University Press. 
+Thompson, Leigh,  George Loewenstein. 1992. �Egocentric Interpretations  Fairness  Nego�tiation.� Organization Behavior  Human Decision Processes, 51(2): 176�97. 
+Woods, Kevin, James Lacey,  Williamson Mur�ray. 2006. �Saddam�s Delusions:  View   Inside.� Foreign Affairs, 85(3): 2�26. 
+Yildiz, Muhamet. 2004. �Waiting  Persuade.� Quarterly Journal  Economics, 119(1): 223�48. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. . users  print. download.  email articles  individual use. 
+ 

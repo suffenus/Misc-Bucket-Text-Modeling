@@ -1,0 +1,51 @@
+ 
+REFERENCES 3. . SCITOVSKY, " Note  Profit Maxi�
+1. 
+. . BAUMOL, Business Behavior, Value mization   Implications," Rev. Econ.  Growth. New York 1959. Stud., 1943,11, 57-60; reprinted  Amer. 
+2. 
+. . LIPSEY  . . STEINER, Eco�Econ. Asso., ., Readings  Price Theory, nomics. New York 1966. Homewood 1953. 
+  Producer' Surplus?-Comment 
+ ROBERT . WESSEL* 
+ recent issue   journal, . . Mishan [3] critically examined  Marshal�lian concept  "producer surplus,"   finding    "confusing  otiose," urged   term " struck   econo�mist' vocabulary."  analysis points   salient facts   under   restricted assumption   rent accrues  single fixed factor    factors  infinitely elastic,   long run supply curve industry marginal cost curve, rents excluded,    under  same as�sumption   area above  supply curve ( producer surplus)  same  total factor rents  comparable  consumer surplus  welfare measure. argues fur�ther : "  more general case, how�ever,   changes  rents   factors  fully taken account    average cost curve, including  course  rental  capital (  Knightian profit),  area above  rising industry supply curve car�ries  economic significance." [po 1277]  point  well taken    view  con�
+clusion   traditional concept  pro�
+ducer surplus  abandoned    
+  heeded  economists. 
+Having demolished  long established 
+form   idea  producer surplus, how�
+ever, urges us  adopt   place  
+welfare oriented concept  economic rent 
+  set forth  communication 
+  Review [2] decade earlier. , 
+argued economic rent   viewed  
+    Hicks' concepts  consumer 
+surplus [1] Compensating Variation 
+"  author  professor  economics   Uni�versity  Cincinnati. 
+CV   Equivalent Variation EV.  Compensating Variation   amount       given   taken  in�dividual  order  offset  welfare gain  loss resulting  price change  .  Equivalent Variation   amount      taken   given individual  produce  same welfare gain  loss  price change  did  occur   caused. Although  Com�pensating Variation  Equivalent Varia�tion  good measures  welfare change,  wisdom  heeding  suggestion  defining rent   way raises several seri�ous questions. 
+  argued  recent issue   Re�view   concept  economic rent   useful   areas  economics-the theory  cost   theory  distribution [4, 
+. 1222].   ,  helps explain   portion   payments   made   services   agents  production,    ,  contributes   under�standing   income received   fac�tors.  ,   concerned  factor payments. Unfortunately rent concepts can�not fill  roles  defined  welfare terms  Mishan suggests. Except   ex�ceedingly unusual case  income effects (welfare effects  Mishan)  absent,  approach suggests produces     different measures   variation  "rent" occasioned  factor price change.   nevertheless    price change;     rate  payment   factor   change.  idea   new explicit rents measures  single situa�
+tion   helpful  cost  distribution 
+Copyright � 2001  Rights Reserved�
+COMMUNICATIONS 
+studies. Certainly  Mishan proposition   grounds   least lead  serious confusion. Even worse, ,   fact   sum   Compensating Variations ( Equivalent Variations)   series  price change  zero  some given market price   equal  areas under  supply curve   factor except   limit�ing case referred  above; ..,   welfare supply elasticity   supply    zero.      measures  total rent  welfare change neither  , except under  unusual circum�stances,  equal  payments tradi�tionally viewed  rent. 
+, following Mishan' suggestion  lead us  use rent concept     ambiguous   directly related  factor payments.  concept    little value   theory  cost   theory  distribution   concerned  specific payments.     areas   idea  economic rent   useful. Consequently Mishan' suggestion   rejected  more traditional concept  rent retained.2 
+  definitions  rent  left undis�
+1    case regardless      tra�ditional concepts  rent-surplus  minimum factor supply price  surplus  opportunity  transfer cost-is employed [2, . 393]. 
+ Although  strongly prefer  surplus  mini�mum supply price  Ricardian approach [4],    more established concepts better meets  needs   typical user   rent idea. 
+turbed,  type  concept   em�ployed  parallel consumer surplus?  none    intended  dispute Mishan' claim   Compensating Variation   Equivalent Variation  good measures   welfare change engendered  factor price variations    reason  CV   EV   used   way.  merely    called "rent."    sufficient merely  refer   Compen�sating Variation   Equivalent Varia�tion  measures  welfare change resulting  factor price changes.     ade�quate  specific term  required, "pro�ducer' surplus"  well  redefined   manner-as  CV  EV.  definition  directly parallel Hicks' concepts  consumer surplus   term�inology  directly follow  Mishan' main theoretical contribution, namely, ap�plying Hicks' consumer price change analysis  factor price variations. 
+REFERENCES 
+1. . . HICKS, Revision oj Demand Theory. London 1956. 
+2. 
+. . MISHAN, "Rent  Measure  Welfare Change," Amer. Eeon. Rev., June 1959, 49, 386-95. 
+3. 
+"  Producer' Surplus?," Amer. Eeon. Rev., Dec. 1968,58,1269-79. 
+4. 
+. . WESSEL, " Note  Economic Rent" Amer. Eeon. Rev., Dec. 1967, 57, 1221-26. 
+Rent  Producer' Surplus: Reply 
+ . . MISHAN* 
+  apparently  disagreement be�tween Robert Wessel     analysis pertinent  rent  "producer' surplus".  might then appear   glance,    continue  maintain  position,  difference  us   terminolog�ical.  more  terminology   stake. Accepting  problem posed  Wessel�
+* London School  Economics 
+Copyright � 2001  Rights Reserved 
+  reconciling traditional concept along   associated measure   claiming greater accuracy  generally differing   original- decision  terminology involves decision abou  method. 
+ procedure  follow    purging  long familiar rent concept  unsuspected  implicit ambiguity  order  derive exact measures  . Wessel,    hand, believes   case  continuing 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

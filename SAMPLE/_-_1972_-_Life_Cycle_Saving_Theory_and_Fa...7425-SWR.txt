@@ -1,0 +1,245 @@
+Life Cycle Saving: Theory  Fact 
+ KElZO NAGATANI* 
+" present behavior    af�
+fected   expected future,  
+future    turn    future 
+  appears  us beforehand through 
+ veil   unknown." 
+Irving Fisher 
+ standard results   life cycle theory  saving : )  level  con�sumption   point  time depends   present value   entire lifetime earnings;  )  proportionate rate  change   marginal utility  consump�tion   point  time  equal   difference   subjective discount rate   objective discount rate   rate  interest (see Menahem Yaari (196+� .     case  perfect cer�tainty. Yaari (1965)  James Tobin studied  case   individuals  subject  uncertainty  respect   duration   lifetime    
+competitive insurance-annuity scheme  
+available.  result   case ,   surprise,  same     perfect certainty case, except   discount rates,  subjective  objective,   raised  incorporate  biological uncertainty.  competitive insurance premium  annuity yield  equal   instantaneous probability  death times  value   current net worth.   extent   payments  receipts take place,  present value  lifetime earn�ings  differ     perfect certainty case,   time shape  opti�
+mal consumption remains unaffected. 
+� Associate professor  economics, Cniversity  British Columbia.  grateful  John Cra~. Rodney Dobcll, Wayne Thirsk,  Robert Jones  valuab~ comments  suggestions  earlier draft   paper.  thanks   due   editor  referee   Radt'..)  lheir helpful advice.  errors  shortcomings   course minco 
+ major implication   models    lifetime allocation  consump�tion  independent   timing  income realization.   more general case  economic uncertainty,  timing  in�come realization   degree  uncer�tainty associated  future incomes    important determinants   opti�mal consumption plan.   well known,  matters  discussed  some length  Irving Fisher. Recent formula�tions   consumer' lifetime allocation problem   stochastic dynamic pro�gramming framework  attempts  formalize Fisher' "Third Approxima�tion," (see,  example, Nils IIakkanson).   model presented below follows  approach  spirit, simplifying device  employed  facilitate computations. 
+ available household data,    hand, show   time shape  consumption typically  "hump" around  middle years  life (see  "below).  cause   hump, how�ever,    far  established.  family size    major cause (Tobin),     found rather in�significant (see . Watts).   above standard model   applied exten�sively   estimation  aggregate 
+consumption function,  micro evidence 
+ rather weak.    room  improvement. 
+   main purpose   paper   present simple model  life cycle saving  builds   Yaari-Tobin result  incorporating uncertainty con�
+cerning future human incomes.  un�
+certainty   due   general lack  
+ Allowing  uncertainty  future interest rates poses  difficulty.   shall abstract    ease  exposition. 
+344 
+knowledge  future developments   environment,   mainly due   individual' limited ability  assess  own potential, luck, etc.   individ�ual    imperfect knowledge   future,  seems reasonable  ex�pect  uncertainty   future   reduced  some extent   own ex�perience.   extent  experience changes  future outlook,  subjective evaluation  future earning power  change,  ,  optimal consump�tion plan   revised.  model at�tempts  interpret  observed consump�tion profile    continually revised optimal consumption profile.    found    time shape  human income   uncertainty associated    crucial  determining  time shape   optimal consumption. 
+  purpose   reexamine  notion  optimal consumption profile  Lester Thurow employed  recent issue   RelJiew. Thurow' optimal consump�tion profile  essentially  income pro�file   savings  zero.  shall argue,   basis   model,   notion  questionable,  ()   notion  optimality depends   time shape  human income,  ()  income profile   free individ�uals   burden  uncertainty. 
+.  Model 
+ consider hypothetical individual  age (:5  <)  [0,  Jis  life�time assumed   known  advance.' attempts  reallocate  earnings  max�imize  lifetime utility  consumption.  simplicity,  assume   initial   terminal wealth   zero; () = 
+1  lifetime  uncertain,  becomes stochastic variable. Tn  case, interpret     lowest value      probability  survival   age  zero.  competitive insurance-annuity scheme eliminates  effect   uncertainty,  shaH ignore  source  uncertainty. 
+aCT) = .   assume  possesses utility function  [()    time�invariant  concave everywhere.  net worth ()  given  datum   past behavior. Besides, expects uncertain flow  human income .(), (:5t:5T).  subscript   attached  emphasize   uncertainty   probability properties   random variable ( )   future date  depends   date  evaluation.     probabil�ity notion  essentially subjective �and  conditioned   individual' past ex�perience.  problem   plan  con�sumption   rest   life   way   sum   utility  con�sumption  maximal subject  relevant wealth constraint.  remains  investi�gate   wealth constraint    presence   uncertainty. 
+    uncertainty,  wealth constraint faced  individual  age   simply 
+() + rT  ) exp {: ()dX}  
+= rT () exp {:()dX}  
+ ,  present value  future con�sumption (right-hand side)  equal   sum   current net worth   pres�ent value  future human income (Ieft�hand side).    uncertainty 
+ future human income,   
+tempted  simply replace WeT)   ex�pected value ';'.().     permissible behavior,  implies strong,  rather unrealistic, assumption   burden  risk associated  current in�come  entirely born  current saving  
+future consumption. More realistically,  burden   risk   shared  cur�rent consumption  current saving.  capture  idea,  choose  write  wealth constraint  
+( ) +  ,()� [1 , ()  
+, 
+(1) .exp {: ()dX}  
+= rT ,() exp {: ()dX}  
+ ,() denotes  risk measure  dollar associated  ,.(), (~~). 
+ order   procedure   mean�ingful,  need  show  1>,() >0 whenever , ()  uncertain.  turns   necessary  sufficient condition     true   ,.()  , besides  concavity,  utility function  positive third derivative, ..,  marginal utility curve  convex  below.' Fortunately,    demand�
+ sketch   proof  ~ follows.   ,.() >0  intuitively clear,  wv()  positive.   show  zv() >0, consider two-period maximization problem    source  income \'    realized    period   random. 'Assume  particular   income    period   '  probability   "  probability (1-p).  expected value  =py'+(1-p)". Varying de�gree  uncertainty   represented  variations  '  "  fixed   fixed . Assume ' <".  problem    maximize ft ( )+pU(') +( 1-p)(" -Cl),  respect   choice  ,  consumption    period.  first-order condi�tion  
+/'(el) -PIt'(' -el) (1 )'(" ) = 0 
+ evaluate  effect  '  change   degree  uncertainty,  constrain  vari:ttions  '  ."  =dy=pdy'+( )dy",  calculate 
+/ _ (1 )lll"(" ) ," (' (1)1
+dCI Id  --�
+'() + pu"(' ) + (1 )lt"(" ') 
+ increase  uncertainty means smaller certain income, dCI dy/<. Cnder  assumption  strict concavity  ",     case ,   , 1I"(")"('-CI� , ..,  ' cu rve  convex  below.   general distribution  .,   easiest  compare  certainty   uncertainty cases.   -order condition   certainty case  
+() 1/'(el) = /'tv )  ll{tl) = 1I'[~'( (')  
+  uncertainty case,  first-order condition  
+() ,,'(,) ~ :[,,'( -cd  
+1� 1/'(.)  strictly convex, Inll'(y-cl)]> '[/:(y-r'dl atel = (1, ..,  right hand side  () >  right hand side  ().   [ = tl,  left-hand side  () 
+ing condition.   individual  non�satiable  consumption,  condition  hold  least   large.  might add    popular utility functions employed  similar stochastic models satisfy  condition,  obvious exception   quadratic function. Given 
+ condition, "  sky remote income 
+acts   equivalent  smaller remote income,"  Fisher thought   normal case (. 217). 
+ wish  make additional assump�tion concerning  way  risk  dollar 3,()  related   future date . Specifi�cally  assume    sk   greater,  more distant  future date, .., ,.() 
+ increasing function    given . 
+ Fisher put , " risk applies more especially   remoter income    immediate" (. 2\7).   as�sumptions   compactly expressed  risk premium   form. 
+1 ,() = exp {',.() } 
+ applied  wJt),  ,() > 0   ~~.  equation (\)  equivalent  
+(2) exp {[rex) + ,() ]dX}  = rT , exp {'()dX}  
+=  left-hand side  ().  restore equation lb), therefore,   fall below .  optimal consump�tion   certainty case.  
+['( ,) 1-,,'[:( ,,)1 "Ir-:( " 
+~ �2 (,'):(,')' 
+ 11' (�)  convex, increase  uncertainty   sense  greater variance  ( held constant) leads  larger fall  ' . Jt  interesting  note   effect   variance  consumption depends   third,  well   seconti, derivative   utility (unc tion. 
+ problem    stated formally.  individual maximizes 
+subject   wealth constraint (2), given (),   nonnegativity constraint cv() ~   ~~. 
+Assuming   nonnegativity con�straint   binding,  optimal solution takes  form 
+"'[cvH] = "'[cv()] 
+(4) 
+exp {[ () ()]dX} 
+ 
+(4') Dill "'[cv ()] = () -reT); ( ~  ~ ), 
+ =/ .   nothing   standard result mentioned   begin�ning.  consumption program  actually  followed   rest   life,   individual felt  need  change .  crucial point, ,   cv() depends   individual' future outlook   age .   outlook    age  conditioned   past experience, cv()   generally different  .(), (0 ~< ),  consumption plan laid down earlier   same age .  example,  individual  age    found him�self more successful   career  thought  age .   probably induce 
+  revise   future earning power 
+ future desired consumption upward.   revisions  take place, .(),  <,   abandoned  favor  cv(),   consumption plan effective  age .   optimal lifetime consumption plan generated   model keeps shifting   down  age  family  parallel curves   different "inter�cept" representing  varying assessment  future earning power   
+common "slope" representing  term 
+[OCT) ()].  figures  drawn  visualize  determination  optimal lifetime consumption according   model.   ,  marginal utility 
+ 'Ce) 
+AGE 
+  
+  
+ consumption  measured along  ver�tical axis  logarithmic scale,   age along  horizontal axis. family  parallel curves (lines) represent fixed opti�mal plans  different levels  lifetime earnings.    curves (lines)  slope [()()]  age , ~~. Anyone   curves therefore   interpreted  optimal plan   cer�tainty case.   contrast,  present model generates optimal plan  shown  curve BeD.   starts  age 0   point   basis   individual' assess�
+ment   future earning power  age . 
+  lived  some years, part   original future  turned  past  way   generally different   
+original expectation. Even   experience 
+  consistent   original expec�tation,    firmer idea  future,   current assessment   future earning power   different   originally thought.  change  outlook induces   shift   point , say,  different curve (line).   1, 
+ revisions  assumed  take place continuously  yield smooth curve. Ob�viously,  shape   curve like ABCD    determined    infor�mation   pattern  change   individual' outlook  time   known,  addition   complete knowl�edge   utility function   dis�count rates.   1,  curve BCD  drawn  approximate realistic con�sumption profile.  translation   
+curve  consumption curve  shown 
+  2.  fact,  purpose   inter�pret actual household behavior    optimal solution. 
+< 
+_________.... AGE
+~ 
+  
+ 2 
+ summarize: Under some reasonable assumptions   utility function, uncer�tainty  future income  translated  risk premium  adds   market interest rate  discounting future income.   age,  individual spells   optimal consumption plan ac�cording   standard theory  life cycle saving.   realized income  gener�ally different   expected    future outlook ( expected value  well   degree  uncertainty associated  future income)  condi�tioned   age,  wealth constraint itself becomes function   age.   future outlook changes, therefore,  wealth constraint changes urging   revise  consumption plan.   revision   involve change   basic behavioral rule,  involves shift   optimal profile  another  re�sponse   change   wealth con�straint.  remains  study  pattern according    shifts take place. 
+.  Behavior  
+Average Household 
+ purpose   section   apply  model presented  Section   "average" household,   average be�havior  large number  households.  reasons  confining   average household  ()   average behavior  sufficient  draw macro�economic implications   model,  
+() 
+ justifies some simplifying assump�tions concerning  manner   future outlook changes  age. 
+ regard   behavior   average household,  make  following  assumptions. ,   expected future incomes ';'() , ::;::;,  inde�pendent  ,  age     evaluated,  furthermore,     same   realized values, ().   words,  average household   correct expectation   mean values  future incomes. Needless  say,    mean    perfect foresight. Uncertainty  still  . ,  similar reason,  risk premium Ov()  independent   date  assessment.  individual households Ov()   future date   change  various ways  .    average household,  changes   taken  cancel .  
+ois assumed   some positive prescribed function  time.  assumption implies   risk premium  dollar, zv(),  decreasing function    fixed . Third,  assume  revisions   
+() +. () exp {:[, () + 8()]:} dr 
+(5) .() = ltv) 
+. exp {~ .'[(1 -�
+),() ()]dX} dr 
+consumption plan take place continuously.  assumption  mainly  technical reasons.  addition   assumptions,  shall  assuming hereafter   utility function    constant elasticity  marginal utility variety.  class  utility function   written  
+Cl-k C1k 
+() = ' ( > 0)' lim = lne
+1  ' , 1: __ 1 1  
+ utility functions satisfy   condi�
+tions  need. 
+Given   assumptions,  derive equation (5)  equations (2)  (4).   assumption  continuous revisions,  plan laid down  age   effective    age. ,  shall write .()  ().  +8 >,    ex post rate  return  wealth   ,  past   future incomes   longer directly additive.  plan () therefore depends   current net worth ().  implications   solution (5) become clearer   differentiate  logarithmically  respect  , noting  fact   ex post rate  return  wealth isonly,() .  result  
+  
+Dill ltv)  [,() {)!  
+  
+(6) 
++ [1 {)]8{) 
+ =/ dv  ()  given  
+{) = {)/ [() +. {) 
+(7) �exp {.' [,() + 8{)]dX} , 
+   ratio   realized nonhuman wealth   total (human  non�human) wealth   age . Clearly ()  equal     unity,   take  negative values.   term   dotted rectangle  (6)   certainty counterpart,  burden  uncertainty  shown   term 8( )[1-()].  8() >0,  time shape  optimal con�sumption becomes dependent   risk premium 8()   ratio ().  given profiles  , ,  8, ()  primarily determined   time shape  human 
+income:   concentrates  later years, 
+ smaller  algebraic value  (),  ,  greater  burden  uncer�tainty. 
+   quite easy  explain   lifetime consumption profile   average household  determined. Starting   given initial net worth (say, zero),  
+consumption   uncertainty case  
+begin  remain lower   consump�tion   certainty case  , be�cause   higher discount  future in�comes,  shown  (5).   means   common human income keeps flowing ,  net worth position  be�come higher     certainty case. Under  assumptions    expected human incomes  realized    individual plans  leave  be�quest,   consumption   case started low relative   consumption   ,    some intermediate time point     consumptions equal       rela�tive consumption level   reversed.  fact, equation (6) shows   propor�tionate rate  change  consumption   uncertainty case  higher     certainty case.    consump�tions  equal     posi�tive difference   nonhuman wealth exactly offsets  negative difference  human wealth due  risk,  break�even point   reached  sooner ( later),  more concentrated  human income profile    early (late) years.   optimal consumption profile   present revision model becomes depen�dent    human income   manner   former tends  resemble  latter. 
+  tables  intended  illus�trate  dependence   consumption profile   human income profile.   fundamental difference    tables   time shape  human income. Tn  1,  human income begins    year  $1  keeps rising  $7   seventh year.  eighth through tenth years   retirement.   pattern  human income, 
+  -DEPENDENCE  CONSUMPTION 
+ HUMAN INCOME� 
+Year ()  () ()() () 
+\ \ $2.870 $-1.870  0 
+2 2 2.877 -0.877 -1.945 
+3 3 2.9\4 0.086 -2.945 
+4 4 2.946 1.054 -2.974 
+5 5 2.973 2.027 -1.997 
+6 6 2.974 3.026 0.03\ 
+7 7 2.92\ 4.079 3. \80 
+8 0 2.760 -2.760 7.549 
+9 0 2.609 -2.609 4.98\ 
+\0 0 2.467 -2.467 2.467 
+\ 0 
+�  = .04, 6-.06, .10   ages,   =-10 years. 
+  receipt  wand consumption  assumed  take place  beginning   period. Net worth  measured   beginning    transac�tions. 
+ Consumption figures  obtained   discrete equivalent  equation (5),  = 1. 
+ 2-DEPENDENCE  CONSUMPTION 
+~  UMAN INCO)IEa 
+Year () () ()() () 
+\ $7 SJ.454 $ 3.546  0 
+2 6 3.438 2.562 3.688 
+3 5 3.374 1.626 6.506 
+4 4 3.284 0.7\6 8.457 
+5 3 3. \70 -0.\70 9.540 
+6 2 3.036 -1.036 9.745 
+7 \ 2.886 -1.886 9.057 
+8 0 2.727 -2.727 7.458 
+9 0 2.578 -2.578 4.92 \ 
+\0 0 2.477 -2.477 2.477 
+\ 0 
+�  underlying assumptions, see footnotes  
+ . 
+sumption starts  S2.870    year  keeps rising till  sixth year   maximum consumption  achieved  S2.974.   consumption gradually declines  $2.467   tenth year.  Tables 2  3 more extreme human in�come profiles  assumed.   2  human income profile  reversed     lifetime human income  realized   earlier years. Reflecting  heavy concentration  human income   early years,  consumption profile   weighted toward  early years. Con�sumption shows constant downward trend  3.454  $2.477.   3,  human income profile   same   
+ 3-DEPES'DE:"cr  CONSUllPTIO:\, 
+ HUMAN INCOM"& 
+Year (,)  (.) ()() () 
+\  $2 . 157 $-2. 157  0 
+2 0 2.\30 -2.\30 -2.243 
+3 0 2.230 -2.230 -4.548 
+4 \ 2.3\0 -1.3 \0 -7.049 
+5 2 2.409 -0.409 -8.693 
+6 3 2.539 0.46\ -9.467 
+7 4 2.693 1. 307 -9.364 
+8 5 2.873 2.\27 -8.380 
+9 6 3.070 2.930 -6.503 
+10 7 3.284 3.7\6 -3.7\6 
+\ 0 
+---� 
+&  underlying assumptions, see footnotes  
+ 1. 
+ , except   retirement  re�placed  infancy.  increased burden  uncertainty,  consumption   3 remains lower   consump�tion       seven years  exceeding    last  years.  fact,  consumption   3 almost always shows rising trend due  negative net worth positions,  spite   assumption  ~ <0.' 
+ summarize:   discussed   previous section, consumption  locally influenced   consumer' current net worth position   presence  uncer�tainty. Under  few simplifying assump�tions made  average consumer,  revised consumption profile tends  re�semble  profile   human IIlcome. 
+. Empirical Note 
+  idea  revisions  consump�tion plans  sound attractive,    quite  easy  test  hypothesis di�rectly against empirical data. Ideally  
+4 Equation (6) implies   obsert,td rale  time preference  given  () ""'6() -k9() [1-()     CY)  generally   6(): &()  negatively related  9()  positively related  (). 
+need survey  contains  lifetime record   same households.    absence   data, ,    content   available cross section data. Besides, equation (6) contains simply too  unknowns  estimate.  diffi�culty  remain even   make heroic assumption   parameters , ~,  
+oare  constant.  best      find combination   parameters  yields closest fit  observed average consumption profile. 
+rna recent issue   Re1Jiew, Thurow reports   findings   Bureau  Labor Statistics 1960-61 household budget data.  data contain information   details  receipts  expenditures  seven age groups,   different income brackets.  average expenditures  current consumption  different age groups  shown  column 3   4 below.  BLS data give  correspond�ing average figures  "money income  taxes"  contain  human  nonhuman incomes   shown  column 1.  breakdowns   total incomes  human  nonhuman incomes   reported.  therefore 
+ 4-COl"PARISONS  ACTUAL, CALCULATED, 
+ OPTUUL CONSU)(PTION 
+Money 
+Income Actual Calculated Optimal 
+ Human� Consump- Consump- Consump- 
+Taxes Income tion tionb Lione 
+Age () (2) (3) (4) (5) 
+Under 25 $4,293 $4 ,305 $4,379 $4,414 $5,647 
+25-34 5,698 5,681 5,644 5,458 5,713 
+35-44 7,057 6,837 6,565 6,391 5,373 
+45�54 7,733 7,147 6,731 6,629 5,163 
+55�64 5,589 4,709 4,912 5,459 3,675 
+65-74 4,231 3,134 3,668 4,132 3,841 
+ 75 3,016 1,805 2,712 2,946 2,162 
+� Human income (col. 2)  calculated  : () subtracting  col.  ( 1.04)10 times  net worth under  assumption   initial wealth  zero  ()  scaling down  equate  present value    actual consumption. 
+ Calculated consumption (col. 4)  obtained   model  setting = , ,.04,6=.13,9 =. I1,  using col. 2. ~ Optimal consumption (col. 5)  Thurow' optimal consumption ' , excepting  similar down-scaling. 
+calculated human income profile  column 2. Column 3  directly    data. According  column 3, actual con�sumption  peak   45-54 years  age, taperi ng off toward  ends. rn 
+terms   model,    direct conse�
+quence  similarly humped human in�come profile. Column 4 reports   experimental calculation based   model  rather arbitrarily chosen values   parameters.  already high values  6and 0  assumed,  compari�son  actual consumption suggests  eshould  even higher ( make  hump larger)   6    higher ( make  consumption profile more con�centra ted   early years). Although     faith   accuracy   estimates,  seems quite possible   model  explain  observed con�sumption profile   basis   actual human income profile. 
+'Thurow' main purpose   derive "optimal" consumption profile   same data. did   finding,   age group,  level  money income  
+taxes   saving  zero.   seen 
+ column 5,  optimal profile  strongly weighted toward  young years. Comparing  actual   optimal consumption profiles, Thurow concludes   actual lifetime pattern  income  severe constraint   desired life�time distribution  consumption expendi�tures   lifetime welfare levels might  substantially increased   con�
+straints  lifetime income redistribution 
+  lifted. 
+  way  contrasting  actual result  optimal   attributing  gap  market imperfections  conven�tional,  validity   procedure  somewhat questionable. ,  terms   model,   notion  optimality  relative concept.  actual consump�tion profile itself  optimal profile rela�tive   given actual human income profile.  attempt  change  human income profile  therefore change  optimal consumption profile. , Thu�row' optimal consumption profile  char�acterized  zero saving.   ignore ini�
+tial assets,  optimal consumption corre�sponds   revised consumption  
+ ()=   (;;;;;;).  equation (6),   then satisfy 
+(8)  /" () = [rev) -5()! () 
+  still subject  uncertainty.  fact,  grand optimum   attained  0=0.    mean   individual      entire lifetime earnings  hand   beginning   life.  grand optimum consump�tion    more weighted toward  young years  Thurow' optimum. 
+. Some Concluding Remarks 
+  paper,   attempted  pro�vide simple model  life cycle saving  explicit context  uncertainty.  central result    lifetime consump�tion profile, instead  fOllowing simple rule  growing   rate [r-6l!,   generally dependent   human in�come profile.  model seems capable  explaining  predicting  observed consumption profile  optimal profile relative   observed human income profile. 
+ key notion   model   continued revisions   light  changing future outlook.  spirit,  model   viewed  example   broader problem discussed  Robert Strotz. 
+ aggregate consumption function   derived  integrating (5)    existing vintages  individuals.  given pattern  lifetime human income,  discounted value  future human in�
+come   written  function  cur�
+rent human income. Therefore,  aggre�gate consumption wili  function  aggregate nonhuman wealth  wage income,      simple linear function   variables.     write  aggregate consumption  
+() = b1A() + MV() 
+ bl  ,  depend   age distri�bution  holders  wealth  recipients  wages   demographic parameters,  well   rand .   least  model provides rationale  separating   weal th  wage variables.  model  suggests   income distribution  different age groups   important determinant  national saving behavior. 
+REFERENCES 
+. Fisher,  Theory oj Interest, New York 1930. 
+. Hakkanson, "Optimal Investment  Con�sumption Strategies Under Risk  Class 
+ Utility Functions," Econometrica, Sept. 
+1970,38, 587-607. 
+. . Strou , "Myopia  Inconsistency  Dynamic Utility Maximization/' Rev. Eean. Stud., June 1956,23, 165-80. 
+. . Thurow, " Optimum Lifetime Distri�
+bution  Consumption Expenditures," 
+Amer. Econ. Rev., June 1969,59, 324-30. 
+. Tobin, "Life Cycle Saving  Balanced Growth,"  . Fellner ., eds, Ten Eco�nomic Studies  tlte Tradition  Irving Fisher, New York 1967. 
+.  . Watts, "Long-Run Income Expectations  Consumer Saving,  . . Dernberg, 
+. . Rosetl, . . Watts, cds., Studies  
+Household Economic Behavior, New Haven 
+1958. 
+. . Yaari, "  Consumer' Lifetime Al�
+location Processt" Int. Ecolt. Rev., Oct. 1964, 
+5,304-17. 
+, "Uncertain Lifetime, Life Insurance,   Theory   Consumer," Rev. Ecoll . Stud., Apr. 1965,32, 137-50. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

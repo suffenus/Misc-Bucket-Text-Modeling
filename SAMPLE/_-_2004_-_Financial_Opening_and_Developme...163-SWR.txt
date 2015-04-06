@@ -1,0 +1,259 @@
+Financial Opening  Development: 
+Evidence  Policy Controversies 
+ JOSHUA AtZENMAN* 
+ paper outlines possible channels linking 
+commercial  financial openness.  in�
+quiry  motivated  salient feature   
+global economy  recent decades:  embrace, 
+ developing countries.    reform .  adjustment process   growing financial integration   rocky. frequently associ�ated  financial crises.  developments  led  spirited debate concerning  wisdom  unrestricted capital mobility be�
+tween OECD  emerging-market countries. Various studies  identified circumstances  
+ unlimited capital mobility   sub�optimaL'  paper argues . notwithstand�ing  above debate,  strongest argument  financial opening    pragmatic . 
+Like   , greater trade integration erodes  effectiveness  restrictions  capital mo�
+bility. .  successful emerging markets 
+ engage  trade integration, financial open�ing   question  ,     . 
+Some insight   possible linkages be�
+twecn financial  trade opening  obtained  
+looking   patterns  changes  openne sin 
+ last 30 years.  order  evaluate  statis�tical signi ficance   association  
+financial  trade openness,  apply panel�
+� 317 Social Sciences . Depanment  Economics. Uni�versity  California-Sant:. Cruz. 11 56 High ., Snnla 
+CIUi'.., CA 95064,  NHER (e-mail: jaizen@ucsc.edu).  thank Shang-Jin Wei  sharing  data  financial open�
+ness,  lIan Noy  Bill Koch  excellent research assistance. ~ful commenls  Mike Dooley. Mlchucl Hutchison. Ptll] McCalman. Gracieln Kaminsky.  Ken 
+Klctzer  gratefully acknowledged. 
+ useful suney  financial libcralizmjon  John Wil�liamson  Molly Mahar (1998). See Carlos Diul.-Alejoll�dro (1985). Duni Rodrik (1999).  Thomas Hell mann  . (2000)  skepllcal asses~mcnts   gains  finan�cial liberalization .  studies dealing   financial instability associated  capnal-account opening. see  paper..  Sebastian Ech.\ard~  Jerfrey Frankel (2002).   association  financial integration  financial crises see Asli 1)cl1lirgiir;-Kunt anti Enrica Dctragiache (1998). Guillcmlo Calvo (199~).  Gracicla Kamin~ky  Carmen Reinhart (1999). 
+65 
+regression methodology.  units  observa�
+tions arc nonoverlapping five-year changes  
+ openness measures. throughout 1969 -1998,   countries (subject  data availability)? 
+  presents  regressions.   de�
+pende  variable   change  financial open�ness.  explanatory variables  changes  trade openness  changes   level  GDP  capita. allowing  country fixed effects.' Regression () repons  developing countries (subjecl  data availability), regression () ex�cludes   sample developing-economies countries   characterized  financial openness  exceeds 100 percent,   trade openness thaI exceeds 60 percent,  small island economies. Finally, regression () deals    OECD countries.  firsl  regressions indicate highly significant positive 
+association  changes  financial  commercial openness  developing countries. 
+ effect   OECD countries  po ilive,   substantially lower sig11ificance level.  Aizenman  lIan Noy (2003). annual data  used  investigate  impact  polit�
+ical econOlny   structural variables   links  trade  financial openness. ex.tended version   modeJ,  political-economy considerations determine 
+ efficiency   lax system. suggests  democracies  associated  lower finan�cial openness.'" OUf empirical investigation, 
+2 Financial openness measures (gross private capital in�flows + gro:. private outnows)  1000GDP. using  data documenlcci  applied  Shang-Jin Wei   Wu (2002).  Eswar Prasad et ul. (2003). Trnde openness measures (exports + imports)  IOO/GDP. using  World Development Indicators (WOI) data. 
+1  inclus ion  GDP  capita  explanatory variable  ",uggeMcd   linkages  GOP  capital level  financial depth. 
+4 Following  approach  Alex Cukiemmn el . (1992),  expects less-polarized societies  beller-functioning democracies   characterized  more efficient lax�collection "ySlems. Applying  conjecture. more effi�cient tax system   associated  wllh 100I,cr (ax 
+AEA PAPERS  PROCEEDINGS  2004 
+ I-EXPLAININO CHANGES  FINANCIAL OPENNESS. 
+1%9-1998 
+Sample 
+() 
+() Developing�lndependcnl Developing extreme () variable countries values DECO 
+.{Trade 0.26" 0.067" 0.2' 
+openness) (3.55) (2.68) ( 1.9) 
+(GDP  0.0047* .OOt2  0.0032" 
+capita) (2.1) ( 1.607) (4.83) 
+R2: 0.27 0.43 0.44 
+: 447 309 87 
+NOles:  dependent variable ~  change  financial openness.  units  observalions  nonoverlapping five-year changes   openness measures.  regressions 
+include country fixed effects. Consuml Icnns   reponed. 
+ Statistically significant   IO-percent level. 
+.. Statislically significam DI  5-pcrcent level. 
+�� :.lislically significant 31  I-percent level. 
+reported   2. confirms  lagged trade  highly significant positive effeci  finan�
+cial openness. whereas democralic regimes  
+associaled  lower financial openness.5  developing countries,  find thataone-standard�
+deviation increase  commercial openness  associated  9.S-percent increase  de 
+facIo financial openness (percenlage  GDP), 
+one-slandard-deviation increase   democ�
+ratizalion index reduces financial openness  
+3.5 percent,  one-standard-deviation increase 
+ corruPlion  associated  3-pcrcclll re�duction  financial openness.  main results  respect  commercial openness   political regime remain significant even  de jure measure  financial openness  in�
+cluded ( de jure coefficient turned    insignificant).  empirical analysis  Aizen�man  Noy (2003) leads us  conclude  
+more openly compelilive. free,  inclusive 
+rates, thcreby reducing  atlracliveness  capital tlight.    verified   net effect  improving  lax system   10'Acr  incidence  capital flight. thereby reducing de facto financial integrntion. 
+.5 Anyone-point increase   democratization index (OUI   20-point difference  full autocracy  democracy) reduces financial openness (internationnl finan�cial flows)  almost one-half percentage point  GOP.  effect   half  large    nm control   level  corruption (reponed   2. column 3). 
+ 2-ExPLAINING FINANCIAL OPEN: 
+(ANNUAL DATA, 1982-1998) 
+Independent variable () () () 
+Pcr capita GOP 0.64� 2.28" 2. 14�� 
+(2.14) (4 .09) (4.28) 
+Budget surplus -0.26' -0.40' -0.28t 
+(percentage  (-1.70) (-2.07) (-1.62) 
+GOP) 
+Trade openness 0.11 " 0.07" 0,08" 
+(Average  (9.08) (4.52) (5 .51) 
+ . ... ,  -4) 
+Democracy/autocracy -0.44� � -0.51� -0,261 
+(-2.71) (-2.48) ( -1.60) 
+Corruption -2.01 � -2.74� 
+(-2.23) (-2.24 ) 
+ 1990' 4.89" 4.65 � 4.04� 
+(2.99) (2.10) (2.08) 
+Obscrvm ions: 829 607 694 
+Sample:  DEV DEV 
+Notes:   reports  benchmark specification  Aizcnmun  Noy (2003).  dependent variable   sum  financial inflows  outflows ( percentage  GOP).  estimation uses  Prais�\Vinslcn algorithm assuming AR( ) error tenns.  corruption index runs  -6 (low probability/risk  encountering corruption)  0 (highly corrupt).  democracy/autocracy mdex runs  -iO (fully aUiocratic)  + 10 (fully democratic).  denOies  whole sample: DEV denot~  develop�ing-countries sample. 
+ Statistically significant   IO-percent level. 
+� Stalistically significant   5-perccnt level. 
+�� Statistically significant   I-percent level. 
+political syslem  lead 10 lower levels  de facto financial openness afler controlling  
+incomes. macroeconomjc policy,  commer�cial openness. 
+eedless  say,  regressions   suggestive    provide informalion   economic forces inducing  existence  
+linkages belween  Iwo openness measures.  argue   pragmatic case  financial 
+refonns   presence  growing trade inte�
+gration follows   endogenous public�
+finance linkages  financial  Lrade 
+openness.  show thm  relatively COSily col�leclion  laxes  developing countries implies Ihal financial repression   part   
+menu  taxes.  impact  financial re�
+pression   allow  government  recycle 
+ domestic debl  lower real interest rate 
+ wou   prevailed wilh full financia  
+integralion,   lax  0Plion  saving  
+foreign assets. ,   view  drop 
+  interest rate facing domestic savers  implicit tax  domestic savings,  tax pro�vides  impetus  capital night,  search  higher return  savings. frequent mecha�
+nism facilitating capitaJ flight  over-invoicing 
+ imports  under-invoicing  expons.7  
+scale   activities  proportional   commercial openness   economy.   
+tum implies  greater trade openness in�creases  effective financial openness.  pro�
+viding more opportunities  capital flight.  linkage. .  subject   costly control   fiscal authorities. Cur�
+tailing illicit capital flows requires spending resources  monitoring  enforcement  existing capital controls. Under  circum�
+tances.  effectiveness  capital controls 
+ increase   resources spent  monitoring  enforcement  additional doll ar  internaLi onal trade. 
+ characterize  pattern  taxes   
+maximil. consumers' utility, subject   
+need  finance given fiscal outlay ( pro�
+cess  equivalent  minimizing  deadweight 
+loss associated  given fiscal expenditure).  show  more costly collection  taxes  
+lower commercial openness increase  level 
+ financial repression adopted   policy�maker. key result   framework   
+greater commercial openness reduces  finan�cial repression chosen  developing countries.  follows   observation  greater commercial openness increases  effective cost  enforcing   repression. thereby 
+reducing  usefulness  financial repression  implicit lax. . financial reforms  
+  by-product  greater trade integration.  model  suggests  financial reforms  su;tainable      ignore  
+fir,cal implications   drop  fiscal revenue,   consequent increase   cost  recy�cling  public debt. . sustainability  
+6 Sec Albertu Giovannini  Martha de Melo (1993)  documenting  measuring financial repression  im�plicil lax  savings.  Kenneth Klclzcr  Renu Kohli (2003)  anulysis   fiscal impi1ctl.lions  financial rcpres!tion  India. Sec Michael Dooley (1996)  overview  financial controls. 
+7 James Boyce  Uonce Ndikumana (2001) estimated   25 sub-aharan COUntries. trade mil>lflvoicing led 10 $40.6 billion  capital night   yean. 1970-1996. 
+financial reform requires finding alternative means  taxation,  reducing government ex�
+penditure.  work  related   sequenc�ing  reforms literature (see Edwards  Sweder van Wijnbergen. 1986).  main con�clusion   optimal financial  commercial 
+openness  intertwined,    pressure 
+ open  financial system  by-product  
+successful trade integration. 
+.  Model 
+ consider developing country  fiscal outlays  financed  means   taxes: direct income tax  implicit lax induced  
+capital controls.  taxes  costly.  in�come tax  associated  deadweight losses due  collection  enforcement costs. Simi�larly, enforcing capital controls entails costly prevention  illicit capital flight. 
+ illustrate  design  optimal policies  considering small. two-goods. two-periods economy.  utility   representative con�
+sumer  given  conventional neoclassical 
+utility, 
+() /' > 0 ,,":5 0 IX + fJ =  
+    domestic good,     
+foreign (imported) good.  umers  en�dowed  period  Xuni LS   domestic good  start period   D_,(  + ,_,) 
+income   old bonds   repaid  period .  au~orities tax  income  
+ endowment   rate ,  consumer saves   period , allocating   do�mestic  foreign bonds,   *. respec�tively.  authorities impose capital control   form  tax   foreign bond. 
+Let </> denote  tax rate, implying   domestic interest rate. ,  determined   + , = ( + ,*)(1 </�. Consequentl .  tax 
+determines  premium   foreign 
+ domestic real interests. </> = (* , )/(1 + *).  premium </>   measure   inten ity  financial controls.  existence  
+ premium implies  consumers    incentive [0 engage  illicit capital 
+flight.  order  avoid  tax.  capital 
+� PAPERS  PROCEEDINGS  2004 
+flight  intennedimed via  trade account; 
+  potential magnitude   deter�mined   volume  impons (,)  ex�pons (' , ), 
+Preventing illicit capital nows induced  premium cf> requires spending 'TX'  enforce�ment.  assume  enforcement   result�
+ant premium  linked   following reduced fonn:� 
+cf>' > 0 cf>" < . 
+ formulation assumes  larger trade 
+openness requires equi-proportionate in�
+crease  enforcement  order  suppon  
+given premium.   recognizes  diminish�
+ing marginal efficacy  enforcement.  tax  foreign bonds   enforcement  finan �cial repression implies   consumer  in�
+different   domestic   foreign bond. 
+Enforcement   income tax  associated 
+ collection cost .\   dollar  gross taxes. implying thal  net tax collected  tax   ( .\)IX'.  consolidated inlenem�
+paral budget constraint facing  alllhurilic~ 
+  reduced  
+(3) (  .\)'[  +  ~ *] + cf> 
+Financial repression imposes taxes  do�mestic savings, * +  = ,   premium rate. cpoThis tax   components. ,  taxes foreign bonds. *. directly,   pre�mium rate.  addition.  reduces  cost  financing  domestic debt. ,   premium rate. Unlike   privale sector.  effective real interest rate facing  fiscal authorities equals  foreign .  policymaker chooses  tax rates '.   enforcement '   maximize  utility   represen�
+8  potcntial capitol flight  assumed 10  propor�tional  impons. Similar results  hold   ~sumed potential capital night   proportional  imports + expons. 
+tative agent. subject   fiscal   private budget constraints.    order conditions 
+characterizing consumer' consumption pat�
+terns.  following claim characterizes  pat�tern  optimal taxes  re uiling financial repression (see Aizenman [2oo3J   derivation). 
+CLAIM : 
+() Full fina"cial illfegralioll  optimal   presence oj lump-sum taxes (. ..  
+.\ = 0). 
+() Costly collection  lax.es alld low enough commercial opellness imply 'har financial 
+repressioll 1V01lld  parr   mellu  
+.xes. 
+() Higher savillgs alld lIlore COSIly colleelioll oJraxes increase  optimal level offmall�cial repressioll ( > 0,  > 0, dq,;.\ > 0, (Illd dq,;dD > 0, IVhere , slallds  lite 
+optimal financial repression premium). 
+( ) Greater commercial openness (defined   consumption share  imports. (3). lends  reduce  optimal le\'el offinan�
+cial repressioll, dq,/3 < . Tltis follolVs 
+ lite observario"  greater commer�cial openness increases  effective cost oj financial repression, reducing thereby llle lIsefulness  financial repressio"   implicit lax. 
+Discussion:  assumed away uncertaint .  analysis   extended   case  monitoring implies random interception  il�licit capital flight.  extension implies  
+existence  well-defined demands   do�mestic   foreign bonds (recall    present model,   bonds  perfect sub�
+stitutes  equilibrium). Yel,  modification 
+  change  main re ults dealing   factors determining  optimal level  financial repression (see Aizenman  Noy. 2003). 
+ simplified  analysis  assllming  same income tax ()   periods. Allowing 
+ intenemporal variation   income tax 
+ imply   taxes  set  equate  marginal tax distonion across  time periods,   modification   impact  char�acterization  financial repression. Another simplifying assumption   constant 
+marginal collection cost  income taxes. 
+plausible alternative  increasing marginal collection cost.  main modification induced   change    higher outstand�ing public dcbt,  higher fiscal expenditure, 
+ increase  optimal level  financial repression. 
+ openness measure  utility based.  related   consumption weight   foreign good.   argue   openness   economy  impacted    supply  
+demand side. Yet,  logic  thisdiscussion  unrelated   exact detemlinants  openness, 
+  follows   enforcement technology [equation (2)1.  illustrate  point,   
+focus   dual case,     onc 
+traded good,  production function  Cobb�Douglas   domestic   foreign input,  trade  determi ned   demand  im�ported  puL'.    shown   case  
+ exact version ofthe above claim contjnues  
+hold (see Aizcnman. 2003). 
+ fair criticism   public-finance ap�proach described above    more aCClI�rately describes homogeneous countries.  
+ policymaker  guided   interests   
+median voter.    little political uncer�tainty pertaining  competing parties  com�peting interest groups. .   useful 10 
+consider  polar case. corresponding  high degrees  opportunism  political uncer�
+lainty.  expects  mOSI countries  char�acterized  regimes  continuum  
+  polar cases. Aize nman  Noy (2003) illustrate    approaches  
+lead  similar links  macroeconomic 
+ political-economy variables  de facto   openne;.  ;    similar�ity   predictions   opportunistic   public-finance approaches.   cases, 
+ cohesive social organization. greater polit�ical uncertainty,  greater commercial open�ness  associated  higher de facto   openness. 
+. Concluding Remarks 
+ de facto financial openness   out�come   efficiency  political-economy 
+considerations;     careful  attaching nonnative implications   find�
+ings without having good model   econ� omy. Yet.  results reported   paper  provide some guidelines  policymakers. Trade opening  countries  repress  financial system  inevitably lead  financial opening, increasing thereby  cost  public debt. , sustainability   resultant financial opening requires deep fiscal restructuring. Ar�gentina stands  sad example   logic. ,  impact  adopting financial opening 
+without deep enough  scal re tructuring wa increase   cost  refinancing  public debt.  general,    take some time  
+ debt 10 build  sufficiently  induce crisis.   end   process financial repres�
+sion  inflation remain  default taxes used 
+ weak fiscal systems. 
+REFERENCES 
+Aizennum, Joshua. "  Hidden Links Be�
+tween Financial  Trade Opening:' Na�
+tional Bureau  Economic Research 
+(Cambridge, MA) Working Paper . 9906. 2003. 
+Aizenmann, Joshua  Noy, lIan. "Endogenous Finam::ial Openness: Efficiency  Political Economy Considerations." National Bureau 
+ Economic Research (Cambridge, MA) Working Paper . 10 144,2003. 
+Boyce, James .  Ndikumana, Leonce. " 
+Africa Net Creditor? New Estimates  Capital Flight  Severely Indebted Sub�Saharan African Countries, 1970-1996:� 
+ ouma!  Developmelll Studies. December 
+2001. 38(2). . 27-56. 
+Calvo, Guillermo . "Capital Flows  Capital�Market Crises:  Simple Economics  Sudden Stops."  /mal  Applied Econom�ics, November 1998, 1( 1), . 35-54. 
+Cukierman, Alex; Edwards, Sebastian  Tabel�lioi, Guido. "Seigniorage  Political .nsta�bility:' America" Economic Review, June 
+1992, 82(3), . 537-55. 
+Dernirgu-;-Kunt, Asli  Detragiachc, Enrica. "Financial Liberalization  Financial Fra�
+gility." Working paper. International Mone�tary Fund, Washington. DC, 1998. Diaz.Atejandro, Ca rlos. "Goodbye Financial Re�pression. Hello Financial Crash."  /mal  
+Deve!/Jl1Iellf Ecollomics. September 1985. 
+19(1). . 1-24. 
+AEJI PAPERS  PROCEEDINGS MA ' 2!XJ. 
+Dooley, Michael. " Survey  Literature  Controls  International Capital Transac�tions." IMF Siaff Papers, December 1996, 43(4), . 639-87. 
+Edwards, Sebastian  Frankel, Jeffrey ., eds., 
+Preventing currency crises  emerging mar�
+kets. Chicago: University  Chicago Press, 2002. 
+Edwards, Sebastian  van Wijnbergen, Sweder. 
+" Welfare EFfects  Trade  Capital 
+Markel Liberalization." Ifllematiollal Eco�
+nom; Rev;ew, February 1986, 27( ), . 141-48. 
+Gio\'annini, Alberto  de Melo, Martha. "Gov�
+ernment Revenue  Financial Repres�
+sion." American Economic Review, September 
+1993, 83(4), . 953-63. 
+Hellman, Thomas .; Murdock, Kevin .  
+Stiglitz, Joseph . "Liberalization, Moral Haz�
+ard  Banking.  Prudential Regulation: 
+ Capital Requirements Enough?" Ameri�can Econom; Rev;ew, March 2()()(), 90( ), . 147-65. 
+Kaminsky, Graciela .  Reinhart, Carmen . " Twin Crises:  Causes  Banking  Balance-oF-Payments Problems." Amer;�c( Econom; Rev;ew, June 1999,89(3), . 473-500. 
+Kletzer, Kennelh  Kohli, Renu. "Financial Repression  Exchange Rate Management  Developing Countries: Theory  Empir�ical Evidence  India." Working Paper, In�temaLional Monetary Fund. Washington, DC, 200 1. 
+Prasad, EswHr; Rogoff, Kenneth; \Vei, Shang.Jin 
+ Kose, . Ayhan. "Effects  Financial 
+Globalization  Developing Countries: 
+Some Empirical Ev idence." Working paper. IntemaLional MoneLary Fund, Washington, DC, March 2003. 
+Rodrik, Dani, " Needs Capital-Account Convertibility?"  PeLer Kenen,  ..   IMF pursue capital CCOIIIJI cOI1l'erribil�it)'? Princeton Essays  International Fi�nance, . 207. Princeton, NJ: Princeton University Press, 1999. . 55-65. 
+\\'cj, Shang-Jin  Wu, Yi. "Life  Death Implications  Globalization." Working pa�per, International Monetary Fund, Washing�ton, DC, 2002. 
+\-ViUiamson, John  Mahar, Molly. sun 'ey  financial liberali:atioll, Princeton Essays  International Finance, . 2 11 . Princeton. NJ: Princeton University, Department  Economics, International Finance Section, 1998. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

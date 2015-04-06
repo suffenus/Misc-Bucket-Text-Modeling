@@ -1,0 +1,1202 @@
+Minimum Wages  Employment: Case Study   
+Fast-Food Industry  New Jersey  Pennsylvania: Comment 
+ DAVID NEUMARK  WtLLlAM WASCHER' 
+ pa. ankle   Review, David Card    study  received.   suppon  Alan , Krueger (1994) reponed evidence  proposals  increa~ minimum wages   called  question  conventional view   United States  elsewhere,   evidence labor-market effects  minimum-wage laws,  against  competitive labor-market model,  particular, Card  Krueger (hereafter, CK) sur�believe  careful reevaluation  ilS resullS  veyed fast-food establishmenlS  New Jersey   interest. Pennsylvania  1992     mini�Ln  paper,  present new evidence based mum wage  New Jersey rose  $4,25   administrative payroll records obtained  $5,05,  comparing  changes  employment sample  Burger King (BK), Wendy', Roy Rog�in   states,  constructed simple ers (RR),  Kentucky Fried Chicken (KFC) "difference-in-differences" test   prediction restaurants  New Jersey  Pennsylvania,  minimum-wage increases reduce employ�drawn   same geographic areas   ment  affected workers, Contrary   predic�same chains   CK' sample  restau�tion, CK find " evidence   rise  New ranIS wa~ drawn,    likely overlap�Jersey' minimum wage reduced employment  ping substantially   restauranlS   fast-food restauranlS   state ","   fact  sample,  compare resu llS using  payroll " increase   minimum wage increased data   using CK' data,   col�employment" (, 792),1 Given  prominence lected  telephone surveys,    main 
+findings  repon, 
+,  employment data collected  CK 
+� Neumark: Depanment  Economics, Michigan Slate indicale substantially more variability   University. East Lansing.  48824. National Bureau  period   surveys    payroll Economic Research,  Public Policy Institute  Califor�
+data,  standard deviation  employment
+nia; Wascher: Board  Governors   Federal Reserve 
+change  CK' entire sample exceeds  
+System. Washington. DC 20551.  thank John Bound. 
+ payroll data  factor  nearly ,  Holzer. Lawrence Katz. Alan Krueger. Bob Lalonde. Spen�the 90th-10th centile difference exceeds   cer Krane. John Strauss, Jeff Wooldridge. anonymous ref�William Dickens. Bruce Fallick. Judy Hellerstein. Harry 
+ payroll data  factor  2.6.  more erees.  seminar panicipants   Federal Rese", Bank 
+disaggregated level ( restaurant chain, own�
+ Kansas City,  Federal Trade Commission. Indiana 
+ership,  state),  ratio   standard de�
+University. IUPUI.  Milken Institute.  University  California-San DIego.   University  Washington  viation  CK' data     payroll data  helpful comments.  David Card  Alan Krueger  often above four.   view,   higher providing  data.   grateful  Carlos Bonilla   
+variability  employment change   data 
+Employment Policies Institute (EPI).   participating 
+collected  CK, coupled   evidence 
+franchise owners  corporations.  providing us   
+payroll data.  EPI  funded  business contribution<; measurement error   survey, pro�
+severe  generally opposes minimum-wage increases. . vides motivation  reevaluation   "ex�the analysis   data described   paper  con�
+periment" using alternative data source. 
+ducted independently   EPI,  neither author re�
+. estimates   employment effect 
+ceived  remuneration  conducting  research.  
+ New Jersey minimum-wage increase   
+data sct  programs used   paper  available via Neumark' home page  www.bus.msu.edulecon.  payroll data genemlly lead   opposite conclu�views expressed   necessarily reflect    Employment Policies Institute.  Federal Reserve Board   stafr.   Public Policy Institute  California.  Similarly. summarizing  <;;tudy    page  minimum wage remained unchanged. ' find  employ�their widely cited book Myth  Measurement (1995). CK ment  New Jersey actually expallded   increase  state  "Relative  restaurants  Pennsylvania.    minimum wage" (1995 . . italic'; theirs). 
+1362 
+sion   reached  CK.   subset  restaumnt types represented   payroU data, CK' data imply   New Jersey minimum�wage increase ( 18.8 percent) resulted  illerease  fast-food employment    percent  16.8 percent relative   Pennsyl�vania control group,  elasticities ranging  
+0.54  0.89;  full sample  points  large positive employment effect.  contrast, simple replication  CK' difference-ill-differences esti�mation using  payroll data indicates   New Jersey minimum-wage increase led  3.9�percent  4.0-percent decrease  fast-food em�ployment  New Jersey relative   Pennsylvania control group.  elasticities   range  -0.2 1  -0.22. Sensitivity analyses   estimates yield qualitatively similar results, although  range  elasticities using  payroll data expands  roughly -0.1  -0.25.  es�timated disemployment effects   payroll data  often statistically significant   5-or 10�percent level, although   some estimators  subsamples  yield insignificant-although almost always negative-estimates. Similarly,  positive estimated employment effects  CK' data hold   additional sensitivity analyses   often statistically significant. ,  contrast  CK' evidence suggesting   results   New Jersey-Pennsylvania minimum-wage exper�iment  "difficult  explain   standard competitive model" (1994 . 792),  payroll data  generally consistent   prediction  raising  minimum wage reduces  demand  low-wage workers. 
+. Card  Krueger' Results 
+ April , 1991 ,  federal minimum wage rose  $4.25  hour.   time,  federal minimum wage   prevailing minimum   Pennsylvania  New Jersey.  April . 1992, New Jersey' minimum wage  increased  $5.05,  Pennsylvania' minimum wage did  change. CK surveyed restaurants  four fast-food chains  New Jersey  eastern Penn�sylvania   periods: February IS-March 4, 1992,   New Jersey increase,  No�vember 5-December 31, 1992, eight  nine months   increase.  explained below,  employment data  collected     in�terview date,    cover precisely defined time interval. 
+Panel    reports descriptive slatistics   main result  CK' data:  average,   eight  nine months following New Jersey' minimum-wage increase. employment   fast-food restaurants  New Jersey grew  relatively more full-time equivalents (FfE')   Pennsylvania.'  shown  column (),  difference arises  small employment in�crease  New Jersey (0.5 FTE')  large employment decline  Pennsylvania (2.3 FTE'). Column (6) shows  difference-in-differences regression estimate  controls  chain  ownership (franchise vs. company-owned).  estimate indicates  employment  New Jersey grew  statistically significant 2.78 FTE' rel�ative  Pennsylvania, suggesting  minimum wages increase employment.  implied elastic�ity  employment  respect   minimum wage  0.70. 
+ same rows  illuslrate    some extremely large employment changes  CK' data.  largest employment decline  41.5 FTE' ( 64.4-percent decline.  67.5  24 FTE'),  largest increase  34 FTE' ( 233�percent increase,  15  50 FTE'),   standard deviations  employment change  8.5  New Jersey  10.9  Pennsylvania.'  variability appears high, given   mean level  employment   21 PTE'   wave   survey, although    discussion   issue  CK' paper4 
+.  Payroll Data 
+. Data Colleclion 
+ set   obtain payroll records   zip-code area represented  CK' data,   
+2    . ful1-11me equivalent"  defined  thc number  full-time nonmanagement employees, plus one-half  number  part-time nonmanagement employees. plus thc number  management employees.  results shown  panel differ slightly   shown  !. 3  4  CK' paper  CK exclude restaumnt" missing staning wages;     same,  replicate  results exactly. 
+)  largest relative employment decline  restau�
+rant  remained open  77,3 percent.   largest 
+relative increase  336 perccnt. 
+4 CK , , repon   standard deviation  employment change   en tire sample  8.8 FTE',  footnote  lheir  4. Surprisingly.  13 largcM em~ ployment declines  CK' data   restaurants  remained open. 
+TABt� I-EMPlOYME.vr CHANGES   CA.RO/KRUEGER DATA 
+Descriptive siniistics  Siale Regression eSllmale!> 
+Mean ( ) Standard deviation (2) Maximuml minimum (3) 90th/10th ccoli le (4) Observations (5) New Jersey� Pennsylvania employment change (6) Elasticity (7) 
+. Card/Krueger Full Sample 
+Change  lotal FTE' Pennsylvania New Jersey -2.3 05 10.9 85 22.81-41.5 34/)4 117/-18 105/-9.5 75 309 2.78 (1.16) 0.70 
+. Card/Krueger Full Sample, Nonmanagemem FTE ' 
+Change  nonmanagement FTE' Pennsylvania New Jersey -2.5 0.5 10.8 8.2 23.81-43.5 35/)4 10.21-17 .7 101-8.1 76 315 2.97 (1.12) 0.89 
+. CartUKrueger Restauranu  Sampled Universe 
+Change  nonmanagemenl FTE' Pennsylvania New Jersey -3.0 0.6 13.2 8.6 23.81-43.5 35/-25.5 15 .1/-19.3 10.7/-8.1 38 176 3.07 (180) 0.85 
+. CardlKrueK" Restaurants  Nonsampled Uni\' ru 
+Change  nonmanagement FTE' Pennsylvania New Jersey -2.0 0.2 7.8 7.7 161-20 215/)4 5.61-165 8.3/-8.5 38 139 180 ( 145) 0.61 
+Notes: "FfE'" refers 10 full�time equivalent employees    interview date.  "sampled universe"  Burger King  KFC fmnchises.  Wendy'  Roy Rogers franchises  company-owned restaurants,   zip.code areas  sted   3. Estimates  column (6)  fTOm regression  employment change  dummy variable  New Jersey,  dummy variables  chains  company-owned units. Standard errors  reponed  parentheses. Elasticities  column (7)  evaluated  sample means   corresponding sample. 
+type  restaurant (classified  chain  own�ership)  thai zip-code area.   able  obtain payroli records  Burger King  KFC franchises,  Wendy'  Roy Rogers fran�
+chises  company-owned restaurants,   
+80 percent (25   31)   zip-code areas 
+  CK' restaurants  located.  
+coliected some   data ,  some  coliected   Employment Poli�cies Institute (EPI)  then supplied  us.  Appendix ,  provide more details regarding  coliection   data;   Appendix  
+below   present evidence documenting 
+ accuracy   data coliected   EPI, 
+ discuss  concerns regarding  data. 
+"Zip-code areas" refer     digits   zip code,    information available   data provided  CK.   data�coliection efforts     EPI  
+restricted  zip-code areas  restaurants�
+distinguished  chain  ownership�represenled  CK' data;  example, 
+information  requested  company-owned 
+Roy Rogers restaurants   zip-code areas  
+ CK   restaurants.    
+observations  come  franchisees  
+ listed   Chaill Opera/ors Guide  1995 ( year    began  research), 
+ restaurants     chains.   headquartered  Pennsylvania, New Jersey,  New York,    parent corporations 
+(   listed   Guide)'     EPI requested   franchisees  
+parent corporations provide information  
+ payroli records   total number  hours worked  non management employees   pay periods spanning  dates   wave  CK' survey, separately   res�
+taurant   zip-code areas represented  
+CK' data.  make  data more comparable 
+~  principle. franchisee headquartered   state   outlets  New Jersey  Pennsylvania.  assumed    cover  outlets  surveying   states. Appendix provides details   Chain Operators Guide. 
+ CK' data,  hours data  then con�verted  full-time equivalent employees (FfE') assuming full-time workweek  35 hours. Overall,   data-collection effons 
+resulted  45 franchisees contacted,   
+25 ,esponded,  17 supplying data  eight indicating    outlets   zip-code 
+areas     interested.   case  
+ parent corporations,  supplied data   refused   . CK' data set   include unique res�taurant identifier (  address),   
+ unable  match  individual units.  
+data set includes    digits   zip code ( zip-code sectional area)    
+surveyed restaurant  located, ,     match unjts  approximate location, although some zip-code areas  rather broad. 
+Moreover,   able  identify some zip�
+code areas     quite confident  
+  collected data   franchised res�
+taurants ( company-owned restaurants)  
+chain,     distinguish  zip-code areas      restaurants included  CK' data sso appear   data set,  zip-code areas      panial data   restaurants included  CK' 
+data set might   represented   data set. 
+  final analysis,   able  obtain data    franchised restaurants   
+company-owned restaurants  chain  24 
+zip-code/chainlownership combinations (7  Pennsylvania  17  New Jersey)  data  
+some restaurants  additional 25 zip-code! 
+chain/ownership combinations. 
+. Limitations  Representativeness 
+  Payroll Data 
+ 2 provides comparison  restaurants 
+ CK' data     payroll data. Panel shows  number   type  restaurant  CK' full sample   number  zip-code 
+areas covered. Panel  shows similar numbers 
+  subset  CK' restaurants (distinguished  chain. ownership.  zip-code area)   represented   payroll data;  refer   subset   "sampled universe." Finally, panel  repons  same information   payroll data. Note  whi le  payroll-data sample  smaller  CK' full sample,   bit larger   "sampled universe" (235 vs. 214) be�
+cause   obtained data  some restau�
+rants     surveyed  CK  did  respond   survey;  difference  panicularly pronounced   company�
+owned restaurants,    data   
+units owned   corporations  responded. Nonetheless,  obviously    completely representative sample   restau�
+rants  CK' data,  terms  chain, owner�
+ship,  zip-code area6 Below,  consider  sensitivity  estimated employment effects 
+ differences   restaurants repre�sented    data sources.  addition   differences,   able  obtain data 
+  noomanagement employees. whereas 
+CK   data  managerial employment (  relatively small percentage  total employment). 
+ examine  extent    limita�
+tions   payroll data might influence  
+results,  compare descriptive statistics  
+results  CK' full sample   obtained  CK' sample   limit  employ�
+ment definition  noomanagement FrE',  
+  restrict attention   zip-code areas 
+ restaurant types   payroll observa�tions  available.  evidence  presented  panels B-D   .  panel ,  restrict 
+attention  noomanagement employment  
+measured  CK' data.  variability  em�ployment change   regression estimate   minimum-wage effect  employment   similar    reported  panel , 
+   couple  apparem discrepancies   
+2. , CK appear   Roy Rogers company-owned restaurants   more New Jersey zip-code areas    (16 vs. 13).     zip-code areas   CK report  restaurants, , Roy Rogcrs indicalcd 10 us     company-owned restaurants   relevant lime period. , although   four Wendy' restaurants  New Jersey classified  company�owned  CK' data, Wendy' reported  company-owned restaurants  New Jersey  providing us   payroll data.  CK interviewed manager  assis�tanl manager,   possible   obtained incorrect classification   ownership status  some restaurants   telephone survey.  did obtain data   Wendy' franchises   zip-code area   CK report  company-owned restauranl<;;  included  obser�vations   payroll dala set,  did  revise CK' dala.   reAected  column (5),  reports Wendy' franchises   zip-code areas   sampled univel1ie  CK' data,  four   payroll data.  correspondingly   totals  column (9). 
+ .... BLE 2-S"MPLE CHARACTERISTICS 
+BK BK RR RR Wendy' Wendy' KFC KFC franchise company franchise company franchise company franchise company Total 
+() (2) (3) (4) (5) (6) (7) (8) (9) 
+. CunVKrueger Full Slml/,Ie 
+Res1(lumnH ill Cardl Kmeger datu Pcnn~ylvania New Jcr<;cy Zip-l'txle areas  COf(VKrut"ger 34 104  25 5 25 12 53 7 36 6 4 4 40 8 28 76 315 
+dl/ttl Pcnn..ylvania New JCr\ey 10 20  10 2 10 3 16 4 13 3 3 3 15 3  28 98 
+. CtmVKrtleger Sampled Ullil'UH' 
+Ref/(mrcmff '" Card! "''ger data Pcnn!.yhania New Jcr-.cy 20 93    6 12 50  14 6   13   38 176 
+Total ,,�cm/ areas ill CarlVKmeger dara Pcnn..ylvania New Jcr"cy 5 15    2 3 13  3 3   4   214  37 
+. Pmroll Daw 
+Rel/(Wr(JIIII ill ptlyrofl dow Pennsylvania New Jersey 31 63    7 32 67  16 9   10   72 163 
+Total 235 
+ZiIJ�code areas til 
+'mll daw Pcnn!.yh.ania New Jcr\Cy 5 15    2 3 13  4 3   4    38 
+Nmn' "Zip-code areas" refers 10   digits  zip code.  numbers  column (9)  total observations  zip-code area" arc  numbcNi  zip-code/chainlownership combinations. CK' full sample includes 31 distinct zip-code areas, 
+wherca~  1'>umple include!> 25. 
+using total employment. ,  restriction  nonmanagcmenl cmployment seems unimportant. 
+ pancl ,  report results using  sam�pled universe  CK' observations.  com�parison.  panel    report results using  subset  CK' observations  represented   payroll dala.  respect   vatiabil�ily  cmployment change,  restaurants   sampled universe  Pennsylvania exhibit con�siderably greater variability   restaurants   nonsampled universe,    New Jersey exhibit similar ( slightly higher) vari�ability.  suggests  simple comparison   variability  employmenl change   payroll data     corresponding sam�pled universe  CK' data  overstate  variability  employment change  CK' data. ,  overstatement  considerably   indicaled   differences   Pennsylvania figures  panels    alone.     more observa�tions  New Jersey  CK' data.   instead 
+combine  Pennsylvania  New Jersey res�
+taurants  CK' data,  standard deviation  employment change  9.7 FTE'   sampled 
+universe  7.7   nonsampled universe, 
+  90th-10th centile range  21.2   sampled universe  16.4   nonsampled universe. 
+Turning   influence   sampling lim�itations associated   payroll data   
+estimated minimum-wage effects,  figures  
+column ()  panels    indicate , according  CK' data,   sampled  Pennsylvania cells   employment de�clines  larger (3.0 vs. 2.0),   New Jersey cells   employment growth  higher (0.6 vs. 0.2).    reflected   
+regression estimates  relative employment 
+growth  New Jersey using CK' data, ,  reported  column (6),  3.07   sam�pled universe  1.80   nonsampled 
+universe. 
+ results indicate   ,  any�thing, sampled  set  cells    restaurants  CK'  data  larger employment 
+increases resulting   higher minimum 
+wage. , although    possible,  principle,  pick sample  CK' data  
+ overturn  results,   clear   
+data set   generated   manner.  
+, differences   results generated   payroll data  due  differences   data, rather    selection  subsarnple  
+ CK' results  reversed. Nonetheless,   still  instructive  compare results ob�
+tained   payroll data  results obtained   sampled universe  CK' data set�specifically, Burger King  KFC franchi ses,  Wendy'  Roy Rogers franchises  
+company-owned restaurants,   zip-code ar�eas represented   payroll data. 
+nl. Comparisons   Variability  Employment Change   Payroll  Telephone Survey Data 
+. Evidence   Measurement 
+ Employment Change 
+ 3 provides comparison  FTE em�ployment changes  CK' data   payroll data, broken down  restaurant chain, owner�ship status,   state    restaurant  located" Panel reports  zip-code areas     complete data-that , data   franchises  company-owned restau �
+rants  chain. ,  observations  CK' 
+data ought  appear   payroll data   zip-code!restaurant combinations, although  
+reverse need   true.  indicated   last 
+ rows  panel ,  payroll data show substantially  variation  FTE employment  time   CK' data;  standard de�viations  employment change  CK' data  
+8.0  Pennsylvania  6.9  New Jersey, versus 2.8  3.0   payroll data.   states, F-test rejects  hypothesis  equal 
+standard deviations    data sources, 
+ ap-value below 0.01.8  90th-10th cen�tile differences   considerably smaller   payroll data. Moreover,  disaggregated  type  restaurant  state,  measures  dispersion  always considerably higher  CK' data    payroll data. Note     true    sets  company-owned 
+restaurants;   parent corporations 
+provided payroll data   restaurants   
+relevant zip-code areas  company-owned res�taurants,    question   actually  "census"  restaurants  compare  
+CK' data   case.  shown  panel ,  variability  FTE employment change    higher  
+7  restaurants  wh.ich  obtained data  more   payroll period   time frame  CK' surveys,  randomly  lected data   period,  averaging  multiple pay periods  tend  decrease  variability  employment change   payroll data, compared  CK' data. Later,   examine  implied minimum-wage effects using  payroll data,  ohtain more accurate estimates  averaging  data  multiple payroll periods  estimate employment levels.   3 ( Figures 1-4 discussed   section),   exclude restaurants   data set   closed    wave   survey.  precludes  possibility   differences  estimates  employment variability    data sources arise   differences   number  closed restaurants. .  qualitative con�clusions  similar even   closed restaurants  included. 
+  F-test  based   ratio   independent sums  squared normal random variables.   context,  sums    independent  some restaurants overlap    samples, although   identify .  positive covariance   estimates    samples  presumably results   overlap  imply  ,  anything, overstate  p-value. 
+ 3-C... RoIKRUEGER DATA VS. PAYROLl DATA, CHANGES  NONMANAGEMENT EMPLOYMENT 
+Card/Krueger data Payroll data 
+Mo> Mean Equal 
+change change standard 
+io Stao<bnI 9OthI10Ih io SUUKlard 9OthI10Ih deviations 
+'', deviation ccnlile Observations '', deviation centile Obse:'atJOns (p-value) 
+(1) (2) (3) (4) (5) (6) (7) (8 ) (') 
+. lJp�Code Arl."ru ....'ith Payroll Data   Units 
+Burger King franchises 
+Pennsylvania (189) New Jersey (088. 086, 072) Wendy' franchises -11 .3 4.3 14..5 10.1 -1/ -21..5 19.61-12.7 2 12 5.0 3.0 2 .' .' 9.012..5 05 ..51 �0.0 4 15 
+New Jersey (088) 4 .6 6 .7 13.51�2.5 4 2.2 2 .5 4.61�3.0 8 
+'nd, ' compan)'�o ...med Pennsylvania (194, 181 , ISO) Roy Rogers company-owned Pennsylvania (194, 190. 189) New Jersey (088. 085, 084. OSI, 080, 079, 078, 077, 076, 074, 073. 071. 070) -4.5 -3.9 .] 10.4 5.9 5.4 10.5/-19 2.61 -15.4 8.21 -6.7 6 12 46 1.8 -1.3 -1.8 2. 1 .'2 .3 3.81 -3.3 1.61-3.5 1.01 -4.6 � 31 64 
+Total 
+Pennsylvania New Jersey -4.8 0 .3 8.0 6 .' 2.91-18.9 11/�6.5 20 62 -0.1 -0.6 2.8 3.0 3.31�3.4 3.61-3.8 44 87 0 .00 0 .00 
+. .p-Cod~ Areus ....itJr Payroll Dalo  Som~ Unils 
+8/{rg~ King franchis~ 
+Pennsylvania (194, 190, 186, 182) New Jersey (087, 085. 083. 082, 080. 079. 078, 076, 074, 073. 071 . 070) -1.1 0.' 17.3 '.5 19.7/-31.4 10.5/-13.9 18 80 2 .' 20 1.9 .. 5.510.6 4.7/-0.3 27 48 
+~nd)' '. francJrlSe. 
+New Jersey (076, 072. 070) 6.2 13.2 33.81 -6 .5 10 0 .9 5.8 7.11 -10.5 7 
+Roy Rog~. fronchls~ 
+New Jersey (086, 085) 3.0 4 .' 11.5/-1.5 6 -0.3 3 .6 6.1/�4.7 7 
+KFC franchises 
+New Jersey (086, 085, 080, 077) -1.4 3.7 5/-6.1 13 -4.0 4.3 0.7/-11.3 10 
+// 
+Pennsylvama New Jersey -1.1 1.0 17.3 ' .4 19.51-31.4 10.51 -11.6 18 111 2.' 0 .8 "3.6 5.5/0.6 4.7/-3.5 27 72 0 .00 0 .00 
+.  Sampl~ Zip-Code Ar~ 
+Pennsylvama New Jen;cy Pennsylvania  New Jersey -3.0 0 .8 0 . 1 13.2 8.6 ' .7 15.11 -19.3 10.8/-7.6 111�11.2 38 173 211 1.0 0 . 1 0 .4 2.9 3.3 3.3 4.81-3.0 4.4/-3.7 4.41-3.5 71 15. 230 0.00 0 .00 0 .00 
+NOles.'  restBurants  remained open  included   .    match establishments across   data sources,   CK' data sct  ( include interview dates ror .  wave.  obtained records    payroll periods  possible   spans February IS-Marth 4, 1992.  November S-Occember 31, 1992 (. dates covered  CK' survey).   payroll data.  ha\ data    four payroll penods   orthese spans.  randomly selected  payroll period. Payroll data  reported  weekly, biweekly,  monthly. ' monthly reports rerer  February  November.  dIvided hours reponed  2 forbiwed.ly reports.  . Burger King franchisees supplYing monthly repons,  figures rerer  total hours worked   month. 'Therefore,  arrive  consil>lent weekly hours number,  divide monthly hours  29n ror February (1992  leap year),   30fJ ror November.  Roy Rogers company data   reported  monthly,  actually rerer  hours worked  rour-week period. , ror  restaurants  simply divide  
+4. Data   Roy Rogers company-owned restaurants  zip--code areas    appear     restaurants  omitted   disaggregated estimates using CK' data  panel 8 . 
+ilII..11 �� 
+� 
+� 
+ .. 
+&.. 
+. 
+ . COMPARING TilE  DATA SETS. PENNS YLVANIA 
+. 
+~... ....... .. .. 
+._Jil.. 
+ 2. COMPARING   DATA SETS. 
+.. . 
+.1 
+NEW JERSEY 
+CK '  data    payroll data   zip�
+code areas     data   some 
+franchises,   difference particularly pro�nounced  Pennsylvania. Finally,  panel   report similar statistics     obser�
+vations  panels   combined,  
+provides  simplest comparison  variability 
+   data sources.  standard deviation 
+ employment change  9.7  CK' data, versus 3.3   payroll data,   9Oth�10th centile difference  22.2  CK' data, versus 7.9   payroll data. Again,  stan�dard deviations  significantly different. 
+ greater variability  CK' data   
+driven     outliers. Figures   2 show histograms   initial employment lev�
+els  employment changes    data sources, using  payroll data   sampled universe  CK' data.   ,  upper left-hand panel shows  distribution  initial FTE employment levels  CK' data  Penn�sylvania,   lower left-hand panel shows  same distribution   payroll data.  initial employment levels   payroll data   more clustered   10  20 range  exhibit fewer extremely large values.  mid�dle panels show  same histograms  FTE employment levels   time    survey. Again, CK' data exhibit more employ�ment variability   payroll data. Finally,   right-hand panels show  histograms  employment changes.   contrast   striking,   employment changes  CK' data  more dispersed    payroll data.  2 displays similar histo�grams  New Jersey. Again, employment changes   more dispersed  CK' data    payroll data, although    
+IO
+ Pennsylvania.9�
+   <,!!gestion     referees.   compared  variability  CK' data   payroll data   ..timatc... reported   gross flows literature. Generally. lhc~  estimates  employment growth variability rail    variability indicated  CK' data   payroll data.  example,  standard 
+deviation   log difference  employment  0.21  
+ payroll data  0.44  CK' data:  compares  estimate  abou  0.35  Jonathan . Leonard (1987).  calculated change ..  firm size   indus� tries <,ing unemployment� insurance tax records  Wis� <;". Similarly. Steven . Davis et 31. (1996 . 1(0) report standard deviations  annual employment growth rates  .. manufacturing plants ranging  0.36  1978  0.41  1982 using data   Longitudinal Research Database.  arc reluctant  interpret  compari~ons too literally. .  particular. given   New Jersey-Pennsylvania experiment wa' con�ducted  narrow industry  relatively small geographic area.   franchised outlets  often subject  restricti\ franchise agreements regarding staffing.   argue thai   estimates   expected  show greater variability  employment change. 
+JO   Reply (Card  Krueger. 20(0). CK report standard de\'iation~  employment change   ES�202 data thai . ,urprisingly.  similar magnitudes 10    telephone survey.  think longitudinal analyses   ES-202 data (  mention  results)  intrigu�ing  bear further exploration. Ho",ever.   reluctant   juncture  accept  ES-202 estimates  face value.  longitudinal data  thi.. period suffer   potential problem  changes   level   data  reported. occau",  Bureau  Labor Statistics (BLS)    proce<.,.,  encouraging multiestablishment reporters  pro�vide  employment ..timates   establishment  county level rather  grouping    establishments together ( BEL breakouts project): CK  acknowledge thi .. problem   Reply.  addition.  know little   implication'>  data imputation   ES-202,  occur.,   7-percent rate nationally   apparently significantly higher  small bu'\inesse~. Finally.   .. proyided  CK raise some questions   accuracy  ~ data.  example.  2  CK' Reply.  report\   regard  more reliable cro..~ectional data  select group  fast-foOO chains. indicates employment declines   5 percent     four months    half  1994.  increases  
+8 . Explaining  Difference   Variability  Employmem Change 
+ potential explanation   greater vari�ability  employment change  CK' data rel�ative   payroll data    payroll data measure hours (  convert  PTE'), whereas CK' data measure number  employ�ees.    fixed costs  hiring  firing workers,  might expect hours   more variable  employment,   measured employment changes   payroll data   more variable,    hand,  fast-food restaurants require relatively constant number  hours  work,    fluctuations  week  week   number  individuals working part-time  full-time,    more variation   number  employees    number  hours worked. Although,  principle,  variability  employment change measured    ways  differ.   skeptical   explanation  account     higher variability  CK' data.  particular, CK made effort  capture hours variation  soliciting data   part-time  full-time employment  converting  data  full-time-equivalent employment con�cept.  addition,   able  obtain direct comparison   variability  employment change-with employment measured   number  employees-for subset  observa�tions   payroll data   respondents happened  supply data  non management employment (even though  did  ask   data).   then extract  subsample  CK' data, distinguished  chain, owner�ship,  zip-code area,    ob�servations   payroll data  drawn,  compare  variability   change  number  employees (.., without distingui>hing full�
+ milar magnilUdes    half  1996.   7 Penn�sylvania counties represented   original data sct. Based  discussions  BLS !.taff.  under;;tand    type  narrowly defined cross-<:.ectional dala !tet. units  move      sample  ..'er lime   errant coding   franchisee name.  ",ould affect measured changes oyer lime.  emphasize   con�cerns   <:.peculative: further research   newly accessible disaggregated ES-202 data  ultimately prove informatiye  minimum�wage effects    questions. 
+", ", 
+iliYL....  
+. ��
+" 
+�"0 -30 -20 �'0 ,0 20 30
+" 
+Card/Krueger Data,  ::97 PayrOll Data,  = 52  3. VARIABILITY   CHANGE  NUMBER  EMPLOYEES 
+time  part-time)    data sources.     52 restaurants   payroll data  supplied information  employment levels.  standard deviation   change   number  workers employed  2.9.   97 restau�rants   corresponding sampled universe  CK' data.  standard deviation  11.5.'2 Fig�ure 3 shows  histograms  employment change measured  way.    previous figures.   apparent  CK' data indicate  more dispersion    payroll data. although  evidence  based   small sample. 13 
+Alternatively,   argue  OUf deci�sion  divide hours  35  obtain FfE em�ployment artificially reduces  standard deviation  employment change   data,  35 overstates full-time hours.  made  adjustment  CK attempt  measure FfE employment,    standard defini�tion  full-time employment (  CPS,  
+    3,    data  more   
+payroll period,  randomly select  period. 
+12  same qualitative conclusion holds    ana�lyle  employment levels  Slale.  standard devia�tions  employment change based  CK' data  16.1  Pennsylvania ( =-23)  9.5  New Jersey ( = 74).  comparable ~   payroll data  2.5  Penn~ylvania ( = 33)  3.1  New Jersey ( = 19). . again.  variability  employment change  higher  factor    more  CK' data.   cases.  p-values   test  equality  standard deviations  below 0.01. 
+]   payroll data.  appears   hours data   variable   data  number  employees.   ~ubset  52 restaurants.  ~tandard deviation   change  FTE employment using  hours data  2.2 (vs. 
+2.9 using number  employees). 
+example)  35 hours week  IIlOre.  course,    defined  "average worker"    works 20 hours  week.  then    want  blow   number  workers  CK' data   same way,  get "part-time equivalent" workers, rather  full-time equivalent workers.   lead  similar qualitative comparison  variability    data sources. 14 
+14 CK nonetheless report.   Reply (Card  Krueger. 2000). evidence suggesting  scaling  35 hours   payroll data artificially reduces  di~...ion  employment change   dala. Specifically.  report standard deviation  proportional employment rhange  
+0.35   data  0.39   data. Given  depiction   data  Figures 1  2,  roughly equal mean ..   higher dispersion  levels  CK' data. thi ... ~eems <;urprising. Indeed.   stick   original procedures used  Figures   2    3,  ~imply use unsealed hours   data ~et ( point   CK focus)  adopt CK' definition  proportional change relative  average employment    period .. ,  obtain ~tan�dard deviation  proportional employment change  0.21   data  0.42   data.    'Nords, using  standard deviation  measure  variability  employment change.  ratio   variability  CK' data relative    2.0.   obtain different estimates  dividing  change  first-period employment rather   av�erage.   retaining  clo~ restaurants-although. ,> explained   text.  argue against doing  laller  comparing employment variability    data sets.   use first-period employment.  resulung standard de�viations  0.19   data  0.53  theirs.  ratio  
+2.8.   closed restaurants  included   sample~.  obtain standard deviations  0.24   data  0.54  theirS ( ratio  2.25)   divide  fil'lit-period em�ployment,  0.35   data vs. 0.48  theirs ( ratio  1.37)   divide   average. ,    ways  doing  calculation show Mnaller di<;persion   data (standard deviations  0.21.0.19.  0.24. vs. 0.35   calculation CK report).  0.39 standard deviation 
+Instead,  suspect   high variability  employment change  CK' data  due   imprecision   survey questions elicit�ing employment levels.  verifying    speaking  manager  assistant man�ager, CK' interviewer asked "  full�time  part-time workers  employed   restaurant, excluding managers  assis�tant managers?" Survey respondents   given  time period    define employment,   answers  well  ranged  employment   shift    telephone survey took place  em�ployment  entire payroll period,     long   month. Moreover, be�cause  appears     effort  interview  same manager    waves   survey,    reason  believe   responses      waves  based   same "definition"  employment;  absence  persistence   measurement error  explain   higher variability  employment change. 15  contrast,  payroll data contain total hours worked  well�defined payroll period (  specified   weekly, biweekly,  monthly),  con�sistent basis    survey periods.  
+  CK data ciled  CK' Reply (Card  Krueger. 2000)  obtained  adding back:  managers  dropping  procedure  weighting part-time workers  one-half  weight given  full-time workers. [Defining employment   data  way,  relative variability  employment  CK' data   closed restaurants  included   change  divided   average  1.09 (0.38510.354). Higher estimates-1.43. 1.68,  1.42-are obtained     alternative ways  doing  calculation .]   definition  inappropriate  comparing CK' data  ; following  lead set   original paper,  data  intended  measure full-time equivalent employment,  given  data  collected,  comparison    based  nonmanagerial employment ( assume  man�agerial employment  lower  variability  employ�ment change   data,     theirs). 
+~ Even ifCK  collected data defined  same way    waves   survey, higher variance might  expected   data   measured employment  point  time,   measure   payroll period.  entails some averaging. .    inherent ambiguity   way CK' survey elicited employ�ment infonnation.  regard   more likely  changes   "measurement period"    waves   survey  res.ponsible   higher variance.  way,  maintain   measure  more reliable.  addi�tional criticism  CK' survey instrument, see Finis Welch ( t995). 
+ therefore provide more reliable mea�sure  FTE employment change  restaurant. 
+ fact.  evidence  consistent  rather severe classical measurement error   em�
+ployment changes  measured  CK' data.  see , consider  subset  11 reslaurants   accidentally interviewed twice  CK 
+   wave.   restaurants, CK 
+report   reliability ratio   employ�ment level  0.70.   assume classical mea�
+surement error   wave.   measurement error uncorrelated across waves, 
+then  reliability ratio   employment change  considerably lower.  example,   correlation   true employment levels across   waves  0.5,  reliability ratio  CK' employment changes   
+0.54.  fact,  estimate   correlation   levels   payroll data  0.81. Assum�ing   payroll data   measurement error  imply  CK' measure  em�ployment change  reliability ratio  0.31.'� 
+ 4 provides some additional perspec�
+tive   extent  measurement error  CK' 
+data relative   payroll data,    
+correlation   measurement error  time. Given   likely  fair amount  per�sistence   size  fast-food establishments,   expect    strong positive correlation  employment levels mea�sured  nine months apart. ,  
+correlation  likely   weaker    substantial measurement error,  long   
+measurement error   constant across time. 
+ upper-left panel   4 shows plot  wave 2 vs. wave 1 employment  CK' data,   upper-right panel shows  same plot   payroll data (using randomly selected 
+payroll period  more    re�
+ported).  correlation  considerably higher   payroll data.     seen  plotting  change  employment against  initial employment level   restaurant.  employment changes  largely unpredictable 
+>    uncorrelated measurement error   pay�roll data  well. then 0.81 understates  correlation  true employment,   case  reliability ratio  CK' data   even lower.    hand,   measurement error  positively correlated across waves. then  reliabil�ity ratio   change  employment   higher. 
+~ 
+ " 
+~ ~ 
+~ 
+" 
+~
+! 
+~ 
+~ 
+" 
+, 
+, " ~ ~ 
+" 
+� 
+! 0 ~ ." 
+.~ 
+1 " = 
+~ 
+~ 
+ " 
+~ ~ 
+1 " ~ 
+, " 
+� ~ 
+" 
+, 
+, .,
+~ ~ ~ ~
+" " ._ ,EmplOl'n_II " 
+CardlKrueger Data. Correlation=.52 
+. 
++-f1Ir.+..
+,.'
+., . 
++. ..
+...; .....\ .,: 
++~*"'.'
+� 
+� 
+0 ~ ~ ~ ~ 
+.". 1 :rnpIo~ 
+" " " " 
+CardlKrueger Oala, Correlalion_ .58 
+" 
+~
+, ~ 
+" 
+� 
+0 
+1 ." 
+.~ 
+1 " 
+.~ 
+~ 
+, 
+, :, 
+, , 
+, 
+� 
+.,
+~ ~ ~ ~ ~
+" 
+._ 1 Empl<>yrnen, " 
+Payroll Data. Correlalion=.81 
+� ....... ,
+. . 
+0 ~ ~ ~ ~
+" " "
+". , Employ....'" " 
+Payroll Data, Correlallon:.22 
+ 4. ASSESSING  EASUREMENT ERROR   CHANGE  EMPLOYMENT 
+based  initial employment, then  correla�tion   change  employment   initial level   near zero.  classical 
+measurement error   uncorrelated  time,  correlation   negative (al�though  might  expect some regression   mean  true employment, given  possi�bility     random influences  employment).17  bottom panels show  corresponding plots    data sets.   payroll data,  correlation  relatively small (-0.22),   CK' data  relationship  strongly negative,  correlation  -0.58. ,  plots suggest    consider�able classical measurement error  CK' data   uncorrelated  time. 18 
+11 John Kennan ( 1995)  Welch (1995)  discuss  point.    evidence suggesting considerable classical mea� surement error  CK' data  nOI rule  systematic 
+component   measurement error  well, biasing up�ward employment growth   state relative   . 
+. Comparisons  Estimated Employment 
+Effects   Payroll  Telephone 
+Survey Data 
+. Preliminary Comparisons 
+ comparisons   3  indicate   average employment changes  state differ    data sources.  example, CK' data  panel indicate average employment decline  4.8 FIE'  Pennsylvania,   payroll data show average employment de�cline  0.1 FIE'.  New Jersey, CK' data indicate average employment growth  0.3 FIE',   payroll data indicate aver�age employment decline  0.6 FIE'.  CK' statistical experiment identifies  effect  minimum wages  employment   difference  employment growth  New Jersey  Pennsylvania,  differences  average employment growth    data sources-in particular,  large difference  Pennsylvania-suggest   payroll data  show  different employment effects  
+ 4-REPLlC ....nON RESULTS  REDUCED-FORM  ODELS  CHANGE  EMPLOYMENT, DIFFERENCE-iN-DIFfERENCES 
+EsTIMATES  MINIM UM-WAGE EFFECTS 
+. Specifications/ Change  Employment lCK  4, Columns ()  () CardlKrueger data Payro ll data 
+Drop 
+Add observations observations  
+missing starting BK  KFC Single 
+wages  data  company-owned Sampled payroll Averages  
+CK resull' managers restaurants uni verse period payroll data 
+() (2) (3) (4) (5) (6) 
+New Jersey dummy,  2.37 2.94 3.24 3.64 -0.93 -0.85 
+controls (1.16) (1.1 2) (1.24) ( 1.71) (0.5 1 ) (0.49) 
+New Jersey dummy. 2.34 2.97 3.24 3.07 -0.68 -0.66 
+controls  chain (1.17) ( 1.1 2) ( 1.26) ( 1.80) (0.43) (0.41) 
+ ownership 
+Implied elasticilY 0.70 0.89 0.93 0.85 -0.22 -0.2 1 
+Percentage effect 13.3 16.8 17.4 16.0 -4.0 -3.9 
+Number  observations 357 391 330 2 14 235 235 
+Adjusted R2 0.009 0.019 0.019 .oJ8 0.371 0.407 
+. Specifications  Proporrional Change  Employment [CK  5, Columns ()  ()] 
+Card/Krueger data Payroll data 
+New Jersey dummy, 0.054 0.092 0.120 0.097 -0.040 -0.039 
+controls  chain (0.058) (0.055) (0.058) (0.078) (0.032) (0.03 1 ) 
+ ownership 
+Implied elasticity 0.29 0.49 0.64 0.51 -0.21 -0.21 
+Adjusted R2 0.007 0.016 0.023 0.058 0.302 0.318 
+Notes: Standard errors  reported  parentheses.  estimates   noomanagement employmenl.  elasticities  percentage effects  panel  computed   sample means   change-in�levels specifications. using  estimates including controls.  panel ,  results  row   CK'  5  replicated. 
+ New Jersey minimum-wage increase  
+ estimated  CK. 
+. Replication Analysis   New Jersey�
+Pennsylvania Experiment 
+ 4 repons results  replicating CK' analysis   New Jersey-Pennsylvania minimum-wage experiment using  payroll data. [  replication analysis,  stick  closely  possible  CK' original analysis,   differences   results stem   differences   data. Below,  present some additional analyses    data sets  probe  robustness   results.   clearly distinguished  replication analysis   additional analyses,    reader  assess  evidence   replication analysis  isolation   sensitivity analysis,  potentially reflects  choices  specifications  report. 
+Panel   4 repons difference�in-differences estimates using  change   level  employment. Paralleling CK'  4,   repon regression estimates   New Jersey dummy    independent variable,  then adding controls  chain  ownership. Column () repons CK' results,  column (2) repons results obtained   data using somewhat larger sample  
+includes observations missing data  starting 
+wages  number  managers, neither   
+ use   specifications.   without 
+ controls, CK' data indicate positive  statislically significant effects   minimum wage  employment,  elasticities   
+above 0.7. 19  estimates correspond  
+19  some   extreme outliers apparent  Figures   2  dropped,  estimated minimum-wage effect  CK' data remains positive.   statistically significant. 
+closely    columns ()  ()  CK'  4;  differ slightly   limit  definition  employment  nonmanage�ment employees,  best match  payroll data.  next restrict  sample  exclude Burger King  KFC company-owned restaurants [column (3)],     observa�tions   restaurants   payroll data.  results  little changed,  positive  significant minimum-wage effect,  elasticity  0.93.  fact   sample restriction increases  estimated positive minimum-wage effect  CK' data again sug�gests   opposite results  obtain   payroll data, reported below,   stem   exclusion  certain types  restau�rants. Finally,  column (4)  report results using   sampled universe  CK' data.  leads  similar conclusions? 
+Column (5) reports results   same speci�fication , replacing CK' data   payroll data.  using  same single payroll reading   wave   used   3  Figures 1-4.   include  closed restaurants   sample,   .  contrast  CK' results,  payroll data indicate  relative employment de�creased  New Jersey.  estimate   regression   controls shows relative em�ployment decline  0.93 FTE'  New Jersey,   estimate  controls indicates decline  0.68 FTEs:   estimate  significant   
+IO-percent level,     nearly .  
+Dropping observations  employment changes  30  more FTE' ( absolute value),  estimated coefficient corresponding  column ( )  1.42.  standard error  
+1.10  implied elasticity  0.44. Using instead cutoff  changes  plus  minus 20 FTE'.  estimated coef�ficient  1.27.  standard error  0.97  implied elasticity  0.40. 
+2Q  high estimaled elasticities  employment  respect   minimum wage suggest  something  awry   ' data   interpret   providing estimates   elasticity  labor demand.   standard   literature. ,  Stephen Machin  Alan Man�ning (1994) point .  labor markets  characterized  dynamic monopsony then    identifying  slope   supply  labor curve  individual firms.   CaM:. elasticity  0.85 might  interpreted  too low.  anything. Machin  Manning  aJso careful  point   micro--Ievel evidence  positive relationship  wage variation induced  minimum wages  employ�ment   establishment level   imply    aggregale economy. raising  minimum wage  raise employment. 
+implied elasticity  employment  respect  minimum wages (based    regression)  -0.22. toward  upper end   range  disemployment effects found   minimum�wage studies (. .. Charles Brown et . [19821  Neumark  Wascher [1992]).21  course,    clear  elasticity  ought  expect  fast-food employment,  estimates  ex�isting research generally refer  overall emplo~,�ment effects  teenagers  young adults.
+  point,   used  payroll data set    randomly selected  payroll record   periods   CK' surveys  conducted. ,   obtain more precise estimates  employment   period  averaging across  possible payroll records  CK' survey periods,    more    record (    37 percent   observations). Estimates using  averages  reported  column (6)   4,    view provide  best esti�mates   payroll data.    case,  estimated disemployment effects   New Jersey minimum-wage increase  similar: -0.85 without controls (significant   10�percent level)  -0.66  controls.   standard errors slightly lower.  latter estimate implies elasticity  employment  respect   minimum wage  -0.21,  employment loss  3.9 percent  New Jersey relative  Pennsylvania. 2J 
+Panel  reports specifications defining  dependent variable  terms  proportional 
+2 1 Note    adjusted R2 jumps  0.04  
+0.37. apparently reflecting  considerable sampling error  CK' data.   fact  differences  employment growth across chains  strongly significant   regre ..� sions using  payroll data.     ' data. 
+22 CK argue    conventional labor-demand mCKIel  correct.  exi ..ting estimates  provide lower bound  minimum�wage effects  fast�food employment. presumably  relati vely large proponion  fast� food workers  paid   near  minimum wage. How� ever.  minimum-wage effect   depend   elasticity  substitution  low-skill labor   inputs.  share  low-wage labor  total COSl<; (overall  relative   employers).  elasticity  supply   factors.   elasticity  demand  fa...(-food products.    aware  estimates   magnitudes   industry. 
+2,)   tried weighti ng   number  payroll records ..  constructing  averages. Thi ..  little influence   estimates. 
+changes, results  CK   highlight    report     specification checks.  follow CK  defining  depen�dent variable   change  employment di�
+vided  average employment    waves 
+(setting     restaurants  closed), although  think    preferable  use initial employment   denominator."  results reported  columns (1)(4) again use 
+CK' data.  estimated minimum-wage ef�
+fects  positive (although  always signifi�
+cant),   estimated elasticities range  
+0.29  0.64.   panel ,  payroll data 
+indicate opposite-signed employment effects.   case, although  estimates   statis�tically significant,  estimated elasticity using  payroll data  -0.21. similar    obtained using  change-in-Ievels specifica�tion  panel . 
+,  replication analysis using  pay�roll data yields qualitatively different answers compared   obtained  CK' data. Whereas CK' data indicate minimum-wage ef�
+fects  employment   positive  some�
+times significant,  payroll data indicate 
+effects   negative  sometimes signif�
+icant.   argue  some   differ�
+ences  results   statistically significant, 
+    . Indeed. given    overlapping observations    data 
+sets.  standard error   difference be�
+twecn  estimates    data sets  
+ considerably smaller  indicated   
+standard errors   separate estimates. Re�
+gardless,  doubt   researcher  use  results   payroll data  conclude 
+ minimum wages    effect  employment  increase employment. 
+. Wage-Gap Regressions: Further 
+Replication Analysis 
+CK  present results    regress employment changes   percentage differ�ence   minimum wage   start�
+24 Dividing  average employment results  small number  restaurants  remained open.   show proportional changes   \  -2.  implies more  lOO-percent decline  employment.  selling    made virtually  difference,   sub:..ection   paper  follow CK' procedures. 
+ing wage paid   restaurant    wave   survey,   "wage-gap" variable set  zero  Pennsylvania restaurants.  ex�periment continues  identify minimum-wage effects off   difference  employment growth  New Jersey  Pennsylvania,  adds information   extent    minimum-wage increase   raised starting wages  New Jersey. Again,  contrast   conventional prediction. CK find posi�tive effect   wage-gap measure. 
+ did  collect data   allow us  reliably reevaluate CK' results   wage�gap specifications   felt  recover�ing estimates  starting wages   rather complicated   respondents  might discourage   supplying  more im�portant hours data. Moreover.  New Jersey�Pennsylvania comparison  widely regarded   key methodological contribution  CK  therefore provided   compelling ev�idence     offer:  presume    why CK went beyond  earlier paper  Lawrence . Katz  Krueger ( 992) 
+used within-state variation  initial wages  Texas  study minimum-wage effects-and in�
+stead identified  minimum-wage effect   difference  employment change  
+New Jersey  Pennsylvania. 25   event, although     infor�mation   starting wages paid   restau�
+rants     payroll data.   
+obtain relatively crude comparison  results 
+  wage-gap regressions  estimating  average starti ng wage  restaurant type (dis�tinguished  chain  ownership)  zip�code area using CK' data, matching  
+average  corresponding establishments   
+payroll data.  estimating CK' specification. 
+ caution, ,   evidence   
+point    credible   direct FTE com�
+25   regard  New Jersey-Pennsylvania experi�ment  providing more compelling evidence   within-New Jersey variation   wage gap.        surprising  variation  starting wages   time    survey-and  variation   "treatment"   wage-gap specification-to  related  variation  economic conditions across restaurants.  example.  restaurants paying higher wages    recently expanded employment.  might expect lower subsequent employment growth   higher-wage restaurants.   explain CK' results. 
+'" " 
+ '" 
+, 
+
+� ", 
+.. 
+." 
+"' "'" 
+� 
+, � 
+*... 1"+ 
+," ",
+� � � . �  
+
+� 
+): ��  #  
+1""" , .  ; � *~: "� " 
+~ 
+." 
+.. ." , 
+Actual Caf"<Slt(.-ga, 0." 
+'" " '" 
+Starting Wage 
+�. 
+,
+" 
+  
+" �" 
+�  �
+!! " ,� !
+� 
+�� ! , , � �  �,  
+: : ! 
+� ,
+, 
+"~ ",
+Actual. ._~.r0 ... 
+"'" "' 
+Wage Gap 
+ 5. EsTIMATING STARTING WAGES  WAGE GAPS 
+ 5-REPLICAll0N RESULTS  REDUCEo.-FoRM  ODELS  CHANGE  EMPLOYMENT. 
+WAGE-GAP EsTIMATES  MINIMUM-WAGE EFFEcrs 
+. Specifications  Change  Employment rCK  4, Columns ()  ()] 
+Card/Krueger data Payroll data 
+Sampled Same  column (2). 
+CK re sults universe estimated wage gap 
+( ) (2) (3) (4) 
+Wage-gap variable. controls  14.7 22.6 28.4 -1.8 
+chain  ownership (6. 1) (8.9) (12.7) (3.2) 
+Implied elasticity 0.48 0.71 0.89 -0.06 
+Number  observations 357 204 204 231 
+. SpecijicQrion.  Proportional Change  Employment lCK  5, Columns ()  ()] 
+Card/Krueger data Payroll data 
+Wage-gap variable, controls  0.40 0.76 1.25 -0.02 
+chain  ownership (0.30) (0.39) (0.55) (0.24) 
+Implied elasticity 0.22 0.45 0.73 -0.01 
+Notes: See notes  Tables   4. Standard errors  reported  parentheses.  estimates   non management employment.  estimated wage gap used  columns (3)  (4)  calculated   Card/Krueger data  zip-code area using  appropriate sample (defined  chain  ownership).  elasticity  evaluated   sample mean   wage-gap measure  New Jersey,   mean multiplied   estimated minimum-wage coefficient estimates  reduction  employmem  closing  wage gap. Correspondingly.  mean employment level  New Jersey  used. 
+parisons   4.  shown   5, given actual starting wage  CK' data   mapped inlo wide range  possible estimated 
+starting wages,    wage-gap measure 
+ use likely suffers  considerable mea�
+surement error. Nonetheless,    interest  
+check   same reversal   sign  
+ minimum-wage effect occurs   wage�
+gap specificalion.    obtain more comparable sel  results  CK' data  
+estimating  wage-gap regression   
+sample,  using  same average wage map�ping  construct  wage-gap variable    forced  use   payroll data. 
+ results   exercise  reported   526  begin  reporting CK' results   change  employment levels,  column 
+() 
+ panel .  estimated coefficienl   wage gap  14.7,   implied elasticity  respect   minimum wage  0.48.  column 
+(2) 
+ restrici  sample   sampled uni�
+verse,  continuing  use  actual starting 
+wage.  estimated effect rises substanlially, 
+26   point ,  show results   averaged payroll data;  results   similar using  ran�domly selected payroll observations. 
+  elasticity climbs  0.71. Column (3) shows  effect  using  mean starting wage   zip-code area (  corresponding type  restaurant)  construct  wage-gap 
+measure-as       payroll 
+data-instead  using  actual reported start�
+ing wage   restaurant.  point estimate  
+larger .    expected.  standard 
+error increases. 
+Finally, column (4) reports results   payroll data.  contrast   results obtained  CK' data.  estimated coefficient   wage-gap variable  negative. although   small  insignificant,  elasticity   -0.06.  larger positive estimates  columns (2)  (3)   column (). using CK' data, indicate   differences   results  using  payroll data   at�tributable   restriction  subset  zip�code areas  restaurant types    use  mean starting wage  construct  wage-gap measure. Panel  reports similar results   specification using  proportional change  employment   dependent variable.  qualitative results  similar: CK' data indi�cate positive effects   minimum wage  employment   significant   sampled universe.   payroll data show small  
+insignificant negative effects. 
+Despite  same sign reversal   payroll data   saw   New Jersey�Pennsylvania experiment,  evidence    data sources appears  different   
+wage-gap specifications, although  absence  data  actual starting wages   payroll data makes  comparison tenuous.  smaller differences   wage-gap specifica�tion  even more apparent   drop  Pennsylvania observations (rather  defining 
+ wage gap   specifications   zero,  CK ),    wage-gap coefficient  identified solely off   within-New Jersey 
+variation.   case,  estimated coefficients 
+  wage-gap variable using  payroll data 
+turn positive  remain insignificant.  ex�ample. using  change-in-levels specification, 
+ estimate (standard error)  7.80 (6.01),  elasticity  0.26. (Although CK did  
+report estimates   specification  sub�
+sample,  estimates   subsample  
+ data   similar     
+5.) ,  sharp differences   results  CK' appear  stem mainly   
+differences  employment growth  
+New Jersey  Pennsylvania, rather  dif�
+ferences across restaurants  New Jersey.27 
+. Sensitivity Analyses   New Jersey�
+Pellnsylvania Experiment 
+ order  highlight  differences   results generated    data sets,    far focused almost exclusively   spec�ifications reported  CK.   6.  move 
+beyond  pure replication analysis  report some sensitivity analyses   effect   Tnlnlmum-wage increase  employment growth  New Jersey relative  Pennsylvania, 
+using  CK' data   payroll data.  
+intent   section   explore   
+differences  results  specific   main set  specifications reported  CK,  rather ex�
+tend  wide range  reasonable aJternative specifications  estimators, some   
+  reported  CK:  latter turns     case.   report results   closed restau�
+rants excluded   data sources. rather  including   second-period em�ployment set  zero. Standard competitive the�
+ory suggests  minimum-wage increase  result  some combination  employment faIl�ing  establishments  remain  business 
+  establishments  driven   
+business.   closing  rare occur�
+rence (  payroll data sample five restaurants closed,   CK' data six closed)   
+generate exlreme values   change  em�ployment, random differences    data sets   sample distribution  closings across states   undue influence  
+27  course. given    nOi   actual wage data.   rule ou{  possibility   results  driven  problem~  CK' wage data.    measurement error  lack  correspondence   wage-gap measure   increase  unit labor costs imposed  minimum-wage increa.'ie.  example. Welch (1995) suggests     ~iderable mea~ure�ment error  CK' data. based   fact  large majority  restaurants whose starting wages   time    interview  above  minimum prevailing   time    interview lowered  wages     interview. consistent   regre~sion   mean thai measurement error gcncrate~. 
+ 6-SENSITIVITY ANALYSIS Ot, EsTIMATED MINIMUM-WAGE El'fECfS 
+Card/Krueger data Payroll data 
+Change  Proportional change Change  Proponional change 
+employment  employment employmenl  employmenl 
+() (2) (3) (4) 
+. Exclude closed re!.tauranlS 3.24 0,120 -0,72 -0,026 
+(1.81 ) (0.075) (0,34) (0,022) 
+Implied elasticity 0.89 0.64 -0.23 -0,14 
+. Include  ly closed reslauranb 3,12 0, 106 0.79 -0,040 
+appeari ng   dam ( 1.80) (0,076) (0,34) (0,025) 
+sources 
+Implied elasticity 0.86 0.56 0,25 0,21 
+. Divide  initial employment 0.053 -0,042 
+(0,092) (0,029) 
+Implied elasticity 0,28 -0.22 
+. Weighted  represent -0.79 -0,046 
+rc<, taurants  ~mpl  (0.46) (0,032) 
+univerM!  CK" data 
+Implied eiastici lY 0,24 -0,25 
+. Random-effects .'. inulles -0.50 -0,030 
+(0.46) (0,033) 
+Implied elasticity -0,16 -0, 16 
+LM test  random effects 0,76 0.45 
+( }-value) 
+. Robusl (Huber) regressions 1.14 0,117 -0,62 -0,027 
+(1.42) (0,081) (0,3 1) (0,020) 
+Implied elasticity 0.31 0.62 -0,19 -0,14 
+. Quanllie regressions 
+25th centile 4,25 0,217 -0,74 -0,025 
+0.44) (0, 131) (0,34) (0,027) 
+Implied elas ticity 1.1811 ,65 1.15 -0,23/-0,30 -0, 13 
+Median 3,00 0, 124 -0,39 -0,050 
+(2.42) (0,138) (0,35) (0,027) 
+Implied elasticity 0.83/0.91 0.66 -0,121-0. 12 -0,27 
+75th centile 0.25 -0.007 -0.42 -0,034 
+(2.45) (0.115) (0.49) (0,0 17) 
+Implied elasticity 0,07/0,06 -0,04 -0,13/-0,11 -0,18 
+Nore.\�; Estimated coefficients   regressions  control'> included  reported,  standard errors  parentheses.  <;limates   nonmanagement employment.  clo~ reSlauranls  included  panels C-G.   panels except ,  proportional change  calculated relative  average employment    waves (  CK ),  re~et     change     -2.  elasticities   change-in-Ievels specifications  computed  sample means. except  <;econd entries  panel ,   computed   corresponding centile. Standard errors   quantile regressions  ba!>  bootstrapped standard errors using !,(XX) replications. 
+ resulls,  panel   6 shows, ,  qualilalive results  largely 
+unchanged.  estimated minimum-wage ef�
+fects using CK' dala  similar  Ihose ob�
+tained   closed restaurants  
+included.'�   payroll dala,  evidence  disemploymenl effeci   minimum wage 
+28 Throughout  ,  show resuhs using CK' data   !oampled unive~ ;    4.  resu lts  qualitatively !oimilar using CK' full sample,  'iomewhat smaller el:'iticil ie~. 
+ slighUy slronger  Ihese reslauranlS  
+excluded,   estimate  Significant 
+  5-percenl level   change-in-Ievels 
+specification. 
+ panel 8,  add back inlo  samples IwO closed reslauranlS thai appear 10  common   dala sources (."  appear   same zip-code area   same type  restaurant dislinguished  chain  ownership),   estimates presented  far,  regard   providing  mosl reliable comparison belween   data sources,     
+identifiable inconsistencies regarding restaurant 
+closings. Again,  estimates using CK' data 
+ Iiule changed.   payroll data.  more restrictive rule  including closed res�
+taurants yields stronger negative estimated minimum-wage effects  employment. signif�
+icant   5-percent level   specification   change  levels,  nearly significant   10-percent level   specification   proportional change  employment.  esti�mated elasticity  -0.25    specifica�tion,  -0.21   . 
+ panel ,  reestimate  proportional�
+change specification defining  dependent variable   change  employment divided   initial level  employment (whereas CK divided   average  employment   
+ waves   survey).  view  speci�
+fication  preferable  CK',  condi�tional   initial employment level. dividing 
+  average attenuates employment increases 
+ amplifies employment decreases ( be�cause dividing  initial employment avoids  potential  declines  employment  exceed 100 percent).  CK' data,  evidence  
+positive employment effect  weaker using  specification.  contrast,   payroll data  estimate (standard error)   minimum�
+wage effect rises  -0.042 (0.029), implying elasticity  -0.22. [  closed restaurants  dropped   specification,  estimate  -0.031 (0.021),  elasticity  -0.17.] . although  general  evidence   payroll data  weaker   proportional�
+change specifications.   some reason�
+able proportional-change specifications  yield marginally significant negative employ�
+ment effects.   estimated elasticities  
+generally similar     change-in�
+levels specifications. 
+ panel ,  explore  influence   
+different representation  restaurant types  
+ payroll data   CK' data.  particular,  weight  observations   payroll data  
+correspond   restaurant types   sam�
+pled universe  CK' data set, calculating sep�
+arate weights  chain, ownership,  state. 
+ example,  2 indicated  Burger 
+King franchises  Pennsylvania  overrepre�sented   payroll data  factor  31120,    apply weight  20/31  observa�
+tions   units.  weighted estimate  
+ minimum-wage effect   specification 
+  change  levels  negative  signif�
+icant   10-percent level ( elasticity  -0.24),   estimated effect   
+proportional-change specification  stronger 
+ , although still insignificant ( elasticity  -0.25). 
+  obtained data  multiple restau�rants owned  franchisees ( corporations),   estimated random-effects models  allow  nonindependent errors  restaurants   same owner,  see    overstating  statisticaJ significance   results.29  estimates, reported  panel    6, indicate smaller negative minjrnum-wage effect  em�ployment (.., -0.50   specification  changes  levels), .    expect, larger standard error. , LM tests indicate    reject  hypothesis   com�mon error across restaurants   same owner, suggesting   OLS estimates  preferable (.., consistent  more efficient)   random�effects estimates. 
+Panel  reports results  robust (Huber) regressions,  downweight outliers. Per�haps  surprisingly, given  wide dispersion 
+ employment change  CK' data,  em�ployment effect  CK' data falls  1.14  becomes statistically insignificant, although  reduction occurs    change-in-Ievels 
+specification.  contrast,  results using  
+payroll data  little different   linear 
+regression estimates, indicating significant ( 
+ 5-percent level) negative effect   min�
+imum wage   specification  changes  levels.  negative  insignificant effect   proportional-change specification. 
+ alternative robust regression technique  quantile regression.   difference-in�differences context,  use  medians (  
+quantiles)  probably  limited interest,  
+estimating  minimum-wage "effect" using 
+ difference   median level   period   particularly meaningful. , quan�
+tile regression  valid robust technique  estimating  regression model  tenns  employment changes,    computed 
+29  CK' sample  dmwn  telephone books,     identified common owners (ex�cept   company-owned restaurants). 
+ estimates   25th, 50th,  75th cen�tiles  gauge  sensitivity   results,  estimates  reported  panel ,  CK' data,  estimates  relatively large  positive   25th  50th centiles,   estimated minimum-wage effects   smaller   75th centile.  actually negative (although insignificant)   proportional-change spec�ification. Given   outliers  CK' data 
+appear   concentrated   lower tail  
+Pennsy lvania (see  upper right-hand panel   ).  quite different estimate  higher centile   data   surprising.   payroll data,  quantile regression estimates 
+ move around somewhat.   uniformly 
+negative  sometimes statistically significant. Interestingly,   50th  75th centiles  estimated coefficients   proportional�change specification  significant   5-or 10-percent level.   general  evidence  disemployment effects   proportional�change specification appears  strong     change-in-Ievels specification. 
+Overall,  estimates reported   6  
+discussed  thi~ section reinforce  general 
+conclusion  CK' data point  positive ef�
+fects  New Jersey' minimum-wage increase  relative employment growth   state. 
+  payroll data point   opposite 
+direction.  pattern  estimated signs  gen�
+erally consistent  .     
+positive estimates using CK' data    
+ negative estimates using  payroll data  
+significantly different  zero. 
+. �'plaillillg  Different Results 
+ obvious question  arises   
+results     identifiable concep�
+tual differences   payroll data  CK' data  might lead  opposite-signed estimates   effect  New Jersey' 
+minimum-wage increase  relative employ�
+ment growth   state.   subsection,  address several potential explanations   disparity  results generated    data 
+sources. 
+Employmelll \'. HOLlrs. possibility  
+  different estimated employment effects 
+   data sets arise  CK survey 
+numbers  employees.   collected data 
+ total hours worked,  course,  CK   converted  raw employmentlhours data  full-time equivalent basis,    expla�
+nation  imply discrepancies  errors   conversion  'TE', rather  conceptual 
+difference   focus    studie;. Nev�ertheless, given  relatively inexact nature   full-time equivalent measure developed  CK,  seems worth exploring   
+might  source   disparity  resulls 
+generated    data source,. 
+ explanation requires   relative 
+number  employees  New Jersey ro; fol�
+lowing  state' minimum-wage increase 
+(consistent  CK' results),   relative number  hours worked fell (consistent   payroll data).10   happen.  ex�ample,   higher minimum wage led  shift  full-time  part-time employment  New Jersey fast-food restaurants.   arti�
+cle, , CK argue   convenlional 
+model  predict  opposite result: em�
+ployers facing higher minimum wage  
+ likely  substitute toward full-time workers  " fast-food restaurants  typically older   well possess higher ski lls  part�time workers" (, 784). Moreover, CK' data  
+ support explanatjon based 011 shift 
+toward part-time employment. Repeating  regression shown  panel    sepa�rately  full-time  part-time employee; (treating managers  full-time.  CK ).  find   number  full-time workers  New Jersey rose  3.16 ( ;tandard error  1.32) relative  Pennsylvania.   number  part-time workers fell  0.60 ( standard error  1.31).31  signs   coefficients   opposite     
+required  argue  New Jersey' minimum�wage increase led  substitution  part-time  full-time workers. ,  patterns  em�
+ployment change  CK' data suggest   different results    data sets   due 
+.\0  assumes  hour~  full-time  part-time workers remain unchanged. Alternatively, change   hours     groups   cau~ divergence  results    data sets. 
+31  results   ~imilar  ", ex.clude manager5.. 3'  panel    .    look    ...nmplcd universe  CK 'll data,   panel    . Kal/  Krueger ( 1992) rcpon similar re... ult. 
+ differing effects  minimum wages  em�ployment  hours. 
+tn contrast,  payroll data provide some limited evidence lhat  minimum-wage in�crease led  substitution towards part-time workers. Using  subset   data (52 ob�servations)     compare number  workers  hours  FfE'.  difference�in-differences regression estimate (standard er�ror)  0.96 (0.70)   number  workers,  -0.87 (0.57)  FTE'.  course.    explain  difference   results   payroll data  CK' data ( indicate shift away  part-time workers),  , , suggest  OUf evidence  negative minimum-wage effects  FTE'   necessarily carry    number  workers employed, although   caution   evidence  number  workers  based   small sample: 
+Nonetheless, aside   pure replication aspect   paper,  regard  hours effects   pertinent 10  study  low-wage labor markets.   minimum wage  defined 
+ hourly terms.  seems  appropriate  
+J2     ~ugge"ted  us   disparity  results might  driven  difference   way     data sources treat undocumented worker...  par� ticuiar,  CK' telephone survey picked  undocumented workers    included   payroll records, then  payroll data  overstate  discmployment effect   higher minimum wage   extent  New Jersey employers substituted undocumented  documented work� ers  response   minimum�wage increase. Although   unaware   direct evidence   use  undocu� mented worker..   fa... t�food indu ... try,   skeptical   explanation   re<bons. .  relative em� ployment increase  New Jersey indica ted  CK' data  require that-in relative terms-employers  New Jersey substituted more   undocumented workers   documented worker  response   minimum� wage increase. ( payroll data indicate decline  aoout  FTE  response   minimum� wage increa.<..  CK' data indicate increase   least Iwo FTE',  gross gain    more undocumented workers.) Sec� ond,  biggest difference    data sources   greater employment decline  Pennsylvania  CK' data. rather   greater employment increase  New Jersey    expected  New Jersey' minimum� wage increase led employers   substitute undocu� mented  documented workers. Finally, notc  even     explanation   different results. substitu� tion  uncovered  covered workers  response (0 minimum�wage increase   consistent   stan� dard compet iti ve mooel  low� wage labor markets. 
+test   effects  looking  changes  hours worked. Moreover. principle goal  
+minimum-wage research    test  competitive model  labor demand,   direct implications   model hold    number  hours worked. ,   results 
+ hours  accepted,  conclusion   raising  minimum wage reduces  amount  labor employed,    prediction   textbook model.  recognize, ,  policy makers   independent 
+interest  minimum-wage effects  employ�
+ment,    political focus   potential job loss associated  minimum�wage Increase. 
+Sampling Issues.-Some participants   recent minimum-wage debate  questioned  representativeness   sample, suggesting   difference  results    data sources  reflect flaw   sampling pro�cedure-in partiCU lar.  fact  some   observations  provided  us   Em�ployment Policies Institute.  explained  de�tail  Appendix ,  original EPI sample  drawn partly  franchi sees   Chain Op�erators Guide   headquartered  New 
+York, New Jersey.  Pennsylvania, partly  restaurants owned   franchisees (head�quartered elsewhere)   identified infor�mally,  partly  parent corporations (Wendy'  particular).   cases.  restau�
+rants surveyed   EPI  drawn  zip-code areas      franchisees ( corporation) owned    restaurants  chain.  order  obtain set  zip-code areas 
+ complete data   provide more 
+direct comparison   variability  employ�
+ment change   payroll data  CK'  data. Subsequent  EPI' initial data collection, 
+ attempted  survey    remaining 
+franchisees   Chain Operators Guide  
+ headquartered  New York, New Jersey,  Pennsylvania,  well   remaining parent corporations. Given  differences   
+ highlighted  far   full pay�roll sample  CK' data,  issues regarding  sampling arise. , did  multistage fashion    data  collected,   EPI data collection  particular, yield final 
+sample   nonrepresentative  biased  direction generating results   odds  
+ 7-ESTIMATES  CHARACTERISTICS Or-DATA  ALTERNATIVE SOURCES 
+ ~ources. 
+consistent 
+Data collected  us Data collected  EPI universe 
+Franchisees  franchisees 
+Franchisees  Chain drawn  
+Restaurants n01  Operators Chain Operarors 
+comparable Chain Guide  Guide  
+  data  OperalOrs parent parent 
+restaurants  EPI restaurants Guide corporations corporations 
+() (2) (3) (4) (5) (6) 
+Pennsylvania observations 40 8 32 0 32 72 
+New Jersey observations 114 30 49 32 17 131 
+Mean (standard deviation)  
+employment change 
+Pennsylvania -1.0 2.3 3.0 3.0 0.8 
+(3.5) (1.1 ) (2.2) (2.2) (3.5) 
+New Jersey -1.0 1.9 2.1 2. 1 2.2 -0.6 
+(3.3) (2.1) (2.7) (3.1) ( 1.7) (3 .3) 
+Regression estimates  relative -0.27 -0.33 -0.95 -1.63 -0.74 
+employment growth, change (0.53) (0.80) (0.63) (0.67) (0.42) 
+ employment  New 
+Jersey 
+Implied elasticity -0.09 -0.10 -0.29 -0.49 -0.23 
+Regression estimates  relative -0.018 -0.055 -0.039 -0.083 -0.043 
+employment growth, (0.041) (0.040) (0.041) (0.033) (0.030) 
+proportional change  
+employment  New Jersey 
+Implied elasticity -0.10 -0.29 -0.21 -0.44 -0.23 
+Notes: Estimated coefficients   regressions  controls included  reponed,  standard errors  parentheses. Standard deviations  based  random selection   payroll period  muhiple payroll periods  available. Column (2) includes Burger King franchises  New Jersey  Pennsylvania  Wendy' franchises  New Jersey.    types  restaurants   data collected   EPI   appear   data  collected. 
+CK' findings? , given  circum�stances,    proper way  handle  subsamples? 
+Columns ()  (3)   7 provide com�parison   set  observations   collected   data collected   EPI  supplied  us.  differences  apparent. ,  stan�dard deviations  employment change   Pennsylvania  New Jersey  somewhat higher   data  collected. ,  difference-in-differences estimates   disem�ployment effect   minimum wage  smaller   data collected  us ( elasticities  -0.09  -0.1)    data collected   EPI ( elasticities ranging  -0.21  -0.29). Even   data  collected, ,  standard deviation  well below   CK' data,   point estimates   minimum�wage effect  negative.  addition,    
+seen  column (2),   restrict attention   
+subset   observations  collected   represented   data collected   EPI ( chain  ownership status),  differences  standard deviations  reversed,  Ibe differ�
+ence  disemployment effects  reversed   
+proportional-change specification. 
+Nonetheless,  comparison  col�umns ()  (3) might  read  consistent   EPI having somehow selected set  observations    results   discordant  CK' results.   then,  some  suggested, discard  EPI data  focus solely   data  collected?   case,  remainder   sample ( data collected  us)   biased    direction,   estimates  column () might suggesl. Note,  particular, thai  Pennsylva�nia observations  roughly divided  columns ()  (3),    bias   sample  included   EPI data    large     data collected   EPI. 33 Indeed,   supplemented  EPI data  attempting  collect data   remainder   franchisees listed   Chain Operators Guide   parent corporations,   full 
+sample  representative   universe  fast�food restaurants   appropriate chains   relevant geographic areas. ,  proper re�sponse  concerns  bias associated   nonrepresentativeness  data collected   
+EPI    discard  EPI data.  rather  base  analysis   full payroll data 
+sample-including  observations collected 
+  EPI. ,  course,   sample   analyzed throughout  paper.34 
+  legitimate objection   validity   combined sample   some observa�tions added   EPI   drawn   Chain Operators Guide,  rather   
+.'1   especially true   EPI,   initial data�collection efforts. encountered roughly  same nonre�~pon~ rale   did. 
+~ Note  thallhe issue   larger standard errors   subsample  collected.    raised  polemical essay  John Schmitt (1996),  essentially "red herring." Given   EPI sample  drawn  areas     franchisees ( corporation) owned      restaurants (   nonrandom).  greater uniformity  employment changes   EPI sam�ple    surprising.   statistical test\;, per�formed  Sehmiu-regarding    subsamples  random samples   same population-are uninfor�mative.  point  reinforced   fact   repre�sentation  chains    samples   different. becau~  data   company-owned restaurants  chain arrived together. .  example.  data collected   EPI include  Roy Rogers company-owned restau�ran13. whereas  constitute 99   154 restaurants   data  collected. 
+  issue Schmitt discusses   evolution  .. timates through  early drafts   study.   seem~  us   nonstarter. Allhough  earliest draft received lot  attention    minimum-wage debate   time,   preliminary version (  labeled),   estimates  changed   correc�tions  additions   dala, changes   definition  variables,  more generally responses  comments  advice  colleagues. 
+Given  possible nonrandom nature    separate sets  data.   estimated  basic models including EPI dummy.   change-in-Ievels specification.  get estimated coeffic ient   New Jersey dummy  -0.62.  swndard error  0.41:  coefficient (standard error)   EPI dummy  0.55 (0.54).   proponional-change specification,  estimated coefficient   New Jersey dummy  -0.035 (0.030).     EPI dummy  
+0.029 (0.039). 
+franchisees identified informally.  columns 
+(4)  (5)   7,  present  results separately    subsets  observations.    things  note. ,  restau�
+rants  Pennsylvania   owned  fran�chisee   drawn   Guide. Given 
+  main difference   payroll data  CK' data    Pennsylvania sample,  fact casts doubt   importance  non-Guide franchisees  explaining  dif�ferent results. ,  mean employment 
+change   New Jersey stores  franchi�sees identified through  means  virtu�
+ally identical   mean employment change   identified through  Guide (although  standard error  higher). Third.  esti�
+mated disemployment effect   minimum 
+wage   subset identified through  Guide  actually larger   estimated using  EPI subsample  whole, although  result  based  small sample . 
+Nonetheless,  column (6)  report results combining  observations  collected   subset  observations collected   EPI     franchisees listed   Chain Operators Guide   obtained  parent corporation (Wendy');   sample drawn 
+ well-defined, valid universe  restaurants   relevant geographic area.  estimates reveal disemployment effects   minimum wage  similar   reponed  earlier ta�
+bles,  negative employment effect   significant   10-percent level   change�
+in-levels specification,  negative  insig�
+nificant effect   proportional-change specification.   cases  implied elasticity  -0.23. 
+Response Bias. previous discussion ad�dressed  potential nonrepresentati veness stemming   sampling procedures. sec�ond issue related  representativeness   
+sample   response bias led  over�representation   full payroll sample  res�
+taurants   actual employment changes 
+deviated   CK' results (. ..  sub�set  restaurants  New Jersey    sharpest employment declines);   oc�
+cur,  example,   owners   restau�rants  more motivated  participate  
+supplying data.  comparing  results   payroll data     sampled 
+ 8---CARDIKRUEGER DATA VS. PAYROLl. DATA, DIFFERENCE-iN-DIFFERENCES EsTIMATES  MINIMUM-WAGE EFFECIS  NONMANAGEMENT EMPLOYMENT, SUBSMiPLE  COMPLETI: DATA  lliE PAYROLL DATA 
+Estimate  minimum-wage effect  relative employment  New Jersey: 
+New Jersey dummy. 
+New Jersey controls  chain Implied Number  Adjusted 
+dummy.  controls  ownership elasticity observations ' 
+() (2) (3) (4) (5) 
+Card/Krueger data : 4.81 4.43 1.23 84 0.085 
+(1.86) (2. 13) 
+Payroll data: -0.58 -0.72 -0.23 133 0.433 
+(0.54) (0.45) 
+Notes:  elasticities  compuled   sample means. using  regression estimates  column (2).   closed 
+restaurants common   samples  included   . 
+universe  CK' data,   eliminated  biases associated  differential response pat�
+terns across zip-code areas, chains.  owner�
+ship type. Indeed,  noted  Section 11,   sampled   subset  restaurants  CK' data    estimates show larger employment gains resulting  New Jersey' 
+minimum-wage increase    total 
+sample. ,   still possible    
+nonrandom representation  respondents 
+ zip-code/chain/ownership groups.  
+address  concern,   compare results 
+  payroll data  CK' data   cells    payroll data include infor�
+mation   restaurants   cell,   
+ restaurants surveyed  CK   in�cluded   payroll data.   zip-code/ chain/ownership groups,   think  CK' data  representing random sample  
+restaurants,   data  providing data   complete universe. ,  deviations 
+  subsamples    data sources   attributed  response bias   payroll data." 
+ results  reponed   8.  indicate    CK data represented   complete data subsample   payroll data,  estimated minimum-wage effect  New Jersey 
+]3  subset   data  still include restaurants    motivated  participate.    same restaurants  represented   corresponding uni�verse   CK' subset  drawn.  differences   estimates using  data   using CK' data   attributed   nonrandomness. 
+remains positive  statistically significant:  regression estimate  relative employment 
+growth  New Jersey ( controls)  4.43. Turning   payroll data,  regression esti�mate  controls  -0.72.  evidence 
+indicates  nonrepresentativeness  respon�
+dents   sample  zip-code/chain/ ownership groups    source   differences   results   ob�tained  CK.'6 
+Another way  address  non response issue   ask  different  employment changes       restaurants      payroll data  order  generate CK' result.    precise way  answer  question,   data  
+ strict subset  CK' sample. ,   pointed    ,    indication  CK' data   sampled  zip-code/chain/ownership cells   relative employment growth  New Jersey  lower.  fact, according  CK' data, employment growth   nonsampled uni�verse  actually lower  New Jersey  higher  Pennsylvania    sampled universe, suggesting .  anything,  sample  drew understates  relative em�ployment losses  New Jersey. 
+16  payroll sample   8 excludes  re5,tau�rants  clo~  thaI did  appear  CK'" data,  order  make   samples  consistent     possible   comparison. .  same quali� tative conclusion holds   include  closed restaurants, although  estimated minimum�wage effect   payroll sample  then smaller. 
+ respect  concerns  response bias  zip-code/chain/ownership cells,  best      show  large  nonresponse bias     under given set  assumptions  generate CK' results.  ex�ample,   assume   sample frame listed     CK' article   appropri�ate universe   payroll data.   com�pute  potential nonresponse bias under  further assumption     response bias  CK' survey.: Using  method im�plies  non respondents   payroll survey  New Jersey     report employment change  0.8 FfE'  make  payroll data   state match CK' data;"  size response bias seems possible   well   standard deviation  employ�ment changes   payroll survey.  contrast. restaurants  Pennsylvania    in�cluded   payroll data     report employment decline  9.0 FfE'  order  make  average employment change   payroll data match CK' data.'" Putting  together indicates .  order   minimum-wage effect   payroll data  match CK' results,  restaurants  included   payroll data      shown relative employment increase  New Jersey  nearly 10 FfE'  response   minimum-wage increase.  large overall response bias,   view,  50 implausible   claim  nonrepresentativeness   data-which CK emphasize   Reply (Card  Krueger, 2000)   Comment�explains  differences   results   payroll data   telephone survey seems quite dubious  us, although   account  nonnegligible share   consid�erably smaller differences   relative employment growth estimates   payroll 
+.l7 CK'\  put~  sample frame size  364 re\lau�rant.!.  New Jersey  109  eastern Pennsylvania. 
+]8 Thi)'   <,olut;  0.5 = .  ' (159/364) +  . (205/364),    employment change   New Jersey restaurants  included   payroll data,  0.1   mean employment change  New Jer<,ey   payroll data. (See  3.) 
+~9    solution  -2.5 = 1.0' (7  09) + " . (38/109).     mean employment change   Pennsylvania restaurants  included   payroll data.  1.0   mean employment change  Pennsylvania   payroll data. (See  3.) 
+data    ES-202 data  CK analyze   Reply40.41 
+Summary.-Summing ,   point   compelling reason  expect systematically different estimates  employment growth  
+40  course,  latter differences    due   representation  different chains  CK' ES�202 data set used   Reply (Card  Krueger, 2000). CK note   confidentiality reasons   unable  confirm   used exactly  four chains    data  collected   original study.   text suggests    included additional chains. 
+41   Reply (Card  Krueger. 2000). CK  argue   sample   representative    disproportionately high fraction  Pennsylvania reMaurants  reported  data  biweekly periods, "Ieading  faster measured employment growth   state" (. 1398). ,    factual basis     aware  asserting   fraction  disproportionate relative   sampled universe (   basis   claim   highcr fraction  Pennsylvania   New Jersey leads  "overstatement""  employment growth  Pennsylvania);  particular. CK   information   payroll period "   restaurants   sampled universe    telephone surveyor  ES-202 data ( refer    payroll period  includes  12th   month). . although CK  succeeded  identifying restau�rant-level characteristic  reduces  estimated disem�ployment effect (like     sensitivity analyses  report).   { provided  evidence   charactcristic helps  explain  differences belween  payroll data   telephone ~urvey data. 
+ addition. CK report   Reply (. 1411)   negative estimatc  relative employment growth  New Jerscy becomes positive   particular franchisee ( 26 restaurants)  dropped   sample.  argue  " conclusion   growth  average payroll hours   fast-food industry  New Jersey relative  Pen nsyl�vania hinges   experiences  Ihis  restaurant op�erator" (. 1409).  fail  see why   expect  data   individual franchisee (   narrow subset   data) 10  "representative." Moreover.   inexplicably based  conclusion  regrcssion excluding  controls  chain  ownership.   controls  included.  contrast    sharp,   estimate changing  -0.66   full sample  -0.37. Finall ,   just  easily identify franchisees  owners   excluded increase  estimated disem�ployment effect.  example. excluding  particular Burger King franchisee  13 restaurants  New Jersey   sample raises  estimated effect (standard error)  -0.81 (0.42).  dropping    Roy Rogers company�owned restaurants raises   -0.84 (0.55);    dropped  point estimate rises  -1.19 (0.59).  without compelling priori reason  drop    subsets  observations, emphasizing  results  particular subset  observations dropped  jU'\ data� mining exercise. 
+'-----------�
+New Jersey  Pennsylvania    data 
+sources. Rather.  think    simply 
+considerable measurement error  CK' data, 
+attributable   design   survey.  contrast,  data  accurately reflect  actual quantity  labor employed   res�
+taurant   survey period.  course,   measurement error  CK' data  random,  
+  bias  estimated employment ef�
+fect ,   measurement error    depen�dent variable.    possibilities.     measurement error  CK' data  ran�
+dom,     severe   large-sample result simply   hold   relatively small samples considered.   Pennsyl�
+vania sample   data sources  rather 
+small,     difference   
+ data sources arises  Pennsylvania,   
+entirely possible  random measurement er�ror  CK' data   culprit.'2   possibility    measure�ment error   random. Although    
+explanation  systematic bias  CK' data, 
+ histograms  Figures   2  consistent     possibilities:  variance  employment change  CK' data  consider�
+ably greater     payroll data ( 
+ properties   data  consistent  relatively severe classical measurement error);   central tendencies  employment change    data sources  different, 
+ particularly strong indication  CK' 
+survey results overstate  employment decline  Pennsylvania. 
+. Alternative Evidence 
+Given  substantive differences    data sources   estimates  mean 
+employment growth  New Jersey  Penn�sylvania   February-to-November 1992 period,    useful  compare  
+estimates   sample-based estimates  administrative records  standard govern�ment data-collection programs.   obvi�ous source  data   regard   BLS 
+42  course.   measurement error  CK' data !. random. then  evidence  positive employment effects   data   even stronger   absence  mea�suremell1 error.   reponed standard errors  inflated    measurement error. 
+series  establishment employment. Unfortu�
+nately. ,  BLS   produce em�ployment counts specifically  fast-food 
+restaurants,  instead provides numbers  
+employment   eating  drinking places (SIC 58);  data  available   na�
+tional. Slate,  county level."3 
+ BLS data  employment growth  eating  drinking establishments  February�March  November-December 1992 (  calie averaging    months)  shown  
+ 9. along  similar figures   preced�ing  following years   comparison fig�
+ures   percentage changes  employment 
+ CK' data   payroll data ....   set 
+ columns  panel presents state-level data 
+separately  New Jersey  Pennsylvania   BLS-790 program.   set  columns shows  same data   ES-202 program,   third set  columns includes   Pennsylvania counties covered  CK' data.45 Technically.   BLS-790 data   ES�202 data  based  unemployment-insurance tax records through   quarter  1995. How�
+ever,   differences    data sources  reflect technical adjustments   
+BLS-790 data  make  more comparable 
+ time.   respect.  BLS   
+consider  ES-202 data  provide valid time�series data.   BLS-790 data  employment 
+4.1 Although monthly data exi!.   ofthe!. geogr-dphic leveb  di!.aggregation.  BLS  publishc!. employment data  eating  drinking place!!   national level. State data   BLS-790 program  available via  Internet.  "tate  county data   ES-202 program  available ]> reque!   BLS. 
+  reioults  thi!! !!ection  qualitatively similar using  change  February  November.  months   mo~  CK\ data   payroll data come. 
+4~ Becau~ CK' data : did 110t indicate  county    rcstaurant  located.    use  infomtation  define  sample fmme   payroll data. More recently (   Reply [Card  Krueger. 20001 10  paper).  indicated   Penn<'ylvania restaurants   sample came  7 counties: Bucks. Chesler. lack�awanna. Lehigh. Luzerne. Montgomery.  Northhampton. .   Reply CK  report "!!ulLS adding 7 additional Pcnnsylvania counties. induding  city  Phila�delphia.   <;ample.   note    regression <;timalc!.   .<.tabli"hmenl-Ievel ES-202 data   re]Xlrt  Tables 2  3   Reply.      7 additional counties  added   few marginally signifi�cant ( 2 more significant) positive employment effects 
+ari~. 
+TABU 9-ALTERNATIVe Esn'-1An:.5  ."'PLOYMENT GROWTH  EATING  DRJNKING PLACES, PERCENTAGE CHANGES 
+. BLS Dow 
+BLS-790. February-March  November-December. IOlal slate ES-202. February-March  November-December. total slate ES-202. February-March  November-December, total New Jersey,  7 Pennsylvania counties  Card/Krueger data 
+Year New Jersey Pennsylvania Difference New Jersey Pennsylvania Difference New Jersey Pennsylvania Difference 
+1991 5.2 2.7 2.5 3.8 3.0 0.8 3.8 2.7 . 
+1992 6.0 4.9 . 5.1 5.1 0.0 5.1 4.8 0.3 
+1993 6.6 4.3 2.3 6.8 4.6 2.2 6.8 6.1 0.7 
+. Card/Krueger {)ma 
+Card/Krueger dOla, nonmanagement CardlKrueger data. noomanagement Card/Krueger data. total employment employment employment. sampled universe 
+New Jersey Pennsylvania Difference New Jersey Pennsylvania Difference New Jersey Pennsylvania Difference 
+1992 FTE' 2.3 -9.8 12.1 2.7 -12.4 15. 1 3.3 -13.4 16.7 1992 employees 0.6 -6.7 7.3 0.8 -7.5 8.3 0.6 -8. 1 8.7 
+. Pa.\'roll Data, USing \'~ra8~ Payroll dala 
+New Jersey Pennsylvania Difference 
+1992 FTE' -0.5 5.1 -5.6 
+Note: Percentage employment growth across  establishments  reported. 
+growth might  regarded  more reliable   analysis. 
+Focusing  1992,    things  note. ,  difference  employment growth  New Jersey  Pennsylvania  quite small   February-March  November�December period,       data sources. New Jersey shows slightly faster growth  Pennsylvania- fact ,   glance, might  taken   more consistent  CK' data    payroll data46 
+,   point  note    neither state   employment growth figures 
+  BLS data close    CK' data (reported  panel ),    payroll data 
+46   instead use data  December-to-December em�ployment changes,   eliminate seasonal differ�ences   fast-food  non-fast-food components   restaurant industry,  New Jersey-Pennsylvania employment growth differences  1992  -0.7   BLS�790 data. 0.1   ES-202 total stale data,  0.9   �5-202 data restricting  Pennsylvania data   counties covered  CK' data. .   case  more reliable BLS�790 data indicate slower employment growth  New Jersey. 
+(reported  panel ).  strikingly,  BLS data   show  sharp employment decline  Pennsylvania   exhibited  CK' data; 
+ decline  Pennsylvania    notice�
+able difference  CK' data   pay�roll data.  differences   BLS data   fast-food data suggest  move�ments (   seasonal)   non-fast�food component   eating  drinking SIC dominate    fast-food component47 
+,  tum, suggests   data  eating 
+ drinking places   particularly infor�mative  regard   reliability   CK' data   payrolJ data4 ' 
+47 According   1992 Census  Retail Trade. estab�lishments classified  refreshment places  customers order  pay   counter   inside seating (  fast-food restaurants   part) comprise  20 percent   eating  drinking establishments  New Jersey  Pennsylvania. 
+48  early stage  : research.  explored  possibility  matching  establishment-level ES-202 data  CK' establishments  compare employment levels  changes ( ES-202 data   infonnation  hours). .  request  access   data   
+Nonetheless,  BLS employment data  eat�ing  drinking places   independent interest   provide alternative estimate  minimum-wage effects  industry   effects might  sizable. better test  sim�ple comparison  employment growth   year    allows  state-specific differ�ences  employment growth. CK' statistical ex�periment,  focusing  employment growth  single period, precludes analysis   type, point emphasized  Daniel . Hamemlesh (1995). simple version   test comes  comparing  difference  employment growth  New Jersey  Pennsylvania  1992   differences   surrounding years.  
+particular,      data series  panel   9,  differential  New Jersey  Pennsylvania employment growth  lower  1992    1991  1993, suggesting 
+ New Jersey' increase   minimum wage slowed relative employment growth   sec�tOr.49  more basic point    em�
+ployment growth  New Jersey  higher   Pennsylvania  1991 (  1993), CK' ex�periment  comparing employment growth    states  1992    particularly good ,   treatment group (New Jersey)  control group (Pennsylvania) obviously   differences apart   imposition   
+minimum-wage increase   treatment group. 
+  subjected  BLS data  more formal test  regressing  annual percent change  employment   state  1982  
+1996   percent change   mjnimum-wage level   state/year.  results  shown  
+ 10.     columns   top panel, 
+ use annual observations   February�
+March  November-December employment change   state  measured   BLS-790 data.   cases,  estimated coefficient   
+minimum-wage variable indicates negative cf�
+purpose   granted.  understand thai new guide�lines   developed under   establishment�level ES-202 data   made available 10 researchers,  Ihal matching  establishment basis  still   permitted. 
+"9   find  result   expand  number  Pennsylvania counties  include  19 cou nties    least part   county      zip-code areas included   original CK data set     restaurant   payroll data    located. 
+fect,   coefficient  statistically significant   5-percent level   specification   
+ change   state unemployment rate   
+included  control variable.   third  fourth columns,  use December-to-December changes, thereby removing  seasonal variation   data.   case,  estimated coefficient 
+  minimum-wage variable  negative  
+statistically significant   5-or IO-percent level 
+  specifications,  estimated elasticities 
+close    obtain   fast-food em�ployment data. 
+  bottom panel,  repeat  analysis  
+ ES-202 data,   results using   Pennsylvania shown  columns ()  (2)  
+ results using  7 Pennsylvania counties cov�
+ered  CK' survey shown  columns (3)  (4).50  coefficient estimates using total em�ployment changes   state  quite simi lar     upper panel,   coefficient  
+ minimum-wage variable negative  statisti�
+cally significant   5-percent level   spec�
+ification excluding  unemployment rate,  
+negative  statistically significant   10�percent level   specification including .  
+estimated coefficient   minimum-wage vari�able   negative   Pennsylvania sam�
+ple  restricted   7 counties covered  CK' 
+sample, although   case,  minimum-wage 
+effect  smaller    statistically significant   unemployment rate control  included 
+  regression. Taken  whole,    view   BLS 
+data  employment  eating  drinking 
+places neither confirm nor reject  findings 
+  payroll data   New Jersey 
+minimum-wage increase appears   re�
+duced fast-food employment   state.  BLS data , , provide complementary 
+30  analysis   problematic   ES-202 data, owing 10 break   series  January 1991.  panicular, change  reponing methods  payroll pro�cessing firms led  large downward correction   universe employment counts  establishment.. using  firms. Historical adjustments  made   BLS-790 data  account   change; .  hislOrical revisions  made   ES-202 data (American Statis�tical Association, 1993).    effect   February�March  November~December changes.   affect  change  December 1990  December 1991.   reason,  present  estimates   February-March 10 November-December changes. 
+TABLF IO-REGRESSION EsTIMATES  MINIMUM-WAGE EFFECT'  EMPLOYMENT GROwnt 
+RATE. EATING  DRINKING PLACES  NEW JERSEY  PENNSYLVANIA 
+. Ul'illg BLS-790 Data Percen  change February-March 10 November-December Percent change December  December 
+Variable () (2) (3) (4) 
+Mmimum wage (percent -0. 18 -0.15 -0.21 -0. 15 
+change) (0.09) (0. 10) (0.07) (0.08) 
+New Jersey -0.08 -0.05 -0.08 -0.04 
+(0.94) (0.95) (0.79) (0.77) 
+Change  unemployment rate -0.32 -0.55 
+(0.47) (0.37) 
+Constant 5.77 5.62 2.58 2.33 
+(0.70) (0.74) (0.59) (0.60) 
+' 0. 13 0.15 0.23 0.29 
+. Using �S-202 Data 
+Percenl change 
+February-March  
+Percent change November-December. 
+February-March  New Jersey  
+November-December. 7 Pennsylvania 
+total state counties 
+Mimmum wage (percent -0.20 -0.16 -0.16 -0.11 
+change) (0.08) (0.09) (0.09) (0.10) 
+New Jer..ey 0.01 0.04 0.21 0.25 
+(0.81) (0.8 1) (0.96) (0.96) 
+Change  unemployment rate -0.43 -0.49 
+(0.39) (0.46) 
+Constant 5.90 5.70 5.57 5.34 
+(0.60) (0.62) (0.71) (0.74) 
+' 0.21 0.24 0.10 0.15 
+Notes:  sample period " 1982-1996.  resullS  insensitive  correcting ror first--ordcr serial correlation. Standard errors   parentheses. 
+evidence  minimum-wage increases reduce employment   restaurant industry. 
+. Conclusions 
+ paper describes  reevaluation   findings  Card  Krueger' New Jersey�Pennsylvania minimum-wage study. Using data  administralive payroll records  sample  fast-food restaurants  mosl likely overlaps extensively  CK' sample,  analysis re�
+veals  findings. ,  data collected  CK show  greater variability  employ�ment change   observed   payroll 
+data,   patterns  differences consistent  rather severe measurement error  CK' 
+data. , whereas CK' data imply   
+New Jersey minimum-wage increase led  increase  full-time-equivalent employment  
+fast-food restaurants  New Jersey relative   Pennsylvania control group,  payroll data 
+indicate   minimum-wage increase led  
+ decline  fast-food FTE employment  New Jersey relative   Pennsylvania control group.  direct replication analysis   payroll data yields elasticity  -0.2 1  -0.22,  additional sensitivity analyses 
+widen  range  estimated elasticities  lie 
+generally  -0.1  -0.25. 
+   evidence  interpreted, es�pecially  light  Card  Krueger'  previous work?  results using  telephone survey data always indicate positive effects  mini�mum wages  labor demand.  estimated 
+effects  significant   specifications, 
+although     .51  reevaluation 
+  New Jersey-Pennsylvania experiment us�
+ing  payroll data generally indicates negati ve effects  minimum wages  labor demand. Again,  estimated effects  significant  some specifications  subsamples,    means    .   possible  conclude    alternative data sets lead   
+same conclusion?  OUf view. thi   unten�
+able position.  fundamental question, although  
+ easily subjected  statistical analysis,    qualitative conclusions  Card 
+ Krueger drew   New Jersey�
+Pe nn sy lvania minimum -wage experiment 
+    different   analysis  based   payroll data, rather    telephone survey data.  stated   found " evidence   rise  
+New Jersey' minimum wage reduced em�ployment  fast-food restaurants   state,"  " increase   minimum wage in�creased employment,"    findin gs " difficult  explain   standard competitive model" (. 792).  regard  payroll data   consistent    opposite conclusion . 
+Having argued   payroll data provide qualitatively different answer  CK' survey data,  question  remains      conclusion   draw regarding  actually happened  employment   CK-surveyed fast-food chains  result  New Jersey' minimum-wage increase.    focused  CK' methods  analysis,   drawn negative reactions  oth�ers (.., Hamermesh [1995   Welch [1995]), although  impression   data presented  CK' Reply (Card  Krueger, 
+2000)    raise some questionsabout  validity   assumptions needed  interpret  difference-in-differences estimates  nat�ural experiment. Nonetheless, even under  
+premise   geographic proximity   samples renders   things equal,  be�lieve ,   final analysis,  payroll data 
+51   paper, 39 percent   estimatc.\.  .\.ignif�icantly grcater  zero   5-percent significance level.  additional 22 percent  significantly greater  zero  significance levels  5  10 percent. 
+raise serious doubts   conclusions CK drew   data,  provide reasonable 
+basis  concluding  New Jersey' mini�mum-wage increase reduced fast-food employ�
+ment   chains  New Jersey relative  
+ Pennsylvania control group. Combined   new evidence   ES-202 data  CK present   Repl ,  think    
+more decisive  concluding  New Jersey' minimum-wage increase did  raise fast-food employment   state. 
+ApPENDIX :  PAYROLL DATA 
+ Appendix provides detailed discussion   payroll data collected  fast-food res�taurants  New Jersey  Pennsylvania.  data  provided  franchise owners  corporate administrators  zip codes  res�taurants-distinguished  chain  owner�
+ship-represented  CK' data. subset   data collected   beginning   project  gathered   EPI,  then forwarded  us. Specifically,  EPI collected data  72 Burger King  Wendy' franchises,  nine 
+company-owned Wendy' restaurants.  CK' 
+zip-code areas." Subsequently,  took   data-collection process  gathered   
+ remaining data,  additional 154 restau�
+rants,  total sample  235.  sample drawn   EPI   fran�
+clusees listed   Chain Operators Guide,  well    franchisees  corporations operating  New Jersey   relevant areas  
+Pennsylvania    EPI  able  gather information.  EPI drew  sample   simple goal  comparing  payroll data sup�plied   franchisees  CK' data. Accord�ing   EPl' Executive Director, Richard Berman,  motivation  doing  came  
+inspection  data provided    CK  
+curiosity regarding  sometimes large employ�
+ment changes apparent  restaurants  CK' data along   vagueness   employment questions  CK' survey; importantly,  impe�
+{uS   study did  come   restaurant 
+owner  offering data  encouraging  EP[ 
+  originally analyzed  earliest data collected   EPI ( did  yet include  company-owned Wendy' restaurants)  draft wrillen  March 1995 (Neumark  Wascher. 1995). 
+ solicit data."  EPI  collected data  franchises  New Jersey,  subsequently  franchises  Pennsylvania.  requested pay�roll data  hours worked  nonmanagement employees   pay periods spanning  dates   wave  CK' survey;  data  supplied  weekly, biweekly,  monthly basis depending   employer,    former  cases sometimes  more   payroll period   relevant dates. CK' data set   include unique restaurant identifier (  address),    EPI   able  match  
+ compare data  individual restaurants. How�
+ever,  CK data set  include    digits  thc zip code ( zip-code sectional area)    surveyed restaurant  located, en�abling some matching  units  location.  EPI attempted  identify some zip-code areas   data   obtained   franchised 
+restaurants  chain,  order  obtain set  
+zip-code areas      restaurants in�cluded  CK' data sso appeared   pay�
+roll data set.   based  information 
+supplied  franchisees, sometimes relating  franchise agreements  might specify,  ex�ample,     franchisees   fran�chises   region.54  "complete data" subsample analyzed separately  some parts   paper consisls  data  franchised outlets  zip-code/chain pairs      restau�rants;  data,    collected   EPI. cover Burger King franchises   states,  Wendy' franchises  New Jersey.  sub�sample  includes data  Wendy'  Roy 
+Rogers company-owned restaurants-the former 
+collected   EPI,   latter  us.  order  collect data     types  
+restaurants represented  CK' data. even     get aJl restaurants  chain/ 
+ownershiplzip-code cell,  conducted sup�plementary data-collcction effort relying solely   Chaill Operators Guide.  particular,  
+ Personal communication. December 2, 1997. 
+~   collected  additional data,   checked    franchisee reported restaurants  chain  zip-code area      told   complete coverage  restaurants.    cases did contradiction ari!) ( Burger King franchises   Penn�sylvania zip-code areas).   removed   zip.�code/chain pairs   subsample classified  having complete data. 
+identified franchisees   restaurants     four chains covered  CK' data    headquartered  Pennsylvania, New Jer�sey,  New York ;   principle franchi�see located   state cou   outlets  New Jersey  Pennsylvania,   impractical 
+ survey franchisees    states,   assumed    cover  outlets  surveying   states.  initially faxed letter   franchisee. Following  ques�tions  EPI used initially,  requested pay�roll data   pay periods spanning  dates   wave  CK' survey."  letter mentioned  EPr  well  CK' study,  
+some preliminary conversations  restaurant 
+owners indicated   knew    EPI   "New Jersey-Pennsylvania study"   "Princeton study."  felt  mention�ing  EPI  maximize  likelihood  franchisees  participate, although  rec�ognize    raised  potential problem  
+response bias. issue  address   main 
+body   paper.   owners seemed 
+familiar  thisdebate. .    
+way  request  data  vacuum. Finally,  
+course,  wanted  maintain comparability 
+  original data collected   EPI. Nonetheless,  acknowledge  data col�lected  external source   desir�able, assuming   data   sufficient quality. sample   initial letter,  came    author  Michigan State stationery,  attached  Appendix . 
+ used strategy-chosen   out�set-of making  least four attempts  elicit data   franchisee. including tele�
+phone follow-up   fax,  additional telephone calls  faxed Ictters, unless  franchisee clearly indicated     supply  data  informed us     outlets   zip-code areas ( Pennsylvania) covered  CK' data.   initial letter,  asked  respondents  supply us  data    payroll periods  possible  February  November  1992. especially including  
+55  data-collection effort focused  current fmnchi�sees   ziJl-code area.   asked  supply data   restaurants  operation   time  CK' !>rudy (   corporations). Below,  di<icUSS informmion  franchisees     operating   time  CK' study  subsequently closed. 
+last payroll period   month.   payroll period    monthly. (February cov�ers    period spanned    wave  CK' survey,     data   
+ wave come  November.)    uniquely identify  restaurants  
+CK' data set,    closest   corne  matching   time frame covered    
+data sources.  hours data  converted  
+ weekly basis,  divided  35  obtain measure  full-time-equivalent (FfE) employ�ees.  parallels CK' procedure  obtaining 
+data  numbers  full-time  part-time em�
+ployees,  weighting part-time workers  one-half  estimate FfE employment.  re�
+quested data  hours rather  number  employees  initial explorations  franchise owners revealed  hours data  easier  obtain.56   main body   paper,  discuss issues arising   possi�
+ble noncomparability    measures  
+employment. 
+Overall,   data-collection efforts re�sulted  45 franchisees,   25 responded,  17 supplying data  eight indicating    outlets   zip-code areas    
+ interested.   remainder, nine declined 
+ supply data,   did  return repeated 
+messages  respond  faxes. 57  payroll 
+administrator     parent corporations   contacted,  attempt  obtajn data  company-owned restaurants. Roy Rogers  
+Wendy' supplied data,  Burger King  KFC declined   .   final analysis,   data-collection effons yielded data    franchised res�
+taurants   company-owned restaurants  chajn  24 zjp-code/chajnJownership combi�nations (7  Pennsylvania   7  New Jer�sey)  data  some restaurants  
+additional 25 zip-code/chainlownership combi�nations,  total  235 observations." Ex�
+56 Conversations  franchise owners  controllers indicated numerous reasons  maintain hours records. including:  ability  document hours worked  individ�uals  resolve pay disputes; tracking overtime: document�ing compliance  hours restrictions  minors:  monitoring eligibility  pensions. 
+~7  rea~ offered  refusals  almost always  retrieving  data  too  work. ~11  individuals  supplied  data  company�owned restaurants indicated   received data   
+cept   Roy Rogers company-owned restaurants,  data   complete data sub�sample  collected   EPI; almost    rest   data  collected  us.   exception   observations collected   EPI  franchisees    Chain Oper�/ors Guide.  sample   drawn   
+universe  company-owned restaurants  franchisees  appear   Guide.  raises few issues. 
+  concerns  universe  franchisees included   Chain Operators Guide. Infor�mation obtained   publisher   guide indicates      attain universal coverage   chain restaurants, coverage  
+likely  high. although franchisees  
+  least  units   included.59  addition,  listings  restaurant associa�tions   source  information   
+Guide, inclusion   guide   specifically related  membership  lobbying organiza�tion, payment   fees, etc. Based   
+information.  see  reason  believe   
+sample drawn   Chain Operators Guide 
+introduces  particularly important biases, es�pecially  regards differences  restau�rants  New Jersey  Pennsylvania. 
+  issue   innuence   re�
+units   corresponding chains.   consistent  
+evidence reported   paper    data  more 
+company-owned restaurants   chains   CK. ~9  provide  following quotations  letter 
+  Associate Editor   Guide, dated January 10. 1997. 
+ ultimate goal  100% coverage   chain restaurant industry .... Prospective companies  identified  variety  sources. including res�taurant association membership lists, wholesaler customer IiSl'>. industry trade reading,  Internet resources.  detennining  company meets  inclusion criteri . namely operating 3  more units.  gather   third-pany information  <; available.  questionnaire  generated   research "taff.  questionnaire probes  infor�matIOn '>pecific   company'>; operation (square footage. projected expan,>ion. menu types. services offered).  researcherr.. via phone  mail. then contact  company  verify  augment  infonnation  file. Once   complete profile   company.  information  released   database.   becomes  sting   directory. Companies  then contacted annually  update  listing. 
+ I-RESPONSE  FRANCHISEES   SURVEY 
+. Response Rates 
+Number 
+Number  re sponded Number Number   Number 
+franchisees (re~ponse provided units  zip-code did  
+surveyed rate) data area Number refused respond 
+New Jersey 19 12 (0.63) 12 2 5 
+Pennsylvania 15 9 (0.60) 4 5 3 3 
+New York  4 (0.36)  3 4 3 
+. CharaCTeristics  Respondems  Nonrespondems Pennsylvan ia  New Jersey franchisees: 
+Burger King Wendy' Roy Rogers KFe Un ilS   ngle state Units  multiple states 
+Respondents supplying dala 15 4   9 7 
+Nonrespondenls/refusais 9 3 3 2 8 5 
+NOles: Note  some New Jersey franchisees own Pennsylvania restaurants.  vice versa.    classified   location   corporate office. Nonrespondents    did  return  respond   least four phone calls  faxes. Some franchisees own restaurants   states, although    information   distribution  re!.tauranlS  staiC.  therefore report  numbers   franchisees  corporate offices  New Jersey  Pennsylvania.   assume    offices  New York     restaurants  New York. Numbers    four columns  panel  add    more   number supplying dala plus  number  refusalslnonresponses,   franchisee owned restaurants   chains. 
+suits  including  franchisees (representing 
+32 restaurants)  New Jersey    
+listed   Chain Operators Guide  head�
+quartered  Pennsylvania, New Jersey,  New 
+York,   identified   EPr based  
+ infonnation ( obtain zip-code areas  
+complete data    compare CK' data).     know  sampling 
+frame   32 restaurants.   valid scientific reasons  exclude .  explore  consequences  doing    main text; 
+briefly.   essentially  effect   results. Third,   substantial nonresponse   
+universe  franchisees listed   Chain Oper�ators Guide.  nonresponse raises potential is�sues  sample selection bias.  course,   
+ payroll data   non respondents.   Appendix    compare respondents  nonrespondents along couple  dimensions   information  available   Chain Op� 
+erators Guide. Panel shows  response rates 
+  higher   franchisees headquar�tered  New Jersey  Pennsylvania. Panel  
+provides information  chains,    
+franchisee owned units  multiple states ( New York franchisees   own units  New Jersey  Pennsylvania). Nonresponse   frequent  Burger King  Wendy' franchisees,  respondents differed little  nonrespondents  terms    owned restaurants  mul�tiple states.   main body   paper,  provide additional information  potential re�sponse bias  comparing CK' data   chain! ownership/Zip-code area cells    did  did  receive payroll data.   present analyses indicating  response bias   un�likely   driving  results. 
+  possible  some   nonresponding 
+franchisees  gone   business   time 
+  data-collection effort,   affect 
+ results.  examlne  possibility,  ob�
+tained  1992  1993 versions   Chain 
+Operators Guide.  Pennsylvania.   
+franchisee disappeared  1993  1995,   franchisee almost certainly did   
+restaurants   zip-code areas covered  
+CK' survey.60 (  franchisee changed names.)  New Jersey,  franchisees dis�appeared  1993  1995.  might suggest .  anything, nonresponse attribut�able  franchisees going   business be�tween 1993  1995 biases  results against 
+hO   small franchisee based   center   state. 
+finding employment decline  fast-food res�taurants  New Jersey. .   
+require  minimum-wage effects  closings 
+( entire franchisees) occur  lag,   franchisees   state disappeared  1992   993.   work,   found evidence  lags   year  standard 
+disemployment effects  minimum wages 
+(Neumark  Wascher,  992). 
+ addition   sampling issues,  
+ EPJ  stake   outcome   
+minimum-wage debate.  felt  important  
+assess  validity   data  collected  supplied  us.  took  steps  verify  
+accuracy   data. ,  spoke  
+ franchise owner  supplied data   EPI  confirmed   provided numbers 
+  administrative payroll records.  
+  franchise owners indicated   pay�roll records  computerized  maintained  
+ADP, payroll processing firm,    simply provided information supplied  ADP. 
+.  requested  received signed state�
+ments   franchisee  supplied data   EPI (  Wendy ' corporate headquar�ters) attesting   veracity   data   EPI supplied  us.  statements included 
+transcription   actual payroll data;  every case,  numbers exactly matched  data  
+received   EPI. Third.  verified that�
+  zip-code/chainlownership combinations     data   restaurants   zip-code area-whenever CK' data indicated 
+restaurant closing,  payroll data  indi�
+cated restaurant closing.   confinned 
+   closings  CK' data. (CK  
+careful  document restaurant closings,    dimension     use  data  
+assess  reliability   data.) ,   
+  reservations regarding  validity  
+ data. 
+ApPENDIX : SAMPLE LEITER 
+Dear __ (franchise owner): 
+ writing  request data  research 1 
+conducting  conjunction   Employ�
+ment Policies Institute, restaurant-supported 
+lobbying  research organization.  particu�lar.   collecting employment data  
+fast-food restaurants  reex.amine  New Jersey-Pennsylvania minimum-wage study.  
+  help provide  needed data,     appreciative.   need. precisely.   number  
+non management payroll hours worked     __ (Pennsylvania, New Jersey,  ) restaurants  February  November  
+1992.   use  data  whatever form  record them-monthly, biweekly,  weekly. ,   data  biweekly  weekly.  need data   end   month.   need    digits   zip code  
+  restaurant  located. 
+ willing  abide   confidentiality 
+requirements    . Please call      questions. 
+( fo/loll'in8 paragraph lVas incillded  franchisees wilh restaurants  ill Pennsyh'G�nia,  otherwise excluded.  fillal para�
+graph  included ill /etters.) 
+   able  dispense   request 
+quite quickly.   interested  restau�rants   zip codes beginning  __ (list /zip-code areas  corresponding restallrGfltS 
+ CK' data).     restaurants   zip codes, please let  know.       need. 
+Finally,   ultimately determine   
+ provide  data, please inform . 
+indicmion    reason   provide 
+   helpful. Again, thank   
+ assistance. 
+Sincerely, 
+David Neumark 
+Professor  Economics 
+REFERENCES 
+American Statistical Association. "Report  
+ASA Panel   Bureau  Labor Statistics Current Employment Survey:' 1993. 
+Brown, Charles; Gilroy, Curtis  Kohen, �
+drew. " Effect   Minimum Wage  Employment  Unemployment." Journal ofEconomic Lileralllre, June 1982,20(2), . 487-528. 
+Card, David  Krueger, Alan . "Minimum 
+Wages  Employment: Case Study   Fast-Food lndustry  New Jersey  Penn�
+sylvania." American Economic Review, Sep�
+tember 1994,84(4), . 772-93. 
+___ . Myth  measurement:  new eco� 
+nomics   minimum wage. Princeton. NJ: 
+Princeton University Press, 1995. 
+___ . "Minimum Wages  Employment: Case Study   Fast-Food Industry  New Jersey  Pennsylvania: Reply ." Amer�ican Economic Review. December 2000. 90(5), . 1397-420. 
+Chain Operators Guide. Various issues. Davis, Steven .; Haltiwanger, John .  Schuh, Scott. Job creation  destruction. Cam�
+bridge, MA: MIT Press, 1996. 
+Hamerrnesh, Daniel . "Myth  Measurement:  New Economics   Minimum Wage: Review Symposium: Comment." Industrial  Labor Relations Review, July 1995, 48(4), . 835-38. Katz, Lawrence .  Krueger, Alan . " 
+Effect   Minimum Wage   Fast�Food Industry." Industrial  Labor Rela�tions Review, October 1992,46(1), . 6-21. Kennan, John. " Elusive Effects  Mini�
+mum Wages." Journal  Economic Litera�
+ture, December 1995,33(4), . 1950-65. Leonard, Jonathan . "  Wrong Place   Wrong Time:  Extent  Frictional  
+Structural Unemployment,"  Kevin Lang  Jonathan . Leonard, eds., Unemploy�
+ment   slruc/ure ojlabor markets. New 
+York: Blackwell, 1987, . 141-63. 
+Machin, Stephen  Manning, Alan. '" Ef�
+fects  Minimum Wages  Wage Disper�sion  Employment: Evidence   
+.. Wages Councils." Industrial  Labor Relations Review, January 1994, 47(2), . 3 19-29. 
+Neumark, David  Wascher, William. "'Em�
+ployment Effects  Minimum  Submini�mum Wages: Panel Data  State Minimum Wage Laws." Industrial  Labor Relations Review, October 1992, 46( ), . 55-81. 
+___ . " Effects  New Jersey' Mini�mum Wage Increase  Fast-Food Employ�ment: Re-Evaluation Using Payroll Records." Unpublished manuscript, Michi�gan State University, March 1995. 
+Schmitt, John. "Cooked  Order." American 
+Prospect, May-June 1996, . 82-85. 
+Welch, Finis. "Myth  Measurement:  New Economics   Minimum Wage: Review Symposium: Comment." Industrial  Labor ReiatiollS Review, July 1995,48(4), . 842-49. 
+Copyright  American Economic Review   property  American Economic Association.  copyright  individual article   maintained   author  certain cases. Content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

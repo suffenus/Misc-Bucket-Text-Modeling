@@ -1,0 +1,106 @@
+Personal Income, Wealth,   Distributions D31, Retirement, Retirement Policies J26The Cause  Wealth Dispersion  Retirement: Choice  Chance?
+ STEVEN  . VENTI  DAVID .     *
+  United States, some households reach retirement having accumulated substantial wealth  others approach retirement   limited assets. Considerable research   directed  testing alternative explanations  why people save.  ask different question;     dispersion  wealth  retirement arises   variation  resources    households   saved   lifetimes,      dispersion arises  some households saved  available resources  others did  save?  differences  accumulated wealth reflect  availability  financial resources  thrift   important policy implications. [  United States, income   capital  labor  taxed   federal level,  wealth  often taxed   state  local level via  property tax. number   features   tax system  directly  indirectly impose ex post taxes  accumulated wealth. Examples include means-tested taxes  Social Security benefits, implicit taxes  college financial-aid programs, "success" tax penalties  excess accumulations  pension saving ( abolished), estate taxes,  spend-down provisions  Medicaid.   households   same lifetime earned income pay  different levels  lifetime taxes   save different proportions   eamings.  tax difference consists  levies  capital income  accumulated wealth.  legislative choice   taxes   favored  perception  wealth dispersion arises principally  "      " events   inheritances, poor health,   ' 'shocks' •  wealth  limit  resources    saving   taken.   case.
+ taxes   considered "fair"   work  equalize wealth differences arising   luck.    hand,   dispersion  wealth   elderly reflects conscious spending versus saving decisions  young,   saving varies dramatically across households  similar lifetime earned incomes, taxes  accumulated saving   harder  justify  appear  penalize savers  spend     young.  addition,  economic perspective, taxing saving   incentive effects  wealth accumulation  random.     true  wealth accumulation results  conscious decisions  save versus spend  young.   case, levies  savers   substantial incentive effects, discouraging individuals  saving   own retirement.  paper    reasons   dispersion   accumulation  assets  persons  similar lifetime eamings.    new issue.  1953, Milton Friedman  "Choice. Chance,   Personal Distribution  Income" concluded: "Yet  think    analysis] goes far enough  demonstrate    rule   possibility  large part   existing inequality  wealth   regarded  produced  men  satisfy  tastes  pref'erences."  analysis  based   baseline interview   Health  Retirement Survey (HRS)  surveyed households  person aged 51-61  1992.  survey includes complete accounting  assets, including personal retirement assets   IRA'  401 () balances,  personal financial assets, home equity,  assets   real estate  business equity. Employer-provided pension wealth  calculated   respondent' description  provisions   pension plan. Perhaps   important advantage   survey      matched  eamings histories provided   Social Security Administration.  Social Security eamings histories, together  linked Current Population
+185
+* Depanmeni  Economics, 6106 Rockefeller Center. Dartmouth College, Hanover. NH 03755.  National Bureau  Economic Research, 1050 Massachusetts Avenue, Cambridge. MA 02138-5398. respectively.
+186
+1,300,000
+AEA PAPERS  PROCEEDINGS
+ 1998
+MINI 1,000.000
+£
+"  9
+^
+eoo.ooo
+ran'
+600,000
+
+^ 400,000 300.000
+^ ^ sm
+"
+1st 2nd 3fd 4th 5Hi 6th 7th eth 9th Lifehme Earnings Oedle
+10th
+1st
+2nd 3rd 4tti 5th 61h 7th 8th 9tti lOIti UfeiknB Eamlnos Oedle
+FiauRE 1.  &rH, 30TH, SOTH, 70TH,  90™ PERCENTILES  TOTAL WEALTH  LIFETIME EARNINGS DECILE 
+ 2.  IOTH, 30TH, SOTH, 70TH.  9(hn PbRCENTILES ) FINANCIAL ASSETS  LIFETIME EARNINGS DECILE 
+Survey data,  used  determine lifetime earned income.    analysis  based  household rather  individual data.  , 3,992 households  used. Details  available  Venti  Wise (1997).  next section   paper documents  enormous variation  wealth   eve  retirement.  find substantial variation  wealth even  controlling  lifetime earned income. Next  consider  link  wealth  lifetime income.  then set aside  dispersion attributable  differences  lifetime earned income  ask   wealth dispersion  families  similar lifetime eamings   explained  individual circumstances ,   course  lifetime,   limited  household' ability  save  retirement.   consider     dispersion   explained  different investment choices made  households. Dispersion  wealth  accounted   lifetime financial resources, circumstances affecting ability  save,  investment choices  interpreted  broad indicator   dispersion   "taste"  saving  households. final section concludes. .  Dispersed  Wealth? Perhaps  striking   enormous dispersion  wealth  lifetime earnings deciles,  shown   1.  example,   fifth lifetime income decile,  90th quantile  35 times  large   10th quan-
+tile.  range   extreme  higher eamings deciles   still  wide: factors  16, 19. 12. 10,  9   sixth through  tenth lifetime earnings deciles, respectively.   evident   households   highest lifetime earnings  accumulated  little wealth,  some   lowest lifetime earnings  accumulated great deal.  example,  90th quantile  approximately $150,000   lowest decile   well above $200,000     third deciles.  2 shows  dispersion  financial assets (excluding personal retirement assets   IRA  401 () accounts).   people   save    new.      high eamings save  little , , striking.  10th quantile  negative  close  zero  every lifetime eamings decile!  same  true   20th quantile,   exception   highest eamings decile    20th quantile  paltry $6,400.  medians range  zero   lowest  deciles,  $3,000  $5,800   fifth  sixth quantiles,  $10,000   70th  $36,500   highest eamings decile. Like  dispersion  total wealth,  range  personal financial assets   10th   90th quantiles  extremely broad. . Wealth  Lifetime Earnings Households  higher earnings  course save more    low eamings.    save larger proportion 
+ 88 . 2
+INFORMING RETIREMENT-SECURITY REFORM
+ 1—MKAN  MKDIAN WEALTH-TO-EARNINGS RATIOS
+Lifetime eamings decile Firsl SctotnJ Third Fourth Fitlh Sixlh Seventh Eighth Ninlh Tenth
+Mean wealth/ eamings 1.76 0.65 0.45 0.45 0.41 0.40 0.42 0.40 0.51 0.45
+Median wealth/ eamings 0.60 0.39 0.32 0.29 0.27 0.28 0.29 0.29 0.34 0.36
+eamings?   suggests .  shows  ratio  mean lifetime earnings  mean wealth  retirement ( median lifetime earnings  median wealth)  eamings decile. Although  estimates   bottom  lop lifetime eamings deciles   imprecise,  data show   ratio  wealth  lifetime eamings  quite flat   central range  lifetime-earnings deciles.  ratio declines   lower intervals  rises   upper tail.   appears Chat   level  aggregation  exists more   linear relationship   lifetime earnings   ratio  wealth  lifetime earnings.' . Wealth Dispersion Given Lifetime Eamings  1 demonstrates    substantial variation  wealth  lifetime eamings deciles;  range  median wealth hetween thefirstand tenth deciles  $377,000.     shows enormous variation  deciles. Using regression framework,  find   unconditional standard deviation  wealth  reduced   5.05 percent   control   decile  lifetime eamed income.  primary attention   paper  given   reasons   dispersion 
+' Ttie question   higher-income households  higher saving rates  long history  economics. Karen  Dynan  , ( 1996) review  evidence.
+wealth  lifetime earnings deciles.  want  distinguish  several possible explanations   dispersion.     set  household circumstances    limited  enhanced  financial resources available  saving, given lifetime eamings.     set  investment choices made    save.  third,     accounted     ,   choice  save   available resources.  approach  follow   determine     variation  wealth   explained  household attributes associated     explanations.   lifetime eamed-income decile  compare  distribution  wealth adjusted   set  factors   unconditional distribution.  exposition  necessarily graphical    part. More standard measures   reduction  variance  presented  Venti  Wise (1997).   set  attributes consists  individual circumstances   enhance  limit resources    available  saving.  think    "resource shocks"  "chance" events.  include inheritances, gifts,  health status.   control  age, number  children,  marital status. Poor health  reduce lifetime earnings,  given earnings   limit  resources    saving   taken.    limited information  lifetime health  use health status   time   survey  indicator  longer-term health status. Although children  marital status   literally chance events,  include     likely  expenses associated  raising children  reduce  pool  resources    saved.  particular, given  age range   sample (51-61 years),   possible  education expenditures  account  some   household variation  wealth. Marital status   included ,   due  economies  scale,   determine resources    saving  plausibly  drawn. Finally, age  included   range  ages  HRS household heads  likely   systematically related  asset accumulation.    include education.
+188
+AEA PAPERS  PROCEEDINGS
+ 1998
+ethnic group,   attributes    correlates   "     "  saving.   lifetime eamings decile,   predict wealth  simple specification   form
+(2)
+Adjusted Wealth = (Unadjusted Wealth)
+ (Predicted Wealth) + (Mean  Wealth)
+(1)
+Wealth = Constant + 0i (Married)  ^2 (Never Married) + (^^(Widowed, Divorced,  Separated) + ^4 ( Children) + /?5 (Number  Children  > 0)
+/?7 (Poor Health, Single Person)   (Poor Health, 1  2  Family) 0 ^9(Poor Health, 2  2  family) ;3i(,( Inheritances) 0\\( Amount  Inheritances Received  1980) ^i2(Amount  Inheritances Received 1980  1988) ^13 (Amount  Inheritances Received  1988)
+ appropriate normalizing restrictions   indicator variables.   equation,  obtain predicted wealth. Then,   eamings decile, adjusted weal±  determined 
+ gives distributions  adjusted  unadjusted (observed) wealth   same means   lifetime earnings decile. Note ,   explanatory factors   account   dispersion  wealth, then adjusted  unadjusted wealth    same   points   wealth distribution  eamings decile.   explanatory factors account  great deal   dispersion, then  distribution  adjusted wealth   flat, equal   mean level  wealth   households  earnings decile.  follow similar procedure  determine  effect  investment choice  wealth dispersion. Even  households  save  same proportion  earnings, accumulated wealth  differ  some households  inve.sted  savings   stock market,  example,  others  saved through bank saving accounts  money-market funds.  long periods  time  average rate  return  stock investments   higher   rate  return  money-market funds, although  risk associated  stock investments   higher.  households  invested    wealth  housing,    yielded yet another rate  return.    know  investment choices  households made   lifetimes.  HRS did, , obtain information   percentage allocation  financial asset saving (excluding IRA  401 () accounts)  five components  financial assets.  use  information, together  information   proportion  wealth  housing  five  nonfinancial asset categories,  indicator   lifetime investment choices  household.   lifetime earnings decile,  again predict wealth,  based  investment choices,  specification   form
+ 88 . 2
+INFORMING RETIREMENT-SECURITY REFORM
+189
+(3)
+Wealth = Constant \ ,51 (Percentage Wealth  Personal Financial Assets) + /JJCPercentage Financial Assets  Stocks)  ;5»( Percentage Financial Assets  Bonds) + ^4 (Percentage Financial Assets  MoneyMarket Accounts)  05 (Percentage Wealth inIRA,40Uk),  Keogh Accounts) + ^6 (Percentage Wealth  Employer Pensions) + ^7 (Percentage Wealth  Business Equity) * /3B (Percentage Wealth  Vehicles) /39( Percentage Wealth  Housing) + j0,(Percentage Wealth   Real Estate).
+   attributed  financial resources    adjustment   attributed  investment choice instead,  some    attributed  investment choice    adjustment   attributed  resource constraints. ,  procedure maximizes  adjustment attributed  . (Standard measures  reduction  dispersion, shown  Venti  Wise [1997], suggest   correlation    sets  variables  positive.) Figures 3   show wealth quantiles  compare  distribution  observed wealth   distribution  wealth adjusted  resource shocks  four   lifetime-eamings deciles.   eamings decile,  white bars show  quantiles  adjusted wealth,   dark bars show unadjusted (observed) wealth quantiles. Overall,  adjustment  circumstances affecting resources available  saving     effect   dispersion  wealth.   eamings deciles  adjustment   largest effect near  top   wealth distribution.  more detailed analysis  Venti  Wise (1997) reveals   adjustment reduces  95th  98th quantiles  almost every eamings decile,   reduction   98th quantile  especially noticeable. Yet, overall, resource shocks account   little   dispersion  wealth  lifetime eamings deciles.   points   distribution  effect   factors  minimal. Figures 4   show  results  similar adjustment  investment choice.   resource shocks,  effect  wealth dispersion  small. Again,  largest effects appear   upper tail   distrihution   adjustment produces some leveling. Resource shocks  investment choices together,  interacted  lifetime eamings, reduce  standard deviation  wealth   17 percent.  neither shocks  resources nor investment choices explain   wealth dispersion  eamings deciles.  controls  household shocks  investment choices   course imperfect.  example, measures  health  older ages  completely capture  series  health shocks   affect  accumulation  wealth  lifetime.  same   true  realizations  equities   small proportion 
+   course adjust   factors affecting financial resources  investment choice   same time. Making separate adjustments   same base, , allows us  compare  effect  resource shocks  wealth dispersion   effect  investment choices  dispersion.   sets  variables   correlated, .   extent    (positively correlated), some
+190
+AEA PAPERS  PROCEEDINGS
+S00.000 T00.000
+ 1998
+eoo.000
+ 900,000
+% 400,000
+  300.000
+200.000 100,000 0 lOOi iOth 30tt) 40th SOth 7Dlh aoth SOIh 9Sth 98th -100,000
+lOtti 20th SOIh 40th 50111 6010 lOtti SOIh 9Qlh 9Slh B8lh
+
+1,200,000 1,000,000 800,000
+. 1,000.000
+800.000
+
+  600,000 400.000
+0 -200,000
+10th 20lh 30th 40th SOth SOth TOth SOth WWi SSth seth
+1
+11 1
+ 9 9 5
+600.000
+1
+400,000
+200,000
+0
+20th 30tti 40lh    SOtti 70lh SOth 90th »Sth 9aih
+1
+
+1,000,000 .wM,ooa 1,600,000 1,400,000 1,400,000 : 1,200,000 1,200.0001,000.000 ° 1,000.000 800,000 600.000 400,000 200,000 0 lOtti SOtti 30lh 40»l SOIh «0( TOIh SOIh  BSlh »6ih -200,000
+.
+aocooo
+600,000 400M0 300,000'
+lOlh 20th 30lh 40th SOth SOth TOth BOIh Wth 9Sth   
+11 
+
+. 1.000.000 1,400,000 : 1.200,000  1,000,000 800,000 600,000 400,000 200,000 0 lOth 20th 30tti 40th SOth GOth 70th SOIh  BSth 9ath OuanUI* |D»cljutfd
+lOth 20lh 30fh 40th SOth 60th 70lh aOlh    BSth BSth
+I1
+1
+•M-
+FfCURE 3, WEALTH, OBSKRVED VERSUS ADJUSTED   "      " VARIABLES: ( )  LIFETIMEO EARNINGS DECILE; (  ) FOURTH LIFETIME- EARNINGS DECILE; (  ) SIXTH LIFETIMK-EARNINGS DECILE; () EIGHTH LIFETIME-EARNINGS DECILE
+ 4. WEALTH, OBSERVED VERSUS ADJUSTED   INVESTMENT CHOICE: ( )  LIFETIMEO EARNINGS       ; (  ) FOURTH LIFETIME-EARNINGS DECILE; (  ) SIXTH LIFETIME-EARNINGS Dbcn.; (  ) EIGHTH LIFETIME-EARNINGS DECILF,
+ 88 . 2
+INFORMING RETIREMENT-SECURITY REFORM
+
+households  own stocks.  course, except  inheritances, persons    save   accumulate wealth under  series  shocks.  seems evident thai    dispersion   attributed   decision  save   available resources. Some chose  save  young  others chose  spend more  save little. (Controlling  education  ethnic group    modest effect   wealth distributions  lifetime-earnings deciles,   results   reported .)  summary,   levels  lifetime eamings   enormous dispersion   accumulated wealth  families approaching retirement.   United States     households  low incomes  save little. significant proportion  high-income households  save  little;    low-income households  nonsavers. Indeed substantial proportion  low-income households save great deal.  income deciles,  little   dispersion  wealth  
+explained  household attributes    limited resources available  saving. Nor     dispersion explained  investment choices.   primary determinant   dispersion  wealth  retirement  evidently  choice  save  spend  young.  find  evidence  chance plays large role. REFERENCES Dynan, Karen .; Skinner, Jonathan  Zeldes, Stephen . "    Rich Save     ? " Mimeo, Dartmouth College, 1996. Friedman, Milton. "Choice, Chance,   Personal Distribution  Income." Journal  Political Economy, August 1953,42(4), . 277-90. Venti, Steven .  Wise, David . "Choice, Chance,  Wealth Dispersion  Retirement." Mimeo, National Bureau  Economic Research, Cambridge, MA, 1997.
+ 

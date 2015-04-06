@@ -1,0 +1,142 @@
+ Simple Macroeconomics  North-South Interaction 
+ THOMAS MOUTOS  DAVID VINES* 
+Recently    upsurge  interest  macroeconomic linkages   developed countries ( North)   developed countries ( South).   several reasons  . ,   partly response   recent LDC debt crisis   possible consequences  Northern fi�nancial markets  Southern growth pros�pects. ,  effects  Northern mac�roeconomic policies  primary commodity prices    Northern inflation  output (  Southern debt)   inter�est   world economy. Third,  study  international interdependence   con�text   Northern economies  high�lighted "missing link"  Southern economies-that   modeled  detail  existing models  North-North interac�tions: analysis   issues  well prove   significantly influenced   behavior   missing bloc comprising  South. 
+   particular  North-South interactions?  asymmetries  normally held  represent  key differences   economies  developed  developing countries.       work�ings  goods  financial markets   captured   following simple stylized way. 
+1) Northern production consists  in�dustrial goods,  output    en�dogenous   market   clears through changes   volume produced.  contrast, Southern production consists  agricultural goods,  output    exogenous   market   clears through changes   price  agricultural goods relative  industrial goods. ( asso�
+�University  Stirling, Scotland,  University  Glasgow, Glasgow, G12 8RT, respectively,  CEPR.  paper forms part  research project  North�South Interactions  carried  under  auspices   Centre  Economic Policy Research  London. Financial support  ESCOR  acknowledged.   grateful  Stan Hum  helpful comments. 
+270 
+ciation  industry   North  agri�culture   South  clearly oversim�plification. ) 
+2)  North  developed capital markets  endogenous interest rates  affect expenditure,    South credit markets  imperfect:   financial ef�fect  expenditure  wealth effect  reduces Southern expenditure  indebted�ness   South arises. 
+  recently contributed   sur�
+veys   modeling  policy issues in�
+volved  studying interactions   
+ rather different kinds  economies. (See 
+. Currie ., 1988; Currie, . Muscatelli,  Vines, 1988; Muscatelli  Vines, 1988).  present paper attempts  distill  work,   model   simplest possible way some   key processes  work.  concentrate   important policy issues  global macroeconomics: ()  effect   South  "Reaganomics"   North;  Oi)  effect  debt relief   South  aid   South. 
+.  Model 
+  write   key equations   model: 
+(1) 
+=ac(+lJz)-a8x 
+(r-p,)+ 
+(2) 
+IJz = (1-)( + IJz) (1-) 8x 
+(3) 
+/, = (, ) 
+(4) 
+=(alJz-()) 
+-alf; + ( ,/,)  
+(5) ,/, = (, ) + " 
+. 79 .2 MACROECONOMIC INTERACTIONS 
+   Northern output ( industrial goods);   Southern output ( agricultural goods); 0 == Pa/,   "terms  trade"  Pais  price  agricultural goods  ,   price  industrial goods ( exchange rate  assumed   fixed  equal  unity);    Northern nominal interest rate; JL == /    exogenous rate  monetary growth   North;   index  Southern "real" indebtedness (nom�inal debt deflated  ,); 8 == 8s -8N  8s  parameter measuring  amount   increase  Southern debt reduces expenditure   South  8  measures  amount   increase  South�ern debt (  North) increases expendi�ture   North.  assume  8s > 8N.  term /; measures  effect increase  debt    Southern balance  payments   defined  /; == (a8s + (1-)8N )/.  term   index  fiscal stance ( denotes Northern govern�ment expenditures  Northern goods);   represents "aid transfer"  North  South.  parameters  positive except Lr� 
+ market-clearing condition  North�ern (industrial) goods  given  equation (1)    Southern (agricultural) goods  given  equation (2).   equations  generalization   model  . Kan�bur  Vines (1987).   North  assume   propensity  consume   nominal income ,,  ;  propor�tions  1-   expenditure  devoted towards Northern  Southern goods, respectively, independently  relative prices ( simplifying Cobb-Douglas assump�tion);    interest sensitive private sector expenditures ("investment")  gov�ernment expenditures  directed solely to�wards Northern goods.   South  suppose   propensity  consume    nominal income Paz   same    North.  use  same type  Cobb�Douglas expenditure function,   same proportions  1     North.   apply  same proportions  debt�related expenditures, 8x.    inter�est rate effects  Southern expenditures, except inasmuch  Northern interest rates influence  evolution  Southern in�debtedness . 
+Equation (3)  conventional LM-type relation,     nominal money supply.  Northern central bank  as�sumed  completely sterilize  effects  balance  payments imbalances   Northern money supply. Accordingly    treated  policy-determined variable. Notice   simplicity,  deflator used  obtain real money balances   price  industrial goods-the same   deflator used  translate nominal income  "real income." ( comment later   pos�sible implications  relaxing  assump�tion.) 
+Equation (4) describes  evolution  Southern debt.    terms constitute  balance  trade;  latter  , /;, captures  idea   Southern indebtedness   North increases,   reduction  Southern spending  induced increase  Northern spending.1  next term shows interest payments2  Southern debt.  term  represents aid transfer  North  South ( example, continuing write off  some interest obli�gations  Southern debt). 
+Finally, equation (5)  standard price adjustment equation familiar   work  . Layard  . Nickell (1985).  states   rate  increase  industrial goods prices,   above trend  "core" infla�tion,  function  "demand"  "cost" pressures. Demand pressures  captured   presence  industrial output   equation, whereas cost pressures  indi�cated   presence  0,  relative price  commodities  terms  industrial goods.   assume markup pricing,   mar�ket-clearing real wage  increasing func�tion  industrial output,   nominal wages increase   result  trend  core inflation   real wages  below 
+IAn increase  debt () means  ()  expendi�ture   Northern good   South falls  allsx,  ()  expenditure   Southern good   North rises  (1-)IlNx. Accordingly  change   Northern balance  payments  equal  �x(alls +(1-)IlN) = .px .= [ails +()IlNl/. 
+2 Notice  presence  inflation tax,     adjust     ft.!,. 
+ market-clearing real wage, then equation 
+(5)   obtained.  presence  ()   equation stems   fact  real wages  defined  nominal wages divided   Consumer Price Index defined  CPI = ~! , equivalently,  CPI = () given  () == PalPi. ( more de�tails, see  1988b paper.) 
+.  Instantaneous Run 
+  instantaneous run,  price  in�dustrial goods   level  Southern debt  given  history,   gradual evolu�tion  determined  equations (4)  (5). Industrial output,  interest rate,  com�modity prices   assumed   free  take  whatever values  required  equilibrium   industrial, commodity,  money markets.  order  obtain ex�pressions   endogenous variables,   solve  interest rates   LM curve, assuming  initially , = 1,  ob�tain 
+(6) dr= (dm-Lydy-mdp,)ILr. 
+Substituting   (1)  (2), rearranging  assuming  initially () = 1,   depict  short-run determination  output  relative prices conditional upon  exogenous variables , , , ,  "  given values   "slowly evolving" ,  . 
+ semireduced-form (instantaneous run) equations    ()  
+(7) dy(l-ac-yLyILr) 
+= zacd() + acdz 
+> dx + ydp, + dg 
+(YILr) dm + (ymILr) dp, 
+(8) ()(()cz) 
+= (1-)cdy + [(1-) -1] dz 
+(1-)>dx. 
+ slope   schedule depicting equi�librium   market  Northern goods  
+  slope   schedule showing equi�librium   market  Southern goods  
+()ldYlss = �1-))/( (1-)cz). 
+  easily proved  Id()ldyINN> 
+Id() dylss� 
+Suppose,  example,    
+exogenous increase  real Southern debt.  
+  shown    instantaneous run 
+   () fall.  implies  writing 
+off debt  increase    ().   
+case  South  benefit  real income () 
+rises,   North    face more 
+output  more inflation. 
+ full set  instantaneous run multipli�
+ers  easily obtainable  equations (9) 
+ (10) below,    reduced-form 
+equivalents  equations (7)  (8): 
+(9) cpdy = dg + ydp, 
+( >(1 (1 ) c� dx 
+(YILr) dm +(ymILr) dp, 
+(10) (()cz)() 
+= �I-)c-l)dz 
+-�(1-)cal>lcp((1-)c� 
++()l�dx 
+-�1-)cy/cpLr) dm 
++ �1-)cY/cp) dp, 
++ ((1 )   cp ) dg 
++ �1-)cymlcpLr) dp" 
+ cp == 1 -ac/[1 (1 ))-yLyl Lr>. 
+  comment   rest  . increase  government expenditure   North raises Northern output  interest rates,  raises relative commodity prices. Monetary expansion lowers  nominal rate  interest, stimulates output,  raises rela�tive commodity prices.  effect  in�creased rate  monetary growth  similar    reduces  real rate  interest  stimulates  economy   means. increase   supply   agricultural good depresses relative commodity prices.    exert  influence  output,   reason    interesting.   earlier, simpler model  Kanbur  Vines,   increases, relative commodity prices fall equiproportionately, ensuring  Southern income (jz remains unchanged,  meaning  Southern spending,   Northern output,   change .  fact,  same thing happens   model. , notice    demand  money  function  ( (  transactions   North partly consist  purchases  goods   South,  might expect   ), then  effect   fall  (   fall  interest rates      stimulus  aggregate de�mand  output   North.   reencounter related effect   kind be�low. Finally, notice  transfer, ,   effect   short run,    influ�ences  gradual accumulation  Southern debt. 
+. Dynamics 
+ some manipulations  system   reduced  pair  differential equations    .   
+12
+(11) [('/')] = [ ] [dP,]
+di 21 a22 dx 
+ =(k9(1-)cym/ecpL )+ kyym/ cpLr' a12 =  yai>/cp( (1 )) (k9/) [(1-)>ac/cp(())+()i�, 21 = (caz -xk9)(1 )cym/ecpLr [ (1-)+ xLy/Lr -xky)ym/cpLr -xm/Lr' 22 =  /; . [(caz -xk9)/) [(1-) cai>/(cp() -cp) +(1-)i� +[()+ 
+xLy/Lr-xky)>/cp[()),  = [()). 
+ determinant   transition matrix  quite complicated. Stability requires pos�itive determinant.    shown      case   real interest rate  .   too large.  meaning   condition  obvious:  large  .,    absence   offsetting policy response, equation (4) shows  increases  South�ern debt  accumulate without limit. Working against    stabilizing terms  result  increase  debt  reduce absorption   South,     more   offsetting tendencies   North. Stability results   dominate  destabilizing interest rate effect. 
+  determinant  positive then,   system   stable   require   trace  negative.  appears      under plausible parameter values. 
+.  Steady State 
+  steady state, ,/, = .   = .  (5)  get 
+ implies   following equations hold: 
+b12 b13 
+(13)  b32 b23 0 
+b42 b43 
+  
+ jl[~
+ 
+ bll =1-ac+(aci>ky/k9); 
+b12 =c13 =; b13=>; b21=(zky/k9)[(1-)c-1); 
+= (1-)>; = Ly; = Lr; =
+b23 b31 bn b41 cazky/k9 + (); ;
+b42 = C43 = -b43 = /; + .; c14 =c44=ac; c24 =(1-)c-1; 
+ I-LONG-RUN EFFECTS  CHANGES 
+Effects    P-z  
+ + 0 0 + 
+ + 0 0 
+ + 0 + + 
+( 0 0 + 
+Note: (+) indicates positive effect, () indicates negative effective  (0) indicates  effect  . 
+   determinant !:::.  given  
+!:::. = [cy{)8( azky/klJ) +(1-)1 
++(xa8zky/klJ) + {)8{1-ac) 
+{/; + /  )(zky/klJ) 
+[(1-)c-1]. 
+  negative   / /; < .   sufficient  necessary condition,    obviously related   condition   sufficient (  necessary)  establish sta�bility. Given ,   easy  verify   long-run multipliers  signs shown   1. 
+ consider  effects  fiscal expan�sion   North,  raises Northern out�put  Northern interest rates.  South  faces potential balance  payments problems:  equation (5), Northern out�put   rise  relative commodity prices, 0, fall;  increased Northern interest rate means increased debt interest payments   South.  resultant decline  Southern receipts   offset  decline  South�ern absorption sufficient  ensure balance  payments equilibrium   South.  re�duction  absorption  brought   increase  Southern debt.   interest�ing result. Although    explicit wel�fare economics   model,   see     fiscal expansion   North  Reaganomics effects     North' advantage (higher output, lower cost  living),    South' disadvantage (higher debt, higher interest payments,  lower relative commodity prices).   obvi�ous    demand  money  function  0,  beneficial effects   North  fiscal expansion,   even larger. (  case,  fall  ()  increase Northern real money balances, re�sulting  higher Northern income / lower interest rate. Obviously  develop�ments   alleviate  burden   South.) 
+Money  neutral   model.    "super neutral,"    raises  nominal rate  interest   same amount   increase   rate  monetary growth  leaves Northern output, Southern debt,  relative prices  unchanged (although   reduce real balances).  reason    ,   real interest rate changed,   obvious  equation (4)  change   level  debt   required  Northern output  relative prices   remain constant.    then clear  equation (2)   configuration  vari�ables    equilibrium ,   change  debt   accompanied  changes  Northern output  relative prices  order   market   agricultural good    equilibrium. 
+ increase   production   agri�cultural good  increases Northern output,  reduces relative commodity prices  Southern debt.   case,  lower 0  results  larger supply  primary com�modities tends  depress inflationary pres�sures   North,  allows Northern output  expand.     way  fall   overall price level   North   transition  equilibrium,  allowing  rate  interest  fall, stimulat�ing Northern aggregate demand. ,   model, increase   agricultural production  expansionary   North   long run, although,    already noted,    particular specification   model,    expansionary   instantaneous run. Again,  presence  0   money demand equation  mean   drop  Southern debt following increased production  commodities   larger   lower interest rates  higher Northern income concomitant  fall  0  improve   trade  service accounts   Southern balance  payments. 
+COpyl igllt � 2001 AltRinigmllmLs~"'~"'"eTTIv7!'emdl--------�
+. 79 .2 MA CROECONOMIC lNTERA CTIONS 
+Notice,  course,  on-off change   stock  Southern debt   long-run effects,   short-run effects described previously.   ,  example,    "debt forgiveness"   South, then conditional upon given values   exogenous variables (  upon policy settings   supposed fixed   "open-loop" model),  debt simply reaccu�mulates again,      earned  temporary breathing space. , continuing transfer  "aid"   South, represented   positive value  ,   long-run effects. Clearly  lowers Southern debt. Somewhat paradoxically ( might think   sight),  raises  Northern rate  interest  depresses activ�ity   North.   outcome  easy  explain,  consequence   (rather naive) assumption   North gives transfer  aid   South without   same time curtailing  expenditure  Southern goods. Under  circumstances,  resulting increase  expenditure   Southern good  result  increase  relative prices (, , coupled   in�crease  aggregate demand   Northern good, raises Northern inflation  interest rates.  increase  Southern spending "super-crowds-out" spending   North causing Northern output  fall.  de�crease  industrial output ,  well, con�sequence   assumption  fixed pro�duction   agricultural good.  fixed production   South,  lower level  Southern debt ( therefore increased spending   agricultural good), Northern spending   Southern good  fall,    achieved  fall  Northern income. (  production   agricultural good  responsive  relative prices, then  rise  (  generate increase   supply   agricultural good,   prove sufficient  meet  increased de�mand   agricultural good without fall  Northern income.) Although  North  definitely worse off (temporary higher infla�tion  permanently lower output),  South  rather better off:  enjoys higher consumption  faces lower level  debt though debt service   unit  debt  higher. 
+. Concluding Remarks 
+ purpose   paper    capture   simplest possible way  macroeconomic interactions   economies (North  South).  main in�terest    illuminate  important issues  global macroeconomics using sim�ple model:  effects  fiscal stimulus (Reaganomics)   North   effects  debt relief   South  aid   South. 
+ model  particularly simple .  following  key things,    ignored,  discussed  detail  Mus�catelli  Vines: () Forward-looking com�modity price determination  result  speculative holdings  commodity stocks. ( see  1988a, ,  1989 papers  simple macroeconomic models  include  features,  . Ramanujam  Vines, 1988,  some relevant econometric esti�mates.) () Capital accumulation  growth   regions. (See  . Molana  Vines, 1989,  simple model.) 
+Econometric implementation even   simple model developed above  require empirical knowledge   things  normally studied  econometric models.    commodity price determination. Es�sentially  needs  know  size   price elasticity  demand  commodities (assumed above   unity)  supply (as�sumed above   zero).   issue  , opinions differ (see Ramanu�jam  Vines).     empiri�cal knowledge   counterpart  )  /;  effects  increased Southern debt  overall global expenditures,    South' balance  payments.  requires 
+() model   North  includes wealth effects,  () model   bal�ance  payments policy process   South.  treatment   issues   litera�ture  surveyed  Muscatelli  Vines. 
+ own work   directed towards building econometric global model   enable us  address empirically  questions discussed   paper,    extra issues mentioned above.    include four-region model   South (Africa, Latin America,  NICs,   Asian countries).  long-term aim   discuss  questions   framework  overall study  international policy coordination. 
+REFERENCES 
+Currie, . et ., "North South Macroeco�nomic Interactions: General Equilib�rium Framework   Analysis  Strategic Issues,"  . Currie  . Vines, eds., Macroeconomic Interactions  North  South, Cambridge: Cambridge University Press 1988. 
+Currie, .  Vines, ., Macroeconomic Inter�actions  North  South, Cam�bridge: Cambridge University Press, 1988. 
+___ Muscatelli, .  Vines, ., "Introduc�tion,"  Macroeconomic Interactions be�tween North  South, Cambridge: Cam�bridge University Press, 1988. 
+Kanbur, .  Vines, ., "North-South Inter�action  Commodity Control," Journal  Development Economics, June 1987, 26, 371-87. 
+Layard, .  Nickell, ., "Unemployment, Real Wages  Aggregate Demand  Europe, Japan   United States,"  Carnegie-Rochester Conference Series  
+Public Policies:  New Monetary Eco�nomics, Fiscal Issues  Unemployment, Spring 1985, 20. 
+Molana; .  Vines, ., "North-South Growth  Terms  Trade: Model  Kaldorian Lines," Economic Journal, forthcoming 1989. 
+Moutos, .  Vines, ., "Microeconomic  Macroeconomic Theories  Primary Commodity Prices," Journal  Interna�tional Economic Studies, forthcoming, 1989. 
+__  __, (1988a) " Prototype Macroeconomic Model  Integrated Financial  Commodity Markets," Eco�nomic Notes, 1:1988, 51-65. 
+__  __, (1988b) "Output, Infla�tion  Commodity Prices," CEPR Dis�cussion Paper . 271, 1988. 
+Muscatelli, .  Vines, ., "Macroeconomic Interactions  North  South," paper presented  BrookingsjCEPRj IMF Conference  Macroeconomic Poli�cies  Interdependent World, Decem�ber 12-13, 1988. 
+Ramanujam, .  Vines, ., "OECD Eco�nomic Activity, Interest Rates  Pri�mary Commodity Prices: Structural Rational Expectations Model," Discussion Paper, University  Glasgow, 1988. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

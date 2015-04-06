@@ -1,0 +1,255 @@
+Empirical Inquiry   Short-Run Dynamics  Output  Prices
+ RoQUE . FERNANDEZ*  purpose   paper   study  short-run relationship  output  inflation   context  macroeconomic model. Although considerable number  economists  studied  subject, mainly   point  view   Phillips curve theory,     made use  ad hoc hypotheses regarding  process through  expectations  formed.  economists ( example, Robert Lucas,  Thomas Sargent  Neil Wallace)  studied  same subject   postulated rational expectation hypothesis  analyzing  short-run tradeoff  inflation  output   testing  "natural rate" hypothesis.  analysis   paper  simitar    Lucas,  Sargent  Wallace.  fact,  analysis  Section  starts   assumption   model previously postulated  Sargent  Wallace  appropriate theoretical framework  analyzing  short-run relationship  prices  output.  section presents  underlying model  well  some   main limitations  implications.  Section 11 summary   results   structural analysis   model  presented  well   estimation procedure
+•International Monetary Fund.  present paper
+followed  order  obtain  estimates   structural equations   system. Section  presents some estimates based   available information  Argentina  Brazil. Finally, concluding remarks  made  Section , .  Macroeconometric Model  model   analyzed   section  standard macroeconomic model   expectations   assumed   "rational"   sense  John Muth.  assumption  incorporated  similar models  Sargent,  Sargent  Wallace.   paper some modifications  introduced  order  arrive  directly estimable relationship  short-run output-inflation tradeoff.  model consists   following  equations: Aggregate supply:
+0 Aggregate demand: (2)  = >•„., +  +
+ < 0
+ >0
+Portfolio balance: (3) (>, = + >'. +
++ "3
+ completed      Latin American Institute  Economic  Social Planning (ILPES, United Nations, Chile).  grateful  Arnold Zellner, Robert Barro, Arnold Harberger, Milton Friedman, Robert Lucas,   members   Money  Banking Workshop   University  Chicago  comments  earlier draft.   want  thank James Hanson  Luis . Rosas  ILPES  valuable discussions.  paper draws  material   doctoral dissertation. preliminary version  presented   Conference  Planning  ShortTerm Macroeconomic Policy  Latin America, October-November 1975, Panama, sponsored  ILPES,  Ministerio de Planificacion  Polilica Economica de Panama   National Bureau  Economic Research,
+-« <  <0   equations >,, ,  ,   natural logarithms  real income,  price level,   nominal stock  money:   constant;   ,,, (/ = 1,2,3)  disturbance terms  zero means    serially  contemporaneously correlated.  variable y„,  measure  normal productive capacity    represented   trend  real output   empirical application   model. There595
+596
+ AMERICAN
+ECONOMIC
+REVIEW
+SEPTEMBER 1977
+fore, ,  >•„,, = ^^^ represents cyclical  "detrended" output.  variable ,^ iPi* represents  public' expectation  time   logarithm   price level expected  prevail    1,  variable ,   nomiH nal rate  interest. Equation (1)  aggregate supply equation relating detrended output   gap  current price level   public' prior expectation   current price level.   equation lagged detrended output indicates  deviations  aggregate supply  normal capacity  display some persistence.  same equation  postulated  used  Lucas. Equation (2)  aggregate demand equation  relates  deviation ( aggregate demand   real rate  interest,   turn  represented   nominal rate  interest minus  expected rate  inflation.  equation, used  Sargent  Wallace, differs    used  Sargent   definition   real rate  interest. Sargent uses  usual definition,  , ,  (,+ |/>,*_|  ,).   definition stated  equation (2) seems more plausible   demanders  time    observe ,     anticipate . Notice     inconsistent   inclusion /,  (1),  equation ()   imply  suppliers observe  general price level,   derived  aggregation   response  individual suppliers,   observe  prices   markets    general price level (see Lucas, . 327 28). Some limitations  equation (2)  stated  Sargent  follows: [] important thing  equation (2)    excludes  arguments   money supply   price level.  amounts  ruling  direct real balance effects  aggregate demand.   amounts  ignoring  expected rate \' real capita! gains  cash holdings  component   disposable income terms  belong   expenditure schedules  underlie equation (2). Ignoring  things  usual  macroeconometric work, [.435. fn. 15] Another aspect   model   lack
+ symmetry  equations ()  (2).  ,  suppliers  explicit misperceptions  prices   demanders  explicit responses  change   real rate  interest. ,  effect   neglected variables   equation   captured implicitly   induced some stable stochastic process   error terms. Equation (3)  demand  money relationship  unit real income elasticity— assumption    crucial    relaxed.  summarizes  condition  portfolio equilibrium.   words,  equation (3)  satisfied, owners  bonds  equities  satisfied   division   portfolio  money (assumed   exogenous)    hand,  bonds  equities    hand.  (^  polynomial   lag operator ( , () = <> \ (>\ \ 0 2 ^ ' + . . . ,  <  + 01 +  • • = 1) introduced  effort ^  capture  effects  lagged changes  ^  nominal income.'  degree   polynomial   determined empirically.  purely theoretical grounds,    strong justification   existence  lagged response  nominal income  changes   quantity  money. ,  existence  lags  confirmed     empirical work  relates money  prices.  workings   model  easily  illustrated. Consider   moment  equations (2)  (3)  resemble  sim' Equation (3)   derived   simple quantity theory,  
+()   order  capture  lagged effect  /,   left-hand side,    specify something like
+ specific construction 
+()
+ •
+TV
+
+*  polynomial   lag operator (notice   0 =   get ()). Assuming (1 / ,) = exp (Ar,)  taking logs   sides  ()  get equation (3)   text.
+. 67 . 4
+FERNANDEZ: OUTPUT  PRICES
+597
+pic textbook IS-LM model  leave aside  problem   expectations  formed. Equation (2) corresponds  equilibrium   real sector  relates real income   real rate  interest,  , /5 curve. Equation (3) refers  equilibrium   monetary sector usually represented   LM curve.  system formed  equation (2)  (3)   determined     equations   endogenous variables, , ,  .  problem  solved   standard textbook analysis  assuming   prices  rigid   shifting     LM curves affects real output (    simplest Keynesian model),  assuming   economy   full employment  theshiftings   /' ./curves   affect prices (    simplest quantity theory approach).   case  solve  problem  joint determination  prices  output through equation (1)   turn adds important feature   model: namely  relationship  output  price mispcrceptions.  complete  above model   specify  expectations  formed.   delicate matter.   customary  postulate different ad hoc hypotheses   formation  expectations.   popular version   Cagan hypothesis  adaptive expectations, although  explanation   use  confined   fact  adaptive expectations seemed reasonable  proved useful  explaining data.  hypothesis  rational expectations used   paper follows John Muth' proposal  expectations  informed predictions  future events based   available information   relevant economic theory.    strong implication—  economist   modelling economy    superior knowledge {  "reality."  view   turn confirmed   fact  samples  predictions " more accurate  naive models   accurate  elaborate equation systems" (Muth, . 316). ,  model  completed   following equations: (4)
+(5)
+ £p,   conditional mathematical expectation  /, formed using  model  ail  information assumed   available    end  period   1 (hereafter  £• operator  always  conditional   information available    end  period   1).  some algebraic manipulations   model,  following  equations  expected prices   obtained: (6) £ = [1/(1 .
+•11/(1 J-O
+0)
+EPx. = [1/(1 
+[1/(1  ^')'
+  equations JQ, ^,  CQ  constants   complicated functions   structural parameters   model.^   equations,   easy  illustrate  process  formation  expectations. Assume  moment   = 0 ( ,   interest elasticity   demand  money  zero). Then,  taking  differences { operator), equation (6)   reduced 
+(8) EDp, =  
+algebra  obtaining equations (6)  (7)  similar   methodology developed  Sargent  Wallace.  complete derivation see  author. Appendix . /
+.
+.
+,pr-^ = Ep,
+ + /»* = £>+
+11/(1y-o
+598
+
+SEPTEMBER 1977
+ /3   slope coefficient   trend  real output  Ji/}  JQ) =    = 0. Equation (8) clearly shows   expected rate  change  prices depends upon  expected rate  change   money supply  period ;  natural rate  growth  output (/3), term   cyclical component  output    1;  past rates  change   money supply.  6 ?^ 0  results   far   quantity theory  expectation form, although  algebraic expression representing  expectation formation process  more complicated.  money supply process  forms  basis    public makes  forecasts   future path  ,+   particular relevance.^  empirical analysis 
+^ searching  process determining  money supply   choose   postulate model   money supply  relating   set  "predetermined variables" relative   model ()(3) ( , still remains     exogenous  determined outside   system ()(3)) ,   identify BoxJenkins ARIMA process.    customary   economics profession  call  models "naive models"    raiher simple structure    past values  variable  used  predict future values   same variable. ,   recently  shown (see Zellner  Palm)   models might   naive  . Indeed  models ( ARtM.4 models) represent  "'final form" fora variable implied  highly sophisticated model,   briefly illustrate  point  model   nominal money supply. Let us assume   given country  money supply  generated   following relationship
+Section  considers  processes  determining  money supply:    ARIMA process    "inverted form"
+(9) / )  , = 7r|>,_|  7r2 Dm, _ 2 = •  7rj/),_3    . . . V3,
+    parameters.   process   model   form (10)
+ = 7rji>//?,_|  ir'2
+ Tr\   parameter  polynomial   lag operator  ^2   row vector  parameters  row vector  polynomials   lag operator  ,  column vector  predetermined variables.  empirical tests    carried  directly   form  equations (9)  (10)  indirectly through  transfer functions   next section. . Towards Empirical Test   Model   section  outline  method used  estimate  structural equations \' 
+Dx\: random walk
+
+0(0) .Vj = 0(0)^2,
+  '  stochastically Independent   disturbances   structural equations. Multiplying boih sides  ()  0(2) 0(0)  
+()
+()
+Dm^_^   last expression  notice    obtained ARIMA (3, 2) process (  cancellation occurs)  ^  implied  equation ()   assumption   predetermined variables ,  .ir,.  clearly illustrates    obtain  process ARIMA (3, 2)  ,    naive model  . bul   contrary    reflecting  '"true" model governing  behavior   money supply.  above discussion demonstrates thai   talk  "alternative models'"   evaluate model   sort  equation ()  respect  model like ()      final form  ().    considered  appropriate  check empirically  .4 RIM hypothesis  ,  well  model   son implied  equation (),  further attention  given   ""theory   money supply"  underlies  hypothesis   money supply process, subject  goes beyond  scope   paper.
+ ^    federal budget relative  lagged GA"/", jTt    lagged balance-of-payments surplus relative  GNP,  ^ error term stochastically independent   errors   structural equations.   case | , \,     assumed   constants  simplicity,   more general analysis,   assume \, bj.  ^   polynomials   lag operator.   shall show  equation () implies final equation  ,     form  ARIMA process. Equation ()   written  () (1  , , + , Dx, + ,
+Lei  predetermined variables ,  ;, follow  process  time.  ,  eould follow random walk    follow random walk    given ARIMA process, eie.  illustrate  problem  hand   assume 
+. 67 . 4
+FERNANDEZ: OUTPUT  PRICES
+599
+model.  points  jointly developed,    computation  expected prices      endogeneity  ^  precludes  straightforward estimation  equation () using ordinary least squares.•*   estimaiion stage  shall concentrate  equations ()  (3).  main problem  equation (2)   variable ,,       data  some countries ( example, Argentina  Brazil).  problem  eliminated  equation (3)    assumed  variation  ^  dominated  variation   expected rate  inflation,   public' forecast   rate  inflation (based  information available   — 1)  used  proxy  /•[.   obvious   substitution   made  equation (2):  term (,  (,.^/?*_i  /)*..))  vanish  ^  replaced  ,+ /'*_i  iPt-\ Nevertheless,  system formed  equations (1)  (3)  perfectly determined  proxy  .sed  ,, let us say, ,' = Dp* = ,+ *_i Let us  consider equation (1).  know  direct estimation   equation   possible  /,  ,  jointly determined  ,/*_,   observable. ,   section  objective   obtain estimable relationship  place 
+•*Some testable implicalions   model   derived  structural analysis   system.  analysis, following  method suggested  Zetlner  Palm,  presented   author   fmal equations   system ()(5)  derived  compared   data.    work variant   system  analyzed   adaptative expectation hypothesis  used  prices.  version  incompatible   available information   Argentina  Brazil   rational expectations version   model (system ( )(5))  compatible under certain conditions.  shown   author, given system  structural equations,   work   "final equations"   variables   system.     form  ARIMA processes.    hand,   identify ihc RIM processes   variables using  available information   variable.   structural equations   model  correct,  final equations derived   endogenous variable    same structure   ARIMA processes identified   variables   available information.  [   case,  say   model  compatible   available information.
+(!), making use   relationships previously developed.  equation (6)  obtained expression   expectations formation process    expected log   price level  period   determined   log   money supply expected  prevail  period ,   trend   log  real output,    detrended log  real output  period   . Clearly,  actual log   price level differs   expected value  random component, say U4,,    write () = Then  hypothesis implies   expected /7,  computed    public attempted  obtain optimal unbiased forecast />, using equation (6). Combining (11)  (6)   write (')  [1/(1 ['/( 
+ ( ')   term  ()^_,. Developing  term  _/ = 0, 1 , . . . , taking expectations  recalling  0 = 00 + <>\ + 02/") . . . ,  
+,_2 + ...
+ = \
++ <>2mt + 0 3  , _ , . . .  = 2
+Recall    operator  conditional   information  period  — 1,  Emi_^ = /"(_!     periods  period   1.  provided   use  process (9)  obtain Eniy^,  = 1, 2, . . . »  notice   forecasts  ,  obtained through linear combinations  mi_,, ,_2,/«i_3  linear combinations   combined    terms  ,_i, tni_2, ">i-j, • • •  appear  
+600
+
+SEPTEMBER 1977
+ lagged response  prices  changes  ,   >'„,.^ , = 1, 2 , . . .  >',t-i  forecast/,. Then   rearrange  terms  ,_|, ,_2,   .  , . . . ,  rewrite (11')  (11") , = (/.)/..  (1/(1  ))
+made using  estimated version  (12)  minimum mean square error forecasts.^ Then,  (12)   obtain series  "expected prices."   need  compute series  "actual prices." Recall   equation (1)   compute  difference ,  ,/>,*_   estimate  relationship,    model  ,  ^_,  endogenous.   straightforward algebra (using (6), (7)  (9)),  obtain
+(13) \{)
+ (,)  polynomial   lag operator (, = ,_,) capturing  effect    linear combinations  past values  ,  py.   difference form   equation  (11'") Dp, = {)LDm, + + +   accounts   term  y»,^  differencing (recall  >-„_,  trend  differencing  yields  slope coefficient   trend line)  ho represents  coefficient  '. |_|.  estimate (   " )    consider  problem  collinearity, especially   case  quarterly data,  reasonable lag   years  imply  ,   lagged eight times. way  dealing  equation ( '")   consider    multiple input transfer function.^  transfer function form  equation (11'")   parsimoniously ( terms   number  parameters) represented  (12)
+(  \
+ estimation  (12)   done using  Marquardt algorithm,   forecasts
+analysis  transfer functions   found  chapters 10  11  Box  Jenkins. derivation  transfer functions,  simultaneous equation model different    presented   paper,   found  Zellner  Palm.
+  meaning   notation   same   equation (12). Notice   main difference  (12)  (13)    (12) , appears lagged  period.  recall  equation (9) represents  hypothesis   money supply follows ARIMA process.   use assumption (10)   money supply, then equations (12)  (13)   extended  include terms   components  2,. Although  algebraic analysis  rather long,  intuitive interpretation  quite straightforward.  rational expectation feature   model implies   public forms  expectations using  information available   end  period  — 1.  forming  expectations,  money supply expected  prevail  future periods  important,    assumed   public forecasts future values  ,  considering  history  , available     ( well   variables  (10)  used).   history  ,    relevant  forecasting future values;  recent past values  ,  directly affect  price level    lagged response  prices  changes   money supply.    considered   expectations formation process. Equation (12)  oriented  capture  process.
+computer programs  estimation  transfer functions  provided   author  Charles Nel-
+. 67 . 4
+FERNANDEZ: OUTPUT  PRICES
+601
+Equation (13), although  similar  (12),  quite different.   reduced form /,, implied   system ()(5)   assumption  (9)  (10)   money supply.  (13), Wj directly affects  price level.  economy  whole need  forecast ,;   exogenous variable determined  monetary authorities  period     immediate effect  /,.  fitted values /),  (13)   introduced  (1)  place /,   fitted values  (12)   introduced  (1)  place  ,/?,*_   order  estimate equation (1).  consider equation (3).  equation assumes   real income elasticity  demand  money  .  assumption need   maintained    algebraic expressions   obtained    rearranged  include additional parameter ( real income elasticity   demand  money). Hereafter   relax  assumption  writing (3)  , = 0/,  brl  Uji,  , = , | />,; / representing  real income elasticity  demand  money.    noticed   / = 1 then Ki  /og  nominal income. Then  system ()(3)   interpreted  follows: equation (3) determines nominal income  equation () determines  division  nominal income  changes  prices  changes  output.  analyzing  cases    ^ \   evaluate  results   cases; / = 0.5, 1.5,  2. attempt  made  estimate / using ARIMA process    instrumental variable  /)>•,.  results, ,   reliable  >', behaves almost like random walk.   estimation stage, equation (3)   expressed   form  transfer function   variables   difference.  transfer function form  allow us  estimate  lag structure induced   polynomial lag operator (). . Empirical Results   section  proceed  test  estimate  model presented  Section  
+   available data  Argentina  Brazil. ,  construct series  expected prices   basis   results obtained  fitting equation (12). ,  construct series  actual prices   reduced form  prices—equation (13) (recall   step  necessary  order  avoid  problem  simultaneity  estimating equation ()). "Actual prices" minus expected prices give us  misperceptions  prices required  estimating equation (1). Finally,  estimate equation (3) under different assumptions  respect   real income elasticity   demand  money, using proxy   interest rate. .  Data   data  Argentina  obtained  International Einancial Statistics (IES)  Boletin de Estadistica.  include quarterly data   index  industrial production, wholesale prices, currency  demand deposits, wages set  collective bargaining   balance  trade ( seasonally adjusted   method  moving averages).  observations relate   period 1956-1  1973-11 ( period  chosen  order  base  analysis   maximum number  observations available   index  industrial production.'  log   index  industrial production  Argentina  detrended splitting  data   parts:  1956-1  1962-IV   I963-I  1973-11.   done     trend  real output    period,   single trend line  fitted   whole period   lose    cyclical fluctuations."
+' index  industrial production  used  Argentina  proxy  real income    more reliable  comprehensive  existing series  real output.  Brazil   available information corresponds  reat output. * matter  fact,   exactly  procedure originatty followed.  procedure  abandoned  { detrended output obtained   manner showed initial period   output  mostly above  trend,  period  almost "seven years"   output  below  trend,  third
+602
+
+ I—ESTIMATED TRANSFER FUNCTION  EXPECTED PRICES
+SEPTEMBER 1977
+(Estimates  Equation (12)) Residual Sum  Squares (RSSy, Degrees  Freedom {DF)\ Balance Estimate Dummy RSS/DF\    Adj. ^ Constant Wages Trade
+Model
+Estimates   AR  MA parts
+(0
+Argentina 1956-1-1973-11 ),_,: 0.492/(1  .O4iL -1- 0.785L-) 0.122293 (0.129) (0.082) (0.087) ., 59 Ut: 1/(1  0.402Z.  0.252/.^) 0.00207 (0.133) (0.130) .47 Dm^_^: (0.693  .317i.)/(   .   2  .  0.719L^) (0.166) (0.221) (0.135) (0.102)  1/(1  0 . 3 7 6   0.271/.^) (0.135) (0.131) ),_|: 0.613/(1  .009Z. 0.741/,^) (0.146) (0.099) (0.098) : 1/(1  0.436t) (.i24) 0.117639 57 0.00206 .48 0.116154 59 0.00197 .49
+-0.006 (0.094)
+0.011 (0.012)
+(2)
+'0.060 (0.104)
+0.011 (0.013)
+(3)
+-0.0?2 (0.091)
+0.006 (0.009)
+0.044 -0.004 (0.081) (0.001)
+(1)
+Dm, ,: 0.188/(1  0.723L) (0.174) (0.122) ,: 1/(1  0.52OL) (0.116)
+Brazil 195M-1971-IV 0.066609 60 0.00)11 .46 0.065183 59
+-0.009 (0.077)
+0.016 (0.024)
+(2)
+Dm^  : 0.199/(1  1.388Z--H 0.556/.^) (0.578) (0.099) (0.662) ,: 1/(1  .5O8L) (0.116)
+-0.012 (0.078)
+0.013 (0.023)
+.oono
+.46
+Notes:  IMF   main source  monetary, price,  industrial production data.  Brazil, real output  obtained  Goncalves.  terms AR  MA represent  autoregressive  moving average parts, respectively,   rational polynomials. Large sample standard errors   parameters  beneath   parentheses.
+ data  Brazil  obtained   sources: International Einancial Statistics (IES)  Goncalves.   IFS  obtained  series  wholesale prices (excluding coffee)  currency  demand deposits.  Goncalves  obtained series  quarterly real output.   obperiod  output  above  trend. detailed exptanation  some institutional aspects  coutd explain  dilTerence   trend  reat output above mentioned   found   author, . 3639.
+servations relate  period 1955-1  1971-IV ( period  chosen  order  base  analysis   maximum number  observations available  real output).  data  seasonally adjusted   method  moving averages.   variables  expressed   difference /ogj prior  estimation except  balance  trade.  variable  computed   log  exports minus  log  imports    impossibility  taking log  negative number   ease  trade deficits.
+. 67 . 4
+FERNANDEZ: OUTPUT  PRICES
+603
+. Estimates   Transfer Function  Expected Prices   1  estimates obtained  equation (12),  presented.    expression  determines expected prices.**  models   selected  larger number  models  different lag structures  different error terms.  selection   carried  using  likelihood ratio test proposed  Arnold Zellner  Franz Palm. Models ()  (2)  Argentina assume   money supply follows process  represented  equation (9),  model (3) considers  assumption implied  (10).  model (3)   computed  transfer function  wages  balance  trade  input variables.  see   1    case bf Argentina   slight reduction   residual variance {RSS/DF)  small increase   adjusted ^  passing  model (1)  (2)  model ;3).'"   bottom     present  results obtained  Brazil  insignificant reduction   residual variance  observed      simple lag structure  model (1)   more complex lag structure  model (2). . Estimates   Reduced Form  Prices  2 shows  estimates   transfer functions  prices ( , equation (13)).  again,  Argentina models, ()  (2) incorporate assumption (9)  
+'    column headed "dummy" corresponds   constant   equation (12).  dummy appears   empirical results  Argeniinii   constam   term   slope coefficient   trend line  output.   splil  data inio Iwo periods, wilh dltferenl slope coefficient   period, dummy  value    1956-1  1962-IV    1963-1  1973-11  incorporated   transfer functions takes  accouni  correction  degrees  trend. '" adjusted ^ reported   labtes  transfer functions takes  account  correction  degrees  freedom.  .   
+money supply  model (3) incorporates assumption (10).   Tables   2  coefficient   Balance  Trade variable  significantly different  zero   5 percent level.    2   Balance  Trade variable  estimated coefficient   positive sign   theory predicts.   case  Brazil  observe again   appreciable reduction   residual variance  obtained  going   simple lag structure  model ()   more complex lag structure  model (2).   Tables   2  estimates   variables /Jyc-i  dummy  constant  small numbers,  significantly different  zero.     contrast   theoretical model   parameters  indeed  close  zero (see equation ( 1"), . Estimates   Aggregate Supply Recall    provides  estimates  equation (12)   turn allow us  obtain series  "expected prices" needed  estimate equation ()   original model.   same token, equation (13) whose estimates  given   2 provides us  series  "actual prices"  estimate equation (1). Then  next step   compute one-step ahead forecast  (12)   give us proxy variable  ,/?,*_i; similarly one-step ahead forecast  (13)  give us proxy /?,.  difference   proxy /?,   proxy ,*_i  introduced  equation (1)  place  (/),  ,/7*_i),   estimation   equation provides us  estimate   slope coefficient   shortrun Phillips equation.  3 shows  results obtained   procedure  indicates  different models used  forecasting prices  reduced forms used  prices.  testing  significance   Phillips parameter  Argentina using two-tailed test  notice    5 percent level  regression (5) shows estimate significantly different  zero. Using one-tailed test ( alternative hypothesis    parameter  greater  zero).
+6i)4
+ AMERICAN
+ECONOMIC
+REVIEW
+SEPTEMBER
+1977
+ 2— ESTIMATED TRANSFER FUNCTIONS  PRICES
+(Eslimates  Equation (13)) Residual Sum  Squares (RSS): Degrees  Freedom
+(DF): RSS/DF.
+Model Estimates   AR  MA parts Adj. R2 Argenlina 1956-I-1973-II : 0.422/(1  1.216/. + 0.773/.^) 0.125758 (0.112) (0.102) (0.103) 59 1/(1  0.400/,  .2I6Z,^) 0.00213 (0.133) 1(0.132) .45 (0.224 + 0.346Z.)/(  1.O73L + 0.763/,^) (0.160) (0.202) (0.104) (0.091) 1/(1 .365Z.  0.280/.^) (0.135) (0.132) 0.116639 57 0.00205
+Estimate Dummy Balance    Constant Wages Trade
+(1)
+0.049 (0.095)
+0.004 (0.012)
+(2) ,:
+0.030 (0.103)
+0.004 (0.012)
+(3)
+Dm,: (0.207 -1- ,435Z.)/(1  1.054/. + 0.749/.^) (0.180) (0.229) (0.116) (0.098) 1/(1 -0.438/.) ,: (0.124) Dm,: 0.212/(1 -0.716/.) (0.117) (0.155) 1/(1  0 . 5    ) (. 13) 0.! 19/(1  1.389 + 0.546 .^) (0.190) (0.630) (0.611) 1/(1 -0.498Z.) (0.115)
+0.113562 57 0.00199 .49
+0.010 -0.003 0.018 0.003 (0.095) (0.010) (0.084) (0.001)
+(1)
+Brazil 1955-1-I971-IV 0.064908 61 0.00106 .47 0.064130 60 0.00107 .47
+-0.004 (0.049)
+0.010 (0.023)
+(2)
+Dm,: «,:
+-0.005 (0.076)
+0.008 (0.022)
+Notes: See  1.
+estimates  regressions (3). (4),  (5) provide evidence  rejecting  null hypothesis   5 percent level  significance.    cases  Box  Pierce ^-statistic   favor  rejecting  hypothesis  autocorrelation  residuals."   convenient   stage  take closer look   estimates   3. Recall   estimate  parameter  
+"    ^-statistic  calculated     autocorrelations /" (: = 1 , 2 , . . , . ).   fitted model  appropriate.
+estimate   slope   Phillips curve.  results  Argentina indicate    some evidence  favor  shortrun tradeoff  inflation  output given   95 percent eonHdence intervals   estimates  regressions (3), (4),  (5).   (-0.089, 0.991). (0.0. 1.384).  (0.001. 2,268). respectively.   short-run tradeoff    found
+ approximately distributed  ^ ^    ?)•   model  wrong  value     inflated.   case   3.  =  = 0     autoregressive  moving average parameters   noise model.
+rl
+67 . 4
+FERNANDEZ: OUTPUT  PRICES
+ 3—ESTIMATES   AGGREGATE SUPPLY EQUATION
+60S
+(Estimates  Equation ()) Model  Reduced Form Model  Expected Prices
+
+Adjusted R2
+Statistics
+
+(1) /2 (2) /2 (3) /| (4) / (5) /3
+™2
+Ml
+\ M2
+Mj
+Argentina 1956-1-1973-11 0.877 0.564 (0.594) (0.102) 0.647 0.574 (0.578) (0.102) 0.401 0.575 (0.295) (0.102) 0.692 0.569 (0.346) (.lOl) 1.140 0.778 (0.564) (0.102) Brazil 1955-1-1971-IV -0.272 0.664 (0.919) (0.095) -0.492 0.660 (0.750) (0.095) 0.842 0.657 (1.328) (0.095) -0.140 0.665 (1.390) (0.095) 0.168 0.634 (0.178) (0.099) 0.153 0.638 (0.172) (0.099) ' (24) = 33.2 (24) = 36.4
+.35 .34 .35 .36 .35
+15.3 16.5 15.7 14.2 15.1
+(1) /, (2) /| (3) /2 (4) /2 (5) Actual Prices (6) Actual Prices
+ Ml  /2 /| /2
+.430
+15.1 16.0 14.5
+.433 ,433
+^ ' . ' '
+14.9 15.8 15.5
+.437
+.436
+0.10 level  significance 0.05 level  significance  IMF   main source  industrial production data  Argentina  Goncalves  Brazil. Standard errors   parameters   parentheses.  models used  represent prices  expected prices  symbolized      leiter /  subindex. , /2    column means  model (2)   2   used  represent actual prices   aggregate supply equation.
+Note: Chi-Square values  :
+  contradict  natural rate hypothesis  Milton Friedman.  equation (1) indicates,  prices  anticipated correctly, output  remain   long-run trend ( "natural" level).   case  Brazil  notice   equations (), (2),  (4)  estimate   negative although  significantly different  zero   0.05 level  twotailed test. Model (3) presents  right sign,   estimate  large standard error  makes   significantly different  zero.    cases  value   ^-statistics favor rejection   hypothesis  autocorrelation   residuals.  order  compare  results 
+ results obtained  Brazil  Goncalves,  estimated  last  models   3,   actual prices  included instead   forecast   reduced form  prices. Goncalves did similar estimation under  assumption   price level  exogenously determined (mainly due  strongly enforced price controls     period  analysis). worked   period 1959-69  used another hypothesis  expectations formation.  results provide estimate  equal  0.41 (standard errors   reported   work).  dummy variable   period 196I-I  1963-11  included  capture  effect  price controls,  results shows equal  0.27. 
+606
+
+SEPTEMBER 1977
+  noted   last result, obtained  Goncalves,  quite close   estimates  models (5)  (6)   3.   results  Brazil   conclude   empirical evidence argues against stable tradeoff  output  inflation even   short run.'^
+. Estimates   Transfer Function  Nominal Income   proceed   estimation  equation (3)   original model. Recall    equation   using nominal income   dependent variable   real income elasticity   demand  money  assumed equal  ;    using  dependent variable  term  + iy  /   real income elasticity    cases     assumed  / ^ 1. ,   using one-step ahead forecast   rate  inflation  model (1)   1  proxy   nominal rate  interest.  estimates   transfer functions  presented   4.      shown    case  Argentina    greater  ,   degrees   polynomials estimated   error variance  higher   /  equal     .    explanation   except,  mentioned above, Dy,  
+noisy series   / becomes large  magnifies  noise   series  "nominal income."  last transfer function reported   4 includes second-order autoregressive process   error term  introduces appreciable reduction   error variance.   case  Brazil,   real income elasticity  relatively large (1  1.5),  adjusted ^',  low.  largest ^  obtained  / = 0.5   secondorder polynomial   disturbance term.    noted    estimate   parameter  assumed   zero    real income elasticity   demand  money  assumed   ,  system reduces  special formulation  Friedman' Theory  Nominal Income.    explained  follows:   assumed equal  zero, equation ()   longer  used  break down  changes  nominal income (obtained  equation (3))  prices  output.   system  explains nominal income.   ease, equation (12) determines  price expectations (still under  hypothesis  rational expectations)   dominate  changes   nominal rate  interest  equation (3). Recall   (12)  obtain " proxy Dr',   nominal rate  interest. . Conclusions
+'^  important  mention  interesting result obtained   work  Lucas (1973). found,  sample  18 countries  working  annual observations,  '" stable price country like  United States, then, policies  increase nominal income tend   large initial effect  real output, together  small, positive initial effect   rate  inflation.   apparent short-term tradeoff  favorable,  long   remains unused.  contrast,  volatile price country like Argentina, nominal income changes  associated  equal. contemporaneous price movements wilh  discernible effect  real output" (see Lucas, . 332-33).  results  Argentina  Brazil tend  confirm  finding   underlying theory  specify  favorable tradeoff  output  inflation depends upon "fooling" suppliers, thing  becomes hard     variance   demand shifts becomes large.
+ indicated   title   paper,   tried  explain  short-run dynamics  prices  output. indicator   degree    objective   achieved    part   variance  prices  output    explained   model.   words,   look   '"?, obtained   transfer functions  regressions.   case  Argentina,  /?^'  prices  nominal income   close  .50,   detrended output  ^'     order  .35.   case  Brazil  obtained ^' around .45  priees, .30  nominal income,  .43  detrended real income.
+ 67 . 4
+FERNANDEZ:
+OUTPUT 
+PRICES
+607
+ 4—ESTIMATED TRANSFER FUNCTIONS  NOMINAL INCOME
+(Estimates  Equation (3)) Residual Sum  Squares (RSS)\ Degrees  Freedom Model () (=.5) (2) Estimates     MA parts Argenlina 1956-1-^1973-11 Dm,: (.02I  0.264L + 1.283Z.2)/(1  1 739/.  0.596/.^) (0.269) (0.311) (0.247) (0.208) (0.234) 1,: (.4O6-O.I47Z.)/( (0.149) (0.182) (0.120)
+(DF); RSS/DF; Adj.^
+0.249863 56 0.00446 .27 0.140220 58 0.00242 .38 0.139771 58 0.00241 .38 0.121832 54 0.00225 .41
+Estimates  Drl 0.S6S (0.311) 0.504 (0,213) • 0.475 (0.215) 0.266 (0.216)
+(0.106) .
+(3) (/-0.5) (4) (1 = 0.5)
+Dm,: (0.424  0.130i.)/(  .436L + 0.737£^) (0.165) (0.212) (0.120) (0.106) Dm,: (0.442  .i41t)/(1  1.407i. + 0.' (0.194) (0.260) (0.176) (0.141) ^: 1/(1  0.276Z.  0.171/.^) (0.141) (0150)
+() (1=1.5) (2)
+1= 1)
+Brazil 1955-1-1971-IV Dm,: (0.212 + 0.103Z. + 0.348/.^)/(  0.383/1) (0.348) (0.526) (0.521) (0.422) , Dm,: (0.253  0.272Z. (0.255) (0.389) Dm,: (0.292  0.161L (0.184) (0.285) (0.359) (1  0.419Z.) (0.306) (1  0.466i) (0.213)
+0.377770 57 0.00593 .093 0.18268S
+-0.093 (0,516) ' 0.115 (0.380) 0.723 (0.375) 0.085 (0.350)
+57
+0.00320 .171 0.095822 57 0.00168 .293 0.086180 53 0.00162 .342
+(3) (  0.5) (4) (  0.5)
+(0.243)
+'
+Dm,: (0.197-  0.06IL + 0.221/:^)/.(1  0.613L) (0.182) (0.272) (0.251) (0.226) ,: 1/(1  0 . 2 2 3 / : (0.167) (0.169)
+Notes: See  1.
+ indicators   standard errors   estimates    values. Standard errors   reported   tables  Section 111.    estimates   parameters  significantly different  zero   0.05 level      indeed significantly different  zero   0.05 level  two-tailed test.  estimates  small  absolute value 
+ significantly different  zero—for example,   case   estimates  ^yc.(  ^   transfer functions  priees  expected prices.  findings   inconsistent   theoretical model.  mentioned above,  parameters ean  close  zero. Finally,    parameters   large standard errors;  particular  slope coefficient 
+608
+ AMERICAN
+ECONOMIC
+REVIEW
+SEPTEMBER 1977
+  0 0
+AC ,.
+0
+0   
+(.CTufl 
+1957-
+1973-1
+1956-
+1971-1
+FtGURE . ARGENTINA: ACTUAL RATE  FITTED VALUES   RATE  CHANGE  PRICES
+ 2. BRAZIL: ACTUAL  FITTED VALUES   RATE  CHANGE  PRICES
+ short-run Phillips curve, indicating   relationship  empirically unstable.  general  estimates lor Argentina  more precise   estimates obtained  Brazil.   countries better fits  obtained   rate  change  prices   detrended income.  good performance   model  explaining  rate  inflation   illustrated  plotting  actual  fitted values   reduced form  priees.   shown  Figures   2.  1 shows  case  Argentina.   observe   model behaves well  explaining inflation,     observations—one near  beginning   near  end   period —   observed rate  inflation differ substantially   fitted value.  2 illustrates  case  Brazil.    observe  good performance   model  explaining  large oscillations   rate  inflation.   few observations near  middle   period  actual values differ substantially   fitted values. Although  results seem   good relative    empirical studies working  highly noisy seasonally ad-
+justed quarterly series,  still   sure    really separated  true signal   noise.  ,  explaining  movements  output apart   longrun trend    used monetary shocks  impeded correct anticipation  prices,    sense people  surprised ( fooled)  short periods  time.  theoretical point  view    said   model makes use   relatively new aspects  macroeconomic theory.    hypothesis  rational expectations:     sort  Phillips equation playing  role   "missing equation" , according  Friedman, states  difference   quantity theory  money   Keynesian income-expenditure theory. REFERENCES George . . Box  . . Jenkins, Time Series Analysis Forecasting  Control, San Francisco 1970. . . Fernandez, "Short Run Dynamics  Output  Prices," unpublished doctoral dissertation, Univ. Chieago 1975.
+. 67 . 4
+FERNANDEZ:
+OUTPUT  PRICES
+609
+Milton Friedman, Theoretical Framework  Monetary Analysis, Occas. Paper 112, Nat. Bur. Econ. Res.. New York 1971. . . Goncalves, " Problem  Stopping Inflation," unpublished doctoral dissertation, Univ. Chicago 1974. . . Lucas, "Some International Evidence  Output Inflation Tradeoflfs," Amer. Econ. Rev., June 1973, 63, 326-34. .. Marquardt " Algorithm  LeastSquares Estimaiion  Nonlinear Parameters," . Soc. Ind.  Appl. Math., June 1963,2,431-41. . . Muth, "Rational Expectations   Theory  Price Movements," Econometricaju\ 1961,29,315-35. .Sargent,"Rational Expectations,  Real
+Rate  Interest,   Natural Rate  Unemployment," Brookings Papers, Washington 1973,2,429-80.  . Wallace, "Rational Expectations,  Optimal Monetary Instrument   Optimal Money Supply Rule," . Polit. Econ.. Apr. 1975, 83, 241-54. . Zellner,  . Palm, "Time Series Analysis  Simultaneous Equation Models," . Econometrics,  1974, 2, 17-54. International Monetary Fund. International Financial Statistics flFS) Washington, various years. Instituto Nacional de Estadistica  Censos, Boletin de Estadistica, Argentina, various years.
+Inflation Theories, Labor Economics: Theory  Empirical Studies Illustrating Theory 8210, Macroeconomic Theory--General 0230, Studies Illustrating Inflation Theories 1342
+ 

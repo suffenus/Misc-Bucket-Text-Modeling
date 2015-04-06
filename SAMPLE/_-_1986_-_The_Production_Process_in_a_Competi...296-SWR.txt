@@ -1,0 +1,87 @@
+ Production Process  'Competitive Economy: Comment 
+ EsKANDER ALVI*, .. 
+,   recent paper,   Review, Samuel Bowles (1985) argues  involuntary unem�ployment  competitive capitalist econ�omy  outcome   Marxian notion  "class conflict"   firm (capitalist)  workers.  purpose   comment    question  Marxian' framework,  simply  argue   model  examples  Bowles, tho,,!gh  interesting,     cogent way reflect class conflict. 
+Let  list  major points made  Bowles   context  competiiive capitalist economy: 1) involuntary unem�ployment, leading  "reserve army  . unemployed,"  reflection  class conflict; 2) capitalist technology   profit maxi�mizing  inefficient;  3) discrimination  identical workers   profit maxi�mizing.   focus primarily    observation    heart   paper.      deduced   . 
+. Involuntary Unemployment  Oass Conflict 
+Bowles constructs model  production  total labor input   product  hours  labor  effort  hour.  effort   directly observable, pos�tulates supervision   production pro�cess.  typical worker ( workers  identical     free-rider problem  workers)  fired  caught shirking. ,  effort response   worker depends   wage, probability  getting caught  shirking (specified   em�ployer),  alternative income/utility  unemployed. 
+ labor market equilibrium  emerges     unemployed worker  rather work   unemployed   cur�rent wage (..,  marginal product exceeds  worker' opportunity cost). Bowles claims 
+-Department  Economics, University  Arizona, Tucson, AZ 85721.  thank anonymous referee  helpful comments. 
+, ' 
+    outcome  class conflict�   capitalist   worker.  unemployment  indeed painful. ,  refl~  deadweight loss  society   informational structure rather  class conflict. Unfortunately, Bowles   say    information cost; except ' 
+' . 
+... ,cost  sqrveillance.   
+information cost   (  least 
+ peculiar ) ... employers know 
+exactly   work  worker, 
+  once  wage  level  
+surveillance  selected,     
+optimal  pay workers according  
+ amount  work done?  might. 
+[po 23, fn. 14] 
+ answer    negative.  output   observed  payment (    implicit assumption), then knowing  worker' ex ante optimal effort   automatically guarantee performance.  il�lustrate, imagine paying positive wage  unknown individual  mow  lawn right  leaving  work (zero supervi�sion).   expect  find  lawn mowed  returning  work?   context  long-run relationship,   obvi�ous  supervision requirements   reduced  tying future payments  present performance.    certainly   point  contention   Bowlcts argument.  general,   firm  workers  worse off, relative  complete information.   limit,     transaction   effort-conscious firm   effort-averse worker  one-period model without supervision unless  makes  ad hoc assumption  some minimum effort input  naturally guaranteed.2   take 
+1If anything,  long-term agreements  reduce  loss  incomplete information,   reduce  significance  Bowles' argument. 
+2With guaranteed minimum     poten�tial,   easy  show   allocations  strict 
+1200 
+Copyright � 2001  Rights Reserved 
+.
+~
+. 76 .5 ALVI: PRODUCTION PROCESS 
+  natural starting point  one-period 
+firm-worker relationship, then supervision 
+merely improves  allocation  resources, 
+albeit inefficiently relative  complete infor�
+mation. 
+Informational imperfections, particularly 
+asymmetric .formation, exist   sides 
+  market.   situations, incentive�
+compatibility  require unemployment, 
+incomplete insurance,  strikes, depending 
+  type  asymmetry.3  relevant 
+question , why don' firms  workers get 
+together  design perfect information 
+generating mechanism,     
+made better olf?  answer perhaps lies  
+ cost  generating  mechanism.  
+ costs  increasing  convex  de�
+sired mechanisms,   approximately 
+perfect qnes  prohibitively costly, then  
+society   content     
+perfect , equating marginal benefit (in�
+creased welfare  firms  workers via 
+reduced deadweight loss)  marginal cost 
+( cost  dc~signing  marginally better 
+mechanism). 
+�  next ~jection  directed  Bowles' attempt  rel ate  unemployment  weakening  workers' bargaining power.   possible  visualize simple bargaining model   firm   incentive  create excessive unemployment  induce workers  take lower wage.4  , how�ever,  examined   paper.  bargaining model    fair  include   firm'8 incentive  create excessive unemployment   workers' ability  
+subset   ()~tions under complete information. Clearly, supervisic,  desirable    increases  opportunities  trade   firm   worker. 
+3See Costas ~tariadis (1983), . . Chari (1983), Jerry Green  Charles Kahn (1983), Sanford Gross�man  Oliver Hart (1981; 1983),  Hart (1983)  discussion  firms having private information;   (1986a,), Russell Cooper (1983),  Carl Shapiro  Joseph Stiglitz (1984)  discussion  workers having prlvate information. 
+4~example  Martin Osborne (1984). 
+sIn  fairnes!.  Bowles,   admit   argument   central   conclusions. , discusses  issue:  relation   Marxian theory  capitalist economy. See . 25, particularly   paragraph. 
+collude  strike. ,   bear  mind  excessive unemployment   painful   firm (assumed competitive   product market)  coupled   threat  strike, creating excessive unemploy�ment     limited value   firm. Finally, long-term implicit contracts, enforced via reputation,  more meaning�ful  situations  bilateral monopoly,   circumvent  problem although,  general, imperfectly. 
+. Capitalist Technology, Discrimination 
+ submit    claims  inextricable part   deadweight loss  incomplete information. Bowles character�izes technology  inefficient   uses some inputs   supervision process  induce effort. Clearly   inefficient relative  complete information;  once  pos�tulate private information,  choice   technology   termed inefficient. 
+Similarly,  claim  made  dis�crimination  identical workers   profit maximizing. Correctly, Bowles points ,   context  longer time horizon,  existence  promotion ladders, " , more later" type  payment institu�tions  induce effort.   precisely  point ,  long-run context, future re�wards   conditioned  present perfor�mance,  reducing  burden  incom�plete information. Given  informational structure, ,   hardly  termed discrimlnation. 
+. Final Remarks 
+Bowles uses simple model  production under asymmetric information  inter�prets  non-market-clearing equilibrium  reflection  class conflict.   argued   unemployment  essentially due   informational structure. 
+ concluding  paper, Bowles makes distinction  neo-Hobbesian  Marxian models: " attitude towards work  , according   [Marxian] principle, simply manifestation  human nature [Hobbes],   part  result   social institutions    production 
+Copyright � 2001  Rights Reserved 
+ DECEMBER 1986 
+process takes place" (. 33).    argue  point.     able  char�acterize  social institution  elimi�nates  reduces,   own right,  burden  incomplete information. More important,  institution,  make sense   point  view  class conflict,       implemented  competitive capitalist economy, given  ownership structure. 
+  mind, convincing argument relat�ing unemployment  class conflict   able  show  involuntary unemployment  steady-state phenomenon  competi�tive capitalist economy (without assumed in�formation problems  externalities)  arises purely due  differences  ownership  capital  labor power. 
+REFERENCES 
+AIvi, Eskander, (1986a) "Efficiency-Wage 
+Contracts," Working Paper . 86-4, Uni�
+versity  Arizona, 1986. ___, (1986b) "Information Revelation  Principal-Agent Contracts," mimeo., University  Arizona, 1986. Azariadis, Costas, "Employment  Asym�
+metric Information," Quarterly Journal  
+Economics, Suppl. 1983, 98,157-72. Bowles, Samuel, " Production Process  Competitive Economy: W8Irasian, Neo-
+Hobbesian,  Marxian Models," Amer�ican Economic Review, March 1985, 75, 16-36. 
+Chari, . . "Involuntary Unemployment  Implicit Contracts," Quarterly Journal  Economics, Suppl. 1983, 98, 107-22. 
+Cooper, Russell, "Worker Asymmetric Infor�mation  Involuntary Unemployment," Cowles Foundation Discussion Paper . 671, July 1983. 
+Green, Jerry  Kahn, Charles ., "Wage�Employment Contracts," Quarterly Jour�nal  Economics, Suppl. 1983,98,173-88. 
+Grossman, Sanford .  Hart, Oliver ., "Im�plicit Contracts, Moral Hazard  Un�employment," American Economic Review Proceedings,  1981, 71,301-07. 
+___  ___, "Implicit Contracts un�der Asymmetric Information," Quarterly Journal  Economics, Suppl. 1983, 98, 123-56. 
+Hart, Oliver ., "Optimal Labor Contracts under Asymmetric Information: Intro�duction," Review  Economic Studies, January 1983, 50, 3-35. 
+Osborne, Martin, "Capitalist-Worker Conflict  Involuntary Unemployment," Review '  Economic Studies, January 1984, 51, 111-127. 
+Shapiro, Carl  Stiglitz, Joseph, "Equilibrium Unemployment  Worker Discipline Device," American Economic Review, June 1984, 74, 433-44. 
+Copyright � 2001  Rights Reserved 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

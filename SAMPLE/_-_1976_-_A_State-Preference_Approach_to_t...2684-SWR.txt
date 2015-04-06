@@ -1,0 +1,147 @@
+State-Preference Approach   Precautionary 
+Demand  Money 
+ . . CROPPER* 
+ attention   devoted   literature   transactions demand  money   asset demand  money.  precautionary motive  holding cash balances, ,  seldom analyzed. notable exception  . . Tsiang' inventory�theoretic analysis,  integrates pre�cautionary demand  inventory model   transactions demand  cash. Pre�cautionary demand , ,  ap�proached  problem  portfolio theory using state-preference approach,  John Hicks (1967) once suggested. 1  states  nature   case represent  times   investor ,  reasons beyond  control,   liquidate  portfolio.    uncertainty regarding future cash requirements, combined   fact  some assets  neither readily nor costlessly convertible  cash,  gives rise   precautionary demand  money. 
+Consider  situation  investor   allocating  wealth  assets  varying degrees  liquidity  maximize ex�pected utility  wealth   end   horizon.  investor believes  certain events (outside   control)  occur   force   liquidate  portfolio 
+* Assistant professor  economics, University  California, Riverside.  gratefully acknowledge helpful comments   anonymous referees. 
+     followed  model outlined  Hicks (1967, . 31-34).   model, illiquid asset    incurs high transactions cost, .., brokerage fees, whenever   traded, regardless   length  notice given   transaction takes place. ( use   term liquidity deviates somewhat   followed  Keynes  Tsiang.)  longer  investor' horizon,  more incentive    invest  illiquid assets  transactions costs  decline  percentage  asset yield   holding period  lengthened. Put somewhat differently, Hicks  saying    pay  invest  illiquid assets      held long enough  compensate   high transactions costs. Precautionary demand enters   planned date  realization  uncertain. 
+  end   horizon.  liquidation   called ,  portfolio   held until  end   horizon  then sold.    liquidation  actually  required   known until  time  cash  needed. ,   portfolio   sold   end   period,    sold  short notice.  means   investor   able  sell   liquid assets   discount,  size   dis�count varying inversely   length  notice given   asset  sold.  individual   incentive  hold liquid assets, say, cash,  reduce losses   possibly  incurred   suddenly liquidate  portfolio. Money held   purpose   labelled pre�cautionary cash balances. increase   probability   investor    liquidate  portfolio   near future  increase  demand. 
+ remainder   paper investigates  precautionary demand  money   framework outlined above. Using  con�cepts  liquidity,  derive conditions under  increase   probability  having  liquidate ' portfolio  short notice  increase  precautionary demand  money;  , conditions  obtained under  well-behaved precautionary demand  money,   above sense,   said  exist. 
+ Section   concept  liquidity  discussed  some length.  discussion  necessary  liquidity   formally incorporated  portfolio selection model.  formal model  presented  Section . 
+ 
+ liquid asset according  . . Keynes' definition     " ... more cer�tainly realizable  short notice without loss" (. 67).   usually interpreted  mean  illiquid assets    realiz�
+388 
+. 66 .3 CROPPER: DEMAND  MONEY 
+able  certainty      con�verted  cash  short notice,   loss.  size   loss incurred  assumed  vary inversely   length  notice given   asset  sold.    common interpretation   term liquidity (see Hicks, 1962; Tsiang); , little reflection indicates   interpretation   meaningful   market situations.  perfectly competitive capital market,  example,    obvious reason why  price   asset  sold  vary directly   length  notice given be�fore  asset  sold. Therefore,  liquidity  formally  incorporated  portfolio selection model, some further discussion  clearly required.  give  term more meaning,  shall discuss  sources  uncertainty  capital markets. 
+Uncertainty   portfolio selection models  uncertainty   state  nature  occur  some future time .2 Investors  assumed  know security prices contingent   state   world   time.  investor  uncertain exactly   state   world  ,  subjective probability distribution  asset prices. Once time   arrived, ,  state   world  known    single known asset price. (Capital markets  assumed   perfect   respects   knowledge   future.) 
+  above model  individual be�lieves   price   security  time   determined  forces external  ,  example, political conditions   United States,  world demand  steel, etc. Once  outcome   forces  known unique price  determined   security.  investor   reason  believe   price    tered    
+2  uncertainty  Markowitz-Tobin portfolio se�lection models  implicitly   state-of-nature va�riety.   models investors  probability dis�tributions  security prices  some time   future,    assumption independent  current prices.  distributions   regarded  having  derived  knowledge  state-contingent re�turns  probability distribution  states   number  states  infinite.    emphasized  state-of-nature uncertainty  exist even  capital markets  perfect,   sense   asset  single known equilibrium price. 
+sell  security  time .     reason  believe   investor' distri�bution  future asset price   affected   length  notice given  asset  sold.   reasoning,  "realizable  short notice without loss" aspect   term liquidity really   meaning  portfolio model   un�certainty    state-of-nature variety.  asset   more liquid  another   context     "more certainly realizable" regardless   length  notice given    sold. ,  standard portfolio selection models, "more liquid"   synonymous  " risky,"  perfectly liquid asset  necessarily  riskless asset. 
+Keynes' definition  liquidity  meaning�ful, ,  markets   investors  imperfectly informed  opportuni�ties  buy  sell securities.  markets   information  imperfect   usually  distribution  prices   security   time, rather  single equilibrium price.3   market in�vestor  subjective distribution  asset yield (price)   uncertain   actual price    sell security.  moments   subjective dis�tribution  generally depend   amount  price information  individual  obtain  sampling bids  prospective buyers. 
+Assuming  sampling takes time,  may� argue  investor     time  search  potential buyers,  example,   sell  assets  short notice,   likely   sell  assets  lower price  investor   time  acquire larger sample  bids. Reasoning   way,   inter�pret "realizable  short notice without loss"  mean  illiquid assets   sold  short notice   discount.  dis�count arises   individual    time  obtain more price information,    therefore vary inversely   length  notice given   asset  sold.  aspect  liquidity  usually re�
+  uncertainty  recent job-search models    variety. 
+ferred   marketability. 
+  model below   interested    price   illiquid (imperfectly marketable) asset  actually sold,    effect  having suddenly  liquidate  asset     investor' subjective distribution  asset yield.  ,  wish  know   belief  illiquid asset   sold  short notice  alter  investor' subjective probability distribu�tion  yield.  investor believes   increasing  size   sample  reduce  variability   distribution  increase  mean,  follows   subjective distribution   greater variability ( more precise definition  greater variability  given below)  lower mean   investor  sell  security  short notice    more time  sample potential buyers. 4   interpretation  liquidity  mind,  turn   formal model. 
+ 
+Assume  investor  divide  ini tial wealth  0   sec uri ties: money, perfectly liquid asset paying zero return  certainty,  illiquid asset,  return    random variable.    possible events    thought   states  nature  occur   end   investor' horizon.   event,   shall call state 1,   occurrence  some emergency  requires immediate cash payment.  state 1 occurs  investor  sell  portfolio  once. State 2   absence   emergency.  state 2 occurs  portfolio   held   end   horizon  then sold. 
+Money,    perfectly liquid asset, pays certain return ( zero)   states.5  return   illiquid asset 
+4   tricky point.  investor  making judgment   present,   sample  taken,    shape   subjective distribution     future,   sample   taken.  belief   sample  taken   variability   distribution   reduced  taking larger sam�ple corresponds    Bayesian terminology  re�ferred   preposterior analysis. 
+&  analysis   extended  little difficulty   case  money pays nonzero return  
+ r1  state 1  r2  state 2.   assumed   asset  illiquid    imper�fectly marketable.   distribution  rl   more variable    lower mean   distribution  r2,   investor      time  sample price information  state 1    state 2 occurs.6   further assumed  rl  r2  lie   interval [-1, 00).  implies   investor' wealth  never fall below 0. 7 
+ investor' objective   set ,  fraction   0 invested   illiquid asset,  maximize expected utility  wealth   time  portfolio  liquidated.   investor seeks  
+max {pE[(W1)] +(1 )[(W2)]}, 
+ 
+(1)  = Wo(1 + arl) 
+W2 = Wo(1 + ar2) 
+    subjective probability  state 1  occur  (1-p)   subjective probability attached  state 2.  inves�tor' utility function  assumed   identi�cal   states   obey 
+(2) ' > 0  " < 0 
+   interested   solu�tion   0<<1,  shall make  fol�lowing assumptions  guarantee interior solution  (1). 
+(3) 
+'() 00 
+(4) 
+(rl) > 0, ECrz) > 0 
+First-order  second-order conditions  maximum , respectively, 
+(5) pWoEhU'(W1(�] 
++ (1 )WOE[r2U'(W2(�] = 0 
+certain ty  reinterpreting    yield differential  liquid  illiquid assets.     sig�nificantly affect  results,  present   case   return  money  zero. 
+6   sources  uncertainty, .., state-of�nature uncertainty,  assumption   differ be�tween   states. 
+7   implies   limits  integration  equa�tions (6)  (7) below  independent  ; , differentiation  permissible   integral sign. 
+ 66 .3 CROPPER: DEMAND  MONEY da -WO{[rlU'(Wl())] [r2U'(W2())]}
+(7) 
+dp ~[~"(Wl())] + (1 )~[~"(W2())] 
+(6) ~[~"(Wl())] 
++ (1 )~[~"(W2())] < 0 
+  wish  see  increase  
+,  probability   investor  
+suddenly liquidate  portfolio,  increase 
+ demand  money.  ,  course, 
+equivalent  determining  daldp 
+  fact negative. Applying  implicit 
+function theorem  (5), implicit function 
+  , yields equation (7), shown above. 
+ denominator  (7)   negative   second-order condition  maximum, equation (6),  satisfied.  daldP~  [r2U'(W2) ]~[rlU'(Wl)].   make statements   sign   numerator  (7) under alternative assumptions   distribution functions Fl(rl)  F2(r2).  reasons elaborated   previous sec�tion,  argue  F2(r2) ,  distribution function   yield   illiquid asset  state 2,   higher mean  lower variability  Fl(rl). 
+ consider   case  r2=rl+, >,    every possible value  rl   corresponding value  r2   greater      same probability occurrence.  implies  Fl(rl)  F2(r2)  identical distributions,    mean  F2(r2)  greater   mean  Fl(rl).   case  sign  daldp depends    gain  utility  investing additional dollar   illiquid asset, rU'[Wo(1+ar)],  increasing  de�creasing  . 
+  assumption  r2=rl+  fol�lows  
+(8)  rl '[Wo(1 + arl)]dFl(rl) 
+~ r2U'[Wo(1 + ar2)]dF2(r2) 
+ 
+ <
+(9) 
+{rU'[Wo(1 + ar)]} -� 
+ > 
+ equation (7)  know   sign   inequality  (8) determines   fraction  initial wealth invested   illiquid asset increases  decreases   probability  having suddenly  liquidate  portfolio increases. , as�suming   illiquid asset  lower ex�pected return   portfolio   sold  short notice,  proportion  W0 invested   asset  increase  olor Ir '() } <0   decrease  aIor Ir '() } >.  , increase   probability  having suddenly  liqui�date  portfolio  cause investor  put smaller proportion   wealth    liquid asset   increase  pre�cautionary demand  money, provided 
+ 
+(10) {rU'[Wo(1 + ar)]} > � 
+ 
+  easily shown  (10)  equivalent  ' +WoarU" >.  condition  more meaningfully  stated  terms   relative risk-aversion index  =  " '.  
+(11)  {rU'[Wo(1 + )]} = 
+ 
+ necessary  sufficient condition   right-hand side  (11)   positive    <(1 +ar)Iar.  argue     fact likely    case.   fraction  ,  single-period rate  return   risky asset,  presumably  fraction,    likely  >  (1+ar)lar>2.  sufficient condition  increase    reduce  demand   illiquid asset   increase  demand  precautionary cash balances   ,  relative risk�aversion index,    .  litera�ture   theory  risk aversion suggests   condition  indeed likely   satisfied.8    utility functions increase   probability  having  liqui�date ' portfolio  short notice  increase  precautionary demand  money  liquidity  defined  terms  differences   means  F1(r1)  F2(r2). 
+Let us  consider different interpre�tation   term liquidity. Above   assumed    mean   subjec�tive probability distribution  affected  forced sale   portfolio.   assume   distribution  r2   same mean   distribution  rl,   variability.   justified ori  grounds  obtaining larger sample   ex�pected  reduce  dispersion   dis�tribution  . 
+Variability   defined   manner suggested  Michael Rothschild  Joseph Stiglitz (1970), viz., 
+(12) r1 = r2 + 
+ 
+ (ZIr2) = .    read "r1   same distribution  r2 plus noise." Using  definition  variability   apply  following theorem (. 237-38)  make statements   sign   numerator  equation (7). 
+THEOREM (Rothschild  Stiglitz):  following statements  equivalent: 
+(13)  = +, (zlx) = 0 
+ 
+(14) EU() ~ EU(), " < 0 
+ Rothschild  Stiglitz suggest (. 67),  theorem   applied  problems  expected utility maximization   agent seeks  
+(15) maax  (, )dF() 
+8 Arrow (ch. 3)  example argues       neighborhood  .  argument  based   fact   ()  bounded  below, then   approach limit above    approaches 0,   ()  bounded  above,   ap�proach limit below    approaches infinity.   Arrow concludes  It��� broadly speaking,  relative risk aversion  hover around 1, ,  anything, somewhat   low wealths  somewhat higher  high wealths" (. 98). 
+ optimal  satisfy 
+ 
+dU( )dF() 
+(16) 'da = EUa(, ) = 0 
+ Ua  monotone decreasing    Ua(, )  concave function  , then increase  riskiness   sense  (13)    theorem stated above imply 
+(17) EUa(, ) ~ EUa(, ) 
+ order  apply  result   present case,   see under  conditions () =rU' [Wo(1+ar)]  concave  . ( ()  decreasing function   implied  equation (2).)   utility functions   ()  concave,    true  (12)  (17)  [r2U'(W2)]~EhU'(W1)]'    utility functions  imply () concave, da/dp<,  well-behaved ,precautionary demand  money   
+said  exist. 
+ necessary  sufficient condition  
+() concave  
+(18) gl()=aWo(aWorU"'+2U") 
+=aWo[(W-Wo)"'+2U"] <0 
+Following Rothschild  Stiglitz,  term  brackets   written  terms   expressions  relative  absolute risk aversion, yielding 
+(19) "() = aWo["(1  +WoA) 
++ '(WoA' ')] < 0 
+  =  "/ ' denotes relative risk aversion  = "/ ' denotes absolute risk aversion. Equation (19) along  previous assumptions implies  suffi�cient condition  () concave    investor' utility function exhibit non in�creasing absolute risk aversion, nondecreas�ing relative risk aversion,  relative risk-aversion index   1+ oA. 
+Arrow (ch. 3)  convincingly argued  nondecreasing relative  non increasing absolute risk aversion  reasonable condi�tions  impose   utility function.  absolute risk aversion  decreasing, inves�tors  willing  risk larger amounts   wealth increases, prediction  
+. 66 .3 CROPPER: DEMAND  MONEY 
+agrees  casual obser:vati?..Nonde�creasing relative risk aversIOn Imphes   wealth elasticity  demand  cash balances  greater   equal  .  Arrow notes (. 103),  prediction agrees  empirical findings  Milton Friedman, Richard Selden  others. 
+ condition      1+ oA   easily admit  intuitive inter�pretation; ,    shown  .~ condition  satisfied     utIhty functions   constant relative  con�stant absolute risk aversion classes. Utility functions  satisfy  property include  logarithmic utility function, () =log Wand  constant relative risk-aversion utility functions, () = (1-b)(l-b),   0<=R�1+ar)/ar.9    argued above  > (1+ar)/ar   likely   ~2. Therefore  constant re.la�tive risk-aversion utility functions    <2   likely satisfy  requiremen   < 1+WoA.  constant absolute risk-aversion utility function () = _e-bW , >0, satisfies  property  <1+ oA pro�vided < 1/arWo.1O   fraction    likely   fraction ,  condifion < 1/(arWo)   appear unduly re�strictive.  considerations suggest   large class  utility functions,  present framework leads  well-defined precautionary demand  money  liquidity  used   sense  " vari�ability." 
+ concluding, note   model developed above yields another implication  agrees  intuition. Assuming   utility function exhibits non decreasing relative risk aversion,    shown (see 
+9   logarithmic utility function, = 1  = W-I.  WoA = WOW-I.  condition  <1+ WoA  'always satisfied   assumption   never become negative.   utility function () = (1-b)(), +WoA = +bWoW-l.  desired prop�erty <+WoA  equivalent  <+bWoW-1  view   fact  =.   hold   </ (1-WOW-I),   equivalent  < (1 +ar)/ar  substitution   = (1 +ar)Wo. 
+10   case   constant absolute risk aversion utility function ()= -e-bW, =bW,  =.  condition <+WoA   equivalent  bW<+ bWo,  implies b�W-Wo). Using  fact   = (1 +ar)Wothis condition becomes < (arWo). 
+ Appendix)   proportion  initial wealth invested  liquid assets  pre�cautionary purposes  increase  wealth increases. 
+ 
+ purpose   paper  three-fold: 1)  indicate   precautionary de�mand  money   incorporated  portfolio selection model, albeit extremely simplified portfolio selection mode., using th. notion  states  nature; 2)  gIve POSSI�ble interpretation   term liquidity   context   model; 3)  determine precisely  restrictions   placed  investor' utility function  well�defined precautionary demand  money  exist. 
+  argued   market     distribution  prices   se�curity rather  single equilibrium price,   reasonable  assume  investor  perceive  distribution  prices    faced   more variable   sell  security  short notice    more time    sample potential buyers.     case,  inves�tor  under  assumptions made above  positive precautionary demand  money. Furthermore, increase   probability   portfolio     sold  short notice  increase  pro�portion   portfolio invested  liquid assets   investor  utility function ' exhibits nonincreasing absolute  nondecreasing relative risk aversion   relative risk-aversion index     1+WoA.    addition  shown   proportion  initial wealth invested  liquid assets  precautionary purposes  increase  wealth increases, provided   utility function exhibits nondecreas�ing relative risk aversion. 
+ApPENDJX 
+ purpose   Appendix   show   proportion  initial wealth invested  liquid assets  precautionary purposes  increase  wealth increases   in�vestor' utility function exhibits nondecreas�ing relative risk aversion.  demonstrate ,   sufficient  show  
+da 
+() '>=:::}<
+-dWo-
+Implicit differentiation   first-order condition  maximum (equation (5))  respect    0 yields equation (A2).  denominator  (A2)  negative   second-order condition  maximum  satisfied.  first-order condition  maximum implies     terms   numerator  (A2) equal zero.   establish ()   sufficient  show  
+(A3) ';::: =:::} pE[rIWIU"()] 
++ (1 )[r2W2U"()] ~ 0 
+  easily demonstrated following method  proof due  Arrow (. 120). 
+ relative risk aversion  nondecreasing then ();:::(Wo)  rl>  = =Wo(+arl).  definition ()=  "()/'(),  
+ same inequality  holds  rl~. Taking  expectation  (A4)  respect  rl, 
+() [rIWIU"() 
+~ (Wo)['()rd 
+ similar inequality holds  (W2)   
+(A6) pE[rIWIU"() 
++ (1 )[r2W2U"(W2)] 
+~ (Wo) {pE['(Wlh] 
++ (1 )['(W2)r2]) 
+  first-order condition  maximum implies   term  braces  zero;   right-hand side  (A6)   zero  (A3)   shown  hold. 
+REFERENCES 
+. . Arrow, Essays   Theory  Risk�Bearing, Chicago 1971. 
+. . Hicks, Critical Essays  Monetary Theory, Oxford 1967. 
+, "Liquidity," Econ. ., Dec. 1962, 72, 787-802. 
+. . Keynes, Treatise  Money, . , :.ondon 1950. 
+. Rothschild  . . Stiglitz, "Increasing Risk : Definition," . Econ. Theory, Sept. 1970,2, 225-43. 
+ , "Increasing Risk :  Economic Consequences," . Econ. Theory, Mar. 1971,3, 66-84. 
+. . Tsiang, " Precautionary Demand  Money: Inventory Theoretical Analysis," . Polito Econ., Jan.-Feb. 1969, 77, 99-117. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

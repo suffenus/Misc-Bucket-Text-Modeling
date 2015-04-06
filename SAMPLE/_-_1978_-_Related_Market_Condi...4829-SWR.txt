@@ -1,0 +1,62 @@
+Related Market Conditions  
+Interindustrial Mergers: Comment 
+ JOHN . HARING  DAVID . KASERMAN* 
+ recent issue   Review, . . Greenhut  . Ohta (hereafter G-O) claim   resurrected Mislaid Maxim   consider " ...   especially vital   period  energy shortage  attacks  big business" (. 267).  maxim   important benefits stem  vertical integration.  particular,  re�sults indicate  " ...  benefits stem�ming  vertical merger  successive monopolies dovetail   effects  hav�ing perfect competition   higher stage  production rather  monopoly" 
+(. 267). G-O express hope , given  identification   result   general�ity   proofs,  maxim   longer strike anyone  surprising. 
+Greenhut  Ohta deduce  theorems: 
+... ()  price charged   monopo�listic supplier  input   affected   market structure   market   final good,   perfectly com�petitive, monopolistic, etc.,  () merger  collusion   input supplier   final good producer brings  lower prices, greater output  sales,  greater profits   merged  colluding firms- welfare gain. [po 267J 
+Self-advertisement notwithstanding, G-O' "general" proofs depend critically upon restrictive set  assumptions.  failure  appreciate  importance  circum�scriptive nature   assumptions leads   infer sweeping policy prescriptions  none appear warranted. more thorough review   literature   revealed   maxim  question, ,  fact,  even  mislaid.   
+*Staff economists, Bureau  EconomIcs, Federal Trade Commission.  vIews expressed herein   intended     construed  repre�sentative  officIal CommIssIOn policy.  bene�fited  discussIOns  . DavId Qualls, John . Siegfned,  . . Scherer. 
+merely  consigned   long shelf   truths  recognized validity  limited relevance. 
+Conditions necessary   proof  Theorem  : 1)  final product inverse demand functions [ ( ) yield cor�respondents [( ) = ( ) + 'qJ    horizontal lengths    curves re�main  fixed proportion; 2)   final output  obtained  fixed-proportion production function;  3)   mo�nopolized intermediate product  subject  constant cost production. 
+  assumption (fixed-proportion downstream production)  necessary con�dition   input monopolist' average revenue function   obtained directly   final product inverse-demand function  competitively structured final good industry,    correspondent  monopolistic downstream industry.   well-known,  substitution possi�bilities  present,  derived demand  given input   general function  final output price, production parameters,   employment    factors. , unique mapping  final product de�mand  intermediate product demand  ,  general, exist.   shown  John Vernon  Daniel Graham, Richard 
+ Albert Rees, . 86, notes    long run,  constant costs  lInear demand curves,  elastICIty  denved demand   change  competItIve Industry becomes monopolIzed. Charles Mauflce  
+. . Ferguson   examined  effect  mo�nopoly upon derived demand.   long-run analy�SIS,  market structure term   dIfference   elasticity  marginal revenue   elastIcIty  margInal cost.  conclude   term  related   elasticIty  commodIty demand.    relatIOn  tenuous    stated explICItly  meanmgful economic terms. More recently. Terry Foran  analyzed  effect  monopoly upon de�rived demand under short-run Industry conditIOns. concludes   manner   market structure affects  elastIcIty  denved demand  speclfI~ input prIce levels   VIewed  empincal question. 
+225 
+Copyright � 2001  Rights Reserved 
+ MARCH 1978 
+Schmalensee, George Hay,  Frederick Warren-Boulton, substitutability   pro�duction   final good prevents  input monopolist  extracting full monopoly rents  provides incentive  forward integration  present under fixed propor�tions.  competitive downstream in�dustry,  welfare effects   integra�tion   determined priori,  depend upon  demand  production conditions   industry.  essence, for�ward integration   situation leads  increased efficiency  resource utilization   integrated firm.  increased efficiency , ,  partially  completely offset : ) increased distor�tions  input utilization  nonintegrated firms   profit-maximizing price   monopolized intermediate good  altered  reduction  derived demand   proportion  final output produced   integrated firm increases (Schmalensee);  ) final product price  output dis�tortions  derive   input monopo�list' acquisition  downstream monopoly power (Warren-Boulton).2 
+ necessity   third assumption (constant cost production   monopo�lized input)  easily  demonstrated  reproducing G-O'  1  input pro�duction subject  increasing marginal cost.  shown    , allowing  ( marginal cost   monopolized input)   increasing function   (valid under fixed proportions) results  divergence   profit-maximizing price   inter�mediate good  alternative downstream market structures.   graph,   ob�tain  competitive output market  P2  result  downstream monopoly,  refuting Theorem . 
+ regard  Theorem ,  crucial assumption ( mysteriously disappears  G-O turn   policy implications   results)   monopoly exists     successive stages  production,  
+2As noted  Warren-Boulton, . 796,  inde� terminacy   welfare effect  downstream monop�olization  suggested   theory    best    tantamount   acqUisition   monopoly  world  already suffers  exist� ing monopoly distortion. 
+' 
+ + ( ) 
+ () 
+ 
+  downstream monopolist exercises  monopsony power. Given  assump�tion, unambiguous gain  net social wel�fare   reaped  vertical control  through collusion  integration under gen�eral production  demand conditions. Wesley Liebeler refers   case   "repeated marginalization  successive mo�nopolies."   referred   Frederick Scherer    "myopic chain monop�oly,"   validity  proven  foot�note, . 243, under assumptions  constant costs, fixed proportions,  linear demand.  sources  demonstrate  result,   along  Liebeler  Scherer   cited  G-O, include Joseph Spengler, Eugene Singer,  Hay. 
+ introduction  monopsony power   part   downstream monopolist results   bilateral monopoly situation  renders input price indeterminate.3 ,  bilateral monopolists agree   
+3The existence  more   downstream mo�nopolIst,   required   bilateral monopoly situation    avoided, necessitates  selling  final output  multiple markets-either attributable  geographical dispersion  monopolists  single product,  employment   monopolized input   productIOn  more   final good.   case, vertical cooperation   difficult   informatIOn  control problems  emanate   diversity. See Oliver WillIamson. 
+������....��,�,���,����""opyngfif"� "2"OOl�AlrRrgnts��Resei'vea�������������������~'�~~-� .......................~�
+. 68 .1 HARING  KASERMAN' MERGERS 
+ price  quantity   intermediate good exchanged,  outcome   final product market   identical   ob�tained under integrated monopoly   maximization  joint profits  necessary   bargaining parties   remain   contract curve.4 Allocation   profits  then determined   contracted price   intermediate good. 
+ identical nature   welfare results  stem   integrated successive monopoly   bilateral monopoly cases  , ,  cause  Machlup  Taber' (nor others') reluctance  infer broad policy implications   succes�sive monopoly argument. Nor   hesitancy stem   lack  proven theorems   literature. Rather,  gen�eral unwillingness  draw  conclusions ( G-O mistake   purloining  important proposition) appears  reflect recognition   possibility  vertical integration might serve  solidify  ex�pand  monopoly power  provided  original catalyst  vertical control.5 
+4See . . Bowley, James Morgan, Wilham Fellner,  FrItz Machlup  Martha Taber. 
+5This possibility  noted  Alfred Marshall (see  quote  . 117  Machlup  Taber). similar potential tradeoff  short-run statLc efficLency  long-run competitive markets  noted  Kenneth Arrow, . 181,   incentive  integrate ver�tLcally derives  assumed asymmetry  informa�tion  upstream  downstream firms. 
+REFERENCES 
+. . Arrow, "Vertical Integration  Com�munication," Bell . Econ., Fall 1975, 6, 173-83. 
+. . Bowley, "Bilateral Monopoly," Econ. ., Dec. 1928,38,651-59. 
+. Fellner, "Prices  Wages Under Bi�lateral Monopoly," Quart. . Econ., Aug. 1947,61,503-09. 
+. . Foran, "Market Structure  Derived Demand," Economica, Feb. 1976, 43, 83--87. 
+. . Greenhut  . Ohta, "Related Market Conditions  Interindustrial Mergers," 
+Amer. Econ. Rev., June 1976,66,267-77. 
+. . Hay, " Economic Analysis  Verti�cal Integration," 1nd. Org. Rev., 1973, .3, 1, 188-98. 
+.. 
+Uebeler, "Toward Consumer' Anti�trust Law:  Federal Trade Commis�sion  Vertical Mergers   Cement Industry," UCLA Law Rev., June 1968, 15, 1153-202. 
+. 
+Machlup  . Taber, "Bilateral Monop�oly, Successive Monopoly,  Vertical Integration," Economica,  1960, 27, 101-17. 
+Alfred Marshall, Principles  Economics, London 1920. 
+. . Maurice  . . Ferguson, "Factor De�mand Elasticity Under Monopoly  Monopsony," Economica,  1973, 40, 180-86. 
+. . Morgan, "Bilateral Monopoly   Competitive Output," Quart. . Econ., Aug. 1949,63,371-91. 
+Albert Rees,  Economics  Trade Unions, Chicago 1962. 'rederick . Scherer, 1ndustrial Market Structure  Economic Performance, 
+Chicago 1970. 
+. Schmalensee, " Note   Theory  Vertical Integration," . Polito Econ., Mar./Apr. 1973,81,442-49. 
+Eugene . Singer, Antitrust Economics: Se�lected Legal Cases  Economic Models, 
+Englewood Cliffs 1968. 
+. . Spengler, "Vertical Integration  Antitrust Policy," . Polito Econ., Aug. 1950, 58, 347-52. 
+. . Vernon  . . Graham, "Profitability  Monopolization  Vertical Integra�tion," . Polito Econ., Sept./Oct. 1971, 79, 924-25. 
+. . Warren-Boulton, "Vertical Control  Variable Proportions," . Polito Econ., July/Aug. 1974,82,783-802. 
+. . Williamson, " Vertical Integration  Production: Market Failure Con�siderations," Amer. Econ. Rev. Proc.,  1971,61,112-23. 
+. . Wu, " Effects  Vertical Integra�tion  Price  Output," Western Econ. ., 1964, .2, 2,117-33. 
+Copyright � 2001  Rights Reserved 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 

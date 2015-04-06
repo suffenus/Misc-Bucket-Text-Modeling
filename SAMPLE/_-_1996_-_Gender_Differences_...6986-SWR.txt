@@ -1,0 +1,88 @@
+Gender Differences  Overeducation: 
+ Test   Theory  Differential Overqualification 
+ KIMMARIE McGOLDRICK  JOHN ROBST* 
+  little question  substantial labor�lationship   likelihood   market differences exist  men  overqualified  SMSA size  termed "dif�women.    researched difference ferential overqualification." Frank ( 1978)    male-female wage gap.  different Haim Ofek  Yesook Merrill (1994) pro�theories  used  explain why men earn more vide support   theory  differential  women.  possible reason  based  overqualification  finding   male�the limited geographic mobility  married female wage gap  greater  smaller SMSA'. women (Robert Frank, 1978). Family mobility   results  consistent    joint decision    needs   hus�existence  differential overqualification,  band  wife  balanced  maximize family   result   situations  well. welfare. Job-motivated relocations  generally Finns  small labor markets  use  mo�made  benefit  primary earner   family. nopsony power  keep wages down.2 Local de�This leads  constrained job search   mand shocks  found   major source  secondary earner,     search  wage variation  across   local labor job  limited geographic area.   hus�markets (Robert Topel, 1986).  large labor band  still  primary wage earner   markets  generally more diversified, de�families,  job search   wife  suffer. mand shock   substantial impact  Individuals   tied  certain area  immobile workers  small labor markets. �labeled "tied-stayers,"  secondary earners  reason  examining differential over�who move   benefit   family  la�qualification involves  assumption   beled "tied-movers" (Jacob Mincer, 1978).  more vacancies  large labor markets.  
+ wages  tied-stayer  tied-mover   little doubt  more vacancies exist     substantially lower   family large labor markets,    likely   lives   moves  large city. Ifa large labor more people searching , jobs  large labor market  more vacancies,  wife  lo�markets.   greater number  vacancies  cate wage offer near  maximum   offset   larger number  searchers,   find  nationwide job search. , unclear  women   more likely   tied-stayer  tied-mover  lower   overqualified  small labor markets. Instead wife' wage   family lives   moves   relying  wages  detennine  differential small community. small labor market  overqualification exists,  consider explicit reduce  likelihood   finding job  form   qualification based  education. utilizes  skills.  result   accept job     overqualified   . Overeducation   Estimation earn lower wage.   hypothesized re-of Required Schooling 
+ number  papers examine overeducation   labor market>'! person  considered 
+*Department  Economics, University  Richmond, Richmond, VA 23173,  Department  Economics, State University  New York, Binghamton, NY 13902, respectively.   indebted  Haim Ofek  suggesting  research topic   Solomon Polachek  helpful discussion. 2  example, John Landon  Robert Baird (1971) 
+ Several studies find  family migration increases  Charles Link  John Madden (1975) examine   earnings  husbands  reducing  wages  monopsony power. wives (see Solomon Polachek  Francis Horvath, 1977; 3 Greg Duncan  Saul Hoffman (1981), Russell Mincer, 1978). Rumberger (1987),  Richard Verdugo  Naomi 
+280 
+ 86 . 2 ECONOMIC BEHAVIOR   FAMILY 
+ overeducated   worker  more edu�cation   required     job. worker  undereducated ifhis   schooling    required   job. person whose education just meets  job require�ments  considered   adequately educated.  order  determine  worker  overeducated,  need  estimate  required schooling     job.  measures ofrequired schooling  used   literature.    based   reported estimates  survey respondents.  example,  1976, 
+'1978,  1985,  Panel Study  Income Dynamics (PSID) asked  worker "  formal schooling  required  get job like ?"  responses  job-specific,   subject  criticism due   subjec�tive ,nature. ,  question refers   education needed  get  job,  opposed   education required  perform  job.4 
+  measure  required schooling  based  expert estimates  general educa�tional development reported   Dictionary  Occupational Titles (DOT).  estimate  more objective    made  experts   field.     subject  criti�cism. Estimates  provided  scale  1  6,   years. Several conversions  years  used,  none  clearly supe�rior. , estimates  provided  occu�pations     jOb-speCific.  occupations contain wide variety ofjobs  
+   variety ofeducational require�ments.  DOT measure  required school�ing  classify someone  overeducated   person   good job  occupation. 
+ third measure estimates required schooling  one-standard-deviation range around  
+Verdugo (1989).  others. examine  wage effects  excess schooling. JoDi Hersch (1991) studies  ov�ereducation influences job satisfaction  quit intentions. Nachum Sicherman (1991) examines  relationship be�tween overeducation  actual worker mobility. 
+4 Hersch (1991)  uses survey data  measure re�quired schooling.   question asks " level  formal education   feel  actually needed  person    job.  just  hired?"   rep�resent improved measure  required schooling.   survey  limited  single labor market (Eugene. Oregon). 
+mean level  schooling  occupation ( measure  hereafter referred   "range").  measure   criticized   sub�jectivity.    logic behind  choice   standard deviation,   use results  estimated levels  overeducation far below    measures.    occupation�specific measure  required schooling    apply  specific jobs. Again, workers  good jobs  occupation   clas�sified  overeducated. 
+  measures  subject  criticism,   provided consistent results  used  analyze  wage effects  overeducation.  sought  determine  differential overqualification exists  examining over�education.  tested   measures  re�quired schooling  determine   results  consistent across measures.  dif�ferential overqualification exists, then  size   local labor market   important factor  determining  likelihood  mar�ried women  overeducated. 
+. Data  Results 
+ data used   study   1985 wave ofthe Panel Study  Income Dynamics.  sample  limited  married white males  females   ages  18  64.  exclude single workers   theory  differential overqualification   apply  mobile workers. Nonwhites  excluded  avoid  possible racial discrimination.  concentrate   1985 wave,      wave  allows us  use   ~asures  required schooling. Information  ,available  self-reported estimates  re�quired schooling. Self-reported estimates   available   1976  1978 waves. '!>wever, prior  1981,  PSID reports oc�cupations using  two-digit census codes, limiting  usefulness   DOT  range measures  required schooling. Occupations 
+'Sicherman (1991) suggests  some overeducation   voluntarY.  workers  accept jobs     overqualified  order  receive training  ex�perience needed  future jobs.   likely   greater opportunities   mobility  large labor markets. 
+ reported using three-digit census codes  1985, allowing DOT estimates  required schooling   added   data.  range measure requires calculation   mean  standard deviation  completed schooling   occupation.  PSID  small sample sizes   occupations;   use  1982 Current Population Survey (CPS).  CPS provides  larger sample  analyze schooling  occupation.  use  1982 CPS     last year  employ 1970 Census occupational codes  used   PSID. 
+Substantial differences  estimated over�education exist, depending   measure  required schooling.  DOT measure  re�quired schooling classifies  half   men  women  overeducated.  PSID measure classifies 31.5 percent  women  
+30.1 percent  men  overeducated.  range measure results   9.3 percent  women  15.8 percent  men  classi�fied  overeducated. 
+Results   multinomiallogit estimation   likelihood   overeducated  presented   1.6  results vary some�what depending   measure  required schooling. , consistent across   measures   finding   size ofthe local labor market  measured   county pop�ulation   significant impact   like�lihood  married women  overeducated.   results   support  existence  differential overqualification. 
+Several  results  interesting.  overall male-female differential depends   measure  required schooling.  PSID measure finds  women  more likely   overeducated;  , women require more schooling  order  get  same job  men. , women   likely   over�educated   range measure.  discussed above,   simply indicate  men   best jobs  occupation.  signif�icant difference  men  women  found  using  DOT measure  re�quired schooling.  size   local labor market   important factor  men.  
+6 Results   likelihood   undereducated  available   authors upon request. 
+TABLIl I-MULTINOMIAL LooIT RIlSULTS: 
+THIl LIKIlLIHooD  BIlING OVIlRIlDUCATIlD, 
+USING THRIlIl MIlASURIlS  RIlQUIRIlD SCHOOLING 
+Variable PSID Range OOT 
+Intercept -5.058* -25.097* -11.796* 
+(0.396) (1.265) (0.623) 
+Education 0.365* 1.812* 1.042* 
+(0.027) (0.091) (0.049) 
+Female 0.375* -0538* 0.139 
+(0.117) (0.210) (0.130) 
+County population 0.005 0.004 0.002 
+(0.005) (0.006) (0.005) 
+Female  population -0.007 -0.008 -0.010 
+(0.007) (0.011) (0.008) 
+Experience -0.006 -0.008 -0.021 
+(0.018) (0.036) (0.019) Experience squared 0.0001 -0.0004 0.0002 
+(0.0004) (0.0008) (0.0004) Training -0.116* 0.038 -0.078* 
+(0.025) (0.036) (0.026) 
+Union -0.282* 0.126 0554* 
+(0.116) (0.199) (0.130) 
+Kids 0.065 -0.098 0.028 
+(0.042) (0.077) (0.046) 
+Log-likelihood: -2,854.49 -2,189.04 -2,761.94 
+Percentage 
+predicted 
+correctly: 55.28 87.59 75.13 
+Number  
+observations: 3,023 3,192 3,192 
+Notes:  data    1985 wave   PSID.  dependent variable  log odds   overeducated. "PSID" indicates   PSID survey question  used   measure  required schooling. "OOT" indicates   Dictionary  Occupational Titles measure  re�quired schooling  used. "Range" indicates  required schooling  measured   standard deviation around  mean schooling  occupation. Derivatives   calculated  (3i(;)( ,) (3i(,)(,),     proportion  workers   overeducated     tproportion  workers   undereducated. One�digit occupational dummies   included. Standard errors  reported  parentheses. 
+* Statistically significant   5-percent level. 
+result  consistent   idea   job search  men  involve large geographic area.  results  largely consistent  previous studies. Workers  greater re�quired on-the-job training   likely   overeducated,    greater edu-
+ 86 . 2 ECONOMIC BEHAVIOR   FAMILY 
+  more likely   overeducated.7 Mixed results  found  union status,   number  children     sig�nificant impact   likelihood   overeducated. 
+ substantial number  specifications  tested using various combinations   vari�ables.  addition, years  tenure, income,  county unemployment rate,  dummy vari�ables denoting region   country  added   specification. Population squared  interaction  population squared  gen�der  added   specification. Nonwhites ~ added   sample.  models  reestimated using categorical SMSA size vari�able provided   PSID  place  county population.   cases,  results  consis�tent   reported above. 
+ average,  men  women  ex�cess skills:  average level  schooling  greater   average required schooling   men  women. ,  excess supply  skills   greater  small labor markets.   theory  differential over�qualification applies more  skilled workers,  examined subsample  women   least some college. Interestingly,  differ�entials  average required schooling  average compreted schooling  virtually identical  women living  SMSA'  non-SMSA'. Using  self-reported measure  required schooling,  average worker  
+1.3 years  excess schooling  SMSA'  
+1.2 years  non-SMSA'. Similar results  found   DOT  range measures  required schooling.   compared county unemployment rates   subsample.  average county unemployment rate  women living  SMSA'  6.5 percent,   av�erage  6.1 percent  women living  noo�SMSA'.  findings  consistent   idea    sufficient searchers  large labor markets  offset  larger number ofjob vacancies.   performed some pre�
+1  required-training variable indicates  time  takes   average person  become fully qualified     job. 
+8 Consistent  previous studies, job tenure  in�come  negative impact   likelihood   overeducated  added   specification. 
+lirninary wotk involving  composition   work force  local labor markets.   percentage   work force  white-collar jobs   county  in�cluded   logit estimation, significant negative relationship  found  per�centage white collar   likelihood  be�ing overeducated  workers  non-SMSA'.  percentage white-collar  approximately 5 percent   SMSA'  non-SMSA'. Again  indicates  women    greater difficulty finding job  utilizes  skills  small labor markets.  size   local labor market    important   jobs  exist   local labor market. 
+. Conclusion 
+ study  examined gender differences  overeducation.  particular  sought  determine  differential overqualification exists  men  women depending   size   local labor market. According   theory  differential overqualification,  women  limited   job search   size   labor market, then   see sig�nificant relationship  population size   likelihood  women  overeducated.  found   differential   study.ln�stead  appears  larger number  vacancies  large labor markets  offset  larger num�ber  job searchers. 
+Further research  concentrate   areas.    measures  required school�ing employed   paper  subject  various forms  criticism. Efforts  provide objec�tive measure  required schooling    provide job-specific estimates   especially worthwhile. ,  theory  differential overqualification deals   total qualifica�tions  worker,   concentrated solely  education.    useful  attempt  mea�sure  total qualifications  workers  job requirements  jobs. 
+REFERENCES 
+Duncan, Greg .  Hoffman, Saul. " Inci�dence  Wage Effects  Overeduca�tion." Economics  Education Review, Winter 1981, 1(1), . 75-86. 
+Frank, Robert. "Why Women Earn :  Theory  Estimation ofDifferential Over�qualification." American Economic Review, June 1978,68(3), . 360-73. 
+Hersch, Joni. "Education Match  Job Match." Review  Economics  Statis�tics, February 1991, 73(1), . 140-44. 
+Landon, John  Baird, Robert. "Monopsony   Market  Public School Teachers." _American Economic Review, December 1971, 61(5), . 966-71. 
+Link, Charles  Madden, John. "Monop�sony  Union Power   Market  Nurses." Southern Economic Journal, De�cember 1975,41(4), . 649-59. 
+Mincer, Jacob. "Family Migration Decisions." Journal  Political Economy, October 1978, 86(5), . 749-73. 
+Ofek, Bairn  Merrill, Yesook. "Labor Immo�bility   Formation  Gender Wage Gaps  Local Labor Markets." Mimeo, State University  New York, Binghamton, 1994. 
+Polachek, Solomon  Horvath, Francis. " Life Cycle Approach  Migration,"  . Ehrenberg, ., Research  labor econom�ics, . 1. Greenwich, : JAI Press, 1977, .103-50. 
+Rumberger, Russell . " Impact  Surplus Schooling  Productivity  Earnings." Journal ofHuman Resources, Winter 1987, 22(1), . 1-50. 
+Sicherman, Nachum. "Overeducation   La�bor Market." Journal oflAbor Economics, April 1991,9(2),. 101-22. 
+Topel, Robert. "Local Labor Markets." Jour�nal ofPolitical Economy, June 1986, 94(3), .SI11-43. _ 
+.. Department  Labor. Dictionary  occu�pational titles, 4th . Washington, DC: 
+.. Government Printing Office, 1977. 
+Verdugo, Richard .  Verdugo, Naomi . " Impact  Surplus Schooling  Earn�ings." Journal  Human Resources, Fall 1989,24(4), . 629-43. 
+Copyright  American Economic Review   property  American Economic Association   content    copied  emailed  multiple sites  posted  listserv without  copyright holder' express written permission. , users  print, download,  email articles  individual use. 
+ 
